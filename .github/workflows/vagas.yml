@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       min_score:
-        description: "Score mínimo (0-100)"
+        description: "Aderência mínima estimada (0-100)"
         required: false
         default: "35"
       max_jobs:
@@ -42,7 +42,7 @@ jobs:
           python-version: "3.12"
 
       - name: Validar sintaxe
-        run: python -m py_compile src/pipeline.py
+        run: python -m py_compile src/pipeline.py src/scoring_v2.py src/pipeline_v2.py
 
       - name: Executar testes
         run: python -m unittest discover -s tests -v
@@ -53,7 +53,7 @@ jobs:
           MAX_JOBS: ${{ github.event.inputs.max_jobs || '100' }}
           MAX_AGE_DAYS: "60"
           ONLY_REMOTE: "true"
-        run: python src/pipeline.py
+        run: python src/pipeline_v2.py
 
       - name: Validar resultados
         run: |
@@ -67,6 +67,7 @@ jobs:
           assert isinstance(data.get("jobs"), list), "jobs ausente"
           assert data.get("count") == len(data["jobs"]), "count divergente"
           assert all(j.get("url") and j.get("title") for j in data["jobs"]), "vaga sem título/URL"
+          assert all(0 <= int(j.get("score", -1)) <= 100 for j in data["jobs"]), "score fora de 0-100"
           print(f"Resultados validados: {data['count']} vagas")
           PY
 
