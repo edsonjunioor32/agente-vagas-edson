@@ -1,10 +1,15 @@
 {
-  "generated_at": "2026-08-14T12:00:11.112564-03:00",
+  "generated_at": "2026-08-14T14:22:12.441925-03:00",
   "count": 100,
   "enrichment": {
     "attempted": 40,
-    "enriched": 26,
-    "failed": 14
+    "enriched": 38,
+    "failed": 2,
+    "methods": {
+      "json-ld": 19,
+      "html-text": 7,
+      "inhire-api": 12
+    }
   },
   "jobs": [
     {
@@ -89,130 +94,6 @@
     },
     {
       "id": "",
-      "title": "A63360990582_Analista de Suporte e Operações Pleno (Remoto)",
-      "company": "ICON Solutions do Brasil",
-      "url": "https://iconit.inhire.app/vagas/b47d047d-7bea-47cc-abdc-b84ba9653658/a63360990582-analista-de-suporte-e-operacoes-pleno-remoto",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-07T12:57:53+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "PJ"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-07T09:57:53-03:00",
-      "coverage": 45,
-      "observed_fit": 100,
-      "fit_points": 45,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 86,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Global Support Engineer [mid-level]",
-      "company": "Segura®",
-      "url": "https://segura.inhire.app/vagas/8d639a65-9c51-4707-bb84-ca7e749ad463/global-support-engineer-mid-level",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-28T14:37:09+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-07-28T11:37:09-03:00",
-      "coverage": 45,
-      "observed_fit": 100,
-      "fit_points": 45,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 86,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de suporte Pleno",
-      "company": "DOT Group",
-      "url": "https://dotgroup.inhire.app/vagas/9665cbb0-7d8b-47c0-a976-3c087db019d7/analista-de-suporte-pleno",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-22T13:49:33+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-07-22T10:49:33-03:00",
-      "coverage": 45,
-      "observed_fit": 100,
-      "fit_points": 45,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 86,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
       "title": "Analista de Suporte à Aplicações N2",
       "company": "Matera",
       "url": "https://matera.inhire.app/vagas/fb593c1a-f1d3-4f37-8675-e300551cd2d2/analista-de-suporte-a-aplicacoes-n2",
@@ -223,7 +104,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-11T12:49:34+00:00",
-      "description": "",
+      "description": "Aqui na Matera , tecnologia conecta pessoas, transforma negócios e amplia possibilidades. Trabalhamos para tornar o acesso a serviços financeiros mais seguro, eficiente e democrático, desenvolvendo soluções que impactam milhões de pessoas todos os dias. Nosso time atua em projetos desafiadores, com tecnologia de ponta, autonomia e espaço para evoluir. Se você gosta de resolver problemas complexos, aprender constantemente e fazer parte de um time que constrói soluções relevantes para o mercado financeiro, vem com a gente. O seu papel no time: Esse time está em plena construção, atuando diretamente na revolução digital do Brasil e com sistemas com as tecnologias mais atuais do mercado, se reinventando para transformar a experiência de nossos clientes no mercado financeiro. Se você gosta de trabalhar com autonomia, tem paixão por tecnologia e trabalho em equipe, gosta de desafiar o status quo e possui perfil analítico para realizar análises (troubleshooting) e resolver problemas de média e alta complexidade técnica, essa é a vaga perfeita para você. Você fará parte da squad de sustentação, atuando diretamente com sistemas financeiros. Sua missão será garantir o funcionamento contínuo das soluções por meio de: suporte técnico a incidentes, análise e resolução de problemas (troubleshooting); operações assistidas e participação em reuniões de acompanhamento com clientes. Para se juntar ao nosso time você precisa ter: Superior completo em áreas de Tecnologia; Experiência com suporte técnico e atendimento a clientes B2B; Vivência no uso de banco de dados Oracle ou MySQL , incluindo criação, edição e análise de scripts; Experiência com leitura de código PL/SQL Capacidade de leitura e compreensão de código Java Forte capacidade analítica e experiência sólida em troubleshooting Boa habilidade de comunicação; Disponibilidade total para trabalhar no 2 º turno (noite: das 17:00 à 01:30) e atuar em escala de plantão/sobreaviso de acordo com o cronograma da equipe. Seria muito legal se tivesse: Experiência com Mercado Financeiros; Conhecimento em KCS; Familiaridade com frameworks e boas práticas como ITIL; Familiaridade com APIs, Postman e Keycloak. O que você encontra por aqui: Cesta de benefícios flexíveis, você pode optar pelo que melhor se adequa com suas necessidades sendo possível escolher entre: Plano Odontológico, Flexfood (vale-refeição/vale alimentação), Transporte (mobilidade, vale transporte* e estacionamento*) e Auxílio creche (para crianças até 5 anos). E temos também: Plano de saúde nacional; Licença parental; PLR; Treinamento e capacitações (universidade corporativa, Voxy e Alura); Dayoff de aniversário; Programa de incentivo a saúde física (wellhub, meditação e ginástica laboral); Programa de incentivo a saúde mental; Seguro de vida; Kit boas-vindas; Estacionamento e vale transporte para vagas híbridas ou presenciais. #DeGenteParaGente: Esta vaga é aberta para todas as pessoas com ou sem deficiência. Encorajamos todas as pessoas com deficiência que se enquadram no perfil da vaga a se candidatarem. Estamos empenhados em proporcionar um ambiente de trabalho inclusivo e acessível, onde todas as pessoas tenham oportunidades iguais de atingir seu potencial máximo. A seleção será baseada em suas habilidades, qualificações e vivência. Responsável pelo processo: Gabriella Faria #LI-GF",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -233,25 +114,66 @@
       ],
       "seniority": "Não informado",
       "published_at_br": "2026-08-11T09:49:34-03:00",
-      "coverage": 43,
-      "observed_fit": 100,
-      "fit_points": 43,
-      "covered_points": 43,
+      "coverage": 90,
+      "observed_fit": 96,
+      "fit_points": 86,
+      "covered_points": 90,
       "score_method": "observed_evidence_v3",
-      "score": 86,
+      "score": 94,
       "reasons": [
         "função: 30/30",
-        "competências observadas: 8/8 (N2/L2)",
-        "segmento sem evidência suficiente — não penalizado",
+        "competências observadas: 36/40 (N2/L2, APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Sustentação)",
+        "segmento: 15/15 (financeiro/pagamentos)",
         "senioridade não informada — não penalizada",
         "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 43%"
+        "fit observado: 96% com ajuste de incerteza",
+        "cobertura da análise: 90%"
       ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 3338
+    },
+    {
+      "id": "",
+      "title": "A63360990582_Analista de Suporte e Operações Pleno (Remoto)",
+      "company": "ICON Solutions do Brasil",
+      "url": "https://iconit.inhire.app/vagas/b47d047d-7bea-47cc-abdc-b84ba9653658/a63360990582-analista-de-suporte-e-operacoes-pleno-remoto",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-07T12:57:53+00:00",
+      "description": "A63360990582_Analista de Suporte e Operações Pleno (Remoto) Você conhece a Icon? Apaixonados por pessoas e especialistas em tecnologia. Nosso trabalho é encontrar talentos e soluções sob medida para os nossos clientes. Vem encontrar o seu projeto ideal conosco e participar da comunidade ICON! Sobre a Vaga Código da vaga: A63360990582 Modelo de contratação: PJ Sobre a posição Estamos em busca de um(a) Analista de Suporte e Operações Pleno para atuar como principal ponto de contato entre nossos stakeholders e os times internos de tecnologia, garantindo uma experiência de excelência durante a utilização da plataforma. Este profissional será responsável por homologar parceiros na plataforma, prestar suporte técnico e funcional aos clientes, investigando incidentes, esclarecendo dúvidas operacionais e conduzindo análises que permitam identificar a causa raiz dos problemas, sempre acompanhando as tratativas até sua resolução. Buscamos uma pessoa com perfil analítico, excelente comunicação e forte capacidade de investigação, capaz de compreender profundamente as regras de negócio da aplicação, interpretar informações técnicas e atuar em parceria com as áreas de Desenvolvimento, Produto, QA, Infraestrutura e Operações para garantir a estabilidade da plataforma e a satisfação dos clientes. A posição exige experiência em atendimento técnico, análise de sistemas, consultas em banco de dados, integrações entre aplicações e investigação de incidentes. Principais Responsabilidades Realizar atendimento direto aos clientes, garantindo uma comunicação clara, cordial, objetiva e focada na resolução. Compreender profundamente as regras de negócio da plataforma, seus fluxos operacionais e o impacto de cada funcionalidade na experiência do cliente. Investigar incidentes, identificar causas raiz e conduzir análises técnicas para resolução de problemas. Realizar consultas em banco de dados (SQL) para validação de informações e apoio às investigações. Interpretar logs, mensagens de erro, respostas de APIs e evidências técnicas para diagnóstico de incidentes. Atuar em conjunto com os times de Desenvolvimento, Produto, QA, Infraestrutura e Operações para direcionamento e resolução das demandas. Monitorar chamados garantindo atendimento dentro dos SLAs estabelecidos. Acompanhar as tratativas até sua conclusão, mantendo comunicação contínua com os clientes. Orientar os usuários sobre a correta utilização da plataforma e suas funcionalidades. Registrar evidências, análises, diagnósticos e soluções nas ferramentas de atendimento. Identificar recorrências, oportunidades de melhoria e propor ações para aumento da estabilidade da aplicação e melhoria da experiência do cliente. Apoiar a construção e atualização da base de conhecimento e documentação operacional. Experiência Experiência comprovada em Suporte Técnico, Suporte de Sistemas ou Operações de Tecnologia. Vivência em atendimento ao cliente e gestão de incidentes. Experiência na investigação de problemas em aplicações corporativas. Experiência trabalhando em conjunto com equipes de Desenvolvimento e Produto. Vivência em plataformas com integrações entre múltiplos sistemas. Conhecimentos Técnicos Conhecimento em SQL para consultas e validação de dados. Conhecimento em bancos de dados relacionais. Entendimento de arquitetura básica de sistemas. Conhecimento sobre APIs REST e integrações entre sistemas. Capacidade de interpretar payloads JSON, logs, contratos de integração e respostas de serviços. Conhecimento em protocolos HTTP e códigos de retorno. Familiaridade com ferramentas de gestão de chamados (Jira Service Management, Zendesk, Freshdesk, ServiceNow ou similares). Conhecimento em ferramentas de monitoramento será considerado um diferencial (exemplo: Datadog). Competências Comportamentais Excelente comunicação verbal e escrita. Empatia e foco na experiência do cliente. Organização e capacidade de priorização. Forte capacidade analítica. Perfil investigativo e orientado à resolução de problemas. Pensamento crítico para identificação de causa raiz. Trabalho colaborativo com equipes multidisciplinares. Proatividade e senso de responsabilidade. Autonomia na condução das tratativas. Diferenciais Experiência em plataformas SaaS, Marketplace ou E-commerce. Vivência com ferramentas como Postman. Conhecimento em microsserviços. Experiência com ferramentas de observabilidade (Grafana, Kibana, Datadog, New Relic, Splunk ou similares). Conhecimento em metodologias ágeis (Scrum ou Kanban). Formação Ensino Superior completo em Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Engenharia de Software ou áreas correlatas. #vemserICON",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "PJ"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-07T09:57:53-03:00",
+      "coverage": 100,
+      "observed_fit": 87,
+      "fit_points": 87,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 87,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 4679
     },
     {
       "id": "",
@@ -329,133 +251,9 @@
         "fit observado: 98% com ajuste de incerteza",
         "cobertura da análise: 45%"
       ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte de Servidores Sênior",
-      "company": "Semantix",
-      "url": "https://semantix.inhire.app/vagas/fb3d6404-d4ba-44c8-8756-7fb8892a5d6e/analista-de-suporte-de-servidores-senior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-10T17:24:31+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-07-10T14:24:31-03:00",
-      "coverage": 45,
-      "observed_fit": 98,
-      "fit_points": 44,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 85,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 98% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Tech Support Engineer",
-      "company": "Nuvemshop",
-      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/8209ae46-746d-4549-8440-1ca972f66eab/tech-support-engineer",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-14T00:02:21+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-08-13T21:02:21-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte",
-      "company": "Pantheon",
-      "url": "https://pantheon.inhire.app/vagas/9730004f-f1b0-4964-90c3-f7b083ff92a7/analista-de-suporte",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-13T19:51:23+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-08-13T16:51:23-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
+      "enrichment_status": "error",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
       "description_length": 0
     },
     {
@@ -495,217 +293,9 @@
         "fit observado: 100% com ajuste de incerteza",
         "cobertura da análise: 35%"
       ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Data Visualization and Transformation Support Engineer",
-      "company": "Pantheon",
-      "url": "https://pantheon.inhire.app/vagas/34c8c200-ce78-4cb8-9b74-7235c7e4c9a0/data-visualization-and-transformation-support-engineer",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-13T14:56:04+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Dados, BI e IA"
-      ],
-      "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-07-13T11:56:04-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Técnico - Afiliação",
-      "company": "GEX",
-      "url": "https://gex.inhire.app/vagas/affe3e52-829c-4ae7-a4a5-a8d23aa06a49/analista-de-suporte-tecnico-afiliacao",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-06-17T19:00:23+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "PJ"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-06-17T16:00:23-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Júnior (Crédito) - Afirmativa PcD",
-      "company": "Superlógica Tecnologias",
-      "url": "https://superlogica.inhire.app/vagas/1043a576-aec4-42d8-bb09-810cecff03d9/analista-de-suporte-junior-credito-afirmativa-pcd",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-11T13:36:44+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-11T10:36:44-03:00",
-      "coverage": 60,
-      "observed_fit": 87,
-      "fit_points": 52,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 82,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 87% com ajuste de incerteza",
-        "cobertura da análise: 60%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Júnior",
-      "company": "Framework",
-      "url": "https://frameworkdigital.inhire.app/vagas/3efb8049-d143-48c0-a811-1075b178d113/analista-de-suporte-junior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-05T18:26:30+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-05T15:26:30-03:00",
-      "coverage": 45,
-      "observed_fit": 91,
-      "fit_points": 41,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 82,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 91% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte ao Cliente Junior",
-      "company": "Lastlink",
-      "url": "https://lastlink.inhire.app/vagas/da07854f-b799-49c3-9528-a263ca3b9fe5/analista-de-suporte-ao-cliente-junior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-09T21:23:43+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-07-09T18:23:43-03:00",
-      "coverage": 45,
-      "observed_fit": 91,
-      "fit_points": 41,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 82,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 91% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
+      "enrichment_status": "error",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
       "description_length": 0
     },
     {
@@ -746,6 +336,45 @@
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 10127
+    },
+    {
+      "id": "",
+      "title": "Analista de suporte Pleno",
+      "company": "DOT Group",
+      "url": "https://dotgroup.inhire.app/vagas/9665cbb0-7d8b-47c0-a976-3c087db019d7/analista-de-suporte-pleno",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-22T13:49:33+00:00",
+      "description": "🤩QUEM SOMOS? O DOT Digital Group é pioneiro no mercado de Educação Corporativa Digital no Brasil! Há 30 anos sendo responsável pela transformação de muitos negócios que decidiram abraçar a Tecnologia e a Educação. 🧐O QUE FAZEMOS? Desenvolvemos pessoas para impulsionar organizações! Grandes negócios nacionais e globais investem nas soluções educacionais digitais desenvolvidas pelo DOT como, por exemplo, Produção de Cursos Online, Operação em Larga Escala/Mediação, Aplicações LMS, Curso via Whatsapp, Immersive Learning, Educomunicação entre outras estratégias educacionais. 🤗NOSSO JEITO DOT DE SER! Jogamos aberto e limpo, estamos no mesmo barco e não tiramos o corpo fora! Aqui respeitamos as pessoas - independente da cor, crença, cultura, gênero, orientação afetiva e idade. Acreditamos no que fazemos e temos paixão pelo UAU! Sempre é possível fazer diferente e melhor em um ambiente de confiança. Valorizamos a autogestão, a colaboração e a busca pelo desenvolvimento contínuo. E aí, curtiu e se identificou com o jeito DOT de ser? Então #vemproDOT! 🤩E QUEM BUSCAMOS? Alguém que queira aprender sempre, que tope encarar desafios e tenha proatividade. Buscamos uma pessoa que ame trabalhar com educação e tecnologia e que foque em uma entrega de valor para o cliente! Alguém que tenha facilidade para se adaptar a mudanças e, principalmente, adore fazer um trabalho colaborativo e em time. 🎯ANALISTA DE SUPORTE PLENO Qual o seu papel na construção desta trilha? Prestar atendimento ao cliente via Help Desk (chat e mensagens assíncronas); Esclarecer dúvidas dos clientes de baixa/média complexidade referentes ao sistema e suas funcionalidades; Realizar diagnóstico de problemas; Analisar as solicitações dos clientes, orientá-los sobre a utilização do sistema, identificar e triar possíveis problemas técnicos para direcioná-los às equipes responsáveis; Acompanhar o andamento das solicitações, comunicar o cliente sobre o status de suas demandas e, em alguns casos, propor e/ou executar medidas de correção ou contorno; Realizar manutenção da base de conhecimentos interna e externa; Manter o registro adequado e completo de todas as demandas em que atuar, incluindo informações sobre o processo de troubleshooting realizado, testes, validações e alinhamentos realizados com outras equipes sobre o caso; Apoiar no processo de melhoria contínua de processos e do produto; Gerenciar expectativas e senso de urgência de clientes com base nos SLA's internos. Quais vivências esperamos de você? Vivência sólida com atendimento e suporte ao cliente; Formação superior (concluída ou em andamento) na área de tecnologia; Conhecimento em banco de dados (pesquisa e análise) Conhecimento em linguagem SQL ou lógica de programação; Afinidade com tecnologia e conhecimentos básicos em banco de dados. Gestão de conhecimento ITIL Será incrível se você já tiver: Vivência em EdTech. Conhecimento em banco de dados (pesquisa e análise) 🥳NOSSA PROPOSTA DE VALOR: E para impulsionar você a completar essa trilha com sucesso, o DOT oferece: Auxílios! Vale alimentação e/ou refeição (R$837) - Inclusive nas férias Vale transporte; Seguro de vida; Auxílio home office (R$100); Auxílio creche para crianças de até 6 anos; Headhunter (valor por indicação de colaborador); Indicação de clientes (valor por indicação de clientes). Saúde e bem estar! Plano de saúde integral, sem coparticipação (com terapia online gratuita); Convênio odontológico; Caju+ (assistência psicológica, assistência jurídica, consultoria financeira); Wellhub (plataforma de saúde e bem estar); DOT Break (Um dia de folga extra no ano, para usar como quiser); Convênio Farmácia; Licença maternidade estendida de 6 meses; Licença paternidade estendida de 20 dias; Onhappy - Ofertas exclusivas de passagens e hospedagens. FeelingDOT sobre temas diversos (workshops sobre autoconhecimento, diversidade, inclusão e equilíbrio); Mimos e gifts em datas comemorativas. Crescimento e desenvolvimento contínuo! Verba de Sophia de R$ 2.000,00 (auxílio educação); Horas de Sophia (40 horas/ano em capacitação da sua escolha); Verba Survival (auxílio educação no negócio); DOTAcademy com cursos gratuitos; Mobilidade interna; DOTHUB (desenvolvimento de lideranças); Cultura de feedback; DOTKnows (peer learning). Coursera Ilimitado. Clima colaborativo e descontraído! Home office: trabalhe de qualquer lugar do Brasil; Horário flexível - Nosso regime é de 40h semanais; Aprendizado contínuo; Pessoas que é bom de estar perto; Autonomia com responsabilidade; Local para refeições (presencial); Lanches, snacks, frutas, chás e café passado (presencial); Área de convivência (presencial); Momentos de integração e festas. Somos uma empresa diversa e inclusiva, e todas as nossas vagas estão abertas também para PCD.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Pleno",
+      "published_at_br": "2026-07-22T10:49:33-03:00",
+      "coverage": 100,
+      "observed_fit": 81,
+      "fit_points": 81,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 81,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 4761
     },
     {
       "id": "",
@@ -867,6 +496,46 @@
     },
     {
       "id": "",
+      "title": "Analista de Suporte",
+      "company": "Pantheon",
+      "url": "https://pantheon.inhire.app/vagas/9730004f-f1b0-4964-90c3-f7b083ff92a7/analista-de-suporte",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-13T19:51:23+00:00",
+      "description": "Sobre a posição Buscamos um(a) Analista de Sistemas de Operações de Processos para atuar principalmente no suporte a aplicações internas e de fornecedores , em ambientes On-Premise e Nuvem , atendendo clientes internos globalmente. O profissional será responsável pela solução de problemas, análise de causa raiz e atendimento a consultas realizadas por e-mail, chat ou telefone. Também trabalhará diretamente com usuários finais para garantir que as aplicações atendam às necessidades do negócio. A posição envolve ainda a implementação de novos requisitos de negócios , além da participação e suporte em novos projetos e iniciativas. Principais responsabilidades Trabalhar com o backlog de solicitações de usuários, de acordo com as prioridades estabelecidas; Solucionar problemas, realizar análises de causa raiz e aplicar correções de bugs; Trabalhar com clientes internos no levantamento de requisitos e na implementação de alterações de configuração; Dar suporte às atividades de desenvolvimento e aos testes unitários e de usuário Aprimorar continuamente a documentação e manter o conhecimento atualizado; Realizar suporte a aplicações e colaborar com fornecedores; Atuar na implantação, suporte e testes de servidores de API Manter pipelines de CI/CD Habilidades e conhecimentos necessários Senso de responsabilidade, comprometimento e liderança; Experiência com bancos de dados , incluindo SQL, procedures, views e funções; Capacidade de aprender novas habilidades relacionadas a aplicações e suporte a processos de negócios; Capacidade de colaboração e trabalho em equipe; Habilidade para produzir e manter documentação; Habilidades analíticas; Habilidade para resolução de problemas; Inglês avançado , sendo fluência desejável; Boa comunicação; Conhecimento em ferramentas de automação Conhecimento em lógica de programação Experiência com Azure/AWS Experiência na solução de problemas em aplicações locais executadas em Windows Server Compreensão e capacidade de seguir metodologias ágeis (Scrum) Conhecimentos desejáveis Os conhecimentos abaixo serão considerados diferenciais, mas não são essenciais para a posição: Scripts em PowerShell GitHub Actions e repositórios Conhecimento em C#, .NET e desenvolvimento de APIs Capacidade de leitura de códigos legados em Visual Basic Conhecimento em ferramentas de monitoramento e análise, como DataDog, Splunk e Tableau SSRS/SSIS Conhecimentos de Front-end: React, HTML, CSS e JavaScript Experiência com análise e otimização de código em C#, Python, PowerShell, .NET, JavaScript e Azure.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-13T16:51:23-03:00",
+      "coverage": 90,
+      "observed_fit": 79,
+      "fit_points": 71,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 79,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 79% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2544
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte Jr",
       "company": "Carreiras SoftExpert",
       "url": "https://softexpert.gupy.io/job/eyJqb2JJZCI6MTE5Mzc3MzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -945,6 +614,48 @@
     },
     {
       "id": "",
+      "title": "Global Support Engineer [mid-level]",
+      "company": "Segura®",
+      "url": "https://segura.inhire.app/vagas/8d639a65-9c51-4707-bb84-ca7e749ad463/global-support-engineer-mid-level",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-28T14:37:09+00:00",
+      "description": "*Please, submitting your CV in English will be a plus!** As Global Support Engineer , you will have the opportunity to be part of the transformation into a company in hypergrowth, besides being able to know other international cultures. Want to be part of this transformation? So this position is for you! Responsibilities: Troubleshoot issues and bugs related to the core PAM/IAM functionality and its integrations Maintain high responsiveness on support tickets and meet SLA expectations Collaborate with cross-functional teams while providing accurate updates and guidance to customers Escalate advanced or high-impact issues to the right internal teams with proper context Document each support case clearly and contribute actively to the team's knowledge repositories Analyze recurring incidents to recommend improvements in documentation, automation, or platform features Help enterprise and strategic customers through issue ownership and end-to-end follow-up Stay informed about product updates and feature releases to better advise customers Requirements: Bachelor’s degree (or equivalent experience) in Computer Science, IT, Engineering, or related fields Minimum 2 years of professional experience in technical support, infrastructure, or help desk roles Fluent English (written and spoken) – required for daily client interactions and internal work documentation Foundational understanding of Linux, Windows, TCP/IP networks, DNS, VPNs, and virtualization Demonstrated troubleshooting abilities including reading logs, analyzing configs, and debugging system errors Strong communication and problem-solving skills with accountability for support outcomes Nice to Have: Knowledge of PAM/IAM solutions (CyberArk, BeyondTrust, Delinea, etc.) Familiarity with access control concepts such as LDAP, AD, MFA, credential vaulting Some exposure to RESTful APIs, command-line scripting, or containerized environments IT certifications in support, infrastructure, or cybersecurity (CompTIA, ITIL, etc.) Working hours: Time to be determined; potentially falling within: 6am to 22pm , Monday to Friday. Benefits: Hiring Model: “CLT” Health Plan (No co-participation) - Sulamérica; Dental Assistance (No co-participation) - Sulamérica; Meal vouchers (R$ 1.210,00/month) - CAJU; Home office allowance (R$100.00/month); Wellhub; Birthday Day Off; English classes; Access to ALURA (technical and personal/professional development courses) Equipment needed to carry out the activities. Fully remote position.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-07-28T11:37:09-03:00",
+      "coverage": 85,
+      "observed_fit": 76,
+      "fit_points": 65,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 76,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 76% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2503
+    },
+    {
+      "id": "",
       "title": "Analista de Service Desk (Turno diurno 8x5)",
       "company": "Icaro Tech",
       "url": "https://icarotech.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -1014,6 +725,89 @@
         "fit observado: 77% com ajuste de incerteza",
         "cobertura da análise: 35%"
       ]
+    },
+    {
+      "id": "",
+      "title": "Tech Support Engineer",
+      "company": "Nuvemshop",
+      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/8209ae46-746d-4549-8440-1ca972f66eab/tech-support-engineer",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-14T00:02:21+00:00",
+      "description": "Nosso time de Technical Support Nosso time de Tech Support tem como objetivo resolver dúvidas e problemas técnicos de forma escalável, empoderando clientes, parceiros tecnológicos e o time de atendimento à cliente. Nossa missão é fazer a ponte entre o suporte de primeiro nível e o time de desenvolvimento, garantindo que lojistas tenham uma ótima experiência, enquanto também contribuímos para a melhoria contínua da nossa plataforma ao identificar problemas potenciais e funcionalidades necessárias O tamanho do seu desafio Analisar problemas complexos entendendo a estrutura da nossa plataforma; Resolver questões técnicas de clientes e parceiros(as) tecnológicos diariamente; Criar ferramentas que aumentem a eficiência do time, melhorem processos e fortaleçam o atendimento de primeiro nível; Influenciar a direção dos nossos produtos por meio do contato direto com clientes e parceiros(as), e pela colaboração constante com os times de suporte e produto; Identificar erros potenciais que possam afetar a qualidade da plataforma; Interagir com o time de desenvolvimento com uma perspectiva técnica para encontrar soluções e compartilhar conhecimento; Colaborar com times multifuncionais. O que buscamos Conhecimentos de programação; Habilidade para analisar logs e extrair informações relevantes. Além disso, capacidade de navegar pelo nosso código-fonte e encontrar problemas; Experiência sólida trabalhando em um ambiente de desenvolvimento web; Capacidade de criar e executar consultas SQL; Conhecimentos de tecnologias e integração com API REST; Excelentes habilidades de comunicação, com capacidade de explicar temas complexos de maneira concisa e fácil de entender. Com forte capacidade de resolução de problemas com foco em cliente; Excelentes habilidades de leitura em inglês; Disponibilidade para trabalhar em turnos, plantões e finais de semana (conforme escala). São diferenciais Idioma espanhol (atendimento para toda América Latina); Experiência prévia como Developer Support ou algum papel relacionado. Nosso processo Queremos que você tenha a melhor experiência possível ao longo do nosso processo seletivo. Após a sua inscrição, o time de Talent Acquisition irá analisar seu perfil com atenção e, independentemente do resultado, você receberá um retorno. As etapas e prazos podem variar de acordo com cada vaga, mas não se preocupe — que nos manteremos em contato com você. O que temos para você Plano de Saúde, Plano Odontológico e Seguro de Vida; Flash Benefícios: Plataforma que reúne vale alimentação, vale refeição e outras categorias como educação, entretenimento, cultura, saúde, bem-estar, auxílio home office e muito mais; Aulas de espanhol semanais gratuitas; Totalpass: As melhores redes de parcerias para atividades físicas, mindfulness, terapia, nutrição e qualidade do sono, com diversos planos disponíveis; Descontos nos cursos da Coderhouse; Auxílio creche para crianças de até 5 anos; Licença de família estendida para 21 dias corridos para pessoas não grávidas ou adotantes. A licença maternidade é de 4 meses e a licença parental de 21 dias. O benefício também vale para famílias que adotarem ou obtiverem a guarda judicial da criança e para casais homoafetivos; Além das férias, temos uma semana de descanso para recarregar as energias no final/começo do ano; Uma Nuvemshop gratuita para você ou pessoa próxima; Somos #remotefirst - o que significa que damos prioridade ao trabalho remoto dentro do país de contratação, sempre que a função permitir; E um ambiente de desafio contínuo, propósito e protagonismo — aqui você é livre para pensar grande e ter atitude gigante. Política de Privacidade de Dados A Nuvemshop está comprometida em proteger a privacidade e garantir a segurança dos dados pessoais das pessoas candidatas às vagas que ofertamos. Para dar seguimento com a sua candidatura, teremos acesso a alguns dados pessoais seus e gostaríamos de repassar algumas informações antes de você continuar. Utilizaremos tais dados para conduzirmos os processos que envolvem o recrutamento e a seleção. Além disso, cuidamos dos seus dados pessoais de forma muita séria e só os compartilhamos com quem realmente precisa. Por fim, somente iremos mantê-los em nosso sistema pelo tempo realmente necessário. Para saber mais sobre a forma pela qual tratamos seus dados, inclusive dos seus direitos previstos em lei, basta acessar a nossa Política de Privacidade",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-13T21:02:21-03:00",
+      "coverage": 90,
+      "observed_fit": 74,
+      "fit_points": 67,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 74,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 74% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 4397
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte de Servidores Sênior",
+      "company": "Semantix",
+      "url": "https://semantix.inhire.app/vagas/fb3d6404-d4ba-44c8-8756-7fb8892a5d6e/analista-de-suporte-de-servidores-senior",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-10T17:24:31+00:00",
+      "description": "Estamos em busca de um Analista de Suporte de Servidores Sênior dedicado e proativo para se juntar à nossa equipe técnica. Se você está pronto para desenvolver sua carreira em um ambiente dinâmico e colaborativo, aplicando seus conhecimentos em sistemas operacionais e cloud computing, esta é a sua chance! Responsabilidades e Atribuições: Atuar na infraestrutura e administração de sistemas operacionais Windows Server, Linux Atuar na infraestrutura de Vmware ESXi e Cloud AWS Azure GCP OCI Realizar troubleshooting avançado e análise de causa raiz (RCA) de incidentes críticos. Identificar e implementar melhorias nos sistemas operacionais Windows Server e Linux; Realizar mudanças em ambientes de produção, sempre sob supervisão, para garantir a estabilidade dos serviços; Contribuir com as metas operacionais da equipe, mantendo os SLAs dos clientes; Trabalhar diretamente com os clientes para analisar problemas e ajudar na definição de soluções eficazes. Interagir com fornecedores e fabricantes para suporte e resolução de problemas complexos. Atuar como referência técnica para equipes de suporte, operações e projetos. Elaborar documentação técnica, procedimentos operacionais e planos de contingência. Requisitos e Qualificações: Conhecimentos avançados em Sistemas Operacionais Windows Server, Linux, incluindo ambientes virtualizados Vmware, Hyper V e Cloud Administração de Active Directory, configuração de GPO (Group Policy Objects) e gerenciamento de WSUS (Windows Server Update Services); Administração de serviços de rede, DNS (Domain Name System), DHCP (Dynamic Host Configuration Protocol) e DFS (Distributed File System); Atualização de versão do sistema operacional Linux, Windows Aplicação de Patches nos servidores. Automatizar processos operacionais utilizando PowerShell, Bash, Python, Ansible. Habilidade para administração do ambiente do e NPS; Gestão de File Server, Print Server, Radius, Certificate Authority Conhecimento em Cloud (AWS, GCP, OCI, Azure) Diferenciais: Possuir certificações em Windows/Linux/Vmware/Cloud (AWS, Azure, OCI, GCP); Formado na área Tecnologia da Informação. Idioma: Desejável Ingles Fluente Informações sobre a Vaga: Horário de trabalho: De segunda a sexta, das 08:00 às 17:00. Benefícios: ✓ Vale refeição ou Vale alimentação ✓ Plano de saúde extensível a cônjuge e filhos ✓ Plano odontológico ✓ Programa de remuneração variável ✓ Auxílio creche - conforme regras sindicais da localidade ✓ Wellhub (Gympass) ✓ Convênio com farmácias – descontos em medicamentos ✓ Previdência Privada com seguro de vida adicional ✓ Seguro de vida ✓ Empréstimo Consignado (após 1 ano de empresa) ✓ Convênio com empresas parceiras (Descontos para realização de graduação, pós-graduação, MBA e Idiomas) ✓ Política de Subsídios para Pós-graduação, MBAs e Certificações (A Atos apoia o seu desenvolvimento, subsidiando financeiramente ações externas) ✓ Speexx (curso online de até 5 idiomas gratuitamente) ✓ Programa de treinamentos internos e externos ✓ Universidade corporativa (E-learning com milhares de cursos disponíveis gratuitamente) ✓ Terapia online ✓ Programa de acompanhamento à gestante (acompanhamento médico online durante a gestação para colaboradoras ou cônjuges) ✓ Programa Minha Nova Parceria de Confiança (para colaboradores e cônjuges. Válido também para filhos adotivos) - Brinde especial + Cartão presente com valor em dinheiro ✓ Day off no seu aniversário ✓ Parceria com a Samsung (descontos na compra de diversos produtos) ✓ Bônus de indicação para nossas vagas (conforme política interna) ✓ Jubileu (premiação personalizada por tempo de empresa) ✓ Accolade (Programa de reconhecimento) Na Semantix, valorizamos as pessoas e incentivamos a inovação e o desenvolvimento contínuo, sempre guiados pela ética, transparência e respeito à diversidade e pluralidade. 🌈 Acreditamos que a diversidade é essencial para a construção de soluções mais inteligentes e inovadoras. Todas as nossas oportunidades são afirmativas para Pessoas com Deficiência (PCD) e promovemos um ambiente inclusivo, respeitando identidade ou expressão de gênero, orientação sexual, religião, etnia, idade, deficiência, nacionalidade ou qualquer outro aspecto 💎 Aviso de Proteção de Dados Os dados pessoais coletados serão utilizados exclusivamente para o processo seletivo e tratados conforme os níveis de segurança adotados pela Semantix. Informações adicionais Caso você seja de São Paulo e Região Metropolitana ou Londrina e Região Metropolitana, o contrato de trabalho será na modalidade presencial, com base em São Paulo ou Londrina respectivamente, e os escritórios permanecem disponíveis para utilização sempre que necessário. Atualmente, a dinâmica das equipes tem sido mais flexível, sendo a atuação definida em conjunto com a liderança conforme as necessidades do projeto e diretrizes da empresa. Caso haja necessidade de ajustes nesse formato, você será comunicado com antecedência para organização. O enquadramento formal do cargo seguirá os critérios internos, sendo o registro realizado conforme o Código Brasileiro de Ocupações (CBO) nº 2124-05.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-07-10T14:24:31-03:00",
+      "coverage": 100,
+      "observed_fit": 73,
+      "fit_points": 73,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 73,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 14/40 (Incidentes/RCA/ITIL, Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 5087
     },
     {
       "id": "",
@@ -1368,6 +1162,130 @@
     },
     {
       "id": "",
+      "title": "Analista de Suporte Técnico - Afiliação",
+      "company": "GEX",
+      "url": "https://gex.inhire.app/vagas/affe3e52-829c-4ae7-a4a5-a8d23aa06a49/analista-de-suporte-tecnico-afiliacao",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-06-17T19:00:23+00:00",
+      "description": "💙🎯 Nosso Jeito de Ser GEX O time da GEX é formado por pessoas com garra — que aprendem fazendo, se envolvem de verdade com o que entregam e levam o trabalho a sério. Nos esforçamos todos os dias com o propósito de levar educação, saúde e qualidade de vida para milhares de pessoas ao redor do mundo, com responsabilidade e honestidade. Aqui, valorizamos quem propõe, se envolve e tem vontade de crescer no time. Se você quer fazer parte de uma equipe colaborativa e que trabalha com intensidade , se inscreva e venha viver essa jornada com a gente. E aí, quer construir o seu futuro com a gente? 🤩🚀 🧭 Sobre a vaga O time de Suporte Técnico de Afiliação da GEX é responsável por garantir que nossos afiliados tenham uma experiência fluida e eficiente em toda a operação, oferecendo suporte rápido para dúvidas, acessos, ferramentas e processos. Como Analista de Suporte Técnico - Afiliação , sua missão será atuar diretamente nos canais de atendimento aos afiliados, identificando problemas, orientando usuários e garantindo soluções ágeis para demandas técnicas e operacionais. Se você gosta de tecnologia, tem perfil resolutivo, aprende rápido e gosta de ajudar pessoas em ambientes digitais, essa vaga pode ser para você. 📅 Como vai ser o seu dia a dia Monitorar e responder mensagens nos grupos de Telegram e demais canais de atendimento da operação; Prestar suporte técnico e operacional aos afiliados; Identificar e solucionar problemas relacionados a acessos, links, plataformas e ferramentas utilizadas pela operação; Orientar afiliados sobre processos, regras e boas práticas da operação; Registrar demandas, acompanhamentos e recorrências nas ferramentas internas; Utilizar ferramentas de Inteligência Artificial para apoiar diagnósticos e agilizar resoluções; Escalar situações mais complexas para as áreas responsáveis quando necessário; Contribuir para a organização e melhoria contínua dos processos de suporte. 💼 O que esperamos de você Excelente comunicação escrita; Perfil analítico e solucionador de problemas; Organização e autonomia para atuar em ambiente remoto; Facilidade para aprender novas ferramentas e processos; Familiaridade com tecnologia e plataformas digitais; Conhecimento em Google Drive e planilhas; Facilidade na utilização de ferramentas de Inteligência Artificial; Disponibilidade para atuar em escala de cobertura dos canais de atendimento. ✨ Diferenciais que vão te destacar Experiência com suporte técnico ou atendimento digital; Experiência com afiliados ou marketing digital; Conhecimento em Telegram, ClickUp e plataformas de CRM; Inglês intermediário ou avançado; Vivência em ambientes digitais de alta performance. 🌟 Aqui nossos GEXs encontram Flash (cartão flexível): saldo mensal para gastar como quiser — alimentação, refeição, internet e mais. Clude (plataforma de saúde): atendimento médico online 24h, psicólogos, nutricionistas e descontos em farmácias e exames. 🏋️‍♂️ Wellhub / TotalPass: acesso a academias, treinos online, terapia e nutrição — com até 3 dependentes! Day Off de Aniversário: um dia de folga no mês do seu aniversário pra curtir como quiser. Kit Aniversário: presente especial da GEX no seu mês. Datas Comemorativas: ações e mimos em Páscoa, Natal e outras datas especiais. 📝 Como será nosso combinado Tipo de contratação: PJ Trabalho: 100% remoto Horário: Flexível / Com disponibilidade de horário 🧠 Sobre a GEX Se você quer fazer parte de um time que leva o trabalho a sério, ama o que faz e busca sempre entregar mais do que promete , a GEX pode ser o seu lugar. Aqui, acreditamos em autonomia com responsabilidade , aprendemos fazendo e valorizamos quem se envolve de verdade com o que entrega. Você vai encontrar um ambiente dinâmico, colaborativo e cheio de oportunidades pra quem gosta de resolver, propor e crescer junto com o time Conheça mais sobre a gente: https://www.inhire.com.br/carreiras/gex/",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "PJ"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-06-17T16:00:23-03:00",
+      "coverage": 90,
+      "observed_fit": 64,
+      "fit_points": 58,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 65,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 64% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 3878
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Júnior (Crédito) - Afirmativa PcD",
+      "company": "Superlógica Tecnologias",
+      "url": "https://superlogica.inhire.app/vagas/1043a576-aec4-42d8-bb09-810cecff03d9/analista-de-suporte-junior-credito-afirmativa-pcd",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-11T13:36:44+00:00",
+      "description": "Atuar no time de Operações, executando atividades operacionais com precisão e qualidade, garantindo a correta configuração sistêmica, validação de informações e cumprimento dos processos. Esta oportunidade é aberta a todos os profissionais que atendam aos requisitos. Além disso, como parte do nosso compromisso contínuo com a diversidade e inclusão, esta é também uma vaga afirmativa para pessoas com deficiência (PcD). Encorajamos fortemente a candidatura de talentos diversos. Se interessou? Venha ajudar a gente a criar experiências incríveis! Principais atribuições Operação e Configuração de Sistemas: realizar a parametrização e ajustes no sistema (configurações, regras, etc.), assegurando a integridade e correção dos dados imputados. Monitorar e validar a qualidade dos dados inseridos, identificando e corrigindo eventuais desvios. Gestão e Manutenção da Carteira: Realizar a manutenção proativa da carteira de clientes, solicitando e acompanhando a atualização de documentos e informações cadastrais. Atuar como ponto focal para dúvidas sistêmicas e operacionais, buscando a rápida solução de problemas. Offboarding: Conduzir os procedimentos de Offboarding (desligamento) de clientes que encerram o uso do produto, garantindo o cumprimento dos ritos contratuais e sistêmicos. Documentar os motivos de saída e procedimentos realizados. Auxiliar administradoras e síndicos na compreensão de relatórios (ex: concialiação bancária, repasse e pagamentos) relacionados ao produto Inadimplência Zero. Preencher e manter atualizados controles operacionais, relatórios e planilhas de acompanhamento. Monitorar processos operacionais, assegurando conformidade e qualidade nas entregas. Identificar oportunidades de melhoria e apoiar na otimização de fluxos e rotinas. Interagir com clientes, quando necessário, para validação de informações e alinhamentos operacionais. Garantir cumprimento de prazos, padrões internos e políticas da empresa. Requisitos e Qualificações Superior cursando em Administração, Gestão de negócios, Comunicação e Marketing ou áreas correlatas; Capacidade de compreender necessidades e expectativas, assegurando qualidade nas entregas e contribuindo para uma experiência positiva.Foco em resolver problemas de forma prática, colaborativa e eficiente; Experiência com atendimento e boa comunicação (verbal e escrita). Vaga com atuação 100% remota. Desejável: Ferramenta de Gestão de Atendimento ao Cliente (Ex. Zendesk, Pacote Office) Fazendo parte do time, você terá “SuperBenefícios” como: Flexibilidade de horário: Podemos sempre nos adaptar às mudanças do dia a dia, o importante mesmo é sempre alcançar o objetivo. Ajuda de custo para os dias em home office: A gente dá o suporte necessário para que você possa trabalhar no conforto do seu lar, em dias de home office. Ifoof Benefícios Flexíveis (VA + VR): Transformar o mundo dá uma fome, né?! E é claro que o nosso recheado VA e VR não podem ficar de fora dessa missão. Plano de saúde e odontológico: A saúde sempre em primeiro lugar, para você e seus dependentes. Apoio aos pais: Se tornar mãe ou pai é algo espetacular, e queremos participar deste grande momento com você. Por isso, além do auxílio creche, temos também licença-parental (maternidade e paternidade) estendida. Saúde e Bem-estar: Parceria com o Gympass e auxílio farmácia. Treinamentos e educação: Temos parcerias com escolas e universidades e oferecemos treinamentos EaD gratuitos. Ambiente que valoriza feedbacks 1:1.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-11T10:36:44-03:00",
+      "coverage": 100,
+      "observed_fit": 64,
+      "fit_points": 64,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 64,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 3471
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Júnior",
+      "company": "Framework",
+      "url": "https://frameworkdigital.inhire.app/vagas/3efb8049-d143-48c0-a811-1075b178d113/analista-de-suporte-junior",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-05T18:26:30+00:00",
+      "description": "Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! *Todas as nossas vagas são abertas para PCDs! Benefícios? É claro que temos! 🍝 Vale alimentação e refeição no cartão Sólides Benefícios com mais de R$ 1.200,00 mensais 💻 Auxílio home office no valor de R$ 150,00 mensais 🚗 Você decide entre vale-transporte ou vale-combustível, no caso de vagas híbridas e presenciais 🏥 Plano de saúde e auxílio odontológico de alta qualidade ❤️ Seguro de vida que cobre doenças ocupacionais 💸 Participação nos lucros 💪 Total Pass para se manter saudável 🌎 Trib Pass para trocar moedas digitais por hospedagens e passagens aéreas com cobertura mundial 👶 Licença maternidade estendida: 180 dias 👶 Licença paternidade estendida: 30 dias 🥦 Desconto em consultas nutricionais 🧠 Desconto em terapia online 🛍️ Clube de benefícios para quem gosta de comprar com descontos 💡 Knowledge transfer através do Frame KT 💵 Bonificação por indicação de novos colaboradores E não paramos por aí! 🕗 Horário flexível 👕 No dress code 🍎 Nas pausas presenciais, fique à vontade para comer pães, bolos e frutas 💜 Ambiente leve, flexível e cultura colaborativa. E qual será a sua missão na Framework? Atuar como ponto de contato entre clientes e o time de tecnologia. Procuramos alguém comunicativo, proativo e que goste de resolver problemas, oferecendo uma excelente experiência aos clientes e aprendendo continuamente sobre nossos produtos e processos. Realizar atendimento aos clientes por diferentes canais (e-mail, telefone, chat e reuniões); Entender as necessidades dos clientes e direcionar as demandas para os times responsáveis; Acompanhar chamados e garantir o retorno dentro dos prazos estabelecidos; Registrar e atualizar informações em sistemas de atendimento; Apoiar clientes na utilização das soluções da empresa; Identificar oportunidades de melhoria na experiência do cliente; Trabalhar em conjunto com os times de Produto, Desenvolvimento e Operações; Auxiliar na documentação de processos e na construção de materiais de apoio. O que é preciso para fazer parte do time? Excelente comunicação verbal e escrita; Perfil proativo e organizado; Facilidade para aprender novas ferramentas e tecnologias; Boa capacidade de resolução de problemas; Experiência com atendimento ao cliente, suporte, relacionamento ou áreas similares; Conhecimentos básicos de informática e tecnologia. A NOSSA EVOLUÇÃO É CRESCENTE! E, para acompanhar esse crescimento, precisamos de pessoas que agreguem propondo ideias, soluções e desafios! Gostou da oportunidade? Vamos juntos e faça parte da nossa história! 💜 #vempraframe",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-05T15:26:30-03:00",
+      "coverage": 100,
+      "observed_fit": 64,
+      "fit_points": 64,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 64,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2850
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte Técnico Júnior I",
       "company": "Grupo WebPic",
       "url": "https://www.empregare.com/v171220",
@@ -1404,6 +1322,47 @@
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 4210
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte ao Cliente Junior",
+      "company": "Lastlink",
+      "url": "https://lastlink.inhire.app/vagas/da07854f-b799-49c3-9528-a263ca3b9fe5/analista-de-suporte-ao-cliente-junior",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-09T21:23:43+00:00",
+      "description": "Remoto Na Lastlink, estamos construindo o futuro da Creator Economy — e buscamos pessoas que queiram crescer junto com a gente. Somos movidos por tecnologia, comunidade e impacto real. Aqui, nosso maior diferencial são as pessoas. Sobre a Área O time de Suporte ao Cliente garante que toda a engrenagem do negócio funcione de forma eficiente, escalável e integrada. Somos responsáveis por entregar qualidade, apoiar nossos criadores e assegurar que os fluxos do produto e do atendimento aconteçam com fluidez. O que esperamos de você No dia a dia, você vai: Atender clientes via Intercom e WhatsApp com agilidade, empatia e comunicação clara. Resolver dúvidas, propor soluções e garantir uma experiência acolhedora e eficiente. Atuar com áreas internas para sugerir melhorias de produto, processos e jornada. Trabalhar com autonomia, organização e brilho nos olhos. Para assumir esse papel, você precisará de: Experiências: Vivência prévia com atendimento ao cliente online. Experiência com ferramentas de chat, helpdesk ou CRM. Histórico de atuação em ambientes dinâmicos e de alta demanda. Familiaridade com rotinas de suporte em empresas tech, SaaS ou Creator Economy (diferencial). Hard Skills: Experiência ou familiaridade com ferramentas de suporte e gestão de tickets/chats. Capacidade de seguir processos operacionais e padronizações de atendimento. Organização para lidar com múltiplos atendimentos simultâneos. Atenção a detalhes ao registrar e atualizar informações. Soft Skills: Boa escuta e empatia para lidar com clientes em diferentes contextos. Comunicação clara, objetiva e cordial. Capacidade de aprender rápido e se adaptar a mudanças. Organização, senso de dono e foco em resolução de problemas. Formação Acadêmica: Formação superior em Administração, Marketing ou áreas correlatas. O que também valorizamos Nossas vagas são para qualquer pessoa, sem distinção de gênero, etnia, orientação sexual ou deficiência. Se você se identifica com nosso propósito e quer crescer com a gente, vem ser Linker! Nossos Benefícios Plano de saúde e odontológico Bradesco Saúde (sem coparticipação) Cartão Caju Flex (R$ 660/mês) + Auxílio home office (R$ 120/mês) TotalPass (acesso a academias) Day Off de aniversário Auxílio cultura (R$ 50/mês via Caju) Equipamentos para home office (conforme política vigente)",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-07-09T18:23:43-03:00",
+      "coverage": 100,
+      "observed_fit": 64,
+      "fit_points": 64,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 64,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2316
     },
     {
       "id": "",
@@ -1632,6 +1591,46 @@
         "fit observado: 60% com ajuste de incerteza",
         "cobertura da análise: 85%"
       ]
+    },
+    {
+      "id": "",
+      "title": "Data Visualization and Transformation Support Engineer",
+      "company": "Pantheon",
+      "url": "https://pantheon.inhire.app/vagas/34c8c200-ce78-4cb8-9b74-7235c7e4c9a0/data-visualization-and-transformation-support-engineer",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-13T14:56:04+00:00",
+      "description": "Job Description: We are seeking a talented, agile T-shaped team member as a Data Visualization and Transformation Support Engineer with platform expertise across Tableau and Power BI to join our dynamic data and analytics organization. This cross-functional team member will support the migration effort of Tableau dashboards to Power BI Service. This individual should bring deep expertise in the Power BI service infrastructure, and at least surface level of Tableau Server. Key Responsibilities: Agile Collaboration Operate as a collaborative, T-shaped team, where each member contributes deep knowledge in their primary expertise area while supporting others in additional areas to maximize overall support across all tools. Participate actively in agile ceremonies, including sprint planning, stand-ups, and retrospectives, to ensure a transparent and efficient workflow Data Analytics and Visualization Support and maintain Tableau and Power BI platforms that cater to business intelligence needs. Assist with the migration from a Tableau Server infrastructure to a Power BI Service infrastructure Automation Develop platform solutions to proactively automate repetitive tasks, creating efficiencies and reducing manual intervention. Collaborate closely with cross-functional teams to align analytics and visualization solutions with business requirements. Continuous Improvement and Knowledge Sharing Foster a culture of continuous improvement by proactively learning and adopting new techniques, tools, and methodologies. Share knowledge across the team and provide mentorship on best practices for Tableau, Power BI, Alteryx, Splunk, and Sinequa. Skills and Qualifications Proven expertise in Tableau and Power BI for data visualization, with the ability to support the platform and dashboards. Agile mindset with experience in Scrum methodologies. Strong problem-solving skills, with the ability to adapt quickly to changing requirements. Excellent communication skills, with the ability to translate complex issues to team members Ideal Candidate Profile A self-driven, collaborative professional who thrives in an agile environment. Detail-oriented and focused on delivering high-quality solutions. Willingness to grow and adapt within a dynamic T-shaped team structure, contributing expertise while supporting team growth across various tools and platforms.",
+      "skills": [],
+      "categories": [
+        "Dados, BI e IA"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-07-13T11:56:04-03:00",
+      "coverage": 75,
+      "observed_fit": 55,
+      "fit_points": 41,
+      "covered_points": 75,
+      "score_method": "observed_evidence_v3",
+      "score": 60,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 6/40 (Observabilidade e logs)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 55% com ajuste de incerteza",
+        "cobertura da análise: 75%"
+      ],
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2370
     },
     {
       "id": "",
