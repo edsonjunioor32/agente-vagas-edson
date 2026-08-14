@@ -103,24 +103,28 @@
     const fragment = document.createDocumentFragment();
     for (const job of state.filtered) {
       const node = els.template.content.cloneNode(true);
-      node.querySelector('.score').textContent = `${Number(job.score) || 0}%`;
+      const score = Number(job.score) || 0;
+      const coverage = Math.max(0, Math.min(100, Number(job.coverage) || 0));
+      node.querySelector('.score').textContent = `${score}%`;
+      node.querySelector('.score').title = `Aderência estimada com ${coverage}% de cobertura da análise`;
       node.querySelector('.job-title').textContent = escapeText(job.title) || 'Vaga sem título';
       node.querySelector('.company').textContent = escapeText(job.company) || 'Empresa não informada';
       node.querySelector('.source-pill').textContent = formatSource(job.source);
 
       const chips = node.querySelector('.chips');
       const chipValues = [
+        `Cobertura ${coverage}%`,
         job.work_model ? String(job.work_model).toLowerCase() === 'remote' ? 'Remoto' : job.work_model : '',
         job.city,
         ...(Array.isArray(job.contract_types) ? job.contract_types : [])
       ].map(escapeText).filter(Boolean);
-      [...new Set(chipValues)].slice(0, 5).forEach(value => chips.append(makeChip(value)));
+      [...new Set(chipValues)].slice(0, 6).forEach(value => chips.append(makeChip(value)));
       if (!chips.childElementCount) chips.remove();
 
       const reasons = Array.isArray(job.reasons) ? job.reasons : [];
       node.querySelector('.reasons').textContent = reasons.length
-        ? `Por que apareceu: ${reasons.join(' · ')}`
-        : 'Aderência calculada automaticamente pelo agente.';
+        ? `Aderência estimada: ${score}% · Cobertura: ${coverage}% · ${reasons.join(' · ')}`
+        : `Aderência estimada: ${score}% · Cobertura da análise: ${coverage}%.`;
 
       node.querySelector('.published').textContent = relativeDate(job.published_at_br);
       const link = node.querySelector('.apply');
@@ -159,7 +163,9 @@
     state.filtered.sort((a, b) => {
       if (sort === 'recent') return (Date.parse(b.published_at_br) || 0) - (Date.parse(a.published_at_br) || 0) || (b.score - a.score);
       if (sort === 'company') return String(a.company || '').localeCompare(String(b.company || ''), 'pt-BR', { sensitivity: 'base' });
-      return (Number(b.score) || 0) - (Number(a.score) || 0) || (Date.parse(b.published_at_br) || 0) - (Date.parse(a.published_at_br) || 0);
+      return (Number(b.score) || 0) - (Number(a.score) || 0)
+        || (Number(b.coverage) || 0) - (Number(a.coverage) || 0)
+        || (Date.parse(b.published_at_br) || 0) - (Date.parse(a.published_at_br) || 0);
     });
 
     renderJobs();
