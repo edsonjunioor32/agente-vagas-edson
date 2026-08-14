@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-14T14:22:12.441925-03:00",
+  "generated_at": "2026-08-14T14:24:22.157216-03:00",
   "count": 100,
   "enrichment": {
-    "attempted": 40,
-    "enriched": 38,
-    "failed": 2,
+    "attempted": 60,
+    "enriched": 56,
+    "failed": 4,
     "methods": {
-      "json-ld": 19,
-      "html-text": 7,
-      "inhire-api": 12
+      "json-ld": 35,
+      "inhire-api": 12,
+      "html-text": 9
     }
   },
   "jobs": [
@@ -47,6 +47,7 @@
         "fit observado: 99% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -87,10 +88,52 @@
         "fit observado: 99% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 3952
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte .NET N2",
+      "company": "act digital",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-net-n2-97721.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-06T21:11:19-04:00",
+      "description": "Buscamos um(a) profissional para atuar no suporte de segundo nível (N2) de aplicações .NET, apoiando o time de desenvolvimento na análise, manutenção e resolução de incidentes em ambiente produtivo. Responsabilidades: Analisar e solucionar incidentes em aplicações .NET; Realizar manutenção corretiva e pequenos ajustes; Identificar causa raiz de problemas por meio da análise de logs; Executar consultas SQL para investigação e validação de dados; Apoiar o time de desenvolvimento e garantir a continuidade das aplicações. Requisitos: Experiência com C#, .NET Framework e ASP.NET MVC (Razor); Conhecimento em SQL Server, HTML, CSS, JavaScript e jQuery; Vivência com sustentação de aplicações; Conhecimento em APIs REST, Git ou Azure DevOps será um diferencial. Perfil: Perfil analítico, proativo e organizado; Boa comunicação e facilidade para atuar em equipe; Experiência em suporte N2 e resolução de problemas.",
+      "skills": "sistemas · analista · .net · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-06T22:11:19-03:00",
+      "coverage": 85,
+      "observed_fit": 99,
+      "fit_points": 84,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 95,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 39/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 99% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 913
     },
     {
       "id": "",
@@ -129,10 +172,51 @@
         "fit observado: 96% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
       "description_length": 3338
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte de Dados",
+      "company": "Pantheon",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-de-dados-97912.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-13T10:31:24-04:00",
+      "description": "Estamos buscando um(a) Analista de suporte de dados para atuar no suporte a aplicações internas e de fornecedores, em ambientes On-Premise e Cloud, atendendo usuários globalmente. 🔹 Principais responsabilidades: • Suporte e troubleshooting de aplicações; • Análise de causa raiz e correção de problemas; • Atendimento e suporte a usuários internos; • Levantamento e implementação de requisitos; • Suporte a APIs, servidores e pipelines de CI/CD; • Participação em projetos e melhorias; • Manutenção de documentação e processos. 🔹 Requisitos obrigatórios: • Experiência com SQL e bancos de dados; • Conhecimento em Azure ou AWS; • Experiência com Windows Server / ambientes On-Premise; • Conhecimento em lógica de programação e automação; • Experiência com CI/CD; • Conhecimento em Scrum/Agile; • Boa comunicação e capacidade analítica; • Inglês avançado. ⭐ Diferenciais: PowerShell, GitHub Actions, C#/.NET, APIs, Python, JavaScript, SSRS/SSIS e ferramentas de monitoramento.",
+      "skills": "dados · analista · sql server · suporte",
+      "categories": [
+        "Dados, BI e IA"
+      ],
+      "contract_types": [],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-13T11:31:24-03:00",
+      "coverage": 100,
+      "observed_fit": 87,
+      "fit_points": 87,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 87,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 975
     },
     {
       "id": "",
@@ -170,6 +254,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -209,6 +294,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
@@ -251,6 +337,7 @@
         "fit observado: 98% com ajuste de incerteza",
         "cobertura da análise: 45%"
       ],
+      "enrichment_attempts": 2,
       "enrichment_status": "error",
       "enrichment_method": "inhire-api",
       "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
@@ -293,10 +380,53 @@
         "fit observado: 100% com ajuste de incerteza",
         "cobertura da análise: 35%"
       ],
+      "enrichment_attempts": 2,
       "enrichment_status": "error",
       "enrichment_method": "inhire-api",
       "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
       "description_length": 0
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte",
+      "company": "act digital",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-97921.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-13T18:13:26-04:00",
+      "description": "Sistemas Hospitalares / Formato: 100% Remoto Contratação: CLT Estamos em busca de um(a) Analista de Suporte Sênior para atuar com sistemas hospitalares, contribuindo para a sustentação, resolução de incidentes e garantia da disponibilidade e qualidade das aplicações. Principais atividades: Atuar no suporte funcional e técnico a sistemas hospitalares. Realizar atendimento e resolução de incidentes de média e alta complexidade. Analisar problemas, identificar causa raiz e acompanhar as correções. Realizar monitoramento de integrações e validação de informações em banco de dados. Atuar na interface com áreas de negócio, times técnicos e fornecedores.",
+      "skills": "sistemas · analista · itil · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-13T19:13:26-03:00",
+      "coverage": 100,
+      "observed_fit": 83,
+      "fit_points": 83,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 83,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 23/40 (SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 655
     },
     {
       "id": "",
@@ -332,6 +462,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
@@ -371,6 +502,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -411,6 +543,7 @@
         "fit observado: 81% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -450,6 +583,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
@@ -489,6 +623,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -529,6 +664,7 @@
         "fit observado: 79% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -568,6 +704,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -607,6 +744,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -649,6 +787,7 @@
         "fit observado: 76% com ajuste de incerteza",
         "cobertura da análise: 85%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -656,75 +795,86 @@
     },
     {
       "id": "",
-      "title": "Analista de Service Desk (Turno diurno 8x5)",
-      "company": "Icaro Tech",
-      "url": "https://icarotech.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
+      "title": "Analista de Suporte – Remoto",
+      "company": "TIVIA TI",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-remoto-97305.php",
+      "source": "Nerdin",
       "work_model": "remote",
-      "city": "",
+      "city": "Home Office",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-11T18:58:36+00:00",
-      "description": "",
-      "skills": [],
+      "published_date": "2026-07-23T16:00:27-04:00",
+      "description": "Sobre a oportunidade Você será responsável por atuar como o primeiro nível de atendimento da Engenharia, realizando a triagem dos incidentes recebidos pela área de Suporte, classificando prioridades e SLAs e direcionando cada demanda ao time técnico responsável. Essa não é uma vaga de desenvolvimento, mas é importante possuir uma base técnica para compreender logs, mensagens de erro e identificar corretamente o direcionamento das ocorrências. Principais responsabilidades 🔹 Receber, registrar e realizar a triagem dos incidentes reportados pela área de Suporte. 🔹 Classificar prioridades e SLAs, encaminhando cada chamado ao time de Nível 2 responsável. 🔹 Acompanhar os incidentes até sua resolução, garantindo o cumprimento dos SLAs. 🔹 Manter comunicação constante com as equipes técnicas e com a área de Suporte, atualizando o status das demandas. 🔹 Documentar incidentes recorrentes e identificar oportunidades de melhoria contínua.",
+      "skills": "sistemas · analista · office · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
       "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-08-11T15:58:36-03:00",
-      "coverage": 35,
-      "observed_fit": 77,
-      "fit_points": 27,
-      "covered_points": 35,
+      "seniority": "Pleno",
+      "published_at_br": "2026-07-23T17:00:27-03:00",
+      "coverage": 85,
+      "observed_fit": 76,
+      "fit_points": 65,
+      "covered_points": 85,
       "score_method": "observed_evidence_v3",
       "score": 76,
       "reasons": [
-        "função: 22/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
+        "função: 30/30",
+        "competências observadas: 20/40 (N2/L2, Observabilidade e logs, Incidentes/RCA/ITIL)",
         "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
+        "senioridade: 10/10 (senioridade pleno)",
         "remoto: 5/5",
-        "fit observado: 77% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ]
+        "fit observado: 76% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 939
     },
     {
       "id": "",
-      "title": "Analista de Service Desk (Turno diurno 12x36)",
-      "company": "Icaro Tech",
-      "url": "https://icarotech.gupy.io/job/eyJqb2JJZCI6MTIwNDQyMzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
+      "title": "Analista de Suporte Junior",
+      "company": "Semantix",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97332.php",
+      "source": "Nerdin",
       "work_model": "remote",
-      "city": "",
+      "city": "Home Office",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-11T18:48:43+00:00",
-      "description": "",
-      "skills": [],
+      "published_date": "2026-07-24T09:55:59-04:00",
+      "description": "Prestar suporte técnico às soluções de Identity Management (IDM). Realizar análises iniciais de incidentes e solicitações de suporte. Apoiar na identificação e resolução de problemas relacionados às aplicações e ambiente. Executar consultas básicas em banco de dados para validação de informações. Apoiar na análise de logs e na investigação de falhas. Interagir com equipes técnicas para acompanhamento e resolução de chamados. Registrar, acompanhar e documentar atendimentos realizados. Apoiar na execução de procedimentos operacionais e rotinas de suporte. Participar de treinamentos e capacitações técnicas sobre a plataforma IDM.",
+      "skills": "sistemas · analista · sql server · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
-      "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-08-11T15:48:43-03:00",
-      "coverage": 35,
-      "observed_fit": 77,
-      "fit_points": 27,
-      "covered_points": 35,
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-07-24T10:55:59-03:00",
+      "coverage": 100,
+      "observed_fit": 75,
+      "fit_points": 75,
+      "covered_points": 100,
       "score_method": "observed_evidence_v3",
-      "score": 76,
+      "score": 75,
       "reasons": [
-        "função: 22/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
+        "função: 30/30",
+        "competências observadas: 19/40 (SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
         "remoto: 5/5",
-        "fit observado: 77% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ]
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 634
     },
     {
       "id": "",
@@ -763,6 +913,7 @@
         "fit observado: 74% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -804,6 +955,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -843,6 +995,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -882,46 +1035,11 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 4224
-    },
-    {
-      "id": "",
-      "title": "Analista de Customer Success - B2B",
-      "company": "Paciente 360",
-      "url": "https://paciente360.gupy.io/job/eyJqb2JJZCI6MTE1MzYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-06-23T18:55:13+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-06-23T15:55:13-03:00",
-      "coverage": 38,
-      "observed_fit": 68,
-      "fit_points": 26,
-      "covered_points": 38,
-      "score_method": "observed_evidence_v3",
-      "score": 72,
-      "reasons": [
-        "função: 18/30",
-        "competências observadas: 3/3 (B2B)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 68% com ajuste de incerteza",
-        "cobertura da análise: 38%"
-      ]
     },
     {
       "id": "",
@@ -957,6 +1075,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -997,6 +1116,7 @@
         "fit observado: 71% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1037,6 +1157,7 @@
         "fit observado: 70% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1078,7 +1199,12 @@
         "remoto: 5/5",
         "fit observado: 67% com ajuste de incerteza",
         "cobertura da análise: 85%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "URLError: <urlopen error [Errno -2] Name or service not known>",
+      "description_length": 0
     },
     {
       "id": "",
@@ -1115,6 +1241,7 @@
         "fit observado: 64% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1155,6 +1282,7 @@
         "fit observado: 64% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1197,6 +1325,7 @@
         "fit observado: 64% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -1238,10 +1367,53 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
       "description_length": 3471
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Ao Cliente",
+      "company": "Hope Solution",
+      "url": "https://www.geekhunter.com/pt/hope-solution/jobs/analista-de-suporte-ao-cliente-1",
+      "source": "geekhunter",
+      "work_model": "remote",
+      "city": "Remoto",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-10T17:05:32+00:00",
+      "description": "Analista de Suporte ao Cliente (Software de Gestão para Saúde / Home Care) Hope Solution — empresa de tecnologia por trás do +Vidas (MaisVidas) , plataforma de gestão usada por operações de Home Care, Cuidadores e Cooperativas de Saúde em todo o Brasil. 📍 Rio de Janeiro – RJ · 🏢 Híbrido · 🕒 Segunda a sexta, das 09h às 18h · 💼 Júnior ou Pleno · CLT Sobre a vaga Procuramos uma pessoa para o nosso time de Suporte ao Cliente que seja, ao mesmo tempo, investigadora e comunicadora . Aqui o suporte não é \"abrir e fechar chamado\": é entender de verdade a operação do cliente, reproduzir o problema, separar o que é dúvida do que é bug, e ser a ponte de inteligência entre quem usa o sistema e quem o desenvolve. O +Vidas é um sistema robusto, que cobre desde agenda e escala de plantões até faturamento, glosa, folha de pagamento, prescrição e avaliações clínicas. Você vai dominar esse universo e ajudar nossos clientes a tirar o máximo da plataforma. O que você vai fazer Atender clientes por chamado, chat e call , ouvindo e fazendo as perguntas certas para entender a real necessidade por trás da dúvida. Reproduzir os cenários em ambiente de testes antes de classificar qualquer problema, isolando variáveis (perfil, permissão, configuração, dados específicos). Classificar com precisão cada atendimento: é uma dúvida (treinamento)? um bug? uma sugestão de melhoria? ou um caso em que cabe uma solução paliativa para destravar o cliente agora? Documentar bugs de forma clara e auto-suficiente para o time de desenvolvimento (passo a passo, evidências, comportamento esperado vs. obtido). Encontrar caminhos alternativos no sistema para destravar o cliente, sem comprometer a integridade dos dados. Transformar dúvidas recorrentes em material de ajuda e identificar padrões que viram melhorias de produto. O que esperamos de você Essencial Excelente comunicação, escrita e verbal, com didática para conduzir calls e traduzir o técnico para a linguagem do cliente. Raciocínio lógico e perfil investigativo: gosta de entender a causa, não só de contornar o sintoma. Organização e método: segue um roteiro de triagem, documenta e não trabalha \"de memória\". Maturidade para gerenciar expectativas com honestidade e empatia. Vontade de aprender profundamente o sistema e o negócio dos nossos clientes. Diferenciais (não obrigatórios) Experiência prévia com suporte a software / SaaS, especialmente sistemas de gestão (ERP). Conhecimento da área de saúde, home care, faturamento TISS ou gestão hospitalar Familiaridade com ferramentas de chamado e bases de conhecimento. O que oferecemos 📄 Contratação CLT 🍽️ Vale-refeição (VR) 💰 Salário a combinar envie sua pretensão salarial na candidatura. 🏢 Modelo híbrido , em Rio de Janeiro – RJ 🕒 Jornada de segunda a sexta, das 09h às 18h Oportunidade de dominar um produto completo e crescer junto com um time de tecnologia em expansão. Interessou? Envie seu currículo com sua pretensão salarial para vagasuporte@hopesolution.com.br",
+      "skills": "Comunicação Verbal · Comunicação Escrita · Suporte Técnico · Atendimento ao Cliente",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-10T14:05:32-03:00",
+      "coverage": 100,
+      "observed_fit": 64,
+      "fit_points": 64,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 64,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 2971
     },
     {
       "id": "",
@@ -1279,6 +1451,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -1318,6 +1491,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
@@ -1359,6 +1533,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -1399,46 +1574,11 @@
         "fit observado: 63% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 6102
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte .NET N2",
-      "company": "act digital",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-net-n2-97721.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-06T21:11:19-04:00",
-      "description": "",
-      "skills": "sistemas · analista · .net · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-06T22:11:19-03:00",
-      "coverage": 85,
-      "observed_fit": 62,
-      "fit_points": 53,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 64,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 8/40 (N2/L2)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 62% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
     },
     {
       "id": "",
@@ -1475,84 +1615,11 @@
         "fit observado: 62% com ajuste de incerteza",
         "cobertura da análise: 85%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 2370
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte de Dados",
-      "company": "Pantheon",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-de-dados-97912.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-13T10:31:24-04:00",
-      "description": "",
-      "skills": "dados · analista · sql server · suporte",
-      "categories": [
-        "Dados, BI e IA"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-13T11:31:24-03:00",
-      "coverage": 85,
-      "observed_fit": 61,
-      "fit_points": 52,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 63,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 7/40 (SQL e banco de dados)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 61% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte",
-      "company": "act digital",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-97921.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-13T18:13:26-04:00",
-      "description": "",
-      "skills": "sistemas · analista · itil · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-13T19:13:26-03:00",
-      "coverage": 85,
-      "observed_fit": 60,
-      "fit_points": 51,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 62,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 60% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
     },
     {
       "id": "",
@@ -1566,7 +1633,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-11T18:14:11-04:00",
-      "description": "",
+      "description": "Requisitos: Inglês avançado. Experiência em Suporte a Aplicações; Conhecimento avançado e experiência prática com Enablon (IRIS); Experiência em gestão de incidentes, troubleshooting, análise de causa raiz e suporte em produção; Conhecimento em ITIL (Incidentes, Problemas e Mudanças); Vivência com levantamento de requisitos de negócio e análise de fluxos de trabalho; Experiência com metodologias ágeis; Atuação com fornecedores, stakeholders e equipes globais. Diferenciais: Experiência com Enablon em ambientes ExxonMobil; Conhecimento em aplicações de HSE (Saúde, Segurança e Meio Ambiente); Conhecimento em processos de Upstream; Experiência com aplicações em nuvem; Noções de programação ou scripting; Certificação ITIL; Experiência com integrações de aplicações e interfaces de dados.",
       "skills": "sistemas · analista · itil · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1590,7 +1657,56 @@
         "remoto: 5/5",
         "fit observado: 60% com ajuste de incerteza",
         "cobertura da análise: 85%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 792
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte N1 - Noturno",
+      "company": "3Structure",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-n1-noturno-97827.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-11T09:52:58-04:00",
+      "description": "Principais responsabilidades: • Realizar atendimento e triagem de incidentes e solicitações; • Diagnosticar e solucionar incidentes de Nível 1; • Monitorar dashboards, consoles e ferramentas de infraestrutura; • Realizar validações básicas em serviços, aplicações e servidores; • Coletar evidências e registrar informações nos tickets; • Escalonar incidentes para as equipes N2 e N3; • Acompanhar chamados e garantir o cumprimento dos SLAs; • Realizar a passagem de turno e registrar ocorrências relevantes. Buscamos alguém com perfil analítico, organizado, boa comunicação e experiência em Suporte N1, Service Desk ou monitoramento de ambientes de TI. Se você busca uma oportunidade 100% remota, em escala 12x36 e no período noturno, essa vaga pode ser para você!",
+      "skills": "sistemas · analista · itil · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "PJ"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-11T10:52:58-03:00",
+      "coverage": 85,
+      "observed_fit": 72,
+      "fit_points": 61,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 62,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 20/40 (N2/L2, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "fit observado: 72% com ajuste de incerteza",
+        "-10: posição N1",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 764
     },
     {
       "id": "",
@@ -1627,6 +1743,7 @@
         "fit observado: 55% com ajuste de incerteza",
         "cobertura da análise: 75%"
       ],
+      "enrichment_attempts": 2,
       "enrichment_status": "enriched",
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
@@ -1666,48 +1783,11 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 1899
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Junior",
-      "company": "Semantix",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97332.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-24T09:55:59-04:00",
-      "description": "",
-      "skills": "sistemas · analista · sql server · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-07-24T10:55:59-03:00",
-      "coverage": 85,
-      "observed_fit": 56,
-      "fit_points": 48,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 59,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 7/40 (SQL e banco de dados)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 56% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
     },
     {
       "id": "",
@@ -1743,6 +1823,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
@@ -1782,6 +1863,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1821,6 +1903,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1861,6 +1944,7 @@
         "fit observado: 54% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1868,39 +1952,127 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte – Remoto",
-      "company": "TIVIA TI",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-remoto-97305.php",
+      "title": "Analista de Suporte de TI N1",
+      "company": "Valorei",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-de-ti-n1-97792.php",
       "source": "Nerdin",
       "work_model": "remote",
       "city": "Home Office",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-07-23T16:00:27-04:00",
-      "description": "",
-      "skills": "sistemas · analista · office · suporte",
+      "published_date": "2026-08-10T14:36:12-04:00",
+      "description": "Você está pronto para ser o primeiro ponto de contato na resolução de incidentes técnicos? Buscamos um Analista de Suporte de TI para atuar como Nível 1 de uma plataforma de inteligência de negócios em rápido crescimento na América Latina. Nesta posição, você será responsável por receber, triar e rotear incidentes com precisão, garantindo que cada problema chegue ao time certo no tempo certo. É uma oportunidade perfeita para quem tem sólida experiência em suporte técnico e quer crescer em um ambiente dinâmico e colaborativo. O que você fará no dia a dia: Receber, registrar e fazer a triagem de incidentes reportados pela área de suporte Classificar prioridade e SLA de cada incidente, encaminhando ao time de Nível 2 responsável Acompanhar os incidentes até a resolução, garantindo o cumprimento dos SLAs estabelecidos Comunicar-se com os times técnicos e com o suporte, mantendo o status sempre atualizado Documentar padrões e recorrências para identificar oportunidades de melhoria contínua",
+      "skills": "sistemas · analista · itil · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-07-23T17:00:27-03:00",
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-10T15:36:12-03:00",
       "coverage": 85,
-      "observed_fit": 53,
-      "fit_points": 45,
+      "observed_fit": 65,
+      "fit_points": 55,
       "covered_points": 85,
       "score_method": "observed_evidence_v3",
       "score": 56,
       "reasons": [
         "função: 30/30",
-        "competências técnicas: 0/40",
+        "competências observadas: 14/40 (N2/L2, Incidentes/RCA/ITIL)",
         "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
+        "senioridade: 6/10 (senioridade júnior)",
         "remoto: 5/5",
-        "fit observado: 53% com ajuste de incerteza",
+        "fit observado: 65% com ajuste de incerteza",
+        "-10: posição N1",
         "cobertura da análise: 85%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 999
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Técnico Junior",
+      "company": "Mercado Fácil",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-tecnico-junior-97888.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-13T10:11:06-04:00",
+      "description": "Prestar suporte eficiente aos usuários, atendendo chamados e solicitações relacionados a falhas em sistemas. Resolver problemas simples de hardware e software, como instalação de programas, configuração de dispositivos e diagnóstico de erros comuns. Identificar quando um problema requer intervenção de um nível superior e seguir os procedimentos e protocolos estabelecidos para escalonamento e resolução, garantindo a continuidade dos serviços e o bom funcionamento dos sistemas. ﻿Seu Dia a Dia será: Atendimento de chamados de Help desk de primeiro nível via Chat, WhatsApp e e-mail; Realizar acesso remoto em momentos de necessidade com o cliente; Realizar análises de tickets e dar a tratativa necessária até que o mesmo seja concluído; Acompanhamento do cumprimento de SLA; Instalação e configuração de softwares (Ex: VPN, Friday); Ler documentação e saber procurar nas bases de conhecimento; Atender no modelo de plantão;",
+      "skills": "sistemas · analista · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-13T11:11:06-03:00",
+      "coverage": 100,
+      "observed_fit": 52,
+      "fit_points": 52,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 52,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 927
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Junior",
+      "company": "Governança Brasil",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97449.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-29T08:21:18-04:00",
+      "description": "Efetuar registro de todos os atendimentos realizados, conforme processo da empresa, permitindo a evolução e o acompanhamento do cliente; Identificar necessidades dos clientes e repassar para a área comercial ou de relacionamento; Manter-se atualizado nas questões ligadas ao produto (negócio, legislação, tecnologia).",
+      "skills": "sistemas · analista · office · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-07-29T09:21:18-03:00",
+      "coverage": 100,
+      "observed_fit": 52,
+      "fit_points": 52,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 52,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 317
     },
     {
       "id": "",
@@ -1936,6 +2108,7 @@
         "remoto: 5/5",
         "cobertura da análise: 100%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
@@ -1976,10 +2149,93 @@
         "fit observado: 49% com ajuste de incerteza",
         "cobertura da análise: 90%"
       ],
+      "enrichment_attempts": 1,
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 3767
+    },
+    {
+      "id": "",
+      "title": "Analista de Service Desk (Turno diurno 8x5)",
+      "company": "Icaro Tech",
+      "url": "https://icarotech.gupy.io/job/eyJqb2JJZCI6MTIwNDQ4NzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-11T18:58:36+00:00",
+      "description": "Página da Vaga | Analista de Service Desk (Turno diurno 8x5) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Service Desk (Turno diurno 8x5) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Como parte do time de Engenharia, você atuará em turno diurno 12x36 como primeiro nível de atendimento e interface com um importante cliente do setor de telecomunicações nacional, fornecendo suporte técnico aos usuários, garantindo uma solução oportuna e satisfatória. Você será responsável por monitorar e garantir a disponibilidade de sistemas, agindo com rápido atendimento às solicitações e falhas reportadas, contando com o apoio das equipes de segundo e terceiro nível. Responsabilidades e atribuições Você será responsável por:﻿ Atendimento de primeiro nível de requisições do cliente, por sistema, email e telefone; Registro dos atendimentos em ferramentas de gestão de tickets; Acompanhar e monitorar ambiente do cliente, verificando sistemas e máquinas para garantir o pleno funcionamento; Analisar e executar manutenções preventivas nos ambientes do cliente; Manutenção do sistema de monitoração; Receber e executar solicitações de serviço (SR) dos clientes; Receber e analisar tickets de incidentes; Prover solução de contorno para minimizar impacto no cliente; Acionar e escalar outras equipes quando necessário; Requisitos e qualificações O que você precisa saber: Conhecimentos básicos de informática; Conhecimentos de Windows e Office; Noções básicas de Unix; O que você precisa ter: Disponibilidade para atuar na escala 12x36; Ensino Médio Completo; Comunicação clara e eficiente; Trabalho em equipe; Iniciativa; Raciocínio lógico; Visão crítica e senso de urgência; Inglês básico (Leitura, Escrita); Você se destaca se tiver: Conhecimentos intermediários de TI (sistemas e hardware); Experiências com atendimento ao público; Vivência com ferramentas de registro de tickets; Informações adicionais Dentro da Icaro nós incentivamos muito nossos profissionais a cultivar nossa Cultura, e apesar de cada um ter seu próprio jeito de ser, todos temos algo em comum: somos Icaronautas 🚀 O que faz de nós um Great Place to Work? No dia-a-dia: Work anywhere: pode trabalhar remoto ou de um dos nossos escritórios Birthday Off Horário flexível Vale alimentação Vale refeição Vale transporte No dress code Saúde e bem-estar: WellHub Plano de saúde Plano odontológico Parcerias com profissionais e estabelecimentos Desenvolvimento contínuo: Auxílio pós-graduação Bolsa de idiomas Programa de treinamento e capacitação Programa de tutoria e mentoria Apoio e cuidado: Auxílio Home Office Auxílio creche Seguro de Vida Indicação premiada Participação nos lucros Breaktime: acompanhamento do RH Etapas do processo Etapa 1: Cadastro Cadastro Etapa 2: Testes Testes Etapa 3: Entrevista RH Entrevista RH Etapa 4: Entrevista Técnica Entrevista Técnica Etapa 5: Análise das Entrevistas Análise das Entrevistas Etapa 6: Contratação Contratação Venha fazer parte do nosso time de Icaronautas 🚀 Quem somos? Desde 1997 a Icaro Tech usa o poder do conhecimento e da tecnologia da informação para oferecer as melhores soluções em Operações Inteligentes e tem como missão principal simplificar a vida das pessoas!!! Razões para trabalhar conosco: Cultivamos um ambiente positivo e colaborativo Nossa liderança está sempre de portas abertas Investimos em nossos talentos Somos apaixonados por tecnologia Somos inconformados com resultados não atingidos #SomosUmTime 🚀💙 Compartilhar vaga Link copiado Acompanhe nossas redes sociais 💻📱 Website LinkedIn Facebook Instagram Glassdoor Candidatar-se Copiar link Erro ao copiar link Candidatar-se Powered by Gupy 2026. Todos os direitos reservados.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-11T15:58:36-03:00",
+      "coverage": 90,
+      "observed_fit": 49,
+      "fit_points": 44,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 52,
+      "reasons": [
+        "função: 22/30",
+        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 49% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 3760
+    },
+    {
+      "id": "",
+      "title": "Analista de Service Desk (Turno diurno 12x36)",
+      "company": "Icaro Tech",
+      "url": "https://icarotech.gupy.io/job/eyJqb2JJZCI6MTIwNDQyMzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-11T18:48:43+00:00",
+      "description": "Página da Vaga | Analista de Service Desk (Turno diurno 12x36) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Service Desk (Turno diurno 12x36) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Como parte do time de Engenharia, você atuará em turno diurno 12x36 como primeiro nível de atendimento e interface com um importante cliente do setor de telecomunicações nacional, fornecendo suporte técnico aos usuários, garantindo uma solução oportuna e satisfatória. Você será responsável por monitorar e garantir a disponibilidade de sistemas, agindo com rápido atendimento às solicitações e falhas reportadas, contando com o apoio das equipes de segundo e terceiro nível. Responsabilidades e atribuições Você será responsável por:﻿ Atendimento de primeiro nível de requisições do cliente, por sistema, email e telefone; Registro dos atendimentos em ferramentas de gestão de tickets; Acompanhar e monitorar ambiente do cliente, verificando sistemas e máquinas para garantir o pleno funcionamento; Analisar e executar manutenções preventivas nos ambientes do cliente; Manutenção do sistema de monitoração; Receber e executar solicitações de serviço (SR) dos clientes; Receber e analisar tickets de incidentes; Prover solução de contorno para minimizar impacto no cliente; Acionar e escalar outras equipes quando necessário; Requisitos e qualificações O que você precisa saber: Conhecimentos básicos de informática; Conhecimentos de Windows e Office; Noções básicas de Unix; O que você precisa ter: Disponibilidade para atuar na escala 12x36; Ensino Médio Completo; Comunicação clara e eficiente; Trabalho em equipe; Iniciativa; Raciocínio lógico; Visão crítica e senso de urgência; Inglês básico (Leitura, Escrita); Você se destaca se tiver: Conhecimentos intermediários de TI (sistemas e hardware); Experiências com atendimento ao público; Vivência com ferramentas de registro de tickets; Informações adicionais Dentro da Icaro nós incentivamos muito nossos profissionais a cultivar nossa Cultura, e apesar de cada um ter seu próprio jeito de ser, todos temos algo em comum: somos Icaronautas 🚀 O que faz de nós um Great Place to Work? No dia-a-dia: Work anywhere: pode trabalhar remoto ou de um dos nossos escritórios Birthday Off Horário flexível Vale alimentação Vale refeição Vale transporte No dress code Saúde e bem-estar: WellHub Plano de saúde Plano odontológico Parcerias com profissionais e estabelecimentos Desenvolvimento contínuo: Auxílio pós-graduação Bolsa de idiomas Programa de treinamento e capacitação Programa de tutoria e mentoria Apoio e cuidado: Auxílio Home Office Auxílio creche Seguro de Vida Indicação premiada Participação nos lucros Breaktime: acompanhamento do RH Etapas do processo Etapa 1: Cadastro Cadastro Etapa 2: Testes Testes Etapa 3: Entrevista RH Entrevista RH Etapa 4: Entrevista Técnica Entrevista Técnica Etapa 5: Análise das Entrevistas Análise das Entrevistas Etapa 6: Contratação Contratação Venha fazer parte do nosso time de Icaronautas 🚀 Quem somos? Desde 1997 a Icaro Tech usa o poder do conhecimento e da tecnologia da informação para oferecer as melhores soluções em Operações Inteligentes e tem como missão principal simplificar a vida das pessoas!!! Razões para trabalhar conosco: Cultivamos um ambiente positivo e colaborativo Nossa liderança está sempre de portas abertas Investimos em nossos talentos Somos apaixonados por tecnologia Somos inconformados com resultados não atingidos #SomosUmTime 🚀💙 Compartilhar vaga Link copiado Acompanhe nossas redes sociais 💻📱 Website LinkedIn Facebook Instagram Glassdoor Candidatar-se Copiar link Erro ao copiar link Candidatar-se Powered by Gupy 2026. Todos os direitos reservados.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-11T15:48:43-03:00",
+      "coverage": 90,
+      "observed_fit": 49,
+      "fit_points": 44,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 52,
+      "reasons": [
+        "função: 22/30",
+        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 49% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 3764
     },
     {
       "id": "",
@@ -1993,7 +2249,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-14T09:02:48-04:00",
-      "description": "",
+      "description": "Estamos contratando, para início imediato: - Analista de Suporte e Atendimento ao cliente Formato: 100% Remoto Regime: PJ Aguardo seu cv ou, de sua indicação. Venha com nós, girar fortemente sua carreira",
       "skills": "sistemas · analista · office · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -2017,7 +2273,12 @@
         "remoto: 5/5",
         "fit observado: 48% com ajuste de incerteza",
         "cobertura da análise: 85%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 203
     },
     {
       "id": "",
@@ -2031,7 +2292,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-13T19:06:45-04:00",
-      "description": "",
+      "description": "Atender e dar suporte a centenas de centrais de mobilidade em todo o Brasil, via Chat, e-mail e telefone. Apoiar clientes na configuração e utilização da plataforma, orientando sobre boas práticas e ajustando parâmetros quando necessário. Colaborar com as áreas de Produto e Sucesso do Cliente, compartilhando feedbacks, relatos de clientes e oportunidades de melhoria. Registrar e documentar soluções, aprendizados e padrões de atendimento para fortalecer a base de conhecimento e agilizar futuras resoluções. Atuar com empatia, paciência e foco em resultado, garantindo que cada atendimento se transforme em uma boa experiência para o cliente.",
       "skills": "sistemas · analista · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -2053,117 +2314,12 @@
         "remoto: 5/5",
         "fit observado: 48% com ajuste de incerteza",
         "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Técnico Junior",
-      "company": "Mercado Fácil",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-tecnico-junior-97888.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-13T10:11:06-04:00",
-      "description": "",
-      "skills": "sistemas · analista · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
       ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-13T11:11:06-03:00",
-      "coverage": 85,
-      "observed_fit": 48,
-      "fit_points": 41,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Ao Cliente",
-      "company": "Hope Solution",
-      "url": "https://www.geekhunter.com/pt/hope-solution/jobs/analista-de-suporte-ao-cliente-1",
-      "source": "geekhunter",
-      "work_model": "remote",
-      "city": "Remoto",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-10T17:05:32+00:00",
-      "description": "",
-      "skills": "Comunicação Verbal · Comunicação Escrita · Suporte Técnico · Atendimento ao Cliente",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-10T14:05:32-03:00",
-      "coverage": 85,
-      "observed_fit": 48,
-      "fit_points": 41,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Junior",
-      "company": "Governança Brasil",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97449.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-29T08:21:18-04:00",
-      "description": "",
-      "skills": "sistemas · analista · office · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-07-29T09:21:18-03:00",
-      "coverage": 85,
-      "observed_fit": 48,
-      "fit_points": 41,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 645
     },
     {
       "id": "",
@@ -2177,7 +2333,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-07T11:33:10-04:00",
-      "description": "",
+      "description": "A Action Labs está em busca de um profissional de TI para nos apoiar remotamente sempre que surgir algum problema em nossas máquinas: travamentos, instalação de programas, configuração de rede, vírus, lentidão, dúvidas sobre atualizações, erros de sistema, entre outros. Se você trabalha com suporte técnico de forma autônoma e topa esse formato de atendimento sob demanda, envie seu contato por e-mail. E, se conhecer alguém com esse perfil, compartilha essa oportunidade! 🙌 📍 Remoto | 💼 Freelancer, acionamento pontual (sem vínculo fixo) 💰 Cobrança por chamado",
       "skills": "sistemas · analista · office · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -2201,85 +2357,12 @@
         "remoto: 5/5",
         "fit observado: 43% com ajuste de incerteza",
         "cobertura da análise: 75%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte N1 - Noturno",
-      "company": "3Structure",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-n1-noturno-97827.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-11T09:52:58-04:00",
-      "description": "",
-      "skills": "sistemas · analista · itil · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
       ],
-      "contract_types": [
-        "PJ"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-11T10:52:58-03:00",
-      "coverage": 85,
-      "observed_fit": 55,
-      "fit_points": 47,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 48,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 55% com ajuste de incerteza",
-        "-10: posição N1",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte de TI N1",
-      "company": "Valorei",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-de-ti-n1-97792.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-10T14:36:12-04:00",
-      "description": "",
-      "skills": "sistemas · analista · itil · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-10T15:36:12-03:00",
-      "coverage": 85,
-      "observed_fit": 55,
-      "fit_points": 47,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 48,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 55% com ajuste de incerteza",
-        "-10: posição N1",
-        "cobertura da análise: 85%"
-      ]
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 562
     },
     {
       "id": "",
@@ -2314,7 +2397,12 @@
         "senioridade: 9/10 (senioridade sênior/especialista)",
         "remoto: 5/5",
         "cobertura da análise: 100%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
     },
     {
       "id": "",
@@ -2328,7 +2416,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-07T20:19:33+00:00",
-      "description": "",
+      "description": "Sobre a vaga Buscamos um(a) Desenvolvedor(a) de Software Full Stack com sólida capacidade de análise técnica e compreensão de arquiteturas corporativas. O(a) profissional atuará no desenvolvimento de soluções escaláveis, seguras e integradas, combinando tecnologias modernas de front-end e back-end com práticas de automação, DevSecOps e inteligência artificial generativa. Responsabilidades principais Desenvolver aplicações Full Stack com JavaScript/TypeScript e Python; Atuar com frameworks como Angular, React ou Nest.js; Projetar e manter arquiteturas corporativas escaláveis; Aplicar práticas de versionamento com Git; Implementar pipelines de CI/CD e adoção de cultura DevSecOps; Garantir segurança no desenvolvimento e integração de APIs; Trabalhar com bancos de dados, microsserviços e containers Docker; Utilizar computação em nuvem para entrega de soluções corporativas; Aplicar inteligência artificial generativa na produção, revisão, pesquisa e otimização de conteúdo técnico; Utilizar LLMs e técnicas de engenharia de prompts; Seguir metodologias ágeis, preferencialmente Scrum. O que buscamos Profissional com perfil analítico, proativo e colaborativo, capaz de traduzir demandas complexas em soluções técnicas eficientes e seguras.",
       "skills": "Git · Nest.js · Python · TypeScript · JavaScript · Angular · React · Engenharia de prompts · APIs · LLMs · DevSecOps · Banco de dados",
       "categories": [
         "TI e Desenvolvimento"
@@ -2352,7 +2440,12 @@
         "remoto: 5/5",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 100%"
-      ]
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 1247
     },
     {
       "id": "",
@@ -2467,6 +2560,47 @@
         "fit observado: 35% com ajuste de incerteza",
         "cobertura da análise: 75%"
       ]
+    },
+    {
+      "id": "",
+      "title": "Analista de Customer Success - B2B",
+      "company": "Paciente 360",
+      "url": "https://paciente360.gupy.io/job/eyJqb2JJZCI6MTE1MzYwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-06-23T18:55:13+00:00",
+      "description": "Descrição da vaga Somos uma Startup impulsionada e motivada a desenvolver alunos e profissionais da saúde através do ensino, utilizando metodologias ativas e de interação imersiva entre usuário e educador. Nosso propósito une nossos colaboradores a atingirem um só objetivo: EDUCAR PARA MELHORAR A ASSISTÊNCIA À SAÚDE! Estamos em um processo de crescimento exponencial e isso envolve diretamente o crescimento do TIME, por isso buscamos um(a) Analista de Customer Success com foco em B2B para nosso time de Suporte que se sinta atraído(a) e engajado(a) por nossos valores: Humanização, Interatividade, Qualidade, Respeito, Meritocracia e Inovação. Se identificou? Venha fazer parte do time Paciente360! Responsabilidades e atribuições Análise de Dados: Interpretar e analisar os dados coletados, utilizando ferramentas estatísticas e técnicas analíticas para identificar padrões, tendências e insights relevantes. Extrair conclusões significativas e recomendar ações estratégicas com base nas descobertas. Relatórios e Apresentações: Elaborar relatórios completos e concisos, apresentando os resultados das pesquisas. Preparar apresentações eficazes para comunicar as conclusões às partes interessadas. Gestão de Plataforma: Organizar e manter a plataforma com informações relevantes para o cliente, entender necessidades de adequações, garantindo a integridade e confidencialidade dos dados. Relacionamento com Clientes: Estabelecer e manter um relacionamento positivo e de confiança com os clientes, atuando como ponto de contato principal para suas dúvidas, problemas ou solicitações. Suporte e Resolução de Problemas: Fornecer suporte técnico e auxílio na resolução de problemas dos clientes, garantindo que suas questões sejam tratadas de maneira ágil e eficiente. Identificação de Necessidades do Cliente: Proativamente buscar entender as necessidades e objetivos dos clientes, buscando identificar maneiras de agregar valor e melhor atender às suas expectativas. Coleta de Feedback: Solicitar feedback dos clientes sobre o produto/serviço, atendimento e experiência geral, e transmitir essas informações aos departamentos relevantes para contribuir com melhorias contínuas Entender a fundo todas as soluções oferecidas pela empresa; Agir proativamente junto ao cliente na construção de usos estratégicos das soluções. Desenvolver planos e ações para promover o uso da plataforma; Realizar onboarding e ativar os clientes após a venda; Treinamento e consultoria; Realizar reuniões e apresentações; Fornecer soluções práticas para o dia a dia do cliente; Acompanhar a jornada de sucesso do cliente; Desenvolver a jornada do cliente; Entender o que é sucesso para seu cliente. Requisitos e qualificações Requisitos mínimos: Trânsito e experiência com atendimento ao cliente junto às principais Instituições de Ensino Superior do país; Formação em áreas como Administração, Ciências da Saúde ou áreas correlatas. Empatia e habilidades de escuta ativa para entender as necessidades dos clientes. Capacidade de trabalhar em equipe e colaborar com outros departamentos. Orientação para resultados e foco em satisfação do cliente. Capacidade de compreender e resolver problemas de forma proativa. Excelentes habilidades de comunicação verbal e escrita. Experiência anterior em atendimento ao cliente, suporte ou relacionamento com clientes é uma vantagem.B2B Flexibilidade para se adaptar a diferentes projetos e prazos. Excelentes habilidades de comunicação escrita e verbal para apresentar resultados e insights de forma clara e concisa. Habilidades analíticas e capacidade de trabalhar com dados quantitativos e qualitativos. Movido(a) por desafios e comprometido(a) com resultados. Você se destaca com os diferenciais: Ter disponibilidade para viagens; Espanhol fluente; Atitude competitiva e fast learner; Ownership (senso de dono), Habilidade com treinamentos e Atendimento ao cliente; Criatividade e iniciativa para solução em situações de conflito; Vivência com a metodologia Customer Success. Informações adicionais 🏛️Nossa atuação é home office Horário de trabalho: das 8 às 18 horas, de segunda à sexta-feira. Na Paciente360 você vai encontrar: Recesso remunerado (30 dias a cada 12 meses trabalhados) 🏖️ Bônus anual sobre resultados conforme política vigente para seu cargo;💰 Dayoff de aniversário; Plano de saúde; 🏥 Plano odontológico; 🦷 GymPass (passaporte de saúde e bem-estar); Chance de crescimento, com priorização de progressão interna. 👩🏽‍🦽 Mais inclusão: essa vaga também é destinada a pessoas com deficiência. DIVERSIDADE: a Paciente360 valoriza a diversidade e as informações adicionais prestadas nos campos de diversidade são muito importantes para nós, por isso pedimos para que não deixe de responder.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-06-23T15:55:13-03:00",
+      "coverage": 75,
+      "observed_fit": 35,
+      "fit_points": 26,
+      "covered_points": 75,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função: 18/30",
+        "competências observadas: 3/40 (B2B)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 35% com ajuste de incerteza",
+        "cobertura da análise: 75%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 4726
     },
     {
       "id": "",
