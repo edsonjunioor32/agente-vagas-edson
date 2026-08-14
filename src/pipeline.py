@@ -11,7 +11,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 PROFILE_PATH = ROOT / "perfil.json"
 OUT = ROOT / "output"
-DEFAULT_SOURCE = "https://raw.githubusercontent.com/edsonjunioor32/todas-as-vagas/main/jobs-dashboard/data/jobs.json"
+DEFAULT_SOURCE = "https://raw.githubusercontent.com/edsonjunioor32/todas-as-vagas/main/docs/data/vagas.json"
 SOURCE_URL = os.getenv("SOURCE_URL", DEFAULT_SOURCE)
 MAX_JOBS = int(os.getenv("MAX_JOBS", "100"))
 MIN_SCORE = int(os.getenv("MIN_SCORE", "35"))
@@ -28,7 +28,7 @@ def norm(value):
 
 def load_json_url(url):
     req = Request(url, headers={"User-Agent": "agente-vagas-edson/1.0"})
-    with urlopen(req, timeout=60) as response:
+    with urlopen(req, timeout=120) as response:
         return json.loads(response.read().decode("utf-8"))
 
 
@@ -125,9 +125,9 @@ def score_job(job, profile):
         score -= min(35, 10 * len(penalties))
         reasons.append("penalidades: " + ", ".join(penalties[:3]))
 
-    if any(x in title for x in ("senior", "senior", "especialista", "sr")):
+    if any(x in title for x in ("senior", "sênior", "especialista", " sr ")):
         score += 3
-    if any(x in title for x in ("estagio", "trainee", "aprendiz")):
+    if any(x in title for x in ("estagio", "estágio", "trainee", "aprendiz")):
         score -= 30
 
     return max(0, min(100, score)), reasons
@@ -135,12 +135,14 @@ def score_job(job, profile):
 
 def main():
     profile = json.loads(PROFILE_PATH.read_text(encoding="utf-8"))
+    print(f"Fonte: {SOURCE_URL}")
     raw = load_json_url(SOURCE_URL)
     if isinstance(raw, dict):
-        raw = raw.get("jobs") or raw.get("data") or raw.get("items") or []
+        raw = raw.get("jobs") or raw.get("vagas") or raw.get("data") or raw.get("items") or []
     if not isinstance(raw, list):
         raise RuntimeError("Formato de fonte não reconhecido: esperado array de vagas")
 
+    print(f"Vagas recebidas da fonte: {len(raw)}")
     now = datetime.now(BR_TZ)
     cutoff = now - timedelta(days=MAX_AGE_DAYS)
     unique = {}
@@ -153,7 +155,6 @@ def main():
         if market and not any(x in market for x in ("br", "brasil", "brazil")):
             continue
         published = parse_date(job["published_date"])
-        # Datas futuras normalmente indicam erro de timezone/origem. Limitamos a agora.
         if published and published > now + timedelta(minutes=5):
             published = now
         if published and published < cutoff:
