@@ -42,7 +42,7 @@ jobs:
           python-version: "3.12"
 
       - name: Validar sintaxe
-        run: python -m py_compile src/pipeline.py src/scoring_v2.py src/pipeline_v2.py
+        run: python -m py_compile src/pipeline.py src/scoring_v2.py src/enrichment.py src/pipeline_v2.py
 
       - name: Executar testes
         run: python -m unittest discover -s tests -v
@@ -53,6 +53,10 @@ jobs:
           MAX_JOBS: ${{ github.event.inputs.max_jobs || '100' }}
           MAX_AGE_DAYS: "60"
           ONLY_REMOTE: "true"
+          ENRICH_LIMIT: "40"
+          ENRICH_WORKERS: "6"
+          ENRICH_TIMEOUT: "10"
+          MAX_HTML_BYTES: "2500000"
         run: python src/pipeline_v2.py
 
       - name: Validar resultados
@@ -70,7 +74,11 @@ jobs:
           assert all(0 <= int(j.get("score", -1)) <= 100 for j in data["jobs"]), "score fora de 0-100"
           assert all(0 <= int(j.get("coverage", -1)) <= 100 for j in data["jobs"]), "coverage ausente ou fora de 0-100"
           assert all(j.get("score_method") == "observed_evidence_v3" for j in data["jobs"]), "método de score incorreto"
-          print(f"Resultados validados: {data['count']} vagas")
+          enrichment = data.get("enrichment")
+          assert isinstance(enrichment, dict), "resumo de enriquecimento ausente"
+          assert all(k in enrichment for k in ("attempted", "enriched", "failed")), "estatísticas de enriquecimento incompletas"
+          assert enrichment["attempted"] >= enrichment["enriched"] >= 0, "estatísticas de enriquecimento inválidas"
+          print(f"Resultados validados: {data['count']} vagas; enriquecidas: {enrichment['enriched']}/{enrichment['attempted']}")
           PY
 
       - name: Publicar resultados atualizados
