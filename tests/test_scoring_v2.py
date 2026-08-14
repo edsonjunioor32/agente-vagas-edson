@@ -79,9 +79,10 @@ class ScoringV3Tests(unittest.TestCase):
     def test_short_alias_api_uses_word_boundary(self):
         false_hit = job("Analista de Suporte", "capital humano")
         true_hit = job("Analista de Suporte", "API REST")
-        score_job(false_hit)
-        score_job(true_hit)
-        self.assertLess(false_hit["coverage"], true_hit["coverage"])
+        false_score, _ = score_job(false_hit)
+        true_score, _ = score_job(true_hit)
+        self.assertLess(false_score, true_score)
+        self.assertEqual(false_hit["coverage"], true_hit["coverage"])
 
     def test_coverage_is_always_valid_percentage(self):
         item = job("Analista de Suporte", seniority="")
