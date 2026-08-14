@@ -1,4 +1,4 @@
-# Vagas priorizadas — 14/08/2026 11:59 (UTC-3)
+# Vagas priorizadas — 14/08/2026 12:00 (UTC-3)
 
 Total: **100**
 Enriquecimento: **26/40** vagas com descrição ampliada
