@@ -80,9 +80,6 @@ def _skill_evidence(job, body):
             matched_weight += weight
             matched.append(label)
 
-    # Se a fonte trouxe lista de skills ou descrição razoavelmente completa, o bloco técnico
-    # pode ser avaliado por inteiro. Caso contrário, só contamos como "coberto" aquilo que
-    # realmente apareceu no snapshot (por exemplo N2 no próprio título).
     has_explicit_skills = bool(norm(job.get("skills")))
     description = norm(job.get("description"))
     has_full_description = len(description) >= 200
@@ -113,8 +110,6 @@ def _seniority_evidence(job, title):
         return 6, 10, "senioridade júnior"
     if _contains_any(combined, ("lider", "lead", "manager", "gerente", "coordenador")):
         return 4, 10, "liderança/gestão"
-    # Campo de senioridade preenchido, mas sem classe reconhecida: há evidência parcial,
-    # porém não assumimos compatibilidade total.
     if seniority and seniority not in {"nao informado", "não informado", "unknown"}:
         return 7, 10, "senioridade informada, classificação não mapeada"
     return 0, 0, "senioridade não informada"
@@ -125,7 +120,6 @@ def score_job(job, profile=None):
     body = _job_text(job)
     reasons = []
 
-    # Função e remoto são sempre observáveis no conjunto atual.
     role = _role_points(title)
     role_covered = 30
     remote = 5 if is_remote(job) else 0
@@ -137,8 +131,14 @@ def score_job(job, profile=None):
 
     points = role + skills + domain + seniority + remote
     covered = role_covered + skills_covered + domain_covered + seniority_covered + remote_covered
-    raw_fit = round((points / covered) * 100) if covered else 0
-    score = raw_fit
+    coverage = max(0, min(100, round(covered)))
+    observed_fit = round((points / covered) * 100) if covered else 0
+
+    # O fit observado mede apenas o que conseguimos avaliar. Para a aderência exibida,
+    # moderamos scores extremos quando a cobertura é baixa, usando 75% como prior neutro.
+    # Ex.: 100% observado com 35% de cobertura vira ~84%, em vez de sugerir certeza total.
+    confidence = coverage / 100
+    score = round(observed_fit * confidence + 75 * (1 - confidence))
 
     reasons.append(f"função: {role}/30") if role else reasons.append("função-alvo não identificada: 0/30")
     if matched_skills:
@@ -157,13 +157,13 @@ def score_job(job, profile=None):
         reasons.append("senioridade não informada — não penalizada")
     if remote:
         reasons.append("remoto: 5/5")
+    if coverage < 100:
+        reasons.append(f"fit observado: {observed_fit}% com ajuste de incerteza")
 
-    # Compartilhar tecnologias/segmento não basta para ser vaga-alvo.
     if role == 0:
         score = min(score, 45)
         reasons.append("teto aplicado: cargo fora da função-alvo")
 
-    # Customer Success só ultrapassa a faixa de triagem quando há evidência técnica concreta.
     if _contains_any(title, ("customer success", "sucesso do cliente")):
         technical_cs = bool(matched_skills) or _contains_any(body, ("technical", "tecnico"))
         if not technical_cs:
@@ -179,11 +179,9 @@ def score_job(job, profile=None):
         reasons.append("penalidade: função principal fora de suporte/sustentação")
 
     score = max(0, min(100, round(score)))
-    coverage = max(0, min(100, round(covered)))
 
-    # Mantém compatibilidade com pipeline.main(), que espera apenas (score, reasons),
-    # e grava as novas métricas no próprio objeto da vaga para irem ao JSON final.
     job["coverage"] = coverage
+    job["observed_fit"] = observed_fit
     job["fit_points"] = points
     job["covered_points"] = covered
     job["score_method"] = "observed_evidence_v3"
