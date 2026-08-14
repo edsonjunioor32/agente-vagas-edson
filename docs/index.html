@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Painel de vagas remotas priorizadas para Edson Paiva Jr.">
+  <title>Radar de Vagas — Edson Paiva Jr.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <div class="eyebrow">AGENTE DE VAGAS</div>
+      <div class="hero-grid">
+        <div>
+          <h1>Radar de oportunidades</h1>
+          <p class="hero-copy">Vagas remotas no Brasil priorizadas por aderência ao perfil de suporte técnico, sustentação, pagamentos e incidentes.</p>
+        </div>
+        <div class="hero-meta">
+          <div class="metric"><strong id="totalJobs">—</strong><span>vagas</span></div>
+          <div class="metric"><strong id="topScore">—</strong><span>melhor aderência</span></div>
+          <div class="metric wide"><strong id="updatedAt">—</strong><span>última atualização</span></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell main-content">
+    <section class="filters" aria-label="Filtros de vagas">
+      <label class="search-field">
+        <span>Buscar</span>
+        <input id="search" type="search" placeholder="Cargo, empresa, tecnologia..." autocomplete="off">
+      </label>
+      <label>
+        <span>Fonte</span>
+        <select id="sourceFilter"><option value="">Todas</option></select>
+      </label>
+      <label>
+        <span>Aderência mínima</span>
+        <select id="scoreFilter">
+          <option value="35">35% ou mais</option>
+          <option value="40">40% ou mais</option>
+          <option value="45">45% ou mais</option>
+          <option value="50">50% ou mais</option>
+        </select>
+      </label>
+      <label>
+        <span>Ordenar por</span>
+        <select id="sortFilter">
+          <option value="score">Maior aderência</option>
+          <option value="recent">Mais recentes</option>
+          <option value="company">Empresa A–Z</option>
+        </select>
+      </label>
+      <button id="clearFilters" type="button" class="secondary">Limpar filtros</button>
+    </section>
+
+    <section class="result-bar">
+      <p><strong id="resultCount">—</strong> oportunidades encontradas</p>
+      <p id="status" class="status" aria-live="polite">Carregando vagas…</p>
+    </section>
+
+    <section id="jobs" class="jobs" aria-label="Lista de vagas"></section>
+
+    <div id="emptyState" class="empty" hidden>
+      <h2>Nenhuma vaga encontrada</h2>
+      <p>Tente reduzir a aderência mínima ou alterar os filtros.</p>
+    </div>
+  </main>
+
+  <template id="jobTemplate">
+    <article class="job-card">
+      <div class="score-box"><strong class="score"></strong><span>aderência</span></div>
+      <div class="job-body">
+        <div class="job-heading">
+          <div>
+            <h2 class="job-title"></h2>
+            <p class="company"></p>
+          </div>
+          <span class="source-pill"></span>
+        </div>
+        <div class="chips"></div>
+        <p class="reasons"></p>
+        <div class="job-footer">
+          <span class="published"></span>
+          <a class="apply" target="_blank" rel="noopener noreferrer">Ver vaga <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <footer class="footer shell">
+    <p>Dados gerados automaticamente pelo Agente de Vagas. Confirme requisitos e disponibilidade diretamente na página da vaga.</p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
