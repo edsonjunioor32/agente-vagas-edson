@@ -15,10 +15,10 @@ on:
     branches: [main]
     paths:
       - "src/**"
+      - "tests/**"
       - "perfil.json"
       - ".github/workflows/vagas.yml"
   schedule:
-    # 11:00 UTC = 08:00 no horário UTC-3 (Fortaleza/Brasília)
     - cron: "0 11 * * *"
 
 permissions:
@@ -41,12 +41,34 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Validar sintaxe
+        run: python -m py_compile src/pipeline.py
+
+      - name: Executar testes
+        run: python -m unittest discover -s tests -v
+
       - name: Executar pipeline
         env:
           MIN_SCORE: ${{ github.event.inputs.min_score || '35' }}
           MAX_JOBS: ${{ github.event.inputs.max_jobs || '100' }}
           MAX_AGE_DAYS: "60"
+          ONLY_REMOTE: "true"
         run: python src/pipeline.py
+
+      - name: Validar resultados
+        run: |
+          test -s output/vagas_ranqueadas.json
+          test -s output/vagas_ranqueadas.csv
+          test -s output/resumo.md
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data = json.loads(Path("output/vagas_ranqueadas.json").read_text(encoding="utf-8"))
+          assert isinstance(data.get("jobs"), list), "jobs ausente"
+          assert data.get("count") == len(data["jobs"]), "count divergente"
+          assert all(j.get("url") and j.get("title") for j in data["jobs"]), "vaga sem título/URL"
+          print(f"Resultados validados: {data['count']} vagas")
+          PY
 
       - name: Publicar resultados atualizados
         run: |
