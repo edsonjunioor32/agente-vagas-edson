@@ -137,23 +137,26 @@ def fetch_inhire_description(url, timeout=10, max_bytes=2500000):
         return None
     tenant, job_id = parsed
     endpoint = f"{INHIRE_API}/{job_id}"
-    req = Request(endpoint, headers={
-        "X-Inhire-Client": "web-inhire",
-        "X-Tenant": tenant,
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-        "User-Agent": "AgenteVagasEdson/2.1",
-    })
-    try:
-        with urlopen(req, timeout=timeout) as response:
-            payload = response.read(max_bytes + 1)[:max_bytes]
-        detail = json.loads(payload.decode("utf-8-sig", errors="replace"))
-        description = extract_inhire_description(detail)
-        if description:
-            return {"status": "enriched", "method": "inhire-api", "error": "", "description": description}
-        return {"status": "not_available", "method": "inhire-api", "error": "descrição útil não encontrada", "description": ""}
-    except Exception as exc:
-        return {"status": "error", "method": "inhire-api", "error": f"{type(exc).__name__}: {str(exc)[:180]}", "description": ""}
+    last_error = ""
+    for attempt in range(2):
+        req = Request(endpoint, headers={
+            "X-Inhire-Client": "web-inhire", "X-Tenant": tenant,
+            "Content-Type": "application/json", "Accept": "application/json",
+            "User-Agent": "AgenteVagasEdson/2.2",
+        })
+        try:
+            with urlopen(req, timeout=timeout) as response:
+                payload = response.read(max_bytes + 1)[:max_bytes]
+            detail = json.loads(payload.decode("utf-8-sig", errors="replace"))
+            description = extract_inhire_description(detail)
+            if description:
+                return {"status": "enriched", "method": "inhire-api", "error": "", "description": description}
+            return {"status": "not_available", "method": "inhire-api", "error": "descrição útil não encontrada", "description": ""}
+        except Exception as exc:
+            last_error = f"{type(exc).__name__}: {str(exc)[:180]}"
+            if attempt == 0:
+                continue
+    return {"status": "error", "method": "inhire-api", "error": last_error, "description": ""}
 
 
 def fetch_generic_description(url, timeout=10, max_bytes=2500000):
@@ -164,7 +167,7 @@ def fetch_generic_description(url, timeout=10, max_bytes=2500000):
             result["error"] = "URL não HTTP(S)"
             return result
         req = Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AgenteVagasEdson/2.1)",
+            "User-Agent": "Mozilla/5.0 (compatible; AgenteVagasEdson/2.2)",
             "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
             "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.7",
         })
@@ -173,7 +176,6 @@ def fetch_generic_description(url, timeout=10, max_bytes=2500000):
             charset = response.headers.get_content_charset() or "utf-8"
             payload = response.read(max_bytes + 1)[:max_bytes]
         body = payload.decode(charset, errors="replace")
-
         if "json" in content_type.lower():
             try:
                 posting = walk_jobposting(json.loads(body))
@@ -183,7 +185,6 @@ def fetch_generic_description(url, timeout=10, max_bytes=2500000):
                         return {"status": "enriched", "method": "json", "error": "", "description": description[:30000]}
             except json.JSONDecodeError:
                 pass
-
         description, method = extract_description_from_html(body)
         if description:
             return {"status": "enriched", "method": method, "error": "", "description": description}
@@ -202,26 +203,41 @@ def fetch_job_description(url, timeout=10, max_bytes=2500000):
     if generic.get("status") == "enriched":
         return generic
     if specific:
-        # Preserva o diagnóstico da API específica quando ambos os métodos falham.
         if generic.get("error"):
             specific["error"] = f"{specific.get('error','')}; fallback: {generic['error']}".strip("; ")
         return specific
     return generic
 
 
-def enrich_jobs(jobs, score_fn, limit=40, workers=6, timeout=10, max_bytes=2500000):
+def summarize_enrichment(jobs):
+    attempted_jobs = [job for job in jobs if int(job.get("enrichment_attempts") or 0) > 0]
+    enriched_jobs = [job for job in attempted_jobs if job.get("enrichment_status") == "enriched"]
+    methods = {}
+    for job in enriched_jobs:
+        method = job.get("enrichment_method") or "unknown"
+        methods[method] = methods.get(method, 0) + 1
+    return {
+        "attempted": len(attempted_jobs),
+        "enriched": len(enriched_jobs),
+        "failed": len(attempted_jobs) - len(enriched_jobs),
+        "methods": methods,
+    }
+
+
+def enrich_jobs(jobs, score_fn, limit=40, workers=6, timeout=10, max_bytes=2500000, max_attempts=1):
     candidates = [
         job for job in jobs[:limit]
-        if int(job.get("coverage") or 0) < 85 or len(str(job.get("description") or "")) < 200
+        if (int(job.get("coverage") or 0) < 85 or len(str(job.get("description") or "")) < 200)
+        and int(job.get("enrichment_attempts") or 0) < max_attempts
     ]
-    stats = {"attempted": len(candidates), "enriched": 0, "failed": 0, "methods": {}}
     if not candidates:
-        return stats
+        return summarize_enrichment(jobs)
 
     with ThreadPoolExecutor(max_workers=workers) as executor:
         futures = {executor.submit(fetch_job_description, job["url"], timeout, max_bytes): job for job in candidates}
         for future in as_completed(futures):
             job = futures[future]
+            job["enrichment_attempts"] = int(job.get("enrichment_attempts") or 0) + 1
             try:
                 result = future.result()
             except Exception as exc:
@@ -233,11 +249,7 @@ def enrich_jobs(jobs, score_fn, limit=40, workers=6, timeout=10, max_bytes=25000
             job["enrichment_error"] = result.get("error", "")
             if len(fetched) > max(180, len(previous)):
                 job["description"] = fetched
-                stats["enriched"] += 1
-                method = job["enrichment_method"] or "unknown"
-                stats["methods"][method] = stats["methods"].get(method, 0) + 1
-            elif job["enrichment_status"] != "enriched":
-                stats["failed"] += 1
+                job["enrichment_status"] = "enriched"
             job["description_length"] = len(str(job.get("description") or ""))
             job["score"], job["reasons"] = score_fn(job, None)
-    return stats
+    return summarize_enrichment(jobs)
