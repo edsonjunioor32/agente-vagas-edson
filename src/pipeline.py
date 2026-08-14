@@ -32,6 +32,66 @@ def load_json_url(url):
         return json.loads(response.read().decode("utf-8"))
 
 
+def decode_snapshot(data):
+    if isinstance(data, list):
+        return data
+    if not isinstance(data, dict):
+        return []
+
+    for key in ("vagas", "data", "items"):
+        value = data.get(key)
+        if isinstance(value, list):
+            return value
+
+    # Formato compacto usado pelo dashboard do todas-as-vagas.
+    if isinstance(data.get("jobs"), dict) and isinstance(data.get("dict"), dict):
+        dictionaries = data.get("dict") or {}
+        jobs = data.get("jobs") or {}
+        count = int(data.get("count") or len(jobs.get("title") or []))
+
+        def arr(name):
+            value = jobs.get(name)
+            return value if isinstance(value, list) else []
+
+        def at(name, index, default=""):
+            values = arr(name)
+            return values[index] if index < len(values) else default
+
+        def lookup(name, code):
+            values = dictionaries.get(name)
+            if not isinstance(values, list):
+                return ""
+            try:
+                idx = int(code)
+            except (TypeError, ValueError):
+                return ""
+            return values[idx] if 0 <= idx < len(values) else ""
+
+        output = []
+        for index in range(count):
+            output.append({
+                "title": at("title", index),
+                "company": lookup("company", at("cmp", index)),
+                "source": lookup("source", at("src", index)),
+                "work_model": lookup("work_model", at("wm", index)),
+                "city": at("city", index),
+                "country": lookup("country", at("co", index)),
+                "market": lookup("market", at("mk", index)),
+                "published_date": at("pub", index),
+                "last_seen_at": at("seen", index),
+                "url": at("url", index),
+                "skills": at("sk", index),
+                "categories": [lookup("area", at("area", index))],
+                "seniority": lookup("seniority", at("sen", index)),
+                "contract_types": str(at("ct", index) or "").split(" · ") if at("ct", index) else [],
+                "description": "",
+            })
+        return output
+
+    jobs = data.get("jobs")
+    return jobs if isinstance(jobs, list) else []
+
+
 def parse_date(value):
     if not value:
         return None
@@ -68,7 +128,7 @@ def canonical(job):
         "state": field(job, "state"),
         "country": field(job, "country", default="BR"),
         "market": field(job, "market", default="BR"),
-        "published_date": field(job, "published_date", "publishedAt", "created_at", "date"),
+        "published_date": field(job, "published_date", "publishedAt", "created_at", "date", "last_seen_at"),
         "description": field(job, "description", "summary"),
         "skills": field(job, "skills", default=[]),
         "categories": field(job, "categories", default=[]),
@@ -136,11 +196,9 @@ def score_job(job, profile):
 def main():
     profile = json.loads(PROFILE_PATH.read_text(encoding="utf-8"))
     print(f"Fonte: {SOURCE_URL}")
-    raw = load_json_url(SOURCE_URL)
-    if isinstance(raw, dict):
-        raw = raw.get("jobs") or raw.get("vagas") or raw.get("data") or raw.get("items") or []
+    raw = decode_snapshot(load_json_url(SOURCE_URL))
     if not isinstance(raw, list):
-        raise RuntimeError("Formato de fonte não reconhecido: esperado array de vagas")
+        raise RuntimeError("Formato de fonte não reconhecido")
 
     print(f"Vagas recebidas da fonte: {len(raw)}")
     now = datetime.now(BR_TZ)
@@ -151,6 +209,8 @@ def main():
         if not isinstance(source_job, dict):
             continue
         job = canonical(source_job)
+        if not job["title"] or not job["url"]:
+            continue
         market = norm(job["market"] + " " + job["country"])
         if market and not any(x in market for x in ("br", "brasil", "brazil")):
             continue
