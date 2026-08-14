@@ -11,6 +11,12 @@ on:
         description: "Máximo de vagas"
         required: false
         default: "100"
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "perfil.json"
+      - ".github/workflows/vagas.yml"
   schedule:
     # 11:00 UTC = 08:00 no horário UTC-3 (Fortaleza/Brasília)
     - cron: "0 11 * * *"
