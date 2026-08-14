@@ -1,4 +1,4 @@
-# Vagas priorizadas — 14/08/2026 11:54 (UTC-3)
+# Vagas priorizadas — 14/08/2026 11:58 (UTC-3)
 
 Total: **100**
 
