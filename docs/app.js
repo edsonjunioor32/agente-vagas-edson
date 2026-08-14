@@ -114,17 +114,21 @@
       const chips = node.querySelector('.chips');
       const chipValues = [
         `Cobertura ${coverage}%`,
+        job.enrichment_status === 'enriched' ? 'Descrição ampliada' : '',
         job.work_model ? String(job.work_model).toLowerCase() === 'remote' ? 'Remoto' : job.work_model : '',
         job.city,
         ...(Array.isArray(job.contract_types) ? job.contract_types : [])
       ].map(escapeText).filter(Boolean);
-      [...new Set(chipValues)].slice(0, 6).forEach(value => chips.append(makeChip(value)));
+      [...new Set(chipValues)].slice(0, 7).forEach(value => chips.append(makeChip(value)));
       if (!chips.childElementCount) chips.remove();
 
       const reasons = Array.isArray(job.reasons) ? job.reasons : [];
+      const enrichmentNote = job.enrichment_status === 'enriched'
+        ? ` · descrição ampliada via ${job.enrichment_method || 'página da vaga'}`
+        : '';
       node.querySelector('.reasons').textContent = reasons.length
-        ? `Aderência estimada: ${score}% · Cobertura: ${coverage}% · ${reasons.join(' · ')}`
-        : `Aderência estimada: ${score}% · Cobertura da análise: ${coverage}%.`;
+        ? `Aderência estimada: ${score}% · Cobertura: ${coverage}%${enrichmentNote} · ${reasons.join(' · ')}`
+        : `Aderência estimada: ${score}% · Cobertura da análise: ${coverage}%${enrichmentNote}.`;
 
       node.querySelector('.published').textContent = relativeDate(job.published_at_br);
       const link = node.querySelector('.apply');
