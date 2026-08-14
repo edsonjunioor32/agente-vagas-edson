@@ -6,6 +6,8 @@ from html.parser import HTMLParser
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
+INHIRE_API = "https://api.inhire.app/job-posts/public/pages"
+
 
 class VisibleTextParser(HTMLParser):
     def __init__(self):
@@ -76,10 +78,7 @@ def posting_text(posting):
 
 
 def extract_description_from_html(html_text):
-    pattern = re.compile(
-        r"<script\b[^>]*type=[\"']application/ld\+json[\"'][^>]*>(.*?)</script>",
-        re.I | re.S,
-    )
+    pattern = re.compile(r"<script\b[^>]*type=[\"']application/ld\+json[\"'][^>]*>(.*?)</script>", re.I | re.S)
     for match in pattern.finditer(html_text):
         raw = unescape(match.group(1)).strip()
         if not raw:
@@ -105,7 +104,59 @@ def extract_description_from_html(html_text):
     return "", ""
 
 
-def fetch_job_description(url, timeout=10, max_bytes=2500000):
+def parse_inhire_url(url):
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    match = re.fullmatch(r"([a-z0-9-]+)\.inhire\.app", host)
+    if not match:
+        return None
+    parts = [p for p in parsed.path.split("/") if p]
+    if len(parts) < 2 or parts[0].lower() != "vagas":
+        return None
+    tenant = match.group(1)
+    job_id = parts[1]
+    if not re.fullmatch(r"[A-Za-z0-9._:-]{4,120}", job_id):
+        return None
+    return tenant, job_id
+
+
+def extract_inhire_description(detail):
+    if not isinstance(detail, dict):
+        return ""
+    fields = [
+        detail.get("description"), detail.get("responsibilities"), detail.get("requirements"),
+        detail.get("qualifications"), detail.get("skills"), detail.get("benefits"),
+    ]
+    description = strip_html(" ".join(str(x) for x in fields if x))
+    return description[:30000] if len(description) >= 180 else ""
+
+
+def fetch_inhire_description(url, timeout=10, max_bytes=2500000):
+    parsed = parse_inhire_url(url)
+    if not parsed:
+        return None
+    tenant, job_id = parsed
+    endpoint = f"{INHIRE_API}/{job_id}"
+    req = Request(endpoint, headers={
+        "X-Inhire-Client": "web-inhire",
+        "X-Tenant": tenant,
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "User-Agent": "AgenteVagasEdson/2.1",
+    })
+    try:
+        with urlopen(req, timeout=timeout) as response:
+            payload = response.read(max_bytes + 1)[:max_bytes]
+        detail = json.loads(payload.decode("utf-8-sig", errors="replace"))
+        description = extract_inhire_description(detail)
+        if description:
+            return {"status": "enriched", "method": "inhire-api", "error": "", "description": description}
+        return {"status": "not_available", "method": "inhire-api", "error": "descrição útil não encontrada", "description": ""}
+    except Exception as exc:
+        return {"status": "error", "method": "inhire-api", "error": f"{type(exc).__name__}: {str(exc)[:180]}", "description": ""}
+
+
+def fetch_generic_description(url, timeout=10, max_bytes=2500000):
     result = {"status": "not_available", "method": "", "error": "", "description": ""}
     try:
         parsed = urlparse(url)
@@ -113,7 +164,7 @@ def fetch_job_description(url, timeout=10, max_bytes=2500000):
             result["error"] = "URL não HTTP(S)"
             return result
         req = Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AgenteVagasEdson/2.0)",
+            "User-Agent": "Mozilla/5.0 (compatible; AgenteVagasEdson/2.1)",
             "Accept": "text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8",
             "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.7",
         })
@@ -143,20 +194,32 @@ def fetch_job_description(url, timeout=10, max_bytes=2500000):
     return result
 
 
+def fetch_job_description(url, timeout=10, max_bytes=2500000):
+    specific = fetch_inhire_description(url, timeout, max_bytes)
+    if specific and specific.get("status") == "enriched":
+        return specific
+    generic = fetch_generic_description(url, timeout, max_bytes)
+    if generic.get("status") == "enriched":
+        return generic
+    if specific:
+        # Preserva o diagnóstico da API específica quando ambos os métodos falham.
+        if generic.get("error"):
+            specific["error"] = f"{specific.get('error','')}; fallback: {generic['error']}".strip("; ")
+        return specific
+    return generic
+
+
 def enrich_jobs(jobs, score_fn, limit=40, workers=6, timeout=10, max_bytes=2500000):
     candidates = [
         job for job in jobs[:limit]
         if int(job.get("coverage") or 0) < 85 or len(str(job.get("description") or "")) < 200
     ]
-    stats = {"attempted": len(candidates), "enriched": 0, "failed": 0}
+    stats = {"attempted": len(candidates), "enriched": 0, "failed": 0, "methods": {}}
     if not candidates:
         return stats
 
     with ThreadPoolExecutor(max_workers=workers) as executor:
-        futures = {
-            executor.submit(fetch_job_description, job["url"], timeout, max_bytes): job
-            for job in candidates
-        }
+        futures = {executor.submit(fetch_job_description, job["url"], timeout, max_bytes): job for job in candidates}
         for future in as_completed(futures):
             job = futures[future]
             try:
@@ -171,6 +234,8 @@ def enrich_jobs(jobs, score_fn, limit=40, workers=6, timeout=10, max_bytes=25000
             if len(fetched) > max(180, len(previous)):
                 job["description"] = fetched
                 stats["enriched"] += 1
+                method = job["enrichment_method"] or "unknown"
+                stats["methods"][method] = stats["methods"].get(method, 0) + 1
             elif job["enrichment_status"] != "enriched":
                 stats["failed"] += 1
             job["description_length"] = len(str(job.get("description") or ""))
