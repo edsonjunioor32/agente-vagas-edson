@@ -1,0 +1,45 @@
+{
+  "nome": "Edson Paiva Jr.",
+  "foco": "Suporte Técnico N2, Sustentação de Sistemas, Application/Production Support, Operações de Pagamentos e Gestão de Incidentes",
+  "senioridade": ["pleno", "senior", "sênior", "analista", "especialista"],
+  "modelo_trabalho": "100% remoto no Brasil",
+  "mercado": "Brasil",
+  "competencias_prioritarias": [
+    "technical support", "suporte técnico", "suporte n2", "n2", "application support",
+    "production support", "sustentação", "sustentacao", "incident management", "incidentes",
+    "troubleshooting", "sql", "oracle", "api", "apis", "webhook", "webhooks", "postman",
+    "splunk", "datadog", "grafana", "jira", "zendesk", "itil", "rca", "logs",
+    "pagamentos", "payments", "cartões", "cartoes", "cards", "autorização", "autorizacao",
+    "conciliação", "conciliacao", "faturas", "integrações", "integracoes", "b2b"
+  ],
+  "titulos_prioritarios": [
+    "technical support", "support analyst", "support engineer", "analista de suporte",
+    "analista de sustentação", "analista de sustentacao", "application support",
+    "production support", "incident analyst", "analista de incidentes", "customer support",
+    "technical customer support", "customer success"
+  ],
+  "segmentos_prioritarios": [
+    "fintech", "meios de pagamento", "pagamentos", "payments", "cartões", "cartoes",
+    "banking", "banco", "financeiro", "financial", "saas", "tecnologia"
+  ],
+  "experiencia": {
+    "anos_ti": 10,
+    "destaques": [
+      "Suporte N2 e sustentação de produtos de cartões",
+      "APIs, webhooks, autorização, conciliação, faturas e embossing",
+      "SQL e Oracle",
+      "Análise de logs e observabilidade com Splunk, Datadog e Grafana",
+      "RCA, incidentes, GMUDs, SLA e documentação",
+      "Relacionamento técnico B2B com clientes de serviços financeiros"
+    ]
+  },
+  "preferencias": {
+    "remoto": true,
+    "pais": "BR",
+    "disponibilidade_imediata": true
+  },
+  "penalizar": [
+    "estágio", "estagio", "trainee", "jovem aprendiz", "presencial",
+    "frontend", "front-end", "mobile developer", "designer", "marketing", "vendas"
+  ]
+}
