@@ -1,0 +1,55 @@
+name: Agente de vagas
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_score:
+        description: "Score mínimo (0-100)"
+        required: false
+        default: "35"
+      max_jobs:
+        description: "Máximo de vagas"
+        required: false
+        default: "100"
+  schedule:
+    # 11:00 UTC = 08:00 no horário UTC-3 (Fortaleza/Brasília)
+    - cron: "0 11 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: agente-vagas
+  cancel-in-progress: false
+
+jobs:
+  buscar-e-ranquear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Executar pipeline
+        env:
+          MIN_SCORE: ${{ github.event.inputs.min_score || '35' }}
+          MAX_JOBS: ${{ github.event.inputs.max_jobs || '100' }}
+          MAX_AGE_DAYS: "60"
+        run: python src/pipeline.py
+
+      - name: Publicar resultados atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nos resultados."
+            exit 0
+          fi
+          git commit -m "chore: atualizar vagas ranqueadas"
+          git push
