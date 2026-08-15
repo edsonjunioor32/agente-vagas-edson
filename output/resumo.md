@@ -1,8 +1,8 @@
-# Vagas priorizadas — 14/08/2026 14:24 (UTC-3)
+# Vagas priorizadas — 15/08/2026 08:42 (UTC-3)
 
 Total: **100**
-Enriquecimento: **56/60** vagas com descrição ampliada
-Métodos: html-text: 9, inhire-api: 12, json-ld: 35
+Enriquecimento: **55/60** vagas com descrição ampliada
+Métodos: html-text: 10, inhire-api: 15, json-ld: 30
 
 ## 1. Analista de Suporte - N2 — Techne (97%)
 - Cobertura: 90% · Fit observado: 99%
@@ -112,16 +112,7 @@ Métodos: html-text: 9, inhire-api: 12, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://dotgroup.inhire.app/vagas/9665cbb0-7d8b-47c0-a976-3c087db019d7/analista-de-suporte-pleno
 
-## 13. Analista de Sustentação RPA — Grupo SysMap (80%)
-- Cobertura: 90% · Fit observado: 81%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · não informado
-- Fonte: gupy
-- Publicação: 2026-08-10T12:00:00-03:00
-- Motivos: função: 30/30; competências observadas: 23/40 (SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 81% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTE5ODQ2NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
-
-## 14. 11667997| Analista de Suporte Sistemas PL — Almaviva Solutions (79%)
+## 13. 11667997| Analista de Suporte Sistemas PL — Almaviva Solutions (79%)
 - Cobertura: 100% · Fit observado: 79%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · São Paulo
@@ -130,7 +121,7 @@ Métodos: html-text: 9, inhire-api: 12, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 19/40 (SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://almavivasolutions.gupy.io/job/eyJqb2JJZCI6MTE2Njc5OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 15. Analista de Suporte Jr✨🚀 — Smart NX (79%)
+## 14. Analista de Suporte Jr✨🚀 — Smart NX (79%)
 - Cobertura: 100% · Fit observado: 79%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -139,7 +130,7 @@ Métodos: html-text: 9, inhire-api: 12, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 23/40 (APIs e integrações, SQL e banco de dados, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://smartnx.gupy.io/job/eyJqb2JJZCI6MTE1NDk0NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 16. Analista de Suporte — Pantheon (79%)
+## 15. Analista de Suporte — Pantheon (79%)
 - Cobertura: 90% · Fit observado: 79%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -147,6 +138,15 @@ Métodos: html-text: 9, inhire-api: 12, json-ld: 35
 - Publicação: 2026-08-13T16:51:23-03:00
 - Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 79% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://pantheon.inhire.app/vagas/9730004f-f1b0-4964-90c3-f7b083ff92a7/analista-de-suporte
+
+## 16. Analista de Suporte Jr — Carreiras SoftExpert (77%)
+- Cobertura: 100% · Fit observado: 77%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · não informado
+- Fonte: gupy
+- Publicação: 2026-08-14T09:36:02-03:00
+- Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://softexpert.gupy.io/job/eyJqb2JJZCI6MTIwOTAzMTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
 ## 17. Analista de Suporte Jr — Carreiras SoftExpert (77%)
 - Cobertura: 100% · Fit observado: 77%
