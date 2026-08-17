@@ -1,4 +1,4 @@
-# Vagas priorizadas — 16/08/2026 08:43 (UTC-3)
+# Vagas priorizadas — 17/08/2026 08:54 (UTC-3)
 
 Total: **100**
 Enriquecimento: **58/60** vagas com descrição ampliada
@@ -130,16 +130,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento sem evidência suficiente — não penalizado; senioridade: 10/10 (senioridade pleno); remoto: 5/5; fit observado: 76% com ajuste de incerteza; cobertura da análise: 85%
 - Link: https://segura.inhire.app/vagas/8d639a65-9c51-4707-bb84-ca7e749ad463/global-support-engineer-mid-level
 
-## 15. Analista de Suporte – Remoto — TIVIA TI (76%)
-- Cobertura: 85% · Fit observado: 76%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · Home Office
-- Fonte: Nerdin
-- Publicação: 2026-07-23T17:00:27-03:00
-- Motivos: função: 30/30; competências observadas: 20/40 (N2/L2, Observabilidade e logs, Incidentes/RCA/ITIL); segmento sem evidência suficiente — não penalizado; senioridade: 10/10 (senioridade pleno); remoto: 5/5; fit observado: 76% com ajuste de incerteza; cobertura da análise: 85%
-- Link: https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-remoto-97305.php
-
-## 16. Analista de Suporte Junior — Semantix (75%)
+## 15. Analista de Suporte Junior — Semantix (75%)
 - Cobertura: 100% · Fit observado: 75%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Home Office
@@ -148,7 +139,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 19/40 (SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97332.php
 
-## 17. Tech Support Engineer — Nuvemshop (74%)
+## 16. Tech Support Engineer — Nuvemshop (74%)
 - Cobertura: 90% · Fit observado: 74%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -157,7 +148,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 74% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://nuvemshop-tiendanube.inhire.app/vagas/8209ae46-746d-4549-8440-1ca972f66eab/tech-support-engineer
 
-## 18. Analista de Suporte de Servidores Sênior — Semantix (73%)
+## 17. Analista de Suporte de Servidores Sênior — Semantix (73%)
 - Cobertura: 100% · Fit observado: 73%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -166,7 +157,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 14/40 (Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://semantix.inhire.app/vagas/fb3d6404-d4ba-44c8-8756-7fb8892a5d6e/analista-de-suporte-de-servidores-senior
 
-## 19. Analista de Suporte Júnior — Synvia (72%)
+## 18. Analista de Suporte Júnior — Synvia (72%)
 - Cobertura: 100% · Fit observado: 72%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -175,7 +166,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 16/40 (Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://synvia.gupy.io/job/eyJqb2JJZCI6MTIwMjMxMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 20. ANALISTA DE SUPORTE PL - RHA2836 — Spread Tecnologia (72%)
+## 19. ANALISTA DE SUPORTE PL - RHA2836 — Spread Tecnologia (72%)
 - Cobertura: 100% · Fit observado: 72%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · não informado
@@ -184,7 +175,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 16/40 (Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://spread.gupy.io/job/eyJqb2JJZCI6MTE4NzM2MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 21. Analista de Suporte Jr - Área Gestão de Pessoal — Governançabrasil (71%)
+## 20. Analista de Suporte Jr - Área Gestão de Pessoal — Governançabrasil (71%)
 - Cobertura: 100% · Fit observado: 71%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -193,7 +184,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 15/40 (SQL e banco de dados, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://governancabrasil.gupy.io/job/eyJqb2JJZCI6MTE4MjIyMzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 22. 11728728 - Analista de Suporte L3 –  Copilot — MTP Métodos e Tecnologia – Brasil (71%)
+## 21. 11728728 - Analista de Suporte L3 –  Copilot — MTP Métodos e Tecnologia – Brasil (71%)
 - Cobertura: 90% · Fit observado: 71%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -202,7 +193,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 18/40 (APIs e integrações, Incidentes/RCA/ITIL, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 71% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://mtpbrasil.gupy.io/job/eyJqb2JJZCI6MTE3Mjg3MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 23. Analista de Suporte Técnico — Segware (70%)
+## 22. Analista de Suporte Técnico — Segware (70%)
 - Cobertura: 90% · Fit observado: 70%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -211,7 +202,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 13/40 (SQL e banco de dados, Observabilidade e logs); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 70% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://segware.gupy.io/job/eyJqb2JJZCI6MTE5MzA1NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 24. [Tech] Analista de Suporte Sênior | PROTHEUS — TOTVS (65%)
+## 23. [Tech] Analista de Suporte Sênior | PROTHEUS — TOTVS (65%)
 - Cobertura: 100% · Fit observado: 65%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · São Paulo
@@ -220,7 +211,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 10/40 (Incidentes/RCA/ITIL, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://atracaodetalentos.totvs.app/vempratotvs/11573/tech-analista-de-suporte-senior-protheus
 
-## 25. Analista de Suporte — Gaudium (65%)
+## 24. Analista de Suporte — Gaudium (65%)
 - Cobertura: 90% · Fit observado: 64%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -229,7 +220,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 64% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://gaudium.gupy.io/job/eyJqb2JJZCI6MTIwNjQ4MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 26. Analista de Suporte Fiscal — Contajá Contabilidade Online (65%)
+## 25. Analista de Suporte Fiscal — Contajá Contabilidade Online (65%)
 - Cobertura: 90% · Fit observado: 64%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -238,7 +229,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 64% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://trabalhenacontaja.gupy.io/job/eyJqb2JJZCI6MTE5MjU3MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 27. Analista de Suporte Técnico - Belo Horizonte - MG — INTELLTECH TECNOLOGIAS INTELIGENTES S.A. (65%)
+## 26. Analista de Suporte Técnico - Belo Horizonte - MG — INTELLTECH TECNOLOGIAS INTELIGENTES S.A. (65%)
 - Cobertura: 90% · Fit observado: 64%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · Totalmente Remoto
@@ -247,16 +238,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 64% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://www.empregare.com/v172886
 
-## 28. Analista de Suporte Técnico - Afiliação — GEX (65%)
-- Cobertura: 90% · Fit observado: 64%
-- Enriquecimento: enriched (inhire-api)
-- Modelo/local: remote · BR
-- Fonte: inhire
-- Publicação: 2026-06-17T16:00:23-03:00
-- Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 64% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://gex.inhire.app/vagas/affe3e52-829c-4ae7-a4a5-a8d23aa06a49/analista-de-suporte-tecnico-afiliacao
-
-## 29. Vaga Exclusiva PCD |  Analista de Suporte Júnior | Remoto — Aurum (64%)
+## 27. Vaga Exclusiva PCD |  Analista de Suporte Júnior | Remoto — Aurum (64%)
 - Cobertura: 100% · Fit observado: 64%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -265,7 +247,7 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://aurum.gupy.io/job/eyJqb2JJZCI6MTIwOTg2MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal
 
-## 30. Analista de Suporte Júnior (Crédito) - Afirmativa PcD — Superlógica Tecnologias (64%)
+## 28. Analista de Suporte Júnior (Crédito) - Afirmativa PcD — Superlógica Tecnologias (64%)
 - Cobertura: 100% · Fit observado: 64%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -273,3 +255,21 @@ Métodos: html-text: 8, inhire-api: 16, json-ld: 34
 - Publicação: 2026-08-14T16:33:28-03:00
 - Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://superlogica.inhire.app/vagas/1043a576-aec4-42d8-bb09-810cecff03d9/analista-de-suporte-junior-credito-afirmativa-pcd
+
+## 29. Analista de Suporte Ao Cliente — Hope Solution (64%)
+- Cobertura: 100% · Fit observado: 64%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · Remoto
+- Fonte: geekhunter
+- Publicação: 2026-08-10T14:05:32-03:00
+- Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://www.geekhunter.com/pt/hope-solution/jobs/analista-de-suporte-ao-cliente-1
+
+## 30. Analista de Suporte Júnior — Framework (64%)
+- Cobertura: 100% · Fit observado: 64%
+- Enriquecimento: enriched (inhire-api)
+- Modelo/local: remote · BR
+- Fonte: inhire
+- Publicação: 2026-08-05T15:26:30-03:00
+- Motivos: função: 30/30; competências observadas: 8/40 (Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://frameworkdigital.inhire.app/vagas/3efb8049-d143-48c0-a811-1075b178d113/analista-de-suporte-junior
