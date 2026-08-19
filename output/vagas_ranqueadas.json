@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-18T08:56:36.144573-03:00",
+  "generated_at": "2026-08-19T08:55:18.239309-03:00",
   "count": 100,
   "enrichment": {
     "attempted": 60,
     "enriched": 54,
     "failed": 6,
     "methods": {
-      "json-ld": 30,
+      "json-ld": 28,
       "inhire-api": 14,
-      "html-text": 10
+      "html-text": 12
     }
   },
   "jobs": [
@@ -301,6 +301,49 @@
     },
     {
       "id": "",
+      "title": "Tech Support Engineer",
+      "company": "Nuvemshop",
+      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/8209ae46-746d-4549-8440-1ca972f66eab/tech-support-engineer",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-14T00:02:21+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-13T21:02:21-03:00",
+      "coverage": 35,
+      "observed_fit": 100,
+      "fit_points": 35,
+      "covered_points": 35,
+      "score_method": "observed_evidence_v3",
+      "score": 84,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 100% com ajuste de incerteza",
+        "cobertura da análise: 35%"
+      ],
+      "enrichment_attempts": 2,
+      "enrichment_status": "error",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
+      "description_length": 0
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte",
       "company": "act digital",
       "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-97921.php",
@@ -383,6 +426,48 @@
     },
     {
       "id": "",
+      "title": "Senior Support Engineer",
+      "company": "e-Core",
+      "url": "https://ecore.inhire.app/vagas/fb827541-29dc-4183-a219-979c80d0895e/senior-support-engineer",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T16:53:13+00:00",
+      "description": "Be yourself, be your best! Combinamos nossa experiência global em indústrias-chave e as últimas tecnologias para ajudar empresas em rápido crescimento e estabelecidas a transformar e acelerar seus modelos de negócios, desenvolver soluções digitais inovadoras, escalar capacidades tecnológicas e sustentar seu crescimento. Conheça a área de Consultoria e Suporte! Faça parte da nossa área de Suporte e Consultoria na e-Core! Se você tem paixão por tecnologia, desafios e resolução de problemas, essa é a área ideal para você. Aqui, você trabalhará com equipes globais e usuários finais, ajudando-os a maximizar o uso de soluções tecnológicas inovadoras. Junte-se a nós para crescer em um ambiente colaborativo e multicultural, onde o aprendizado contínuo e o trabalho em equipe são valorizados. Faça parte do nosso time! O que você fará nessa função: Assumir o ownership da fila de suporte, gerenciando e resolvendo chamados para garantir o sucesso e a satisfação dos clientes. Diagnosticar problemas técnicos complexos identificando e tratando a causa raiz, evitando soluções superficiais. Reproduzir incidentes e falhas nos ambientes específicos apresentados pelos clientes. Submeter pull requests com correções de bugs e melhorias diretamente no código-fonte da plataforma. Atuar como a voz técnica do cliente junto ao time interno de engenharia. Realizar reuniões pontuais e alinhamentos semanais de caráter técnico com contas estratégicas (atuação híbrida com TAM). Está posição é adequada para você se você: Foco obsessivo no cliente para garantir que ele extraia o máximo de valor do produto. Orientação para a resolução definitiva de problemas (root cause analysis). Foco em métricas, alta produtividade e capacidade de gerenciar um volume elevado de demandas. Perfil investigativo para compreender a fundo a arquitetura e a origem de falhas complexas. Mindset focado em gestão de contas, indo além do modelo tradicional de break/fix. Sólida experiência em depuração (debugging) e troubleshooting avançado na linguagem Python. Domínio amplo da plataforma e das superfícies de integração do LiteLLM (ou ferramentas correlatas do ecossistema de IA/LLM). Fluência em inglês (comunicação verbal e escrita) para conduzir reuniões técnicas com clientes globais. Capacidade comprovada de realizar debugging de código e lógica de roteamento em avaliações técnicas (live coding / whiteboard). Seria ótimo se você tiver: Experiência prévia como Technical Account Manager (TAM) ou em atendimento dedicado a contas enterprise. Vivência com ferramentas para desenvolvedores (developer tools) ou infraestrutura de inteligência artificial. Histórico de contribuições diretas para projetos open source. Onde você estará baseado: Brasil - Remoto. Beneficios de ser e-Corean! Nós oferecemos pacote de benefícios flexível: com o e-Core BeneFlex os nossos e-Coreans podem montar um pacote de benefícios de acordo com seu perfil e necessidades. 💳 Benefícios Financeiros Auxílio alimentação e/ou refeição. Cartão de multi benefícios. PLR (Participação nos Lucros e Resultados). Plano de Previdência Privada. ✅ Saúde e Bem-Estar Plano de saúde, odontológico e seguro de vida. Plano de saúde para seu pet. Parceria com a Wellhub para manter a rotina ativa. 🏝️ Flexibilidade e Qualidade de Vida 15 dias de férias a cada 6 meses. Auxílio mensal para trabalho remoto. 🎓 Desenvolvimento Auxílio educação e creche. Parcerias educacionais Entre outros benefícios para tornar sua e-Core experience mais enriquecedora. Na e-Core, recrutamos com intencionalidade para refletir nossa cultura, valorizando a diversidade em todas as suas formas. Acreditamos que gênero, idade, etnia, raça, religião, orientação sexual e outros marcadores de identidades são ativos que enriquecem nosso time, sem barreiras para talentos brilharem. Nosso compromisso é com a Igualdade de Oportunidades, incentivando cada pessoa a ser ela mesma e crescer profissional e pessoalmente.#BeYourself #BeYourBest Privacidade Ao enviar uma inscrição, reconheço que li e entendi a Política de Privacidade da e-Core. Privacy Policy (EN) Política de Privacidade (PT-BR) O objetivo de tudo o que fazemos é conectar pessoas e tecnologia para construir um futuro melhor juntos!",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-18T13:53:13-03:00",
+      "coverage": 100,
+      "observed_fit": 81,
+      "fit_points": 81,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 81,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 22/40 (APIs e integrações, Incidentes/RCA/ITIL, Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 4215
+    },
+    {
+      "id": "",
       "title": "[Suporte] Analista de Suporte Técnico Pleno | Prime Datasul (Remoto)",
       "company": "TOTVS",
       "url": "https://atracaodetalentos.totvs.app/vempratotvs/10583/suporte-analista-de-suporte-tecnico-pleno-prime-datasul-remoto",
@@ -392,7 +477,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-15",
+      "published_date": "2026-08-18",
       "description": "[Suporte] Analista de Suporte Técnico Pleno | Prime Datasul (Remoto) - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Pleno | Prime Datasul (Remoto) [Suporte] Analista de Suporte Técnico Pleno | Prime Datasul (Remoto) TOTVS | Joinville - SC | Remoto A pessoa Analista Prime tem como principal missão oferecer atendimento de excelência aos clientes Prime Datasul, atuando de forma consultiva, ágil e inovadora. Será responsável pelo suporte e pela atuação especializada nos módulos do ERP Datasul (Financeiro, Contábil, Materiais, Faturamento, Fiscal, entre outros), além de apoiar as áreas integradas a esses processos, garantindo conformidade com as exigências legais e eficiência nas entregas. Também atua como representante das necessidades dos clientes dentro da organização, propondo melhorias e contribuindo de forma estratégica para a evolução contínua dos produtos e serviços da TOTVS , sempre com foco na geração de valor e na excelência da experiência do cliente. Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. O QUE VOCÊ VAI FAZER: Realizar atendimento aos clientes pelos canais oficiais, esclarecendo dúvidas técnicas e funcionais de alta complexidade. Diagnosticar e solucionar incidentes relacionados aos sistemas, garantindo qualidade e cumprimento dos prazos estabelecidos. Atuar na gestão de chamados, acompanhando o andamento das demandas e mantendo os clientes informados sobre seu status. Escalar situações críticas ou recorrentes para as áreas responsáveis, contribuindo para sua resolução definitiva. Apoiar tecnicamente analistas de outros níveis, compartilhando conhecimento e orientando na resolução de casos complexos. Identificar causas-raiz de incidentes e propor ações corretivas e preventivas para melhoria contínua dos processos. Atuar como referência no relacionamento com clientes em situações críticas, buscando soluções alinhadas às necessidades do negócio. Interagir com áreas internas, como Produto, Desenvolvimento e Consultoria, para garantir maior agilidade e efetividade nas entregas. Elaborar e manter atualizadas documentações técnicas e bases de conhecimento. Participar de iniciativas de melhoria contínua, contribuindo para a evolução dos processos, indicadores da área e satisfação dos clientes. Realizar consultorias técnicas e de suporte, quando necessário, apoiando clientes estratégicos e demandas de maior complexidade. O QUE ESPERAMOS DE VOCÊ: Experiência com o ERP TOTVS Datasul, atuando em suporte, consultoria ou áreas relacionadas. Conhecimento dos processos de negócio dos módulos Financeiro, Contábil, Materiais, Faturamento e Fiscal, entre outros. Capacidade de realizar parametrizações, analisar processos, identificar oportunidades de melhoria e prestar suporte funcional. Vivência em atendimento técnico e funcional a clientes, preferencialmente em ambientes de suporte ou consultoria. Ensino superior completo ou em andamento em Tecnologia da Informação, Sistemas de Informação ou áreas correlatas. SERIA LEGAL SE TIVESSE: Conhecimento em SQL. Familiaridade com ferramentas e tecnologias do ambiente TOTVS, como SmartClient. Noções de lógica de programação. Conhecimento em linguagens e tecnologias de desenvolvimento, como HTML, Mobile e Progress. Experiência em projetos de implantação, atualização ou migração de ERP. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Pleno | Prime Datasul (Remoto) TOTVS | Joinville - SC | Remoto Descrição da vaga A pessoa Analista Prime tem como principal missão oferecer atendimento de excelência aos clientes Prime Datasul, atuando de forma consultiva, ágil e inovadora. Será responsável pelo suporte e pela atuação especializada nos módulos do ERP Datasul (Financeiro, Contábil, Materiais, Faturamento, Fiscal, entre outros), além de apoiar as áreas integradas a esses processos, garantindo conformidade com as exigências legais e eficiência nas entregas. Também atua como representante das necessidades dos clientes dentro da organização, propondo melhorias e contribuindo de forma estratégica para a evolução contínua dos produtos e serviços da TOTVS , sempre com foco na geração de valor e na excelência da experiência do cliente. Responsabilidades e atribuições O QUE VOCÊ VAI FAZER: Realizar atendimento aos clientes pelos canais oficiais, esclarecendo dúvidas técnicas e funcionais de alta complexidade. Diagnosticar e solucionar incidentes relacionados aos sistemas, garantindo qualidade e cumprimento dos prazos estabelecidos. Atuar na gestão de chamados, acompanhando o andamento das demandas e mantendo os clientes informados sobre seu status. Escalar situações críticas ou recorrentes para as áreas responsáveis, contribuindo para sua resolução definitiva. Apoiar tecnicamente analistas de outros níveis, compartilhando conhecimento e orientando na resolução de casos complexos. Identificar causas-raiz de incidentes e propor ações corretivas e preventivas para melhoria contínua dos processos. Atuar como referência no relacionamento com clientes em situações críticas, buscando soluções alinhadas às necessidades do negócio. Interagir com áreas internas, como Produto, Desenvolvimento e Consultoria, para garantir maior agilidade e efetividade nas entregas. Elaborar e manter atualizadas documentações técnicas e bases de conhecimento. Participar de iniciativas de melhoria contínua, contribuindo para a evolução dos processos, indicadores da área e satisfação dos clientes. Realizar consultorias técnicas e de suporte, quando necessário, apoiando clientes estratégicos e demandas de maior complexidade. Requisitos e qualificações O QUE ESPERAMOS DE VOCÊ: Experiência com o ERP TOTVS Datasul, atuando em suporte, consultoria ou áreas relacionadas. Conhecimento dos processos de negócio dos módulos Financeiro, Contábil, Materiais, Faturamento e Fiscal, entre outros. Capacidade de realizar parametrizações, analisar processos, identificar oportunidades de melhoria e prestar suporte funcional. Vivência em atendimento técnico e funcional a clientes, preferencialmente em ambientes de suporte ou consultoria. Ensino superior completo ou em andamento em Tecnologia da Informação, Sistemas de Informação ou áreas correlatas. Requisitos desejáveis SERIA LEGAL SE TIVESSE: Conhecimento em SQL. Familiaridade com ferramentas e tecnologias do ambiente TOTVS, como SmartClient. Noções de lógica de programação. Conhecimento em linguagens e tecnologias de desenvolvimento, como HTML, Mobile e Progress. Experiência em projetos de implantação, atualização ou migração de ERP. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -402,7 +487,7 @@
         "CLT"
       ],
       "seniority": "Pleno",
-      "published_at_br": "2026-08-15T12:00:00-03:00",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 81,
       "fit_points": 81,
@@ -422,6 +507,48 @@
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 10127
+    },
+    {
+      "id": "",
+      "title": "[Suporte] Analista de Suporte Técnico Pleno | RM RH",
+      "company": "TOTVS",
+      "url": "https://atracaodetalentos.totvs.app/vempratotvs/11757/suporte-analista-de-suporte-tecnico-pleno-rm-rh",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "Belo Horizonte",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "[Suporte] Analista de Suporte Técnico Pleno | RM RH - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Pleno | RM RH [Suporte] Analista de Suporte Técnico Pleno | RM RH TOTVS | Belo Horizonte - MG | Remoto Garantir a resolução eficiente de incidentes e solicitações técnicas de clientes, prestando atendimento de qualidade por telefone, chat e portal, com foco em agilidade, precisão no diagnóstico e satisfação. Atuar como referência técnica no time, contribuindo para a melhoria contínua dos processos de suporte e para a redução do tempo de resolução dos chamados. Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. O QUE VOCÊ VAI FAZER: Suporte técnico a clientes via telefone; Atendimento a clientes via portal de atendimento; Execução de testes funcionais sistêmicos; Documentação e registro das atividades realizadas; Apoio interno à equipe de análise de produto. O QUE ESPERAMOS DE VOCÊ: TOTVS Automação de Ponto (Chronus); SERIA LEGAL SE TIVESSE: TOTVS Recursos Humanos (Vitae); TOTVS Folha de Pagamento (Labore); TOTVS Segurança e Medicina do Trabalho (SMT); Conhecimento em arquitetura N-camadas; Conhecimento em banco de dados SQL; Conhecimento em fórmulas RM. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Pleno | RM RH TOTVS | Belo Horizonte - MG | Remoto Descrição da vaga Garantir a resolução eficiente de incidentes e solicitações técnicas de clientes, prestando atendimento de qualidade por telefone, chat e portal, com foco em agilidade, precisão no diagnóstico e satisfação. Atuar como referência técnica no time, contribuindo para a melhoria contínua dos processos de suporte e para a redução do tempo de resolução dos chamados. Responsabilidades e atribuições O QUE VOCÊ VAI FAZER: Suporte técnico a clientes via telefone; Atendimento a clientes via portal de atendimento; Execução de testes funcionais sistêmicos; Documentação e registro das atividades realizadas; Apoio interno à equipe de análise de produto. Requisitos e qualificações O QUE ESPERAMOS DE VOCÊ: TOTVS Automação de Ponto (Chronus); Requisitos desejáveis SERIA LEGAL SE TIVESSE: TOTVS Recursos Humanos (Vitae); TOTVS Folha de Pagamento (Labore); TOTVS Segurança e Medicina do Trabalho (SMT); Conhecimento em arquitetura N-camadas; Conhecimento em banco de dados SQL; Conhecimento em fórmulas RM. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 100,
+      "observed_fit": 81,
+      "fit_points": 81,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 81,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 21/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 5925
     },
     {
       "id": "",
@@ -790,49 +917,6 @@
     },
     {
       "id": "",
-      "title": "Tech Support Engineer",
-      "company": "Nuvemshop",
-      "url": "https://nuvemshop-tiendanube.inhire.app/vagas/8209ae46-746d-4549-8440-1ca972f66eab/tech-support-engineer",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-14T00:02:21+00:00",
-      "description": "Nosso time de Technical Support Nosso time de Tech Support tem como objetivo resolver dúvidas e problemas técnicos de forma escalável, empoderando clientes, parceiros tecnológicos e o time de atendimento à cliente. Nossa missão é fazer a ponte entre o suporte de primeiro nível e o time de desenvolvimento, garantindo que lojistas tenham uma ótima experiência, enquanto também contribuímos para a melhoria contínua da nossa plataforma ao identificar problemas potenciais e funcionalidades necessárias O tamanho do seu desafio Analisar problemas complexos entendendo a estrutura da nossa plataforma; Resolver questões técnicas de clientes e parceiros(as) tecnológicos diariamente; Criar ferramentas que aumentem a eficiência do time, melhorem processos e fortaleçam o atendimento de primeiro nível; Influenciar a direção dos nossos produtos por meio do contato direto com clientes e parceiros(as), e pela colaboração constante com os times de suporte e produto; Identificar erros potenciais que possam afetar a qualidade da plataforma; Interagir com o time de desenvolvimento com uma perspectiva técnica para encontrar soluções e compartilhar conhecimento; Colaborar com times multifuncionais. O que buscamos Conhecimentos de programação; Habilidade para analisar logs e extrair informações relevantes. Além disso, capacidade de navegar pelo nosso código-fonte e encontrar problemas; Experiência sólida trabalhando em um ambiente de desenvolvimento web; Capacidade de criar e executar consultas SQL; Conhecimentos de tecnologias e integração com API REST; Excelentes habilidades de comunicação, com capacidade de explicar temas complexos de maneira concisa e fácil de entender. Com forte capacidade de resolução de problemas com foco em cliente; Excelentes habilidades de leitura em inglês; Disponibilidade para trabalhar em turnos, plantões e finais de semana (conforme escala). São diferenciais Idioma espanhol (atendimento para toda América Latina); Experiência prévia como Developer Support ou algum papel relacionado. Nosso processo Queremos que você tenha a melhor experiência possível ao longo do nosso processo seletivo. Após a sua inscrição, o time de Talent Acquisition irá analisar seu perfil com atenção e, independentemente do resultado, você receberá um retorno. As etapas e prazos podem variar de acordo com cada vaga, mas não se preocupe — que nos manteremos em contato com você. O que temos para você Plano de Saúde, Plano Odontológico e Seguro de Vida; Flash Benefícios: Plataforma que reúne vale alimentação, vale refeição e outras categorias como educação, entretenimento, cultura, saúde, bem-estar, auxílio home office e muito mais; Aulas de espanhol semanais gratuitas; Totalpass: As melhores redes de parcerias para atividades físicas, mindfulness, terapia, nutrição e qualidade do sono, com diversos planos disponíveis; Descontos nos cursos da Coderhouse; Auxílio creche para crianças de até 5 anos; Licença de família estendida para 21 dias corridos para pessoas não grávidas ou adotantes. A licença maternidade é de 4 meses e a licença parental de 21 dias. O benefício também vale para famílias que adotarem ou obtiverem a guarda judicial da criança e para casais homoafetivos; Além das férias, temos uma semana de descanso para recarregar as energias no final/começo do ano; Uma Nuvemshop gratuita para você ou pessoa próxima; Somos #remotefirst - o que significa que damos prioridade ao trabalho remoto dentro do país de contratação, sempre que a função permitir; E um ambiente de desafio contínuo, propósito e protagonismo — aqui você é livre para pensar grande e ter atitude gigante. Política de Privacidade de Dados A Nuvemshop está comprometida em proteger a privacidade e garantir a segurança dos dados pessoais das pessoas candidatas às vagas que ofertamos. Para dar seguimento com a sua candidatura, teremos acesso a alguns dados pessoais seus e gostaríamos de repassar algumas informações antes de você continuar. Utilizaremos tais dados para conduzirmos os processos que envolvem o recrutamento e a seleção. Além disso, cuidamos dos seus dados pessoais de forma muita séria e só os compartilhamos com quem realmente precisa. Por fim, somente iremos mantê-los em nosso sistema pelo tempo realmente necessário. Para saber mais sobre a forma pela qual tratamos seus dados, inclusive dos seus direitos previstos em lei, basta acessar a nossa Política de Privacidade",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-08-13T21:02:21-03:00",
-      "coverage": 90,
-      "observed_fit": 74,
-      "fit_points": 67,
-      "covered_points": 90,
-      "score_method": "observed_evidence_v3",
-      "score": 74,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 74% com ajuste de incerteza",
-        "cobertura da análise: 90%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "inhire-api",
-      "enrichment_error": "",
-      "description_length": 4397
-    },
-    {
-      "id": "",
       "title": "Analista de Suporte de Servidores Sênior",
       "company": "Semantix",
       "url": "https://semantix.inhire.app/vagas/fb3d6404-d4ba-44c8-8756-7fb8892a5d6e/analista-de-suporte-de-servidores-senior",
@@ -1118,6 +1202,88 @@
     },
     {
       "id": "",
+      "title": "Analista de Service Desk Júnior",
+      "company": "Fin-X",
+      "url": "https://finxapp.gupy.io/job/eyJqb2JJZCI6MTIxNjUwNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T17:20:38+00:00",
+      "description": "Página da Vaga | Analista de Service Desk Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Service Desk Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Fin-X está transformando a forma como hospitais, clínicas e operadoras gerenciam seus processos. Nossas soluções digitalizam a jornada assistencial e financeira, gerando impacto direto em eficiência operacional, redução de custos e na experiência de profissionais de saúde e pacientes. Como Analista de Service Desk Júnior, você fará parte do time de Infraestrutura e será o ponto único de apoio tecnológico para — do primeiro atendimento de um chamado até a gestão de acessos, equipamentos e onboarding de novos colegas. Você vai acompanhar ativamente a saúde dos nossos ambientes de produção e internos ao longo do dia, ajudando o time a detectar desvios antes que virem incidentes. Responsabilidades e atribuições Suporte interno e chamados Ser o ponto único de contato para o suporte interno de toda a empresa; Realizar triagem e classificação de chamados, resolvendo em primeiro nível o que for possível e escalando com contexto o que for de outros times; Fornecer suporte a erros de acesso em e-mail, Teams e Microsoft Authenticator; Gestão de acessos e identidade Gerenciar acessos nas plataformas Microsoft (Microsoft 365 / Entra ID), Azure DevOps e Git; Apoiar a habilitação de login corporativo (AD/SSO) e MFA nas plataformas da empresa e do produto; Onboarding e offboarding de colaboradores Criar contas e e-mails de novos colaboradores e acompanhar a preparação do equipamento; No desligamento, coordenar a devolução do equipamento e a revogação de acessos e licenças. Dispositivos, telefonia e inventário Gerenciar o inventário de usuários, notebooks e licenças; Acompanhar o ciclo de vida dos equipamentos junto ao fornecedor (solicitação, envio, retirada e manutenção); Gerenciar a telefonia corporativa (chips e números). Monitoramento e sustentação Monitorar ativamente, ao longo do dia, os ambientes de produção e internos (disponibilidade, escala das aplicações, consumo de recursos, filas e integrações); Realizar health checks de APIs e integrações com sistemas internos e monitorar o status da VPN; Segurança da informação — apoio operacional Gerar relatórios de segurança da informação solicitados por clientes; Executar rotinas operacionais de segurança definidas pelo time (revisão de usuários inativos, alertas de novos dispositivos, adesão a MFA). Melhoria contínua e IA Evoluir o agente de IA do Service Desk, ampliando o que ele consegue responder e resolver sozinho; Documentar processos e transformar chamados recorrentes em automações ou artigos de autoatendimento. Crescimento — atividades de evolução Apoiar rotinas de otimização de custos de cloud e refinamentos de infraestrutura; Pegar pequenas demandas dos times de Infraestrutura e DevOps para ampliar o conhecimento técnico na prática. Requisitos e qualificações Conhecimento em configuração de computadores (Windows); Experiência com suporte/helpdesk ou em outro cargo de tecnologia, ou curso na área; Experiência com board de atividades para autogestão e organização do próprio trabalho; Boa comunicação escrita e verbal para atender pessoas de áreas não técnicas. Formação em andamento ou completa em cursos de Tecnologia. Etapas do processo Etapa 1: Cadastro Cadastro Etapa 2: Entrevista com RH Entrevista com RH Etapa 3: Entrevista e Case Técnico Entrevista e Case Técnico Etapa 4: Contratação Contratação Somos apaixonados por transformar a saúde através da inovação tecnológica! Na Fin-X, nosso propósito é conectar todos os players do setor de saúde, utilizando soluções criativas, reduzindo custos, aumentando a transparência e credibilidade, tornando a saúde acessível a todos e impactando positivamente a vida das pessoas de maneira humanizada. Somos curiosos, determinados e corajosos. Não temos medo de arriscar e adoramos propor soluções fora da caixa. Cada dia na Fin-X é único, trabalhamos com uma variedade de hospitais, operadoras e milhares de médicos em todo o Brasil. Somos especialistas em trazer inovações para o mundo da saúde. Compartilhar vaga Link copiado Conheça mais sobre a Fin-x Website LinkedIn Instagram Glassdoor Candidatar-se Copiar link Erro ao copiar link Candidatar-se Powered by Gupy 2026. Todos os direitos reservados.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-18T14:20:38-03:00",
+      "coverage": 100,
+      "observed_fit": 68,
+      "fit_points": 68,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 68,
+      "reasons": [
+        "função: 22/30",
+        "competências observadas: 24/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 4407
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte Técnico N2 | Remoto",
+      "company": "FAST2 MINE TECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS LTDA",
+      "url": "https://fast2mine.solides.jobs/vacancies/905314?origem=portal",
+      "source": "solides",
+      "work_model": "remote",
+      "city": "Belo Horizonte, MG",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": "excel · SQL",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 100,
+      "observed_fit": 67,
+      "fit_points": 67,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 67,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 15/40 (N2/L2, SQL e banco de dados)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "URLError: <urlopen error [Errno -2] Name or service not known>",
+      "description_length": 0
+    },
+    {
+      "id": "",
       "title": "[Tech] Analista de Suporte Sênior | PROTHEUS",
       "company": "TOTVS",
       "url": "https://atracaodetalentos.totvs.app/vempratotvs/11573/tech-analista-de-suporte-senior-protheus",
@@ -1127,7 +1293,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-15",
+      "published_date": "2026-08-18",
       "description": "[Tech] Analista de Suporte Sênior | PROTHEUS - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Tech] Analista de Suporte Sênior | PROTHEUS [Tech] Analista de Suporte Sênior | PROTHEUS TOTVS | São Paulo - SP | Remoto Atuar como referência técnica e estratégica na gestão dos serviços Cloud Prime, sendo responsável por fortalecer o relacionamento com clientes, garantir a excelência operacional e promover a evolução contínua dos ambientes sob sua responsabilidade. Ser o principal ponto de contato para assuntos relacionados à governança dos serviços, atuando de forma consultiva na identificação de oportunidades de melhoria, mitigação de riscos, gestão de incidentes críticos e alinhamento entre as necessidades do negócio e as soluções tecnológicas oferecidas. Participar de projetos de modernização de infraestrutura, revisão arquitetural, governança de serviços, segurança da informação, gestão de mudanças e iniciativas de melhoria contínua da experiência dos clientes. Atuar em conjunto com equipes multidisciplinares e clientes de diferentes segmentos, contribuindo para a construção de soluções inovadoras e para a evolução contínua dos serviços Cloud. Desenvolver análises, recomendações e direcionamentos que conciliem demandas técnicas, operacionais e estratégicas, gerando valor para o negócio e garantindo a satisfação dos clientes. Atuar em um ambiente dinâmico e colaborativo, demonstrando perfil analítico, visão de negócio, excelente comunicação e capacidade de lidar com cenários complexos. Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Revisar periodicamente a arquitetura de infraestrutura dos clientes em conjunto com os times técnicos de sustentação, identificando oportunidades de melhoria e garantindo que a topologia esteja devidamente documentada no sistema de Gestão de Configuração. Gerar, enviar e apresentar mensalmente aos clientes relatórios com indicadores de Governança e Segurança. Compreender o negócio dos clientes e suas complexidades, desdobrando desafios junto ao time de Cloud Prime para ampliar o nível de serviço, propor novas arquiteturas e apoiar a criação de novas ofertas. Garantir a aderência dos serviços aos processos de governança estabelecidos pela organização. Participar dos Comitês de Mudança dos clientes, identificando riscos e possíveis impactos sobre os sistemas e processos de negócio. Contribuir para análises de causa raiz, resolução de problemas e ações de remediação, sendo responsável pela elaboração e apresentação dos relatórios de RCA (Root Cause Analysis). Apoiar a equipe de soluções em demandas de alta complexidade, fornecendo direcionamentos e feedbacks técnicos aos times de Cloud Prime. Compartilhar feedbacks dos clientes com o time de Cloud Prime, propondo ações para padronização, otimização da operação e melhoria da experiência do cliente. Desenhar, em conjunto com os demais especialistas, melhorias nos processos da área com base no conhecimento técnico, visando maior eficiência operacional e geração de valor para os clientes. Contribuir com discussões sobre inovação e tendências de mercado, mantendo constante atualização técnica e disseminando conhecimento para a equipe de Cloud Prime. Manter relacionamento próximo aos clientes por meio de reuniões periódicas para avaliação do nível de serviço, acompanhamento da satisfação, identificação de novas oportunidades de negócio e apoio a projetos estratégicos. Formação superior completa em Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas.; Conhecimento no ERP TOTVS Protheus, incluindo arquitetura da solução, administração de ambientes, sustentação, atualizações, troubleshooting e interação com equipes funcionais e técnicas. Conhecimento em ADVPL; Conhecimento de Módulo/Infra do PROTHEUS. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Tech] Analista de Suporte Sênior | PROTHEUS TOTVS | São Paulo - SP | Remoto Descrição da vaga Atuar como referência técnica e estratégica na gestão dos serviços Cloud Prime, sendo responsável por fortalecer o relacionamento com clientes, garantir a excelência operacional e promover a evolução contínua dos ambientes sob sua responsabilidade. Ser o principal ponto de contato para assuntos relacionados à governança dos serviços, atuando de forma consultiva na identificação de oportunidades de melhoria, mitigação de riscos, gestão de incidentes críticos e alinhamento entre as necessidades do negócio e as soluções tecnológicas oferecidas. Participar de projetos de modernização de infraestrutura, revisão arquitetural, governança de serviços, segurança da informação, gestão de mudanças e iniciativas de melhoria contínua da experiência dos clientes. Atuar em conjunto com equipes multidisciplinares e clientes de diferentes segmentos, contribuindo para a construção de soluções inovadoras e para a evolução contínua dos serviços Cloud. Desenvolver análises, recomendações e direcionamentos que conciliem demandas técnicas, operacionais e estratégicas, gerando valor para o negócio e garantindo a satisfação dos clientes. Atuar em um ambiente dinâmico e colaborativo, demonstrando perfil analítico, visão de negócio, excelente comunicação e capacidade de lidar com cenários complexos. Responsabilidades e atribuições Revisar periodicamente a arquitetura de infraestrutura dos clientes em conjunto com os times técnicos de sustentação, identificando oportunidades de melhoria e garantindo que a topologia esteja devidamente documentada no sistema de Gestão de Configuração. Gerar, enviar e apresentar mensalmente aos clientes relatórios com indicadores de Governança e Segurança. Compreender o negócio dos clientes e suas complexidades, desdobrando desafios junto ao time de Cloud Prime para ampliar o nível de serviço, propor novas arquiteturas e apoiar a criação de novas ofertas. Garantir a aderência dos serviços aos processos de governança estabelecidos pela organização. Participar dos Comitês de Mudança dos clientes, identificando riscos e possíveis impactos sobre os sistemas e processos de negócio. Contribuir para análises de causa raiz, resolução de problemas e ações de remediação, sendo responsável pela elaboração e apresentação dos relatórios de RCA (Root Cause Analysis). Apoiar a equipe de soluções em demandas de alta complexidade, fornecendo direcionamentos e feedbacks técnicos aos times de Cloud Prime. Compartilhar feedbacks dos clientes com o time de Cloud Prime, propondo ações para padronização, otimização da operação e melhoria da experiência do cliente. Desenhar, em conjunto com os demais especialistas, melhorias nos processos da área com base no conhecimento técnico, visando maior eficiência operacional e geração de valor para os clientes. Contribuir com discussões sobre inovação e tendências de mercado, mantendo constante atualização técnica e disseminando conhecimento para a equipe de Cloud Prime. Manter relacionamento próximo aos clientes por meio de reuniões periódicas para avaliação do nível de serviço, acompanhamento da satisfação, identificação de novas oportunidades de negócio e apoio a projetos estratégicos. Requisitos e qualificações Formação superior completa em Tecnologia da Informação, Sistemas de Informação, Ciência da Computação, Engenharia da Computação ou áreas correlatas.; Conhecimento no ERP TOTVS Protheus, incluindo arquitetura da solução, administração de ambientes, sustentação, atualizações, troubleshooting e interação com equipes funcionais e técnicas. Requisitos desejáveis Conhecimento em ADVPL; Conhecimento de Módulo/Infra do PROTHEUS. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -1137,7 +1303,7 @@
         "CLT"
       ],
       "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-15T12:00:00-03:00",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 65,
       "fit_points": 65,
@@ -1242,6 +1408,48 @@
     },
     {
       "id": "",
+      "title": "Analista de Suporte Júnior (Crédito) - Afirmativa PcD",
+      "company": "Superlógica Tecnologias",
+      "url": "https://superlogica.inhire.app/vagas/1043a576-aec4-42d8-bb09-810cecff03d9/analista-de-suporte-junior-credito-afirmativa-pcd",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T12:22:33+00:00",
+      "description": "Atuar no time de Operações, executando atividades operacionais com precisão e qualidade, garantindo a correta configuração sistêmica, validação de informações e cumprimento dos processos. Esta oportunidade é aberta a todos os profissionais que atendam aos requisitos. Além disso, como parte do nosso compromisso contínuo com a diversidade e inclusão, esta é também uma vaga afirmativa para pessoas com deficiência (PcD). Encorajamos fortemente a candidatura de talentos diversos. Se interessou? Venha ajudar a gente a criar experiências incríveis! Principais atribuições Operação e Configuração de Sistemas: realizar a parametrização e ajustes no sistema (configurações, regras, etc.), assegurando a integridade e correção dos dados imputados. Monitorar e validar a qualidade dos dados inseridos, identificando e corrigindo eventuais desvios. Gestão e Manutenção da Carteira: Realizar a manutenção proativa da carteira de clientes, solicitando e acompanhando a atualização de documentos e informações cadastrais. Atuar como ponto focal para dúvidas sistêmicas e operacionais, buscando a rápida solução de problemas. Offboarding: Conduzir os procedimentos de Offboarding (desligamento) de clientes que encerram o uso do produto, garantindo o cumprimento dos ritos contratuais e sistêmicos. Documentar os motivos de saída e procedimentos realizados. Auxiliar administradoras e síndicos na compreensão de relatórios (ex: concialiação bancária, repasse e pagamentos) relacionados ao produto Inadimplência Zero. Preencher e manter atualizados controles operacionais, relatórios e planilhas de acompanhamento. Monitorar processos operacionais, assegurando conformidade e qualidade nas entregas. Identificar oportunidades de melhoria e apoiar na otimização de fluxos e rotinas. Interagir com clientes, quando necessário, para validação de informações e alinhamentos operacionais. Garantir cumprimento de prazos, padrões internos e políticas da empresa. Requisitos e Qualificações Superior cursando em Administração, Gestão de negócios, Comunicação e Marketing ou áreas correlatas; Capacidade de compreender necessidades e expectativas, assegurando qualidade nas entregas e contribuindo para uma experiência positiva.Foco em resolver problemas de forma prática, colaborativa e eficiente; Experiência com atendimento e boa comunicação (verbal e escrita). Vaga com atuação 100% remota. Desejável: Ferramenta de Gestão de Atendimento ao Cliente (Ex. Zendesk, Pacote Office) Fazendo parte do time, você terá “SuperBenefícios” como: Flexibilidade de horário: Podemos sempre nos adaptar às mudanças do dia a dia, o importante mesmo é sempre alcançar o objetivo. Ajuda de custo para os dias em home office: A gente dá o suporte necessário para que você possa trabalhar no conforto do seu lar, em dias de home office. Ifoof Benefícios Flexíveis (VA + VR): Transformar o mundo dá uma fome, né?! E é claro que o nosso recheado VA e VR não podem ficar de fora dessa missão. Plano de saúde e odontológico: A saúde sempre em primeiro lugar, para você e seus dependentes. Apoio aos pais: Se tornar mãe ou pai é algo espetacular, e queremos participar deste grande momento com você. Por isso, além do auxílio creche, temos também licença-parental (maternidade e paternidade) estendida. Saúde e Bem-estar: Parceria com o Gympass e auxílio farmácia. Treinamentos e educação: Temos parcerias com escolas e universidades e oferecemos treinamentos EaD gratuitos. Ambiente que valoriza feedbacks 1:1.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-18T09:22:33-03:00",
+      "coverage": 100,
+      "observed_fit": 64,
+      "fit_points": 64,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 64,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 3471
+    },
+    {
+      "id": "",
       "title": "Vaga Exclusiva PCD |  Analista de Suporte Júnior | Remoto",
       "company": "Aurum",
       "url": "https://aurum.gupy.io/job/eyJqb2JJZCI6MTIwOTg2MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -1282,48 +1490,6 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Júnior (Crédito) - Afirmativa PcD",
-      "company": "Superlógica Tecnologias",
-      "url": "https://superlogica.inhire.app/vagas/1043a576-aec4-42d8-bb09-810cecff03d9/analista-de-suporte-junior-credito-afirmativa-pcd",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-14T19:33:28+00:00",
-      "description": "Atuar no time de Operações, executando atividades operacionais com precisão e qualidade, garantindo a correta configuração sistêmica, validação de informações e cumprimento dos processos. Esta oportunidade é aberta a todos os profissionais que atendam aos requisitos. Além disso, como parte do nosso compromisso contínuo com a diversidade e inclusão, esta é também uma vaga afirmativa para pessoas com deficiência (PcD). Encorajamos fortemente a candidatura de talentos diversos. Se interessou? Venha ajudar a gente a criar experiências incríveis! Principais atribuições Operação e Configuração de Sistemas: realizar a parametrização e ajustes no sistema (configurações, regras, etc.), assegurando a integridade e correção dos dados imputados. Monitorar e validar a qualidade dos dados inseridos, identificando e corrigindo eventuais desvios. Gestão e Manutenção da Carteira: Realizar a manutenção proativa da carteira de clientes, solicitando e acompanhando a atualização de documentos e informações cadastrais. Atuar como ponto focal para dúvidas sistêmicas e operacionais, buscando a rápida solução de problemas. Offboarding: Conduzir os procedimentos de Offboarding (desligamento) de clientes que encerram o uso do produto, garantindo o cumprimento dos ritos contratuais e sistêmicos. Documentar os motivos de saída e procedimentos realizados. Auxiliar administradoras e síndicos na compreensão de relatórios (ex: concialiação bancária, repasse e pagamentos) relacionados ao produto Inadimplência Zero. Preencher e manter atualizados controles operacionais, relatórios e planilhas de acompanhamento. Monitorar processos operacionais, assegurando conformidade e qualidade nas entregas. Identificar oportunidades de melhoria e apoiar na otimização de fluxos e rotinas. Interagir com clientes, quando necessário, para validação de informações e alinhamentos operacionais. Garantir cumprimento de prazos, padrões internos e políticas da empresa. Requisitos e Qualificações Superior cursando em Administração, Gestão de negócios, Comunicação e Marketing ou áreas correlatas; Capacidade de compreender necessidades e expectativas, assegurando qualidade nas entregas e contribuindo para uma experiência positiva.Foco em resolver problemas de forma prática, colaborativa e eficiente; Experiência com atendimento e boa comunicação (verbal e escrita). Vaga com atuação 100% remota. Desejável: Ferramenta de Gestão de Atendimento ao Cliente (Ex. Zendesk, Pacote Office) Fazendo parte do time, você terá “SuperBenefícios” como: Flexibilidade de horário: Podemos sempre nos adaptar às mudanças do dia a dia, o importante mesmo é sempre alcançar o objetivo. Ajuda de custo para os dias em home office: A gente dá o suporte necessário para que você possa trabalhar no conforto do seu lar, em dias de home office. Ifoof Benefícios Flexíveis (VA + VR): Transformar o mundo dá uma fome, né?! E é claro que o nosso recheado VA e VR não podem ficar de fora dessa missão. Plano de saúde e odontológico: A saúde sempre em primeiro lugar, para você e seus dependentes. Apoio aos pais: Se tornar mãe ou pai é algo espetacular, e queremos participar deste grande momento com você. Por isso, além do auxílio creche, temos também licença-parental (maternidade e paternidade) estendida. Saúde e Bem-estar: Parceria com o Gympass e auxílio farmácia. Treinamentos e educação: Temos parcerias com escolas e universidades e oferecemos treinamentos EaD gratuitos. Ambiente que valoriza feedbacks 1:1.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-14T16:33:28-03:00",
-      "coverage": 100,
-      "observed_fit": 64,
-      "fit_points": 64,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 64,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 8/40 (Pagamentos e cartões)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "inhire-api",
-      "enrichment_error": "",
-      "description_length": 3471
-    },
-    {
-      "id": "",
       "title": "Analista de Suporte Ao Cliente",
       "company": "Hope Solution",
       "url": "https://www.geekhunter.com/pt/hope-solution/jobs/analista-de-suporte-ao-cliente-1",
@@ -1335,7 +1501,7 @@
       "market": "BR",
       "published_date": "2026-08-10T17:05:32+00:00",
       "description": "Analista de Suporte ao Cliente (Software de Gestão para Saúde / Home Care) Hope Solution — empresa de tecnologia por trás do +Vidas (MaisVidas) , plataforma de gestão usada por operações de Home Care, Cuidadores e Cooperativas de Saúde em todo o Brasil. 📍 Rio de Janeiro – RJ · 🏢 Híbrido · 🕒 Segunda a sexta, das 09h às 18h · 💼 Júnior ou Pleno · CLT Sobre a vaga Procuramos uma pessoa para o nosso time de Suporte ao Cliente que seja, ao mesmo tempo, investigadora e comunicadora . Aqui o suporte não é \"abrir e fechar chamado\": é entender de verdade a operação do cliente, reproduzir o problema, separar o que é dúvida do que é bug, e ser a ponte de inteligência entre quem usa o sistema e quem o desenvolve. O +Vidas é um sistema robusto, que cobre desde agenda e escala de plantões até faturamento, glosa, folha de pagamento, prescrição e avaliações clínicas. Você vai dominar esse universo e ajudar nossos clientes a tirar o máximo da plataforma. O que você vai fazer Atender clientes por chamado, chat e call , ouvindo e fazendo as perguntas certas para entender a real necessidade por trás da dúvida. Reproduzir os cenários em ambiente de testes antes de classificar qualquer problema, isolando variáveis (perfil, permissão, configuração, dados específicos). Classificar com precisão cada atendimento: é uma dúvida (treinamento)? um bug? uma sugestão de melhoria? ou um caso em que cabe uma solução paliativa para destravar o cliente agora? Documentar bugs de forma clara e auto-suficiente para o time de desenvolvimento (passo a passo, evidências, comportamento esperado vs. obtido). Encontrar caminhos alternativos no sistema para destravar o cliente, sem comprometer a integridade dos dados. Transformar dúvidas recorrentes em material de ajuda e identificar padrões que viram melhorias de produto. O que esperamos de você Essencial Excelente comunicação, escrita e verbal, com didática para conduzir calls e traduzir o técnico para a linguagem do cliente. Raciocínio lógico e perfil investigativo: gosta de entender a causa, não só de contornar o sintoma. Organização e método: segue um roteiro de triagem, documenta e não trabalha \"de memória\". Maturidade para gerenciar expectativas com honestidade e empatia. Vontade de aprender profundamente o sistema e o negócio dos nossos clientes. Diferenciais (não obrigatórios) Experiência prévia com suporte a software / SaaS, especialmente sistemas de gestão (ERP). Conhecimento da área de saúde, home care, faturamento TISS ou gestão hospitalar Familiaridade com ferramentas de chamado e bases de conhecimento. O que oferecemos 📄 Contratação CLT 🍽️ Vale-refeição (VR) 💰 Salário a combinar envie sua pretensão salarial na candidatura. 🏢 Modelo híbrido , em Rio de Janeiro – RJ 🕒 Jornada de segunda a sexta, das 09h às 18h Oportunidade de dominar um produto completo e crescer junto com um time de tecnologia em expansão. Interessou? Envie seu currículo com sua pretensão salarial para vagasuporte@hopesolution.com.br Comunicação Verbal, Comunicação Escrita, Suporte Técnico, Atendimento ao Cliente",
-      "skills": "Comunicação Verbal · Comunicação Escrita · Suporte Técnico · Atendimento ao Cliente",
+      "skills": "Atendimento ao Cliente · Comunicação Verbal · Comunicação Escrita · Suporte Técnico",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
@@ -1418,7 +1584,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-07-15T00:00:00",
-      "description": "Vaga Analista de Suporte Técnico Júnior I na Grupo WebPic | EMPREGARE.com Você foi desconectado Sua sessão expirou ou você foi desconectado. Faça login novamente para continuar. Fazer login novamente Divulgue essa vaga WhatsApp LinkedIn Facebook https://www.empregare.com/pt-br/vaga-analista-de-suporte-tecnico-junior-i_171220 Copiar Candidatura na Vaga Já sou cadastrado Clique em entrar e informe seus dados de acesso para se inscrever nessa vaga. Entre e inscreva-se Não tenho cadastrado Clique no botão abaixo caso você nao possua um currículo cadastrado no nosso site. Cadastre-se, grátis! Candidatura na Vaga Ao se inscrever na vaga o seu currículo será enviado automaticamente para a empresa e você participará do processo seletivo. Confirmar Candidatura Candidatura na Vaga Escaneie o QR Code para continuar sua candidatura pelo WhatsApp no seu celular: OU Acesse o WhatsApp Web Denunciar Vaga Sua denúncia ajuda a manter nossa plataforma segura. As informações são confidenciais. Motivo Selecione o motivo... Vaga Falsa / Golpe Conteúdo inapropriado / discriminatório Vaga exige pagamento do candidato Informações incorretas Outro motivo Seu E-mail Telefone/Celular Detalhes da Denúncia Cancelar Enviar Denúncia Desistir da vaga Por que você quer cancelar? Escolha uma opção Por favor, escolha uma opção para continuar. Mais detalhes (opcional) Sim, quero cancelar Mudei de ideia Menu Vagas Gerador de currículo Nectar Ajuda Cadastrar currículo Entrar Português PT English EN Español ES Olá, visitante Português English Español Cadastrar currículo Vagas Acelere sua carreira Gerador de currículo Néctar Ajuda Início Mensagens Curriculo Código do Usuário 0000 Meu currículo Atualizar contatos Configurações Sair Olá, Português English Español Início Meu Currículo Busca de Vagas Minhas Candidaturas Atividades Alerta de Vagas Mensagens Clube de Benefícios Baixar currículo Ferramentas Premium Análise de Currículo PRO Simulador de Entrevista PRO Suporte Ajuda Central de Ajuda Contato O que é a empregare Sistema Português English Español Configurações Sair Início Vagas Mensagens Currículo Menu Início Meu Currículo Busca de Vagas Minhas Candidaturas Atividades Alerta de Vagas Mensagens Clube de Benefícios Baixar currículo Ferramentas Premium Análise de Currículo PRO Simulador de Entrevista PRO Suporte Ajuda Central de Ajuda Contato O que é a empregare Sistema Português English Español Configurações Sair Voltar para vagas Grupo WebPic Analista de Suporte Técnico Júnior I Totalmente Remoto Analista de Suporte Técnico Júnior I Grupo WebPic Descrição e Responsabilidades Nível: Profissional Regime de contratação: Efetivo – CLT Prestar suporte técnico presencial na região de Salvador e remoto aos usuários, auxiliando na resolução de dúvidas e problemas técnicos; Auxiliar na fase de implantação; Auxiliar a criação de protocolos e preenchimento de checklists; Configuração e elaboração de Etiqueta; Realizar atendimento por meio do WhatsApp, telefone e presencial; Acompanhamento do cliente como estão o manuseio do sistema; Monitorar e reportar problemas recorrentes para melhorias contínuas no sistema; Treinamento de partes do sistema; Configuração de boletos; Auxílio em NF-e, NFC-e; Configuração de integrações e-commerce e outros. Requisitos Superior em Sistemas de Informação, Ciência da Computação ou áreas correlatas; Ter conhecimento em rotinas de uma fábrica de confecção para auxiliar o cliente no sistema; Ter conhecimento em regras fiscais para auxiliar o cliente no sistema; É necessário possuir CNH ativa e veículo próprio (carro ou moto) para realizar visitas ao cliente; Residir na região de Salvador/BA Benefícios Assistência médica Assistência odontológica Auxílio creche Auxílio educação Auxílio farmácia Auxílio tecnologia Benefícios internos Bonificação por Performance e Desempenho Individual Day off + bonificação no aniversário Licenças maternidade e paternidade estendidas Parcerias e descontos em universidades Participação nos lucros Seguro de Vida Short Friday TotalPass Vale cultura Vale-alimentação Vale-refeição Vale-transporte Código da vaga: 171220 Data de Cadastro: 2026-07-15 Data de Atualização: 2026-07-23 Denunciar Vaga Grupo WebPic Ver perfil da empresa Vagas semelhantes INTELLTECH TECNOLOGIAS INTELIGENTES S.A. Analista de Sistemas Júnior – Infraestrutura e Dados - PRESENCIAL OU HOME OFFICE Totalmente Remoto",
+      "description": "Vaga Analista de Suporte Técnico Júnior I na Grupo WebPic | EMPREGARE.com Você foi desconectado Sua sessão expirou ou você foi desconectado. Faça login novamente para continuar. Fazer login novamente Divulgue essa vaga WhatsApp LinkedIn Facebook https://www.empregare.com/pt-br/vaga-analista-de-suporte-tecnico-junior-i_171220 Copiar Candidatura na Vaga Já sou cadastrado Clique em entrar e informe seus dados de acesso para se inscrever nessa vaga. Entre e inscreva-se Não tenho cadastrado Clique no botão abaixo caso você nao possua um currículo cadastrado no nosso site. Cadastre-se, grátis! Candidatura na Vaga Ao se inscrever na vaga o seu currículo será enviado automaticamente para a empresa e você participará do processo seletivo. Confirmar Candidatura Candidatura na Vaga Escaneie o QR Code para continuar sua candidatura pelo WhatsApp no seu celular: OU Acesse o WhatsApp Web Denunciar Vaga Sua denúncia ajuda a manter nossa plataforma segura. As informações são confidenciais. Motivo Selecione o motivo... Vaga Falsa / Golpe Conteúdo inapropriado / discriminatório Vaga exige pagamento do candidato Informações incorretas Outro motivo Seu E-mail Telefone/Celular Detalhes da Denúncia Cancelar Enviar Denúncia Desistir da vaga Por que você quer cancelar? Escolha uma opção Por favor, escolha uma opção para continuar. Mais detalhes (opcional) Sim, quero cancelar Mudei de ideia Menu Vagas Gerador de currículo Nectar Ajuda Cadastrar currículo Entrar Português PT English EN Español ES Olá, visitante Português English Español Cadastrar currículo Vagas Acelere sua carreira Gerador de currículo Néctar Ajuda Início Mensagens Curriculo Código do Usuário 0000 Meu currículo Atualizar contatos Configurações Sair Olá, Português English Español Início Meu Currículo Busca de Vagas Minhas Candidaturas Atividades Alerta de Vagas Mensagens Clube de Benefícios Baixar currículo Ferramentas Premium Análise de Currículo PRO Simulador de Entrevista PRO Suporte Ajuda Central de Ajuda Contato O que é a empregare Sistema Português English Español Configurações Sair Início Vagas Mensagens Currículo Menu Início Meu Currículo Busca de Vagas Minhas Candidaturas Atividades Alerta de Vagas Mensagens Clube de Benefícios Baixar currículo Ferramentas Premium Análise de Currículo PRO Simulador de Entrevista PRO Suporte Ajuda Central de Ajuda Contato O que é a empregare Sistema Português English Español Configurações Sair Voltar para vagas Grupo WebPic Analista de Suporte Técnico Júnior I Totalmente Remoto Analista de Suporte Técnico Júnior I Grupo WebPic Descrição e Responsabilidades Nível: Profissional Regime de contratação: Efetivo – CLT Prestar suporte técnico presencial na região de Salvador e remoto aos usuários, auxiliando na resolução de dúvidas e problemas técnicos; Auxiliar na fase de implantação; Auxiliar a criação de protocolos e preenchimento de checklists; Configuração e elaboração de Etiqueta; Realizar atendimento por meio do WhatsApp, telefone e presencial; Acompanhamento do cliente como estão o manuseio do sistema; Monitorar e reportar problemas recorrentes para melhorias contínuas no sistema; Treinamento de partes do sistema; Configuração de boletos; Auxílio em NF-e, NFC-e; Configuração de integrações e-commerce e outros. Requisitos Superior em Sistemas de Informação, Ciência da Computação ou áreas correlatas; Ter conhecimento em rotinas de uma fábrica de confecção para auxiliar o cliente no sistema; Ter conhecimento em regras fiscais para auxiliar o cliente no sistema; É necessário possuir CNH ativa e veículo próprio (carro ou moto) para realizar visitas ao cliente; Residir na região de Salvador/BA Benefícios Assistência médica Assistência odontológica Auxílio combustível Auxílio creche Auxílio educação Auxílio tecnologia Benefícios internos Bonificação por Performance e Desempenho Individual Day off + bonificação no aniversário Licenças maternidade e paternidade estendidas Parcerias e descontos em universidades Participação nos lucros Seguro de Vida Short Friday TotalPass Vale cultura Vale-alimentação Vale-refeição Código da vaga: 171220 Data de Cadastro: 2026-07-15 Data de Atualização: 2026-08-18 Denunciar Vaga Grupo WebPic Ver perfil da empresa Vagas semelhantes INTELLTECH TECNOLOGIAS INTELIGENTES S.A. Analista de Sistemas Júnior – Infraestrutura e Dados - PRESENCIAL OU HOME OFFICE Totalmente Remoto",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1444,7 +1610,7 @@
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
-      "description_length": 4368
+      "description_length": 4355
     },
     {
       "id": "",
@@ -1583,7 +1749,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17T15:15:53+00:00",
+      "published_date": "2026-08-18T19:30:23+00:00",
       "description": "Como é fazer parte da equipe Seazone? Fazer parte dessa equipe significa que você ajudará a compor o time da maior empresa nacional parceira do Airbnb e uma das Top 20 Startups do LinkedIn, somando ao nosso propósito de trazer inovação e tecnologia para o mercado de aluguel por temporada com o objetivo de maximizar a rentabilidade de clientes proprietários e investidores, além de garantir uma excelente experiência ao hóspede que escolhe os imóveis Seazone como o seu destino fora de casa 🚀 O que nosso time de Suporte de Franquias faz? Somos o ponto de apoio direto de quem toca a operação na ponta: os franqueados Seazone. Quando um franqueado tem dúvida sobre um processo, trava em um sistema, recebe uma reclamação de proprietário ou vive uma urgência de verdade — vazamento na unidade, fechadura que não abre, hóspede na porta, cancelamento em cima da hora — é com a gente que ele fala. E é com a gente que ele sai sabendo exatamente o que fazer e quando. O time é enxuto: duas analistas revezando o atendimento da rede, uma supervisora e uma coordenadora. Nos próximos meses o desafio é claro: automatizar o que hoje ainda é manual e colocar IA para trabalhar a nosso favor, para escalar o atendimento sem inchar a equipe — e sem perder a excelência com quem depende da gente todo dia. 💼 O que você vai fazer: Ser o ponto único de apoio do franqueado: atender as demandas da rede por WhatsApp, chamado e outros canais, tirando dúvidas sobre sistemas, processos, prazos e políticas. Orientar sobre processos e sistemas: explicar e reforçar os fluxos da operação (reservas, check-in/check-out, limpeza, manutenção, relacionamento com proprietário), apoiar o uso das ferramentas internas e dar suporte reforçado a franqueados novos ou sem bagagem em hotelaria. Gerir crises e ocorrências operacionais: avaliar impacto, definir o plano imediato (realocação, remanejamento de reserva, acionamento de prestador) e evitar que a operação do franqueado pare. Acionar e articular as áreas internas: levar a demanda para reservas, precificação, produto/sistemas, financeiro, jurídico ou expansão com contexto completo — e acompanhar até resolver, sem jogar para o franqueado a responsabilidade de cobrar retorno. Priorizar o fluxo de demandas: organizar vários atendimentos simultâneos por criticidade e impacto (hóspede e receita em risco primeiro), respeitar SLAs e avisar proativamente quem vai esperar. Registrar, documentar e reportar: manter histórico por franqueado e carteira, e entregar levantamentos, indicadores e reportes para a liderança no prazo. Atacar a causa-raiz: identificar padrões de dúvidas e erros repetidos e transformá-los em ajuste de processo, checklist, tutorial ou treinamento — em vez de reexplicar a mesma coisa. Apoiar o relacionamento com proprietários e hóspedes via franqueado: intermediar quando há reclamação ou risco de experiência ruim, cobrando resposta e garantindo o padrão da rede. Usar IA e automações com critério: aplicar IA para ganhar escala e qualidade (respostas-padrão, triagem, resumos, base de conhecimento), mantendo revisão humana em temas sensíveis — crises, contrato, financeiro, conflitos e qualquer resposta com impacto no hóspede ou no proprietário. Zelar pelo padrão e pela saúde da rede: monitorar aderência aos processos, sinalizar franqueados com queda de desempenho ou baixa resposta e contribuir para a melhoria contínua da experiência do franqueado. 🔍 O que esperamos de você: Experiência mínima de 2 anos em atendimento ao público (requisito eliminatório: vivência em atendimento ao cliente). Comunicação clara e objetiva: o franqueado precisa encerrar a conversa sabendo o próximo passo e o prazo. Sangue-frio em crise: agir com informação incompleta, em fim de semana e alta temporada, sem travar a operação. Priorização e gestão de tempo entre demandas simultâneas, comunicando ativamente quem vai esperar. Empatia com firmeza: acolher irritação e cobrança sem prometer o que não dá para cumprir. Saber negociar e lidar com pressão. Autonomia e dono do problema: acionar as áreas certas e acompanhar até o fechamento, sem precisar de empurrão. Organização e uso de dados: registro consistente e levantamentos rápidos quando a liderança pedir. Noções de SLA, priorização e escalonamento. Disponibilidade real para a escala da vaga, incluindo fins de semana e picos de alta temporada. 🤩 Você se destaca, se tiver: Familiaridade com uso de IA para escalar atendimento — templates e respostas-padrão, triagem de mensagens, resumos, contorno de objeções e construção de base de conhecimento, sabendo onde a IA ajuda e onde a revisão humana é obrigatória. Experiência em atendimento B2B, suporte a franqueados/parceiros ou customer success Vivência em hotelaria, aluguel por temporada ou mercado imobiliário — incluindo a rotina de check-in/check-out, limpeza, manutenção e relacionamento com proprietários. Perfil analítico: identificar padrões de chamados e propor melhorias de processo. Didática: conseguir treinar franqueados que nunca trabalharam no setor. Incentivos 🍽️ Auxílio alimentação - Ifood Benefícios no valor de R$ 462,00; 🩺 Plano de saúde e Odontológico após 6 meses como PJ na Seazone; 🚀 Avaliações semestrais com a perspectiva de crescimento; 🗣️ Cultura de Feedback; 🎂 Day-off de aniversário; ⏸️Afastamento remunerado de maternidade/paternidade; 💰 Bônus por indicação; ✈️ Descontos em hospedagens pelo nosso site de reservas; 🏝️Hospedagem em Florianópolis (SC) para o evento de comemoração do aniversário da Seazone; 🖥️ Escritório disponível para coworking em Florianópolis (SC). Parcerias 🏋️‍♀️ Parceria com a Gympass; 📚 Parceria com Escolas de Idiomas; 📓Parceria com a ACATE - descontos em mensalidades universitárias, entre outras vantagens; 🧠 Parceria com a Conexa Saúde e Psicologia Viva - Telemedicina 24h; 🐾Parceria com a Guapeco - Plano de Saúde Pet. Sobre a contratação 💼Contrato no modelo PJ; 👨‍💻Trabalho remoto; 🌴Descanso remunerado de 15 dias a cada 6 meses de contrato.",
       "skills": [],
       "categories": [
@@ -1593,7 +1759,7 @@
         "PJ"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-08-17T12:15:53-03:00",
+      "published_at_br": "2026-08-18T16:30:23-03:00",
       "coverage": 90,
       "observed_fit": 59,
       "fit_points": 53,
@@ -2064,46 +2230,6 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Junior",
-      "company": "Governança Brasil",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97449.php",
-      "source": "Nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-29T08:21:18-04:00",
-      "description": "Efetuar registro de todos os atendimentos realizados, conforme processo da empresa, permitindo a evolução e o acompanhamento do cliente; Identificar necessidades dos clientes e repassar para a área comercial ou de relacionamento; Manter-se atualizado nas questões ligadas ao produto (negócio, legislação, tecnologia).",
-      "skills": "sistemas · analista · office · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-07-29T09:21:18-03:00",
-      "coverage": 100,
-      "observed_fit": 52,
-      "fit_points": 52,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 317
-    },
-    {
-      "id": "",
       "title": "Especialista de Suporte Técnico ao Cliente (Área da Tecnologia) - São Paulo (Home Office)",
       "company": "Atento Brasil",
       "url": "https://atento.gupy.io/job/eyJqb2JJZCI6MTE1MjYyMjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -2269,6 +2395,42 @@
     },
     {
       "id": "",
+      "title": "Analista de Suporte Junior",
+      "company": "Governança Brasil",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97449.php",
+      "source": "Nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-07-29T08:21:18-04:00",
+      "description": "",
+      "skills": "sistemas · analista · office · suporte",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-07-29T09:21:18-03:00",
+      "coverage": 85,
+      "observed_fit": 48,
+      "fit_points": 41,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 52,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "fit observado: 48% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ]
+    },
+    {
+      "id": "",
       "title": "Suporte Técnico Freelancer",
       "company": "Action Labs",
       "url": "https://www.nerdin.com.br/vaga_emprego/vaga-suporte-tecnico-freelancer-97545.php",
@@ -2279,7 +2441,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-07T11:33:10-04:00",
-      "description": "A Action Labs está em busca de um profissional de TI para nos apoiar remotamente sempre que surgir algum problema em nossas máquinas: travamentos, instalação de programas, configuração de rede, vírus, lentidão, dúvidas sobre atualizações, erros de sistema, entre outros. Se você trabalha com suporte técnico de forma autônoma e topa esse formato de atendimento sob demanda, envie seu contato por e-mail. E, se conhecer alguém com esse perfil, compartilha essa oportunidade! 🙌 📍 Remoto | 💼 Freelancer, acionamento pontual (sem vínculo fixo) 💰 Cobrança por chamado",
+      "description": "",
       "skills": "sistemas · analista · office · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -2303,12 +2465,7 @@
         "remoto: 5/5",
         "fit observado: 43% com ajuste de incerteza",
         "cobertura da análise: 75%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 562
+      ]
     },
     {
       "id": "",
@@ -2383,12 +2540,7 @@
         "senioridade: 9/10 (senioridade sênior/especialista)",
         "remoto: 5/5",
         "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "error",
-      "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
-      "description_length": 0
+      ]
     },
     {
       "id": "",
@@ -2424,12 +2576,7 @@
         "remoto: 5/5",
         "fit observado: 36% com ajuste de incerteza",
         "cobertura da análise: 75%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "error",
-      "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
-      "description_length": 0
+      ]
     },
     {
       "id": "",
@@ -2469,6 +2616,44 @@
     },
     {
       "id": "",
+      "title": "Desenvolvedor .Net - Pleno",
+      "company": "Nava Technology For Business",
+      "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/desenvolvedor--net---pleno-2",
+      "source": "geekhunter",
+      "work_model": "remote",
+      "city": "Remoto",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T12:46:41+00:00",
+      "description": "",
+      "skills": "SQL Server · Git · PostgreSQL · C# · REST API · Clean Code · .NET · ASP.NET · SOLID · POO · Observabilidade · Cloud",
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T09:46:41-03:00",
+      "coverage": 100,
+      "observed_fit": 47,
+      "fit_points": 47,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 100%"
+      ]
+    },
+    {
+      "id": "",
       "title": "Analista de Sistemas Sênior",
       "company": "Nava Technology For Business",
       "url": "https://www.geekhunter.com/pt/nava-technology-for-business-1/jobs/analista-de-sistemas-senior-26",
@@ -2480,7 +2665,7 @@
       "market": "BR",
       "published_date": "2026-08-17T21:01:42+00:00",
       "description": "",
-      "skills": "Gestão de Incidentes · B3 · Sustentação de Sistemas · Mercado Financeiro · Rotinas Batch · Monitoramento de Sistemas · Integrações de Sistemas · Análise Funcional · CI/CD · Kanban · ServiceNow · Scrum",
+      "skills": "Monitoramento de Sistemas · Integrações de Sistemas · Análise Funcional · B3 · Sustentação de Sistemas · Gestão de Incidentes · Mercado Financeiro · Rotinas Batch · CI/CD · Kanban · ServiceNow · Scrum",
       "categories": [
         "Outros"
       ],
@@ -2507,6 +2692,44 @@
     },
     {
       "id": "",
+      "title": "Desenvolvedor(a) de Software Full Stack",
+      "company": "Ntt Data",
+      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-a--de-software-full-stack-1",
+      "source": "geekhunter",
+      "work_model": "remote",
+      "city": "Remoto",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-07T20:19:33+00:00",
+      "description": "",
+      "skills": "Git · Nest.js · Python · TypeScript · JavaScript · Angular · React · Engenharia de prompts · APIs · LLMs · DevSecOps · Banco de dados",
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-07T17:19:33-03:00",
+      "coverage": 100,
+      "observed_fit": 45,
+      "fit_points": 45,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências observadas: 15/40 (APIs e integrações, SQL e banco de dados)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 100%"
+      ]
+    },
+    {
+      "id": "",
       "title": "Engenheira de Software com foco em IA - MULHERES",
       "company": "Ntt Data",
       "url": "https://www.geekhunter.com/pt/ntt-data/jobs/engenheira-de-software-com-foco-em-ia---mulheres-1",
@@ -2518,7 +2741,7 @@
       "market": "BR",
       "published_date": "2026-08-07T15:12:02+00:00",
       "description": "",
-      "skills": "Banco de Dados · APIs REST · LLMs · IA Generativa · TypeScript · Arquitetura de Sistemas · Python · Bancos Vetoriais · MCP · Frameworks de Agentes · RAG",
+      "skills": "Arquitetura de Sistemas · Python · Banco de Dados · APIs REST · LLMs · IA Generativa · TypeScript · Bancos Vetoriais · MCP · Frameworks de Agentes · RAG",
       "categories": [
         "Dados, BI e IA"
       ],
@@ -2623,6 +2846,43 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 4726
+    },
+    {
+      "id": "",
+      "title": "Desenvolvedor(a) Java Sênior | Spring Boot, APIs & Integrações | Integrações Hospitalares",
+      "company": "Dasa Tecnologia",
+      "url": "https://dasatecnologia.gupy.io/job/eyJqb2JJZCI6MTIxNjgwNzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T19:40:31+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-18T16:40:31-03:00",
+      "coverage": 68,
+      "observed_fit": 49,
+      "fit_points": 33,
+      "covered_points": 68,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências observadas: 8/8 (APIs e integrações)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 49% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 68%"
+      ]
     },
     {
       "id": "",
@@ -2847,6 +3107,45 @@
         "fit observado: 54% com ajuste de incerteza",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 68%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Consultor Técnico PL/SQL – Vaga Afirmativa para PCD | Banco de Talentos",
+      "company": "eCOMEX",
+      "url": "https://atracaodetalentos.totvs.app/vagasecomex/46/consultor-tecnico-pl-sql-vaga-afirmativa-para-pcd-banco-de-talentos",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Dados, BI e IA"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 67,
+      "observed_fit": 55,
+      "fit_points": 37,
+      "covered_points": 67,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências observadas: 7/7 (SQL e banco de dados)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 55% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 67%"
       ]
     },
     {
@@ -3233,16 +3532,55 @@
     },
     {
       "id": "",
-      "title": "Estágio em TI | Originação de Crédito",
-      "company": "domoinovacao",
-      "url": "https://domo.gupy.io/job/eyJqb2JJZCI6MTIxNTI4MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "title": "[Tecnologia] Head de Engenharia de Software",
+      "company": "Contabilizei",
+      "url": "https://contabilizei.inhire.app/vagas/d37e66c9-20b7-4f03-bedd-c204bb9a511a/tecnologia-head-de-engenharia-de-software",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18T21:03:11+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Liderança",
+      "published_at_br": "2026-08-18T18:03:11-03:00",
+      "coverage": 60,
+      "observed_fit": 33,
+      "fit_points": 20,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 4/10 (liderança/gestão)",
+        "remoto: 5/5",
+        "fit observado: 33% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Estágio na área Financeira",
+      "company": "Estante Mágica",
+      "url": "https://estante-magica.gupy.io/job/eyJqb2JJZCI6MTIxNjgxMjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "source": "gupy",
       "work_model": "remote",
       "city": "",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-18T00:47:42+00:00",
+      "published_date": "2026-08-18T19:52:27+00:00",
       "description": "",
       "skills": [],
       "categories": [
@@ -3250,7 +3588,7 @@
       ],
       "contract_types": [],
       "seniority": "Estágio",
-      "published_at_br": "2026-08-17T21:47:42-03:00",
+      "published_at_br": "2026-08-18T16:52:27-03:00",
       "coverage": 60,
       "observed_fit": 33,
       "fit_points": 20,
@@ -3270,102 +3608,24 @@
     },
     {
       "id": "",
-      "title": "Profissional Coordenador de Projetos de Tecnologia",
-      "company": "Radix",
-      "url": "https://radix.inhire.app/vagas/321c07fc-94e5-46e8-9832-4c875cf05027/profissional-coordenador-de-projetos-de-tecnologia",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T22:59:13+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Produto e Projetos"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Liderança",
-      "published_at_br": "2026-08-17T19:59:13-03:00",
-      "coverage": 60,
-      "observed_fit": 33,
-      "fit_points": 20,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 4/10 (liderança/gestão)",
-        "remoto: 5/5",
-        "fit observado: 33% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "12133500 - ANALISTA DE QUALIDADE DE SOFTWARE (QA) PLENO",
-      "company": "Quality Digital",
-      "url": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTIxMzM1MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "title": "Engenheiro de Software Sr. (Java)",
+      "company": "PagBank",
+      "url": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4NjQ2MDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "source": "gupy",
       "work_model": "remote",
-      "city": "",
+      "city": "São Paulo",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17T21:34:17+00:00",
+      "published_date": "2026-08-18T18:49:23+00:00",
       "description": "",
       "skills": [],
       "categories": [
         "TI e Desenvolvimento"
       ],
       "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-17T18:34:17-03:00",
-      "coverage": 60,
-      "observed_fit": 43,
-      "fit_points": 26,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 43% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Software Engineer C# Sênior",
-      "company": "Mottu",
-      "url": "https://mottu.inhire.app/vagas/d2a734d1-09c8-45cb-b865-4cea557d2874/software-engineer-c-senior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T21:00:01+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "PJ"
-      ],
       "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T18:00:01-03:00",
+      "published_at_br": "2026-08-18T15:49:23-03:00",
       "coverage": 60,
       "observed_fit": 42,
       "fit_points": 25,
@@ -3385,328 +3645,26 @@
     },
     {
       "id": "",
-      "title": "ANALISTA DE ROTINAS ADMINISTRATIVAS SR - RHA3276",
-      "company": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIxMzk5NDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T19:30:18+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Financeiro e Contábil"
-      ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T16:30:18-03:00",
-      "coverage": 60,
-      "observed_fit": 48,
-      "fit_points": 29,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "TÉCNICO DE ATENDIMENTO JR - RHA3304",
-      "company": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIxNDEzNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T19:08:14+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-17T16:08:14-03:00",
-      "coverage": 60,
-      "observed_fit": 37,
-      "fit_points": 22,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 37% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "ANALISTA DE TESTES JR (PCD - 100% REMOTO) - RHA3242",
-      "company": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIxMzk5MzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:51:09+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Outros"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-17T15:51:09-03:00",
-      "coverage": 60,
-      "observed_fit": 37,
-      "fit_points": 22,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 37% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "[Tecnologia] Especialista de Tecnologia Sênior",
+      "title": "[Tecnologia] Gerente de Tecnologia Junior | Growth",
       "company": "Contabilizei",
-      "url": "https://contabilizei.inhire.app/vagas/19ce1146-8fe4-4742-912c-61500179cc85/tecnologia-especialista-de-tecnologia-senior",
+      "url": "https://contabilizei.inhire.app/vagas/c4af6ae6-ca77-4443-998f-99e78d38b9fa/tecnologia-gerente-de-tecnologia-junior-growth",
       "source": "inhire",
       "work_model": "remote",
       "city": "BR",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17T18:43:26+00:00",
+      "published_date": "2026-08-18T18:14:07+00:00",
       "description": "",
       "skills": [],
       "categories": [
-        "Outros"
-      ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T15:43:26-03:00",
-      "coverage": 60,
-      "observed_fit": 42,
-      "fit_points": 25,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 42% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Assistente Financeiro (CLT) | Remoto",
-      "company": "Gran",
-      "url": "https://vemsergran.gupy.io/job/eyJqb2JJZCI6MTE4NjU1NTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:21:09+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Financeiro e Contábil"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-17T15:21:09-03:00",
-      "coverage": 60,
-      "observed_fit": 43,
-      "fit_points": 26,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 43% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Profissional Coordenador de Projetos de Tecnologia",
-      "company": "Radix",
-      "url": "https://radix.inhire.app/vagas/24c16c30-aceb-42b9-b8d8-2de2448f1237/profissional-coordenador-de-projetos-de-tecnologia",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:11:18+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Produto e Projetos"
+        "Marketing e Comunicação"
       ],
       "contract_types": [
         "CLT"
       ],
       "seniority": "Liderança",
-      "published_at_br": "2026-08-17T15:11:18-03:00",
-      "coverage": 60,
-      "observed_fit": 33,
-      "fit_points": 20,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 4/10 (liderança/gestão)",
-        "remoto: 5/5",
-        "fit observado: 33% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Senior Software Engineer, BackEnd",
-      "company": "Flutter Brazil",
-      "url": "https://flutterbrazil.inhire.app/vagas/83cb53be-cfc7-4dc3-97f3-6e8385fdd5c0/senior-software-engineer-backend",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:08:06+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "PJ"
-      ],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T15:08:06-03:00",
-      "coverage": 60,
-      "observed_fit": 42,
-      "fit_points": 25,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 42% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Profissional Testador de Software Pleno",
-      "company": "Radix",
-      "url": "https://radix.inhire.app/vagas/bb7b4db4-ac75-45e0-b087-275d263f9e7f/profissional-testador-de-software-pleno",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:04:08+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-17T15:04:08-03:00",
-      "coverage": 60,
-      "observed_fit": 43,
-      "fit_points": 26,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 43% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Profissional Desenvolvedor de Software Júnior",
-      "company": "Radix",
-      "url": "https://radix.inhire.app/vagas/9085ece0-23cb-4ddf-a352-9bdb31d95fb2/profissional-desenvolvedor-de-software-junior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T18:01:03+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-17T15:01:03-03:00",
+      "published_at_br": "2026-08-18T15:14:07-03:00",
       "coverage": 60,
       "observed_fit": 37,
       "fit_points": 22,
@@ -3726,177 +3684,29 @@
     },
     {
       "id": "",
-      "title": "GERENTE DE PROJETOS SR - RHA3129",
-      "company": "Spread Tecnologia",
-      "url": "https://spread.gupy.io/job/eyJqb2JJZCI6MTIxMzk5NTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T17:49:06+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Produto e Projetos"
-      ],
-      "contract_types": [],
-      "seniority": "Liderança",
-      "published_at_br": "2026-08-17T14:49:06-03:00",
-      "coverage": 60,
-      "observed_fit": 42,
-      "fit_points": 25,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 42% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Software Engineering Manager I",
-      "company": "Stone",
-      "url": "https://job-boards.greenhouse.io/stone/jobs/7866632003",
-      "source": "stone",
-      "work_model": "remote",
-      "city": "Remoto",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T13:45:01-04:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [],
-      "seniority": "Liderança",
-      "published_at_br": "2026-08-17T14:45:01-03:00",
-      "coverage": 60,
-      "observed_fit": 33,
-      "fit_points": 20,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 4/10 (liderança/gestão)",
-        "remoto: 5/5",
-        "fit observado: 33% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Qualidade de Software Pleno",
-      "company": "Nexdom Healthtech",
-      "url": "https://vempranexdom.gupy.io/job/eyJqb2JJZCI6MTE5MzcxMDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T17:16:56+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Outros"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-17T14:16:56-03:00",
-      "coverage": 60,
-      "observed_fit": 43,
-      "fit_points": 26,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 43% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Coordenador de Desenvolvimento de Software",
-      "company": "Olist",
-      "url": "https://olist.inhire.app/vagas/ac53f1f5-06f7-47b2-afd2-2f10c8406b02/coordenador-de-desenvolvimento-de-software",
+      "title": "Analista de Recuperação de Crédito Pleno",
+      "company": "Cora",
+      "url": "https://cora.inhire.app/vagas/ee4820c4-ddb8-4edb-ac6f-58aedf7cf412/analista-de-recuperacao-de-credito-pleno",
       "source": "inhire",
       "work_model": "remote",
       "city": "BR",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17T17:15:05+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Liderança",
-      "published_at_br": "2026-08-17T14:15:05-03:00",
-      "coverage": 60,
-      "observed_fit": 33,
-      "fit_points": 20,
-      "covered_points": 60,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 4/10 (liderança/gestão)",
-        "remoto: 5/5",
-        "fit observado: 33% com ajuste de incerteza",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 60%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "[Contabilidade] Especialista Contábil | Transformação Digital",
-      "company": "Contabilizei",
-      "url": "https://contabilizei.inhire.app/vagas/d6d59bd7-057f-4467-ac6d-5118ee17c9ef/contabilidade-especialista-contabil-transformacao-digital",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-17T16:29:58+00:00",
+      "published_date": "2026-08-18T16:56:14+00:00",
       "description": "",
       "skills": [],
       "categories": [
         "Financeiro e Contábil"
       ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T13:29:58-03:00",
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T13:56:14-03:00",
       "coverage": 60,
-      "observed_fit": 48,
-      "fit_points": 29,
+      "observed_fit": 50,
+      "fit_points": 30,
       "covered_points": 60,
       "score_method": "observed_evidence_v3",
       "score": 45,
@@ -3904,35 +3714,33 @@
         "função-alvo não identificada: 0/30",
         "competências técnicas sem dados suficientes — não penalizadas",
         "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "senioridade: 10/10 (senioridade pleno)",
         "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
+        "fit observado: 50% com ajuste de incerteza",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 60%"
       ]
     },
     {
       "id": "",
-      "title": "Engenheiro(a) de Software Backend | Sênior",
-      "company": "NSTECH",
-      "url": "https://nstech.inhire.app/vagas/cc8f118c-48e5-447c-91c9-29b2797e5c9c/engenheiro-a-de-software-backend-senior",
-      "source": "inhire",
+      "title": "Desenvolvedor de Software Sênior",
+      "company": "Montreal | Tecnologia e Inovação",
+      "url": "https://montreal.gupy.io/job/eyJqb2JJZCI6MTIwODk0NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
       "work_model": "remote",
-      "city": "BR",
+      "city": "",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17T16:11:55+00:00",
+      "published_date": "2026-08-18T15:11:31+00:00",
       "description": "",
       "skills": [],
       "categories": [
         "TI e Desenvolvimento"
       ],
-      "contract_types": [
-        "CLT"
-      ],
+      "contract_types": [],
       "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-17T13:11:55-03:00",
+      "published_at_br": "2026-08-18T12:11:31-03:00",
       "coverage": 60,
       "observed_fit": 42,
       "fit_points": 25,
@@ -3952,16 +3760,55 @@
     },
     {
       "id": "",
-      "title": "Desenvolvedor Web Fullstack - Remoto",
-      "company": "NUCLEOGOV ASSESSORIA E TECNOLOGIA LTDA",
-      "url": "https://nucleogov.solides.jobs/vacancies/904885?origem=portal",
+      "title": "ASSISTENTE  FINANCEIRO - BPO",
+      "company": "ALLBATROZ ASSESSORIA EMPRESARIAL S/S LTDA",
+      "url": "https://roicontabilidade.solides.jobs/vacancies/905985?origem=portal",
       "source": "solides",
       "work_model": "remote",
-      "city": "Goiânia, GO",
+      "city": "Itajaí, SC",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-08-17",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Financeiro e Contábil"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 60,
+      "observed_fit": 43,
+      "fit_points": 26,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "fit observado: 43% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Analista de Segurança da Informação Sênior",
+      "company": "Solor Tecnologia",
+      "url": "https://atracaodetalentos.totvs.app/vagasolor/152/analista-de-seguranca-da-informacao-senior",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "Rio de Janeiro",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
       "description": "",
       "skills": [],
       "categories": [
@@ -3970,8 +3817,125 @@
       "contract_types": [
         "CLT"
       ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 60,
+      "observed_fit": 42,
+      "fit_points": 25,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 42% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "[Tech] Engenharia de Software Backend Pleno - Java  (afirmativa para pessoas com deficiência)",
+      "company": "TOTVS",
+      "url": "https://atracaodetalentos.totvs.app/vempratotvs/10450/tech-engenharia-de-software-backend-pleno-java-afirmativa-para-pessoas-com-deficiencia",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 60,
+      "observed_fit": 43,
+      "fit_points": 26,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 43% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "[Tech] Engenharia de Software Pleno",
+      "company": "TOTVS",
+      "url": "https://atracaodetalentos.totvs.app/vempratotvs/10782/tech-engenharia-de-software-pleno",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "Caxias do Sul",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Engenharia e Indústria"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 60,
+      "observed_fit": 43,
+      "fit_points": 26,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 43% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "[Tech] Engenharia de Software Junior",
+      "company": "TOTVS",
+      "url": "https://atracaodetalentos.totvs.app/vempratotvs/11100/tech-engenharia-de-software-junior",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "Rio de Janeiro",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Engenharia e Indústria"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-17T12:00:00-03:00",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
       "coverage": 60,
       "observed_fit": 37,
       "fit_points": 22,
@@ -3985,6 +3949,45 @@
         "senioridade: 6/10 (senioridade júnior)",
         "remoto: 5/5",
         "fit observado: 37% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "[Tech] Engenharia de Software Fullstack Pleno - .NET/Flutter (Remoto)",
+      "company": "TOTVS",
+      "url": "https://atracaodetalentos.totvs.app/vempratotvs/11105/tech-engenharia-de-software-fullstack-pleno-net-flutter-remoto",
+      "source": "totvs",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-18",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-18T12:00:00-03:00",
+      "coverage": 60,
+      "observed_fit": 43,
+      "fit_points": 26,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 43% com ajuste de incerteza",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 60%"
       ]
