@@ -1,0 +1,138 @@
+% ATS-Friendly LaTeX Resume adapted from danielteles/ats-friendly-latex-cv
+% Original template: https://github.com/danielteles/ats-friendly-latex-cv
+% Copyright (c) 2026 Daniel — MIT License. See ../LICENSE_TEMPLATE.
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{cmap}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1.45cm]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{lmodern}
+\renewcommand{\familydefault}{\sfdefault}
+\raggedbottom
+\clubpenalty=10000
+\widowpenalty=10000
+
+\newcommand{\candidatename}{Edson Paiva Jr.}
+\definecolor{accent}{HTML}{1F4E79}
+\newlength{\cventrysep}\setlength{\cventrysep}{6pt}
+\newlength{\cvblocksep}\setlength{\cvblocksep}{4pt}
+
+\usepackage[colorlinks=true,linkcolor=accent,urlcolor=accent]{hyperref}
+\hypersetup{
+  pdftitle={\candidatename\ -- Currículo},
+  pdfauthor={\candidatename},
+  pdflang={pt-BR},
+  pdfdisplaydoctitle=true
+}
+
+\ifdefined\pdfgentounicode
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+\titleformat{\section}{\raggedright\large\bfseries\color{accent}}{}{0em}{}[{\color{accent}\titlerule[0.8pt]}]
+\titlespacing{\section}{0pt}{9pt}{5pt}
+\newcommand{\cvsection}[1]{\section{#1}}
+\setlist[itemize]{leftmargin=0.18in,labelsep=5pt,itemsep=2pt,parsep=0pt,topsep=3pt}
+\setlength{\parindent}{0pt}
+
+\newcommand{\cventry}[4]{%
+  \noindent\normalsize\textbf{#1}\hfill\small\textbf{#4}\par
+  \nopagebreak[4]
+  \noindent\normalsize\textit{\textcolor{accent}{#2}}\hfill\small\textit{#3}\par
+  \nopagebreak[4]
+}
+\newcommand{\keytech}[1]{\small\textbf{Competências-Chave:} #1\par}
+\newcommand{\skillrow}[2]{\noindent\textbf{#1:} #2\par\vspace{2pt}}
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+  {\huge\textbf{\candidatename}} \\ \vspace{2pt}
+  {\normalsize\color{accent}Analista de Suporte N2 Sênior | Sustentação de Sistemas | Meios de Pagamento} \\ \vspace{4pt}
+  \small
+  João Pessoa, PB \quad|\quad 100\% Remoto -- Brasil \quad|\quad
+  \href{tel:+5583987190455}{(83) 98719-0455} \quad|\quad
+  \href{mailto:edsonjunioor32@gmail.com}{edsonjunioor32@gmail.com} \\[3pt]
+  \href{https://www.linkedin.com/in/edson-paiva-jr/}{linkedin.com/in/edson-paiva-jr}
+\end{center}
+
+\vspace{\cvblocksep}
+
+\cvsection{Resumo Profissional}
+\small
+Profissional de Tecnologia com mais de 10 anos de experiência, com forte atuação em Suporte N2, sustentação de sistemas críticos, meios de pagamento e operações de cartões. Experiência em investigação de incidentes, análise de causa raiz, troubleshooting, SQL, Oracle, APIs, webhooks, logs e observabilidade. Vivência com autorização, conciliação de bandeira, faturas, embossing e integrações, atuando em interface com Produto, Engenharia, Operações e clientes B2B do setor financeiro. Perfil orientado a SLA, estabilidade, documentação e resolução estruturada de problemas.
+
+\vspace{\cventrysep}
+
+\cvsection{Competências Técnicas}
+\small
+\skillrow{Suporte e Sustentação}{Suporte N2, Application Support, Production Support, Troubleshooting, Gestão de Incidentes, RCA, SLA, GMUD, documentação e base de conhecimento}
+\skillrow{Dados e Diagnóstico}{SQL, Oracle, consultas e scripts, análise de logs, investigação de falhas e testes funcionais}
+\skillrow{Observabilidade}{Splunk, Datadog, Grafana, monitoramento e análise de eventos}
+\skillrow{Integrações}{APIs REST, webhooks, Postman e suporte a integrações B2B}
+\skillrow{Pagamentos e Cartões}{Autorização, conciliação, faturas, embossing, operações de cartões e meios de pagamento}
+\skillrow{Ferramentas e Processos}{Jira, Zendesk, ITIL, gestão de backlog, priorização e colaboração com times técnicos}
+
+\vspace{\cventrysep}
+
+\cvsection{Experiência Profissional}
+
+\cventry{Analista de Suporte N2 Pleno}{Matera}{Remoto}{03/2026 -- 05/2026}
+\begin{itemize}\small
+  \item Atuação em suporte N2 de sistemas financeiros e regulatórios, com investigação técnica e acompanhamento de incidentes.
+  \item Uso de SQL e Oracle para análise de dados, troubleshooting e validação de cenários.
+  \item Execução de testes funcionais e homologação, apoiando a identificação e validação de correções.
+\end{itemize}
+\keytech{Suporte N2, SQL, Oracle, Testes Funcionais, Homologação, Sistemas Financeiros}
+
+\vspace{\cventrysep}
+
+\cventry{Technical Customer Support II -- Suporte N2}{Dock}{Remoto}{05/2021 -- 01/2026}
+\begin{itemize}\small
+  \item Sustentação N2 de produtos e sistemas críticos de cartões, investigando incidentes e dúvidas relacionadas a autorização, conciliação de bandeira, faturas, embossing, APIs, webhooks e arquivos.
+  \item Análise de causa raiz e troubleshooting com SQL, logs, Splunk, Datadog e Grafana, apoiando a recuperação e estabilidade dos serviços.
+  \item Atuação com incidentes críticos, SLA, priorização de backlog e execução de mudanças controladas, incluindo GMUDs e scripts.
+  \item Interface contínua com Produto, Engenharia e Operações para diagnóstico, correção, prevenção de recorrências e evolução dos processos.
+  \item Atendimento técnico B2B a clientes do setor financeiro, incluindo C6 Bank, Digio, DM/FortBrasil, Neon, PagBank, XP Investimentos, C\&A e Unicred.
+  \item Produção e melhoria de documentação técnica e conhecimento operacional para acelerar diagnósticos e reduzir recorrências.
+\end{itemize}
+\keytech{Suporte N2, Cartões, Pagamentos, SQL, APIs, Webhooks, Splunk, Datadog, Grafana, Jira, Zendesk, ITIL, RCA, SLA}
+
+\vspace{\cventrysep}
+
+\cventry{Analista de Atendimento}{Dock}{Brasil}{2020 -- 2021}
+\begin{itemize}\small
+  \item Atendimento e suporte operacional a produtos financeiros, contribuindo para investigação, acompanhamento e resolução de solicitações.
+  \item Evolução para atuação técnica em sustentação N2, ampliando conhecimento sobre produtos, fluxos e operação de cartões.
+\end{itemize}
+\keytech{Atendimento, Suporte, Operações, Meios de Pagamento, Cartões}
+
+\vspace{\cventrysep}
+
+\cventry{Supervisor de Suporte}{Redesoft Sistemas}{Brasil}{2016 -- 2019}
+\begin{itemize}\small
+  \item Supervisão de suporte técnico a sistemas e ambientes Microsoft e web, com acompanhamento de incidentes e atendimento a usuários e clientes.
+  \item Apoio à operação de soluções empresariais, automação comercial e transferência eletrônica de fundos.
+  \item Organização das atividades da equipe de suporte e acompanhamento da resolução de problemas técnicos.
+\end{itemize}
+\keytech{Suporte Técnico, Supervisão, Sistemas Web, Microsoft, ERP, Automação Comercial}
+
+\vspace{\cventrysep}
+
+\cvsection{Cursos e Desenvolvimento Profissional}
+\begin{itemize}\small
+  \item \textbf{SQL com MySQL: manipule e consulte dados}
+  \item \textbf{Alinhamento de TI ao negócio: estratégias e desenho de serviços}
+  \item \textbf{Gerenciamento da qualidade: a operação de serviço}
+  \item \textbf{Gerenciamento de serviços: papéis e processos de infraestrutura de TI}
+  \item \textbf{Gerenciamento de serviços: conhecendo a operação de serviço}
+\end{itemize}
+
+\end{document}
