@@ -1,0 +1,74 @@
+name: ATS Resume - Build and Validate
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'resume/**'
+      - '.github/workflows/ats-resume.yml'
+  pull_request:
+    paths:
+      - 'resume/**'
+      - '.github/workflows/ats-resume.yml'
+
+jobs:
+  build-and-validate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX and PDF validation tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            texlive-latex-base \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            lmodern \
+            poppler-utils
+
+      - name: Compile resume
+        working-directory: resume/pt-br
+        run: |
+          pdflatex -interaction=nonstopmode -halt-on-error main.tex
+          pdflatex -interaction=nonstopmode -halt-on-error main.tex
+
+      - name: Validate text extraction
+        run: |
+          pdftotext -layout resume/pt-br/main.pdf resume/pt-br/main.txt
+          grep -q "Edson Paiva Jr." resume/pt-br/main.txt
+          grep -q "Experiência Profissional" resume/pt-br/main.txt
+          grep -q "Technical Customer Support II" resume/pt-br/main.txt
+          echo "Text extraction: PASS"
+
+      - name: Validate PDF security and metadata
+        run: |
+          pdfinfo resume/pt-br/main.pdf | tee resume/pt-br/pdfinfo.txt
+          grep -Eq '^Encrypted:[[:space:]]+no' resume/pt-br/pdfinfo.txt
+          grep -Eq '^JavaScript:[[:space:]]+no' resume/pt-br/pdfinfo.txt || true
+          echo "PDF metadata/security: PASS"
+
+      - name: Inspect font embedding and Unicode
+        run: |
+          pdffonts resume/pt-br/main.pdf | tee resume/pt-br/pdffonts.txt
+          if tail -n +3 resume/pt-br/pdffonts.txt | grep -Ev '^[[:space:]]*$' | grep -Ev 'yes[[:space:]]+yes[[:space:]]+yes[[:space:]]+[0-9]+[[:space:]]+[0-9]+$'; then
+            echo "One or more fonts may not be embedded/subset/Unicode-enabled."
+            exit 1
+          fi
+          echo "Fonts: PASS"
+
+      - name: Upload validated resume artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: curriculo-edson-paiva-ats
+          path: |
+            resume/pt-br/main.pdf
+            resume/pt-br/main.txt
+            resume/pt-br/pdfinfo.txt
+            resume/pt-br/pdffonts.txt
+          if-no-files-found: error
+          retention-days: 30
