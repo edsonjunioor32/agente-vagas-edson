@@ -1,6 +1,6 @@
-# Agente de Vagas — Edson Paiva Jr.
+# Agente de Vagas — Edson Paiva
 
-Pipeline automatizado de busca e priorização de vagas, inspirado em `souzannatha/agente-vagas` e alimentado pelas fontes consolidadas do repositório `edsonjunioor32/todas-as-vagas`.
+Pipeline automatizado de busca e priorização de vagas e alimentado pelas fontes consolidadas do repositório `edsonjunioor32/todas-as-vagas`.
 
 ## Objetivo
 
