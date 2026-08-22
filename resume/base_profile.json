@@ -1,0 +1,105 @@
+{
+  "candidate": {
+    "name": "Edson Paiva Jr.",
+    "headline": "Analista de Suporte N2 Sênior | Sustentação de Sistemas | Meios de Pagamento",
+    "city": "João Pessoa, PB",
+    "work_preference": "100% Remoto — Brasil",
+    "phone": "(83) 98719-0455",
+    "phone_uri": "+5583987190455",
+    "email": "edsonjunioor32@gmail.com",
+    "linkedin": "linkedin.com/in/edson-paiva-jr",
+    "linkedin_url": "https://www.linkedin.com/in/edson-paiva-jr/",
+    "years_it": "mais de 10 anos"
+  },
+  "verified_skills": [
+    {"label": "Suporte N2", "aliases": ["suporte n2", "n2", "l2", "nível 2", "nivel 2", "technical support", "support analyst"]},
+    {"label": "Sustentação de Sistemas", "aliases": ["sustentação", "sustentacao", "application support", "production support", "sustentação de aplicações", "sustentacao de aplicacoes"]},
+    {"label": "Gestão de Incidentes", "aliases": ["incidente", "incidentes", "incident", "incident management", "incident response"]},
+    {"label": "RCA", "aliases": ["rca", "causa raiz", "root cause", "root cause analysis"]},
+    {"label": "Troubleshooting", "aliases": ["troubleshooting", "resolução de problemas", "resolucao de problemas", "diagnóstico", "diagnostico"]},
+    {"label": "SQL", "aliases": ["sql", "consulta sql", "consultas sql"]},
+    {"label": "Oracle", "aliases": ["oracle", "oracle database"]},
+    {"label": "APIs REST", "aliases": ["api", "apis", "api rest", "apis rest", "rest api", "restful"]},
+    {"label": "Webhooks", "aliases": ["webhook", "webhooks"]},
+    {"label": "Postman", "aliases": ["postman"]},
+    {"label": "Splunk", "aliases": ["splunk"]},
+    {"label": "Datadog", "aliases": ["datadog"]},
+    {"label": "Grafana", "aliases": ["grafana"]},
+    {"label": "Logs", "aliases": ["logs", "log de aplicação", "log de aplicacao", "análise de logs", "analise de logs"]},
+    {"label": "Observabilidade", "aliases": ["observabilidade", "monitoramento", "monitoring", "observability"]},
+    {"label": "Jira", "aliases": ["jira"]},
+    {"label": "Zendesk", "aliases": ["zendesk"]},
+    {"label": "ITIL", "aliases": ["itil", "gestão de serviços", "gestao de servicos"]},
+    {"label": "SLA", "aliases": ["sla", "slas", "acordo de nível de serviço", "acordo de nivel de servico"]},
+    {"label": "GMUD", "aliases": ["gmud", "mudança", "mudanca", "change management"]},
+    {"label": "Testes Funcionais", "aliases": ["testes funcionais", "teste funcional", "functional testing"]},
+    {"label": "Homologação", "aliases": ["homologação", "homologacao", "uat", "validação", "validacao"]},
+    {"label": "Meios de Pagamento", "aliases": ["pagamentos", "payments", "meios de pagamento", "payment"]},
+    {"label": "Cartões", "aliases": ["cartões", "cartoes", "cards", "card"]},
+    {"label": "Autorização", "aliases": ["autorização", "autorizacao", "authorization"]},
+    {"label": "Conciliação", "aliases": ["conciliação", "conciliacao", "reconciliation"]},
+    {"label": "Faturas", "aliases": ["faturas", "fatura", "billing", "invoice"]},
+    {"label": "Embossing", "aliases": ["embossing"]},
+    {"label": "B2B", "aliases": ["b2b", "cliente corporativo", "clientes corporativos", "enterprise customer"]},
+    {"label": "Documentação Técnica", "aliases": ["documentação", "documentacao", "documentação técnica", "documentacao tecnica", "base de conhecimento", "knowledge base"]},
+    {"label": "Gestão de Backlog", "aliases": ["backlog", "priorização", "priorizacao", "gestão de prioridades", "gestao de prioridades"]},
+    {"label": "Metodologias Ágeis", "aliases": ["scrum", "kanban", "agile", "ágil", "agil", "metodologias ágeis", "metodologias ageis"]},
+    {"label": "Ambientes Microsoft/Web", "aliases": ["windows", "microsoft", "web", "ambientes microsoft"]},
+    {"label": "ERP/Automação Comercial", "aliases": ["erp", "automação comercial", "automacao comercial", "sistemas integrados"]}
+  ],
+  "experiences": [
+    {
+      "role": "Analista de Suporte N2 Pleno",
+      "company": "Matera",
+      "location": "Remoto",
+      "dates": "03/2026 — 05/2026",
+      "bullets": [
+        {"text": "Atuação em suporte N2 de sistemas financeiros e regulatórios, com investigação técnica e acompanhamento de incidentes.", "tags": ["Suporte N2", "Gestão de Incidentes", "Meios de Pagamento", "Sustentação de Sistemas"]},
+        {"text": "Uso de SQL e Oracle para análise de dados, troubleshooting e validação de cenários.", "tags": ["SQL", "Oracle", "Troubleshooting"]},
+        {"text": "Execução de testes funcionais e homologação, apoiando a identificação e validação de correções.", "tags": ["Testes Funcionais", "Homologação", "Troubleshooting"]}
+      ]
+    },
+    {
+      "role": "Technical Customer Support II — Suporte N2",
+      "company": "Dock",
+      "location": "Remoto",
+      "dates": "05/2021 — 01/2026",
+      "bullets": [
+        {"text": "Sustentação N2 de produtos e sistemas críticos de cartões, investigando incidentes e dúvidas relacionadas a autorização, conciliação de bandeira, faturas, embossing, APIs, webhooks e arquivos.", "tags": ["Suporte N2", "Sustentação de Sistemas", "Gestão de Incidentes", "Cartões", "Autorização", "Conciliação", "Faturas", "Embossing", "APIs REST", "Webhooks"]},
+        {"text": "Análise de causa raiz e troubleshooting com SQL, logs, Splunk, Datadog e Grafana, apoiando a recuperação e estabilidade dos serviços.", "tags": ["RCA", "Troubleshooting", "SQL", "Logs", "Splunk", "Datadog", "Grafana", "Observabilidade"]},
+        {"text": "Atuação com incidentes críticos, SLA, priorização de backlog e execução de mudanças controladas, incluindo GMUDs e scripts.", "tags": ["Gestão de Incidentes", "SLA", "Gestão de Backlog", "GMUD", "SQL"]},
+        {"text": "Interface contínua com Produto, Engenharia e Operações para diagnóstico, correção, prevenção de recorrências e evolução dos processos.", "tags": ["Troubleshooting", "RCA", "Gestão de Incidentes"]},
+        {"text": "Atendimento técnico B2B a clientes do setor financeiro, incluindo C6 Bank, Digio, DM/FortBrasil, Neon, PagBank, XP Investimentos, C&A e Unicred.", "tags": ["B2B", "Meios de Pagamento", "Cartões"]},
+        {"text": "Produção e melhoria de documentação técnica e conhecimento operacional para acelerar diagnósticos e reduzir recorrências.", "tags": ["Documentação Técnica", "Troubleshooting", "RCA"]}
+      ]
+    },
+    {
+      "role": "Analista de Atendimento",
+      "company": "Dock",
+      "location": "Brasil",
+      "dates": "2020 — 2021",
+      "bullets": [
+        {"text": "Atendimento e suporte operacional a produtos financeiros, contribuindo para investigação, acompanhamento e resolução de solicitações.", "tags": ["Meios de Pagamento", "Troubleshooting", "Gestão de Incidentes"]},
+        {"text": "Evolução para atuação técnica em sustentação N2, ampliando conhecimento sobre produtos, fluxos e operação de cartões.", "tags": ["Suporte N2", "Sustentação de Sistemas", "Cartões"]}
+      ]
+    },
+    {
+      "role": "Supervisor de Suporte",
+      "company": "Redesoft Sistemas",
+      "location": "Brasil",
+      "dates": "2016 — 2019",
+      "bullets": [
+        {"text": "Supervisão de suporte técnico a sistemas e ambientes Microsoft e web, com acompanhamento de incidentes e atendimento a usuários e clientes.", "tags": ["Gestão de Incidentes", "Ambientes Microsoft/Web"]},
+        {"text": "Apoio à operação de soluções empresariais, automação comercial e transferência eletrônica de fundos.", "tags": ["ERP/Automação Comercial", "Meios de Pagamento"]},
+        {"text": "Organização das atividades da equipe de suporte e acompanhamento da resolução de problemas técnicos.", "tags": ["Troubleshooting", "Gestão de Backlog"]}
+      ]
+    }
+  ],
+  "courses": [
+    "SQL com MySQL: manipule e consulte dados",
+    "Alinhamento de TI ao negócio: estratégias e desenho de serviços",
+    "Gerenciamento da qualidade: a operação de serviço",
+    "Gerenciamento de serviços: papéis e processos de infraestrutura de TI",
+    "Gerenciamento de serviços: conhecendo a operação de serviço"
+  ]
+}
