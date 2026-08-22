@@ -1,18 +1,37 @@
-name: ATS Resume - Build and Validate
+name: ATS Resume - Generate, Build and Validate
 
 on:
   workflow_dispatch:
+    inputs:
+      job_index:
+        description: 'Posição da vaga em output/vagas_ranqueadas.json (1 = melhor ranqueada)'
+        required: false
+        default: '1'
+        type: string
+      job_url:
+        description: 'URL exata de uma vaga do ranking (opcional; substitui job_index)'
+        required: false
+        default: ''
+        type: string
   push:
     paths:
       - 'resume/**'
+      - 'src/resume_generator.py'
+      - 'src/scoring_v2.py'
+      - 'tests/test_resume_generator.py'
+      - 'output/vagas_ranqueadas.json'
       - '.github/workflows/ats-resume.yml'
   pull_request:
     paths:
       - 'resume/**'
+      - 'src/resume_generator.py'
+      - 'src/scoring_v2.py'
+      - 'tests/test_resume_generator.py'
+      - 'output/vagas_ranqueadas.json'
       - '.github/workflows/ats-resume.yml'
 
 jobs:
-  build-and-validate:
+  generate-build-validate:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -20,6 +39,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run resume generator tests
+        run: python -m unittest tests/test_resume_generator.py -v
+
+      - name: Generate targeted resume
+        env:
+          JOB_INDEX: ${{ github.event.inputs.job_index || '1' }}
+          JOB_URL: ${{ github.event.inputs.job_url || '' }}
+        run: |
+          if [ -n "$JOB_URL" ]; then
+            python src/resume_generator.py --job-url "$JOB_URL"
+          else
+            python src/resume_generator.py --job-index "$JOB_INDEX"
+          fi
+          echo '--- Match report ---'
+          cat output/curriculo_ats/match_report.md
 
       - name: Install LaTeX and PDF validation tools
         run: |
@@ -31,44 +71,49 @@ jobs:
             lmodern \
             poppler-utils
 
-      - name: Compile resume
-        working-directory: resume/pt-br
+      - name: Compile targeted resume
+        working-directory: output/curriculo_ats
         run: |
           pdflatex -interaction=nonstopmode -halt-on-error main.tex
           pdflatex -interaction=nonstopmode -halt-on-error main.tex
+          cp main.pdf Curriculo_Edson_Paiva_ATS.pdf
 
-      - name: Validate text extraction
+      - name: Validate ATS text extraction
         run: |
-          pdftotext -layout resume/pt-br/main.pdf resume/pt-br/main.txt
-          grep -q "Edson Paiva Jr." resume/pt-br/main.txt
-          grep -q "Experiência Profissional" resume/pt-br/main.txt
-          grep -q "Technical Customer Support II" resume/pt-br/main.txt
+          pdftotext -layout output/curriculo_ats/main.pdf output/curriculo_ats/main.txt
+          grep -q "Edson Paiva Jr." output/curriculo_ats/main.txt
+          grep -q "Experiência Profissional" output/curriculo_ats/main.txt
+          grep -q "Technical Customer Support II" output/curriculo_ats/main.txt
+          grep -q "Resumo Profissional" output/curriculo_ats/main.txt
           echo "Text extraction: PASS"
 
-      - name: Validate PDF security and metadata
+      - name: Validate PDF metadata and security
         run: |
-          pdfinfo resume/pt-br/main.pdf | tee resume/pt-br/pdfinfo.txt
-          grep -Eq '^Encrypted:[[:space:]]+no' resume/pt-br/pdfinfo.txt
-          grep -Eq '^JavaScript:[[:space:]]+no' resume/pt-br/pdfinfo.txt || true
+          pdfinfo output/curriculo_ats/main.pdf | tee output/curriculo_ats/pdfinfo.txt
+          grep -Eq '^Encrypted:[[:space:]]+no' output/curriculo_ats/pdfinfo.txt
+          grep -Eq '^JavaScript:[[:space:]]+no' output/curriculo_ats/pdfinfo.txt || true
           echo "PDF metadata/security: PASS"
 
       - name: Inspect font embedding and Unicode
         run: |
-          pdffonts resume/pt-br/main.pdf | tee resume/pt-br/pdffonts.txt
-          if tail -n +3 resume/pt-br/pdffonts.txt | grep -Ev '^[[:space:]]*$' | grep -Ev 'yes[[:space:]]+yes[[:space:]]+yes[[:space:]]+[0-9]+[[:space:]]+[0-9]+$'; then
+          pdffonts output/curriculo_ats/main.pdf | tee output/curriculo_ats/pdffonts.txt
+          if tail -n +3 output/curriculo_ats/pdffonts.txt | grep -Ev '^[[:space:]]*$' | grep -Ev 'yes[[:space:]]+yes[[:space:]]+yes[[:space:]]+[0-9]+[[:space:]]+[0-9]+$'; then
             echo "One or more fonts may not be embedded/subset/Unicode-enabled."
             exit 1
           fi
           echo "Fonts: PASS"
 
-      - name: Upload validated resume artifact
+      - name: Upload targeted ATS resume artifact
         uses: actions/upload-artifact@v4
         with:
-          name: curriculo-edson-paiva-ats
+          name: curriculo-edson-paiva-ats-targeted
           path: |
-            resume/pt-br/main.pdf
-            resume/pt-br/main.txt
-            resume/pt-br/pdfinfo.txt
-            resume/pt-br/pdffonts.txt
+            output/curriculo_ats/Curriculo_Edson_Paiva_ATS.pdf
+            output/curriculo_ats/main.tex
+            output/curriculo_ats/main.txt
+            output/curriculo_ats/match_report.md
+            output/curriculo_ats/match_report.json
+            output/curriculo_ats/pdfinfo.txt
+            output/curriculo_ats/pdffonts.txt
           if-no-files-found: error
           retention-days: 30
