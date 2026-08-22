@@ -88,7 +88,14 @@ def _skill_evidence(job, body):
 
 
 def _domain_evidence(body):
-    if _contains_any(body, ("fintech", "meios de pagamento", "pagamento", "payment", "cartao", "banking", "banco", "financeiro", "financial")):
+    # Avoid the generic alias "banco": phrases such as "banco de dados" are
+    # database evidence, not evidence that the employer belongs to banking.
+    financial_aliases = (
+        "fintech", "meios de pagamento", "pagamento", "payment", "cartao", "cards",
+        "banking", "instituicao financeira", "instituição financeira", "servicos financeiros",
+        "serviços financeiros", "setor financeiro", "financial services", "financeiro", "financial",
+    )
+    if _contains_any(body, financial_aliases):
         return 15, 15, "financeiro/pagamentos"
     if _contains_any(body, ("saas", "tecnologia", "technology", "software")):
         return 11, 15, "tecnologia/SaaS"
@@ -134,9 +141,6 @@ def score_job(job, profile=None):
     coverage = max(0, min(100, round(covered)))
     observed_fit = round((points / covered) * 100) if covered else 0
 
-    # O fit observado mede apenas o que conseguimos avaliar. Para a aderência exibida,
-    # moderamos scores extremos quando a cobertura é baixa, usando 75% como prior neutro.
-    # Ex.: 100% observado com 35% de cobertura vira ~84%, em vez de sugerir certeza total.
     confidence = coverage / 100
     score = round(observed_fit * confidence + 75 * (1 - confidence))
 
