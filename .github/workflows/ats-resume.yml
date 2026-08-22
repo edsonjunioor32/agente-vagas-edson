@@ -61,6 +61,22 @@ jobs:
           echo '--- Match report ---'
           cat output/curriculo_ats/match_report.md
 
+      - name: Tune LaTeX line breaking
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('output/curriculo_ats/main.tex')
+          text = path.read_text(encoding='utf-8')
+          marker = r'\raggedbottom'
+          setting = r'\setlength{\emergencystretch}{2em}'
+          if setting not in text:
+              if marker not in text:
+                  raise SystemExit('Expected LaTeX marker not found')
+              text = text.replace(marker, marker + '\n' + setting, 1)
+              path.write_text(text, encoding='utf-8')
+          PY
+
       - name: Install LaTeX and PDF validation tools
         run: |
           sudo apt-get update
@@ -74,9 +90,15 @@ jobs:
       - name: Compile targeted resume
         working-directory: output/curriculo_ats
         run: |
-          pdflatex -interaction=nonstopmode -halt-on-error main.tex
-          pdflatex -interaction=nonstopmode -halt-on-error main.tex
+          set -o pipefail
+          pdflatex -interaction=nonstopmode -halt-on-error main.tex | tee build-1.log
+          pdflatex -interaction=nonstopmode -halt-on-error main.tex | tee build-2.log
+          if grep -q 'Overfull \\hbox' build-1.log build-2.log; then
+            echo 'Layout validation failed: overfull horizontal box detected.'
+            exit 1
+          fi
           cp main.pdf Curriculo_Edson_Paiva_ATS.pdf
+          echo 'LaTeX layout: PASS'
 
       - name: Validate ATS text extraction
         run: |
