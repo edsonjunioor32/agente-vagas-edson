@@ -7,6 +7,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 import resume_generator as rg
+import scoring_v2
 
 
 class ResumeGeneratorTests(unittest.TestCase):
@@ -59,6 +60,14 @@ class ResumeGeneratorTests(unittest.TestCase):
         self.assertIn(r"\cvsection{Experiência Profissional}", tex)
         self.assertNotIn(r"\begin{tabular}", tex)
         self.assertNotIn(r"\begin{multicols}", tex)
+
+    def test_database_phrase_does_not_count_as_banking_domain(self):
+        points, covered, label = scoring_v2._domain_evidence(scoring_v2.norm("software SaaS com consultas em banco de dados"))
+        self.assertEqual((points, covered, label), (11, 15, "tecnologia/SaaS"))
+
+    def test_explicit_financial_domain_still_counts(self):
+        points, covered, label = scoring_v2._domain_evidence(scoring_v2.norm("fintech de meios de pagamento e cartões"))
+        self.assertEqual((points, covered, label), (15, 15, "financeiro/pagamentos"))
 
 
 if __name__ == "__main__":
