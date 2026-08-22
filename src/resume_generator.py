@@ -11,14 +11,11 @@ from pathlib import Path
 
 from scoring_v2 import score_job
 
-
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_JOBS = ROOT / "output" / "vagas_ranqueadas.json"
 DEFAULT_PROFILE = ROOT / "resume" / "base_profile.json"
 DEFAULT_OUT = ROOT / "output" / "curriculo_ats"
 
-# Requirements that may appear in jobs but are intentionally NOT assumed as candidate skills.
-# They are used only to flag possible gaps in the report.
 TRACKED_GAPS = {
     ".NET/C#": [".net", "c#", "asp.net", "razor"],
     "Java/Spring": ["java", "spring boot", "springboot", "spring framework"],
@@ -41,6 +38,7 @@ SKILL_CATEGORIES = [
     ("Pagamentos e Cartões", ["Meios de Pagamento", "Cartões", "Autorização", "Conciliação", "Faturas", "Embossing", "B2B"]),
     ("Ferramentas e Processos", ["Jira", "Zendesk", "ITIL", "Metodologias Ágeis", "Ambientes Microsoft/Web", "ERP/Automação Comercial"]),
 ]
+CATEGORY_ORDER = {name: idx for idx, (name, _) in enumerate(SKILL_CATEGORIES)}
 
 
 def norm(value: object) -> str:
@@ -59,28 +57,16 @@ def contains(text: str, term: str) -> bool:
 
 
 def latex(value: object) -> str:
-    text = str(value or "")
     replacements = {
-        "\\": r"\textbackslash{}",
-        "&": r"\&",
-        "%": r"\%",
-        "$": r"\$",
-        "#": r"\#",
-        "_": r"\_",
-        "{": r"\{",
-        "}": r"\}",
-        "~": r"\textasciitilde{}",
-        "^": r"\textasciicircum{}",
+        "\\": r"\textbackslash{}", "&": r"\&", "%": r"\%", "$": r"\$",
+        "#": r"\#", "_": r"\_", "{": r"\{", "}": r"\}",
+        "~": r"\textasciitilde{}", "^": r"\textasciicircum{}",
     }
-    return "".join(replacements.get(ch, ch) for ch in text)
+    return "".join(replacements.get(ch, ch) for ch in str(value or ""))
 
 
 def job_text(job: dict) -> str:
-    values = [
-        job.get("title", ""), job.get("company", ""), job.get("description", ""),
-        job.get("skills", ""), job.get("categories", ""), job.get("seniority", ""),
-        job.get("work_model", ""), job.get("city", ""),
-    ]
+    values = [job.get(k, "") for k in ("title", "company", "description", "skills", "categories", "seniority", "work_model", "city")]
     return norm(" ".join(str(v) for v in values))
 
 
@@ -107,7 +93,6 @@ def analyze(job: dict, profile: dict) -> tuple[list[str], list[str]]:
     for item in profile.get("verified_skills", []):
         if any(contains(text, alias) for alias in item.get("aliases", [])):
             matched.append(item["label"])
-
     gaps = []
     for label, aliases in TRACKED_GAPS.items():
         if any(contains(text, alias) for alias in aliases) and label not in verified_labels:
@@ -117,34 +102,34 @@ def analyze(job: dict, profile: dict) -> tuple[list[str], list[str]]:
 
 def ordered_skill_rows(profile: dict, matched: list[str]) -> list[tuple[str, list[str]]]:
     matched_set = set(matched)
+    verified = {item["label"] for item in profile.get("verified_skills", [])}
     rows = []
     for category, labels in SKILL_CATEGORIES:
-        available = [x for x in labels if any(s.get("label") == x for s in profile.get("verified_skills", []))]
+        available = [x for x in labels if x in verified]
         available.sort(key=lambda x: (x not in matched_set, labels.index(x)))
         if available:
             rows.append((category, available))
-    rows.sort(key=lambda row: (-sum(1 for x in row[1] if x in matched_set), SKILL_CATEGORIES.index(next(x for x in SKILL_CATEGORIES if x[0] == row[0]))))
+    rows.sort(key=lambda row: (-sum(x in matched_set for x in row[1]), CATEGORY_ORDER[row[0]]))
     return rows
 
 
 def ranked_bullets(exp: dict, matched: list[str]) -> list[dict]:
     matched_set = set(matched)
-    bullets = list(exp.get("bullets", []))
-    scored = []
-    for pos, bullet in enumerate(bullets):
-        overlap = sum(1 for tag in bullet.get("tags", []) if tag in matched_set)
-        scored.append((overlap, -pos, bullet))
-    scored.sort(reverse=True, key=lambda x: (x[0], x[1]))
-    # Keep all verified bullets, only reorder them so vacancy-relevant evidence appears first.
-    return [item[2] for item in scored]
+    ranked = []
+    for pos, bullet in enumerate(exp.get("bullets", [])):
+        overlap = sum(tag in matched_set for tag in bullet.get("tags", []))
+        ranked.append((-overlap, pos, bullet))
+    ranked.sort(key=lambda x: (x[0], x[1]))
+    return [item[2] for item in ranked]
 
 
 def summary(profile: dict, matched: list[str]) -> str:
     c = profile["candidate"]
-    focus = matched[:8]
-    if not focus:
-        focus = ["Suporte N2", "Sustentação de Sistemas", "Gestão de Incidentes", "SQL", "APIs REST"]
-    joined = ", ".join(focus[:-1]) + (f" e {focus[-1]}" if len(focus) > 1 else focus[0])
+    focus = matched[:8] or ["Suporte N2", "Sustentação de Sistemas", "Gestão de Incidentes", "SQL", "APIs REST"]
+    if len(focus) == 1:
+        joined = focus[0]
+    else:
+        joined = ", ".join(focus[:-1]) + f" e {focus[-1]}"
     return (
         f"Profissional de Tecnologia com {c['years_it']} de experiência, com forte atuação em Suporte N2, "
         f"sustentação de sistemas críticos e meios de pagamento. Experiência comprovada em {joined}. "
@@ -156,31 +141,32 @@ def summary(profile: dict, matched: list[str]) -> str:
 
 def build_tex(job: dict, profile: dict, matched: list[str]) -> str:
     c = profile["candidate"]
-    rows = ordered_skill_rows(profile, matched)
-    sections = []
-    for category, skills in rows:
-        sections.append(rf"\skillrow{{{latex(category)}}}{{{latex(', '.join(skills))}}}")
-
-    experiences = []
     matched_set = set(matched)
+
+    skill_lines = [rf"\skillrow{{{latex(category)}}}{{{latex(', '.join(skills))}}}" for category, skills in ordered_skill_rows(profile, matched)]
+
+    experience_blocks = []
     for exp in profile.get("experiences", []):
         bullets = ranked_bullets(exp, matched)
-        relevant_tags = []
+        tags = []
         for bullet in bullets:
             for tag in bullet.get("tags", []):
-                if tag not in relevant_tags:
-                    relevant_tags.append(tag)
-        relevant_tags.sort(key=lambda x: (x not in matched_set, relevant_tags.index(x)))
-        bullet_tex = "\n".join(rf"  \item {latex(b['text'])}" for b in bullets)
-        experiences.append(
-            rf"\cventry{{{latex(exp['role'])}}}{{{latex(exp['company'])}}}{{{latex(exp['location'])}}}{{{latex(exp['dates'])}}}\n"
-            rf"\begin{{itemize}}\small\n{bullet_tex}\n\end{{itemize}}\n"
-            rf"\keytech{{{latex(', '.join(relevant_tags[:14]))}}}\n\n\vspace{{\cventrysep}}"
+                if tag not in tags:
+                    tags.append(tag)
+        tag_order = {tag: i for i, tag in enumerate(tags)}
+        tags.sort(key=lambda tag: (tag not in matched_set, tag_order[tag]))
+        bullet_lines = "\n".join(rf"  \item {latex(b['text'])}" for b in bullets)
+        experience_blocks.append(
+            rf"\cventry{{{latex(exp['role'])}}}{{{latex(exp['company'])}}}{{{latex(exp['location'])}}}{{{latex(exp['dates'])}}}" + "\n"
+            + r"\begin{itemize}\small" + "\n"
+            + bullet_lines + "\n"
+            + r"\end{itemize}" + "\n"
+            + rf"\keytech{{{latex(', '.join(tags[:14]))}}}" + "\n\n"
+            + r"\vspace{\cventrysep}"
         )
 
     courses = "\n".join(rf"  \item \textbf{{{latex(course)}}}" for course in profile.get("courses", []))
     target_title = job.get("title") or "Vaga-alvo"
-    target_company = job.get("company") or "Empresa"
 
     return rf"""% Generated automatically by src/resume_generator.py
 % Uses verified facts from resume/base_profile.json only.
@@ -240,10 +226,10 @@ def build_tex(job: dict, profile: dict, matched: list[str]) -> str:
 \vspace{{\cventrysep}}
 \cvsection{{Competências Técnicas}}
 \small
-{chr(10).join(sections)}
+{chr(10).join(skill_lines)}
 \vspace{{\cventrysep}}
 \cvsection{{Experiência Profissional}}
-{chr(10).join(experiences)}
+{chr(10).join(experience_blocks)}
 \cvsection{{Cursos e Desenvolvimento Profissional}}
 \begin{{itemize}}\small
 {courses}
@@ -254,20 +240,14 @@ def build_tex(job: dict, profile: dict, matched: list[str]) -> str:
 
 def write_report(out: Path, job: dict, score: int, reasons: list[str], matched: list[str], gaps: list[str]) -> None:
     report = {
-        "job": {
-            "title": job.get("title", ""),
-            "company": job.get("company", ""),
-            "url": job.get("url", ""),
-            "source": job.get("source", ""),
-            "work_model": job.get("work_model", ""),
-        },
+        "job": {k: job.get(k, "") for k in ("title", "company", "url", "source", "work_model")},
         "match_score": score,
         "coverage": job.get("coverage", 0),
         "observed_fit": job.get("observed_fit", 0),
         "matched_verified_skills": matched,
         "tracked_gaps_not_added_to_resume": gaps,
         "scoring_reasons": reasons,
-        "safety_rule": "O currículo usa somente fatos e competências de resume/base_profile.json; requisitos não verificados nunca são adicionados.",
+        "safety_rule": "O currículo usa somente fatos e competências de resume/base_profile.json; requisitos não verificados nunca são adicionados."
     }
     (out / "match_report.json").write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
     lines = [
@@ -286,8 +266,8 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--jobs", type=Path, default=DEFAULT_JOBS)
     parser.add_argument("--profile", type=Path, default=DEFAULT_PROFILE)
-    parser.add_argument("--job-index", type=int, default=1, help="1-based position in vagas_ranqueadas.json")
-    parser.add_argument("--job-url", default="", help="Exact URL from vagas_ranqueadas.json; overrides --job-index")
+    parser.add_argument("--job-index", type=int, default=1, help="Posição 1-based em vagas_ranqueadas.json")
+    parser.add_argument("--job-url", default="", help="URL exata do ranking; substitui --job-index")
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUT)
     args = parser.parse_args()
 
