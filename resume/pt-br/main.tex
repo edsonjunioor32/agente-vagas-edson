@@ -12,6 +12,7 @@
 \usepackage{enumitem}
 \usepackage{xcolor}
 \usepackage{lmodern}
+\usepackage{needspace}
 \renewcommand{\familydefault}{\sfdefault}
 \raggedbottom
 \clubpenalty=10000
@@ -42,6 +43,7 @@
 \setlength{\parindent}{0pt}
 
 \newcommand{\cventry}[4]{%
+  \Needspace{7\baselineskip}
   \noindent\normalsize\textbf{#1}\hfill\small\textbf{#4}\par
   \nopagebreak[4]
   \noindent\normalsize\textit{\textcolor{accent}{#2}}\hfill\small\textit{#3}\par
