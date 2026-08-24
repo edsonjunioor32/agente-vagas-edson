@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-23T08:45:25.890579-03:00",
+  "generated_at": "2026-08-24T08:58:47.712000-03:00",
   "count": 100,
   "enrichment": {
-    "attempted": 60,
-    "enriched": 51,
-    "failed": 9,
+    "attempted": 61,
+    "enriched": 48,
+    "failed": 13,
     "methods": {
-      "json-ld": 28,
+      "json-ld": 26,
       "inhire-api": 14,
-      "html-text": 9
+      "html-text": 8
     }
   },
   "jobs": [
@@ -264,48 +264,6 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Técnico N2 | Remoto",
-      "company": "FAST2 MINE TECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS LTDA",
-      "url": "https://vagas.solides.com.br/vaga/905314/analista-de-suporte-tecnico-n2-remoto",
-      "source": "solides",
-      "work_model": "remote",
-      "city": "Belo Horizonte, MG",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-18",
-      "description": "Quem é a FAST2 Mine e como revolucionamos a mineração? Somos uma empresa global de tecnologia para mineração, criada por especialistas do setor para transformar operações com dados, simplicidade e inteligência aplicada. Com o posicionamento Mining 2 the Future , conectamos pessoas, processos e ativos para gerar controle em tempo real, decisões mais estratégicas e ganhos concretos de eficiência e sustentabilidade. Estamos presentes em mais de 85 operações, com mais de 25 mil usuários diários em quatro continentes. Revolucionamos a mineração porque entregamos tecnologia feita por quem entende a operação (de mineradores para mineradores) , com rápida implantação, integração simples e impacto mensurável no negócio. Como parte do ecossistema global de software da Weir, ampliamos nossa capacidade de escala e geração de valor em nível mundial. Quem são os FAST2 Miners? Somos guiados por Espírito Empreendedor, Transparência, Colaboração e Flexibilidade. Aqui, crescem pessoas que assumem protagonismo, comunicam com clareza, trabalham em equipe e se adaptam rápido a novos desafios. Valorizamos quem pensa grande, executa com qualidade e busca impacto real na operação. Mais do que desenvolver tecnologia, construímos soluções com responsabilidade, visão estratégica e compromisso com resultado. Remoto | CLT | Obrigatório possuir disponibilidade para fazer plantões de fim de semana conforme escala. Estamos em busca de um(a) Analista de Suporte Técnico N2 para atuar no suporte a sistemas, servidores e infraestrutura. Buscamos uma pessoa com perfil mais técnico e uma boa bagagem em SQL , que tenha capacidade analítica, seja proativa e goste de resolver problemas de forma colaborativa. A ideia é encontrar alguém que já tenha experiência prática e consiga chegar com autonomia para atuar nos desafios da área , contribuindo desde o início na investigação e resolução de problemas, sem depender de uma curva de aprendizado muito longa. Se você é uma pessoa analítica, proativa, gosta de tecnologia e tem facilidade para atuar de forma independente na resolução de problemas, essa oportunidade pode ser para você! Suas responsabilidades incluem: Diagnosticar e solucionar problemas de nível 2, como falhas em banco de dados, servidores e rede; Monitorar sistemas e servidores, garantindo disponibilidade e performance; Documentar atendimentos em ferramentas de gestão de chamados; Trabalhar em conjunto com outros membros da equipe de TI para resolver incidentes e implementar melhorias; Executar manutenções preventivas e atualizações conforme necessário. O que esperamos de você: Proatividade e capacidade de antecipar problemas; Boa comunicação, com foco em empatia e clareza no atendimento ao cliente; Habilidade de análise crítica e resolução de problemas; Espírito de equipe e colaboração; Bons conhecimentos em Excel. Boa bagagem em SQL. Diferenciais: Conhecimento em mineração ou atuação no setor de mineração; Formação em Engenharias Análise de Sistemas ou Técnico em Mineração. Disponibilidade necessária: Plantões de fim de semana ( 09h às 22h , sábado ou domingo) para chamados emergenciais, conforme escala. excel,SQL Graduação,Tecnólogo,Ensino Técnico",
-      "skills": "excel · SQL",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-18T12:00:00-03:00",
-      "coverage": 100,
-      "observed_fit": 85,
-      "fit_points": 85,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 85,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 29/40 (N2/L2, APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 3174
-    },
-    {
-      "id": "",
       "title": "Analista de Suporte Técnico JR",
       "company": "Mercafacil",
       "url": "https://mercafacil.gupy.io/job/eyJqb2JJZCI6MTIxNDE5NTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -550,49 +508,6 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Júnior",
-      "company": "Framework",
-      "url": "https://frameworkdigital.inhire.app/vagas/3efb8049-d143-48c0-a811-1075b178d113/analista-de-suporte-junior",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-05T18:26:30+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-05T15:26:30-03:00",
-      "coverage": 45,
-      "observed_fit": 91,
-      "fit_points": 41,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 82,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 91% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_attempts": 2,
-      "enrichment_status": "error",
-      "enrichment_method": "inhire-api",
-      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
       "title": "Senior Support Engineer",
       "company": "e-Core",
       "url": "https://ecore.inhire.app/vagas/fb827541-29dc-4183-a219-979c80d0895e/senior-support-engineer",
@@ -714,46 +629,6 @@
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
       "description_length": 4761
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Jr✨🚀",
-      "company": "Smart NX",
-      "url": "https://smartnx.gupy.io/job/eyJqb2JJZCI6MTE1NDk0NTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-06-25T21:16:29+00:00",
-      "description": "Descrição da vaga Chega mais perto! Somos um time apaixonado por tecnologia que vem transformando a forma de se relacionar com as pessoas, proporcionando uma combinação perfeita entre humanos e robôs. Não nos prendemos à gênero, etnia, posição socioeconômica, religião ou orientação sexual: nada disso importa para qualquer desafio que você venha abraçar com a gente aqui. Para nós, o seu talento é o que interessa. #vemserSNX *Para candidatos que residem em Juiz de Fora/MG , os 3 primeiros meses serão realizados presencialmente . Após esse período, será possível atuar no modelo híbrido Responsabilidades e atribuições Enviar atualização de procedimentos e artigos sobre software e processos para clientes e áreas de interesse e acompanhar as necessidades de atualização. Atender solicitação de chamados de baixa e média complexidade direcionados pela equipe ou gestão, através de plataforma, de acordo com a demanda, com o objetivo de resolver os problemas apresentados. Acompanhar as tratativas de chamados de maior complexidade com a equipe, através de reuniões ou do chamado, com o objetivo de absorver conhecimento. Realizar o primeiro contato com o cliente, para abertura, priorização de chamados, dúvidas, configuração simples, com o objetivo de iniciar o processo de chamado. Realizar contato com fornecedores de helpdesk e digital com o objetivo de sanar dúvidas. Requisitos e qualificações Hard Skills Graduação completa ou em andamento nas áreas de tecnologia e correlatas. Experiência com atendimento ao cliente. Conhecimento básico em Redes e Linux. Vale mais pontos Conhecimento em Banco de Dados e API. Conhecimento em VoIP e Asterisk. Experiência com plataformas de automação e soluções no-code/low-code. Soft Skills Comunicação assertiva; Empatia; Foco no cliente Paciência; Resiliência Senso analítico; Proatividade; Trabalho em equipe. Informações adicionais Além de um excelente ambiente de trabalho, aqui você também pode crescer e prosperar! Nossos benefícios para você: Plano de saúde completo, porque sua saúde é prioridade (Unimed - coparticipação); Plano odontológico [Uniodonto], pra você sorrir lindamente; Seguro de vida, porque segurança é importante; 🍽️ Ticket refeição/alimentação [Cartão Caju], pra você escolher onde e como se alimentar com liberdade; Day off de aniversário [um dia inteirinho de folga no mês do seu niver]; Pratas da casa! Nós valorizamos seu tempo de permanência com folga e dimdim; Programa QI [indicações convertidas em contratação são premiadas]; SNX Beach [voucher para complementar sua estadia na praia] Parceria com a Udemy[Desenvolvimento profissional contínuo, para você nunca para de crescer]; 💪🏼 Gympass [para se exercitar à vontade]; Cultura de inovação, para você soltar toda a sua criatividade!",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-06-25T18:16:29-03:00",
-      "coverage": 100,
-      "observed_fit": 79,
-      "fit_points": 79,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 79,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 23/40 (APIs e integrações, SQL e banco de dados, Pagamentos e cartões)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 2763
     },
     {
       "id": "",
@@ -1164,46 +1039,6 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 2636
-    },
-    {
-      "id": "",
-      "title": "Analista de Service Desk Júnior",
-      "company": "Fin-X",
-      "url": "https://finxapp.gupy.io/job/eyJqb2JJZCI6MTIxNjUwNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-18T17:20:38+00:00",
-      "description": "Página da Vaga | Analista de Service Desk Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Service Desk Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Fin-X está transformando a forma como hospitais, clínicas e operadoras gerenciam seus processos. Nossas soluções digitalizam a jornada assistencial e financeira, gerando impacto direto em eficiência operacional, redução de custos e na experiência de profissionais de saúde e pacientes. Como Analista de Service Desk Júnior, você fará parte do time de Infraestrutura e será o ponto único de apoio tecnológico para — do primeiro atendimento de um chamado até a gestão de acessos, equipamentos e onboarding de novos colegas. Você vai acompanhar ativamente a saúde dos nossos ambientes de produção e internos ao longo do dia, ajudando o time a detectar desvios antes que virem incidentes. Responsabilidades e atribuições Suporte interno e chamados Ser o ponto único de contato para o suporte interno de toda a empresa; Realizar triagem e classificação de chamados, resolvendo em primeiro nível o que for possível e escalando com contexto o que for de outros times; Fornecer suporte a erros de acesso em e-mail, Teams e Microsoft Authenticator; Gestão de acessos e identidade Gerenciar acessos nas plataformas Microsoft (Microsoft 365 / Entra ID), Azure DevOps e Git; Apoiar a habilitação de login corporativo (AD/SSO) e MFA nas plataformas da empresa e do produto; Onboarding e offboarding de colaboradores Criar contas e e-mails de novos colaboradores e acompanhar a preparação do equipamento; No desligamento, coordenar a devolução do equipamento e a revogação de acessos e licenças. Dispositivos, telefonia e inventário Gerenciar o inventário de usuários, notebooks e licenças; Acompanhar o ciclo de vida dos equipamentos junto ao fornecedor (solicitação, envio, retirada e manutenção); Gerenciar a telefonia corporativa (chips e números). Monitoramento e sustentação Monitorar ativamente, ao longo do dia, os ambientes de produção e internos (disponibilidade, escala das aplicações, consumo de recursos, filas e integrações); Realizar health checks de APIs e integrações com sistemas internos e monitorar o status da VPN; Segurança da informação — apoio operacional Gerar relatórios de segurança da informação solicitados por clientes; Executar rotinas operacionais de segurança definidas pelo time (revisão de usuários inativos, alertas de novos dispositivos, adesão a MFA). Melhoria contínua e IA Evoluir o agente de IA do Service Desk, ampliando o que ele consegue responder e resolver sozinho; Documentar processos e transformar chamados recorrentes em automações ou artigos de autoatendimento. Crescimento — atividades de evolução Apoiar rotinas de otimização de custos de cloud e refinamentos de infraestrutura; Pegar pequenas demandas dos times de Infraestrutura e DevOps para ampliar o conhecimento técnico na prática. Requisitos e qualificações Conhecimento em configuração de computadores (Windows); Experiência com suporte/helpdesk ou em outro cargo de tecnologia, ou curso na área; Experiência com board de atividades para autogestão e organização do próprio trabalho; Boa comunicação escrita e verbal para atender pessoas de áreas não técnicas. Formação em andamento ou completa em cursos de Tecnologia. Etapas do processo Etapa 1: Cadastro Cadastro Etapa 2: Entrevista com RH Entrevista com RH Etapa 3: Entrevista e Case Técnico Entrevista e Case Técnico Etapa 4: Contratação Contratação Somos apaixonados por transformar a saúde através da inovação tecnológica! Na Fin-X, nosso propósito é conectar todos os players do setor de saúde, utilizando soluções criativas, reduzindo custos, aumentando a transparência e credibilidade, tornando a saúde acessível a todos e impactando positivamente a vida das pessoas de maneira humanizada. Somos curiosos, determinados e corajosos. Não temos medo de arriscar e adoramos propor soluções fora da caixa. Cada dia na Fin-X é único, trabalhamos com uma variedade de hospitais, operadoras e milhares de médicos em todo o Brasil. Somos especialistas em trazer inovações para o mundo da saúde. Compartilhar vaga Link copiado Conheça mais sobre a Fin-x Website LinkedIn Instagram Glassdoor Candidatar-se Copiar link Erro ao copiar link Candidatar-se Powered by Gupy 2026. Todos os direitos reservados.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-18T14:20:38-03:00",
-      "coverage": 100,
-      "observed_fit": 68,
-      "fit_points": 68,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 68,
-      "reasons": [
-        "função: 22/30",
-        "competências observadas: 24/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "html-text",
-      "enrichment_error": "",
-      "description_length": 4407
     },
     {
       "id": "",
@@ -1782,6 +1617,47 @@
     },
     {
       "id": "",
+      "title": "Customer Support Analyst - B2B",
+      "company": "Busbud",
+      "url": "https://himalayas.app/companies/busbud/jobs/customer-support-analyst-b2b",
+      "source": "himalayas",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "Brazil",
+      "market": "Global remote",
+      "published_date": "2026-08-23T16:58:55+00:00",
+      "description": "",
+      "skills": "Customer-Support · Technical-Support · B2B-Support · Help-Desk · Support-Analyst · B2B-Support-Analyst · Customer-Support-Analyst · Client-Support-Analyst",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-23T13:58:55-03:00",
+      "coverage": 75,
+      "observed_fit": 51,
+      "fit_points": 38,
+      "covered_points": 75,
+      "score_method": "observed_evidence_v3",
+      "score": 57,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 3/40 (B2B)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 51% com ajuste de incerteza",
+        "cobertura da análise: 75%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte",
       "company": "Construct IN",
       "url": "https://constructin.gupy.io/job/eyJqb2JJZCI6MTIwMjUwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
@@ -1823,6 +1699,46 @@
     },
     {
       "id": "",
+      "title": "Sr. Support Engineer, SAP Basis",
+      "company": "Rimini Street, Inc",
+      "url": "https://himalayas.app/companies/rimini-street-inc/jobs/sr-support-engineer-sap-basis-4521298620",
+      "source": "himalayas",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "Brazil",
+      "market": "Global remote",
+      "published_date": "2026-08-23T17:18:01+00:00",
+      "description": "",
+      "skills": "SAP-Basis-Administration · SAP-Support-Engineer · ERP-Support · SAP-Basis-Consultant · Enterprise-Software-Support · SAP-Basis-Support-Specialist · Senior-SAP-Basis-Administrator · SAP-Basis-Engineer",
+      "categories": [
+        "TI e Desenvolvimento"
+      ],
+      "contract_types": [],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-23T14:18:01-03:00",
+      "coverage": 100,
+      "observed_fit": 55,
+      "fit_points": 55,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 55,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
+    },
+    {
+      "id": "",
       "title": "Sr. Customer Support Engineer",
       "company": "CIQ",
       "url": "https://himalayas.app/companies/ciq/jobs/sr-customer-support-engineer",
@@ -1855,6 +1771,47 @@
         "remoto: 5/5",
         "fit observado: 52% com ajuste de incerteza",
         "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
+    },
+    {
+      "id": "",
+      "title": "(fluent English & Spanish) Technical Support Consultant (Global, remotely)",
+      "company": "SupportYourApp",
+      "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-spanish-technical-support-consultant-global-remotely-9066156124",
+      "source": "himalayas",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "Brazil",
+      "market": "Global remote",
+      "published_date": "2026-08-23T23:20:15+00:00",
+      "description": "",
+      "skills": "Technical-Support-Consultant · Customer-Support · Technical-Support · Service-Delivery · IT-Support · Bilingual-Spanish-Technical-Support-Engineer · Multilingual-Technical-Support-Specialist · Remote-Support-Consultant",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-23T20:20:15-03:00",
+      "coverage": 75,
+      "observed_fit": 47,
+      "fit_points": 35,
+      "covered_points": 75,
+      "score_method": "observed_evidence_v3",
+      "score": 54,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 47% com ajuste de incerteza",
+        "cobertura da análise: 75%"
       ],
       "enrichment_attempts": 1,
       "enrichment_status": "error",
@@ -2148,43 +2105,44 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Junior",
-      "company": "Governança Brasil",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-97449.php",
-      "source": "Nerdin",
+      "title": "Junior Support Engineer | Engenheiro de Suporte Júnior (Remoto)",
+      "company": "Dadosfera",
+      "url": "https://himalayas.app/companies/dadosfera/jobs/junior-support-engineer-engenheiro-de-suporte-junior-remoto",
+      "source": "himalayas",
       "work_model": "remote",
-      "city": "Home Office",
+      "city": "",
       "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-07-29T08:21:18-04:00",
-      "description": "Efetuar registro de todos os atendimentos realizados, conforme processo da empresa, permitindo a evolução e o acompanhamento do cliente; Identificar necessidades dos clientes e repassar para a área comercial ou de relacionamento; Manter-se atualizado nas questões ligadas ao produto (negócio, legislação, tecnologia).",
-      "skills": "sistemas · analista · office · suporte",
+      "country": "Brazil",
+      "market": "Global remote",
+      "published_date": "2026-08-23T17:53:59+00:00",
+      "description": "",
+      "skills": "Junior-Support-Engineer · Cloud-Support-Engineer · FinOps · Cloud-Infrastructure · Technical-Support · Analista-De-Suporte-Ao-Cliente-Júnior · Analista-De-Soporte-Técnico-Junior · Junior-IT-Support-Engineer",
       "categories": [
-        "Suporte, Atendimento e CS"
+        "Dados, BI e IA"
       ],
       "contract_types": [],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-07-29T09:21:18-03:00",
-      "coverage": 100,
-      "observed_fit": 52,
-      "fit_points": 52,
-      "covered_points": 100,
+      "published_at_br": "2026-08-23T14:53:59-03:00",
+      "coverage": 85,
+      "observed_fit": 48,
+      "fit_points": 41,
+      "covered_points": 85,
       "score_method": "observed_evidence_v3",
       "score": 52,
       "reasons": [
         "função: 30/30",
         "competências técnicas: 0/40",
-        "segmento: 11/15 (tecnologia/SaaS)",
+        "segmento sem evidência suficiente — não penalizado",
         "senioridade: 6/10 (senioridade júnior)",
         "remoto: 5/5",
-        "cobertura da análise: 100%"
+        "fit observado: 48% com ajuste de incerteza",
+        "cobertura da análise: 85%"
       ],
       "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 317
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
     },
     {
       "id": "",
@@ -2405,7 +2363,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-07T11:33:10-04:00",
-      "description": "",
+      "description": "A Action Labs está em busca de um profissional de TI para nos apoiar remotamente sempre que surgir algum problema em nossas máquinas: travamentos, instalação de programas, configuração de rede, vírus, lentidão, dúvidas sobre atualizações, erros de sistema, entre outros. Se você trabalha com suporte técnico de forma autônoma e topa esse formato de atendimento sob demanda, envie seu contato por e-mail. E, se conhecer alguém com esse perfil, compartilha essa oportunidade! 🙌 📍 Remoto | 💼 Freelancer, acionamento pontual (sem vínculo fixo) 💰 Cobrança por chamado",
       "skills": "sistemas · analista · office · suporte",
       "categories": [
         "Suporte, Atendimento e CS"
@@ -2429,42 +2387,12 @@
         "remoto: 5/5",
         "fit observado: 43% com ajuste de incerteza",
         "cobertura da análise: 75%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Customer Support Specialist",
-      "company": "Choice",
-      "url": "https://himalayas.app/companies/choice/jobs/customer-support-specialist",
-      "source": "himalayas",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "Global remote",
-      "published_date": "2026-08-20T20:36:54+00:00",
-      "description": "",
-      "skills": "Customer-Support-Specialist · Technical-Support-Specialist · B2B-Customer-Support · SaaS-Support · Help-Desk-Specialist · Customer-Specialist · User-Support-Specialist · Support-Specialist",
-      "categories": [
-        "Suporte, Atendimento e CS"
       ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-20T17:36:54-03:00",
-      "coverage": 100,
-      "observed_fit": 50,
-      "fit_points": 50,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 50,
-      "reasons": [
-        "função: 22/30",
-        "competências observadas: 3/40 (B2B)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ]
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 562
     },
     {
       "id": "",
@@ -2505,6 +2433,47 @@
       "enrichment_method": "inhire-api",
       "enrichment_error": "",
       "description_length": 3197
+    },
+    {
+      "id": "",
+      "title": "(fluent English) Customer Support Consultant, hospitality",
+      "company": "SupportYourApp",
+      "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-customer-support-consultant-hospitality-7956695462",
+      "source": "himalayas",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "Brazil",
+      "market": "Global remote",
+      "published_date": "2026-08-23T10:58:16+00:00",
+      "description": "",
+      "skills": "Customer-Support · Technical-Support · Customer-Service · Remote-Customer-Support · Hospitality · Customer-Support-Consultant · Customer-Service-Consultant · Customer-Care-Consultant",
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-08-23T07:58:16-03:00",
+      "coverage": 75,
+      "observed_fit": 36,
+      "fit_points": 27,
+      "covered_points": 75,
+      "score_method": "observed_evidence_v3",
+      "score": 46,
+      "reasons": [
+        "função: 22/30",
+        "competências técnicas: 0/40",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 36% com ajuste de incerteza",
+        "cobertura da análise: 75%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 403: Forbidden",
+      "description_length": 0
     },
     {
       "id": "",
@@ -2575,44 +2544,6 @@
         "competências observadas: 16/40 (Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação)",
         "segmento: 15/15 (financeiro/pagamentos)",
         "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "teto aplicado: cargo fora da função-alvo",
-        "cobertura da análise: 100%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Desenvolvedor(a) de Software Full Stack",
-      "company": "Ntt Data",
-      "url": "https://www.geekhunter.com/pt/ntt-data/jobs/desenvolvedor-a--de-software-full-stack-1",
-      "source": "geekhunter",
-      "work_model": "remote",
-      "city": "Remoto",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-07T20:19:33+00:00",
-      "description": "",
-      "skills": "Angular · React · Git · Nest.js · Python · TypeScript · JavaScript · Engenharia de prompts · APIs · LLMs · DevSecOps · Banco de dados",
-      "categories": [
-        "TI e Desenvolvimento"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-08-07T17:19:33-03:00",
-      "coverage": 100,
-      "observed_fit": 45,
-      "fit_points": 45,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 45,
-      "reasons": [
-        "função-alvo não identificada: 0/30",
-        "competências observadas: 15/40 (APIs e integrações, SQL e banco de dados)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 10/10 (senioridade pleno)",
         "remoto: 5/5",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 100%"
@@ -3982,6 +3913,82 @@
         "senioridade: 6/10 (senioridade júnior)",
         "remoto: 5/5",
         "fit observado: 37% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Consultor Senior de Finance Transformation",
+      "company": "KPMG",
+      "url": "https://kpmg.inhire.app/vagas/c3466ef7-e680-4a1f-ab1a-a5934b46f5a6/consultor-senior-de-finance-transformation",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-20T19:46:57+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Financeiro e Contábil"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-20T16:46:57-03:00",
+      "coverage": 60,
+      "observed_fit": 48,
+      "fit_points": 29,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 48% com ajuste de incerteza",
+        "teto aplicado: cargo fora da função-alvo",
+        "cobertura da análise: 60%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Pessoa Analista Financeiro Pleno (Remoto) l 1584",
+      "company": "Softplan",
+      "url": "https://softplan.gupy.io/job/eyJqb2JJZCI6MTIyMDE1ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-20T17:57:29+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Financeiro e Contábil"
+      ],
+      "contract_types": [],
+      "seniority": "Pleno",
+      "published_at_br": "2026-08-20T14:57:29-03:00",
+      "coverage": 60,
+      "observed_fit": 50,
+      "fit_points": 30,
+      "covered_points": 60,
+      "score_method": "observed_evidence_v3",
+      "score": 45,
+      "reasons": [
+        "função-alvo não identificada: 0/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "fit observado: 50% com ajuste de incerteza",
         "teto aplicado: cargo fora da função-alvo",
         "cobertura da análise: 60%"
       ]
