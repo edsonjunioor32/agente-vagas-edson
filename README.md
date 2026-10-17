@@ -18,7 +18,7 @@ Preferência por vagas 100% remotas no Brasil.
 
 ## Como funciona
 
-1. Baixa o snapshot público de vagas gerado pelo `todas-as-vagas`.
+1. Baixa o snapshot público de vagas da branch `public-data` do `todas-as-vagas`. A branch `main` contém código, não `docs/data/vagas.json`.
 2. Normaliza os campos principais.
 3. Remove duplicidades por URL e por combinação título/empresa.
 4. Filtra vagas incompatíveis com o mercado Brasil.

@@ -8,6 +8,12 @@ SPEC.loader.exec_module(pipeline)
 
 
 class PipelineTests(unittest.TestCase):
+    def test_default_source_uses_published_catalog(self):
+        self.assertEqual(
+            pipeline.DEFAULT_SOURCE,
+            "https://raw.githubusercontent.com/edsonjunioor32/todas-as-vagas/public-data/data/vagas.json",
+        )
+
     def test_decode_compact_snapshot(self):
         sample = {
             "count": 2,
