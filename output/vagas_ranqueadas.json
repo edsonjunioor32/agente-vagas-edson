@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:52:43.386890-03:00",
+  "generated_at": "2026-10-17T11:05:17.981547-03:00",
   "count": 100,
   "enrichment": {
     "attempted": 74,
@@ -1446,7 +1446,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-27",
-      "description": "Analista de Suporte /Monitoramento N2 - NOC em Porto Alegre - RS HUNT IT , consultoria especializada em recrutamento tech, está selecionando profissionais para um grande player nacional de infraestrutura tecnológica e Cloud Computing . A empresa é referência em soluções de alta disponibilidade, operando data centers de última geração para sustentar negócios críticos em todo o país. Atividades e Responsabilidades Realizar suporte técnico via telefone e tickets Prover soluções adequadas de nível II. Efetuar a análise, diagnóstico e reclassificação das demandas. Executar ativação, configuração e desativação do portfólio de serviços de nível II. Efetuar registros de todos os atendimentos. Realizar abertura de chamados. Atuar na administração dos ambientes de clientes. Elaborar documentos e contribuir com a implementação de procedimentos técnicos. Solucionar incidentes de monitoramento e backup escalonados. Contatar fornecedores para intervenções e acompanhar retornos com o objetivo de garantir a solução adequada. Executar manutenções e atualizações de ambientes conforme diretrizes. Desenvolver e aprimorar a política de segurança (rede, acessos, perfis, avaliar melhorias e etc). Realizar reuniões de esclarecimento via meeting quando solicitado pelo cliente. Monitoramento ativo de infraestrutura e serviços em ambiente de Data Center. Requisitos Técnicos Dominio de sistema operacional linux (CentOS, RedHat, Ubuntu Server) Bons conhecimentos em sistema de monitoramento (Zabbix, Observium ou Cacti) Vivência com BD (SQL, MySQL, PostgreSQL) Atuação anterior com virtualizadores (KVM ou VMware ou Hyper-V ou Xen Server) Ferramentas de Automação (Puppet) Desejável conhecimentso em redes de computadores (Roteamento, VLANs, Switches) ,VPN (Site-to-Site, IPSec) Conhecimentos em softwares Anti DDoS e Storage Informações Adicionais Contrato: CLT. Modelo de atuação: 100% Presencial em Porto Alegre - RS. Atuação em turno 12/36 (diurno)",
+      "description": "Analista de Suporte /Monitoramento N2 - em Porto Alegre - RS A HUNT IT, consultoria especializada em recrutamento tech, está selecionando profissionais para um grande player nacional de infraestrutura tecnológica e Cloud Computing. A empresa é referência em soluções de alta disponibilidade, operando data centers de última geração para sustentar negócios críticos em todo o país. Atividades e Responsabilidades Realizar suporte técnico via telefone e tickets Prover soluções adequadas de nível II. Efetuar a análise, diagnóstico e reclassificação das demandas. Executar ativação, configuração e desativação do portfólio de serviços de nível II. Efetuar registros de todos os atendimentos. Realizar abertura de chamados. Atuar na administração dos ambientes de clientes. Elaborar documentos e contribuir com a implementação de procedimentos técnicos. Solucionar incidentes de monitoramento e backup escalonados. Contatar fornecedores para intervenções e acompanhar retornos com o objetivo de garantir a solução adequada. Executar manutenções e atualizações de ambientes conforme diretrizes. Desenvolver e aprimorar a política de segurança (rede, acessos, perfis, avaliar melhorias e etc). Realizar reuniões de esclarecimento via meeting quando solicitado pelo cliente. Monitoramento ativo de infraestrutura e serviços em ambiente de Data Center. Requisitos Técnicos Dominio de sistema operacional linux (CentOS, RedHat, Ubuntu Server) Bons conhecimentos em sistema de monitoramento (Zabbix, Observium ou Cacti) Vivência com BD (SQL, MySQL, PostgreSQL) Atuação anterior com virtualizadores (KVM ou VMware ou Hyper-V ou Xen Server) Ferramentas de Automação (Puppet) Desejável conhecimentos em redes de computadores (Roteamento, VLANs, Switches) ,VPN (Site-to-Site, IPSec) Conhecimentos em softwares Anti DDoS e Storage Informações Adicionais: Contrato: CLT. Modelo de atuação: 100% Presencial em Porto Alegre - RS. Atuação em turno 12/36 (diurno)",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1473,7 +1473,7 @@
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
-      "description_length": 1947
+      "description_length": 1944
     },
     {
       "id": "",
@@ -1563,7 +1563,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-08-27",
-      "description": "A Hunt IT está buscando um Analista de Suporte Pleno (Redes) para atuar em Manaus - AM, em regime presencial CLT. Se você possui experiência sólida em suporte a usuários de TI e administração de redes, com foco em Linux e infraestrutura de rede, esta pode ser a sua oportunidade! Perfil Exigências mínimas para o candidato: Mínimo 4 anos de experiencia em atendimento suporte a usuários de TI. Mínimo 4 anos de experiencia com suporte / administração de redes. Ter cursado alguma Graduação na Area de TI ou Curso especializado voltado para redes, Linux/Unix com comprovação de certificado. Responsabilidades principais Monitorar a saúde da rede e dos dispositivos (roteadores baseados em linux) via plataforma de gestão proprietária. Realizar troubleshooting remoto (SSH, APIs, plataforma centralizada). Diagnosticar falhas de conectividade (WAN RJ-45, fibra, fallback GSM). Atuar em incidentes relacionados a captive portal (autenticação, redirecionamento, disponibilidade). Apoiar clientes B2B na operação do ambiente (app, conectividade, campanhas). Identificar bugs e anomalias, documentando tecnicamente para escalonamento. Gerenciar filha de chamados e derivar ocorrências as outras áreas de competência quando necessário. Garantir SLA de atendimento e resolução conforme criticidade. Criar e manter documentação técnica e base de conhecimento. Hard Skills (essenciais) Noções básicas de programação Python e shell script Linux avançado (CLI): manipulação de processos, parametrização de serviços, logs, rede. Debug via SSH. Redes TCP/IP: NAT, DHCP, DNS, VLANs, routing básico e intermediário. Diagnóstico com tcpdump, ping, traceroute, netcat. VPNs (IPSec, OpenVPN, WireGuard). Wireless: Conceitos de RF, canais, interferência. Ferramentas como iw, iwinfo. Conectividade WAN: Ethernet, PPPoE, DHCP client. Integração com ISPs. Monitoramento: Zabbix, Grafana ou similar. Interpretação de métricas (latência, packet loss, uptime). Protocolos e serviços: SSH (incluindo hardening básico). HTTP/HTTPS (debug de APIs/captive). Logs e troubleshooting: Leitura e correlação de logs (syslog, dmesg). Inglês técnico (leitura e escrita). Hard Skills (desejáveis) Captive Portal: Fluxo de autenticação (HTTP redirect, walled garden). Troubleshooting de sessão e login. Hotspot / Wi-Fi marketing / captive portal avançado. Automação: Shell scripting. Python básico para troubleshooting. Redes móveis (GSM/4G/5G): AT commands básicos. Debug com uqmi, mmcli ou ferramentas equivalentes. Failover WAN ↔ LTE. Noções de APIs REST (para validação de integração com apps e backend). Noções de segurança: Firewall tuning. Detecção de comportamento anômalo. Soft Skills (essenciais) Pensamento analítico e estruturado: Capacidade de isolar variáveis (ISP vs router vs backend vs app). Comunicação clara: Traduzir problemas técnicos para clientes não técnicos. Escrever tickets bem estruturados para dev. Gestão de incidentes: Priorizar com base em impacto (ex: loja offline vs degradação parcial). Proatividade: Identificar problemas recorrentes e sugerir melhorias. Resiliência: Trabalhar sob pressão em ambiente 24x7. Organização: Documentar troubleshooting e soluções reutilizáveis. Colaboração: Interação constante com NOC, desenvolvimento e produto. Soft Skills (diferenciais) Mentalidade de automação (evitar tarefas repetitivas). Curiosidade técnica (testar, reproduzir bugs). Visão de produto: Entender impacto no usuário final (B2C) e no cliente (B2B). Empatia com cliente: Especialmente em momentos de indisponibilidade.",
+      "description": "A Hunt IT está buscando um Analista de Suporte Pleno (Redes) para atuar em Manaus - AM, em regime presencial CLT. Se você possui experiência sólida em suporte a usuários de TI e administração de redes, com foco em Linux e infraestrutura de rede, esta pode ser a sua oportunidade! Perfil Exigências mínimas para o candidato: Mínimo 4 anos de experiencia em atendimento suporte a usuários de TI. Mínimo 4 anos de experiencia com suporte / administração de redes. Ter cursado alguma Graduação na Area de TI ou Curso especializado voltado para redes, Linux/Unix com comprovação de certificado. Responsabilidades principais Monitorar a saúde da rede e dos dispositivos (roteadores baseados em linux) via plataforma de gestão proprietária. Realizar troubleshooting remoto (SSH, APIs, plataforma centralizada). Diagnosticar falhas de conectividade (WAN RJ-45, fibra, fallback GSM). Atuar em incidentes relacionados a captive portal (autenticação, redirecionamento, disponibilidade). Apoiar clientes B2B na operação do ambiente (app, conectividade, campanhas). Identificar bugs e anomalias, documentando tecnicamente para escalonamento. Gerenciar filha de chamados e derivar ocorrências as outras áreas de competência quando necessário. Garantir SLA de atendimento e resolução conforme criticidade. Criar e manter documentação técnica e base de conhecimento. Hard Skills (essenciais) Noções básicas de programação• Python e shell script Linux avançado (CLI): manipulação de processos, parametrização de serviços, logs, rede.• Debug via SSH. Redes TCP/IP:• NAT, DHCP, DNS, VLANs, routing básico e intermediário. Diagnóstico com tcpdump, ping, traceroute, netcat. VPNs (IPSec, OpenVPN, WireGuard). Wireless: • Conceitos de RF, canais, interferência. Ferramentas como iw, iwinfo. Conectividade WAN: • Ethernet, PPPoE, DHCP client. Integração com ISPs. Monitoramento: • Zabbix, Grafana ou similar. Interpretação de métricas (latência, packet loss, uptime). Protocolos e serviços: • SSH (incluindo hardening básico). HTTP/HTTPS (debug de APIs/captive). Logs e troubleshooting: • Leitura e correlação de logs (syslog, dmesg). Inglês técnico (leitura e escrita). Hard Skills (desejáveis) Captive Portal: • Fluxo de autenticação (HTTP redirect, walled garden). Troubleshooting de sessão e login. Hotspot / Wi-Fi marketing / captive portal avançado. Automação: • Shell scripting. Python básico para troubleshooting. Redes móveis (GSM/4G/5G):• AT commands básicos. Debug com uqmi, mmcli ou ferramentas equivalentes. Failover WAN ↔ LTE. Noções de APIs REST (para validação de integração com apps e backend). Noções de segurança: • Firewall tuning. Detecção de comportamento anômalo. Soft Skills (essenciais) Pensamento analítico e estruturado:• Capacidade de isolar variáveis (ISP vs router vs backend vs app). Comunicação clara: • Traduzir problemas técnicos para clientes não técnicos. Escrever tickets bem estruturados para dev. Gestão de incidentes: • Priorizar com base em impacto (ex: loja offline vs degradação parcial). Proatividade: • Identificar problemas recorrentes e sugerir melhorias. Resiliência: • Trabalhar sob pressão em ambiente 24x7. Organização: • Documentar troubleshooting e soluções reutilizáveis. Colaboração: • Interação constante com NOC, desenvolvimento e produto. Soft Skills (diferenciais) Mentalidade de automação (evitar tarefas repetitivas). Curiosidade técnica (testar, reproduzir bugs). Visão de produto: • Entender impacto no usuário final (B2C) e no cliente (B2B). Empatia com cliente: • Especialmente em momentos de indisponibilidade.",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1590,7 +1590,7 @@
       "enrichment_status": "enriched",
       "enrichment_method": "json-ld",
       "enrichment_error": "",
-      "description_length": 3516
+      "description_length": 3553
     },
     {
       "id": "",
@@ -1867,47 +1867,6 @@
         "fit observado: 80% com ajuste de incerteza",
         "cobertura da análise: 45%"
       ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte a Sistemas (Cloud & ERPs Contábeis)",
-      "company": "Hunt IT",
-      "url": "https://huntit.com.br/vaga/analista-de-suporte-a-sistemas-curitiba-pr/",
-      "source": "huntit",
-      "work_model": "remote",
-      "city": "Brasil",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-09",
-      "description": "📌 Visão Geral da Posição Cargo: Analista de Suporte a Sistemas (Cloud & ERPs Contábeis) Empresa: Confidencial — Empresa de Tecnologia em Nuvem e Data Center especializada em Soluções para Escritórios Contábeis Modelo de Trabalho: 100% Presencial Localização: Curitiba / PR Contratação: CLT (Efetivo) | Período Integral (Segunda a Sexta, das 08h às 18h) Recrutamento: HUNT IT 🏬 Sobre a Empresa HUNT IT está conduzindo o processo seletivo para uma empresa de tecnologia referência em computação em nuvem e data center , com foco especializado no desenvolvimento e sustentação de infraestrutura personalizada para escritórios contábeis em Curitiba/PR. 🚀 A Oportunidade Buscamos um(a) Analista de Suporte a Sistemas com forte foco em atendimento ao cliente, empatia e resolução ágil de problemas técnicos. A posição atua diretamente no suporte aos usuários de escritórios contábeis, garantindo que seus sistemas de gestão (ERPs), rotinas fiscais e acessos em nuvem operem com total disponibilidade, velocidade e segurança. 📋 Principais Responsabilidades Atendimento Técnico via Chat Online: Atender com agilidade, clareza e empatia os chamados dos usuários de escritórios contábeis, garantindo alto índice de resolução no primeiro contato e cumprimento de SLAs. Suporte a ERPs e Softwares Contábeis: Instalação, atualização de versões, parametrização e suporte técnico a sistemas ERP contábeis — com destaque para Domínio Sistemas Questor Sistemas —, além de sistemas da Receita Federal e emissão de notas. Ambiente em Nuvem e Windows Server: Suporte a ambientes Windows Server (2016 a 2025) , controle de acessos, permissões de pastas corporativas e políticas de grupo ( GPO ) no Active Directory Conectividade e Acesso Remoto: Suporte a acessos remotos seguros via OpenVPN , configuração de interfaces e firewall PFsense , além da instalação e mapeamento de impressoras em rede. Monitoramento de Integridade: Acompanhamento e interpretação de alertas de disponibilidade das instâncias dos clientes através do Zabbix 👤 Perfil Desejado Experiência mínima de 2 anos com suporte a sistemas, service desk ou atendimento técnico a usuários de software. Vivência prática no suporte a sistemas ERP (experiência com softwares contábeis como Domínio Sistemas ou Questor é um diferencial expressivo). Conhecimento no ambiente Windows Server Active Directory (permissões e GPO) e suporte ao usuário. Noções práticas de redes corporativas, conexões VPN ( OpenVPN ) e firewall ( PFsense ). Perfil proativo, organizado, resolutivo e com excelente comunicação escrita para atendimento via chat online. ⭐ Diferenciais Vivência anterior em suporte a escritórios de contabilidade ou empresas de hospedagem em nuvem (Cloud Computing). Familiaridade com rotinas do ecossistema contábil e fiscal (certificados digitais, conectividade social, SPED). Formação técnica ou certificações em Redes, Infraestrutura, Sistemas ou áreas correlatas. 💼 Remuneração e Benefícios Remuneração: Salário a combinar (CLT Efetivo). Premiação: Premiação por produtividade. Alimentação: Vale-refeição no valor de R$ 31,00 por dia (cartão VR). Transporte: Vale-transporte ou auxílio combustível. Saúde: Plano de saúde Unimed com coparticipação (disponível após período de experiência). Jornada: Segunda a sexta-feira, das 08h às 18h (presencial em Curitiba/PR).",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-09T12:00:00-03:00",
-      "coverage": 90,
-      "observed_fit": 76,
-      "fit_points": 68,
-      "covered_points": 90,
-      "score_method": "observed_evidence_v3",
-      "score": 76,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 18/40 (Observabilidade e logs, Pagamentos e cartões, Sustentação)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 76% com ajuste de incerteza",
-        "cobertura da análise: 90%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 3315
     },
     {
       "id": "",
@@ -2804,6 +2763,47 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 2731
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte a Sistemas (Cloud & ERPs Contábeis)",
+      "company": "Hunt IT",
+      "url": "https://huntit.com.br/vaga/analista-de-suporte-a-sistemas-curitiba-pr/",
+      "source": "huntit",
+      "work_model": "remote",
+      "city": "Brasil",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-09",
+      "description": "📌 Visão Geral da Posição Cargo: Analista de Suporte a Sistemas Empresa: Confidencial — Empresa de Data Center de Referência Modelo de Trabalho: 100% Presencial Localização: Curitiba / PR Contratação: CLT (Efetivo) | Período Integral (Segunda a Sexta, das 08h às 18h) Recrutamento: HUNT IT 🏬 Sobre a Empresa A HUNT IT está conduzindo o processo seletivo para uma importante empresa de soluções CLOUD e sistemas para a área contábil, reconhecida pela qualidade e disponibilidade de seus serviços e por oferecer um ambiente técnico estruturado, moderno e desafiador em Curitiba/PR. 🚀 A Oportunidade Buscamos um(a) Analista de Suporte com perfil técnico, organizado e com foco em atendimento e resolução de problemas, que queira atuar em um ambiente dinâmico e em constante evolução. 📋 Principais Responsabilidades Suporte e administração de ambientes Windows Server (2016 a 2025). Gestão de Active Directory, incluindo controle de permissões de pastas e políticas de grupo (GPO). Instalação e configuração de impressoras corporativas em rede. Configuração e administração de firewall PFsense, envolvendo interfaces, VPN ponto a ponto com OpenVPN e balanceamento/failover de links. Instalação, configuração, manutenção e interpretação de alertas na ferramenta de monitoramento Zabbix. Instalação e gerenciamento de conexões OpenVPN. Suporte técnico a sistemas da Receita Federal. Instalação, parametrização e atualização de sistemas ERP (Domínio Sistemas e Questor Sistemas). Atendimento técnico de excelência aos clientes por meio de chat online, garantindo agilidade, qualidade e eficiência no SLA de resolução dos chamados. 👤 Perfil Desejado Experiência mínima de 2 anos na área de suporte a sistemas e infraestrutura. Formação técnica ou certificações em Redes, Infraestrutura ou áreas correlatas. Vivência anterior em empresas de TI ou ambientes de Data Center. Domínio prático de Windows Server (AD / GPO) e noções sólidas de redes/firewalls. Perfil proativo, organizado, resolutivo e com excelente comunicação interpessoal. ⭐ Diferenciais Conhecimento prévio em ERPs contábeis/fiscais (Domínio ou Questor). Experiência com configuração de monitoramento avançado no Zabbix. Certificações técnicas (Microsoft, Linux, Redes ou Segurança). 💼 Remuneração e Benefícios Remuneração: Salário a combinar (CLT Efetivo). Premiação: Premiação por produtividade. Transporte: Vale-transporte ou auxílio combustível. Alimentação: Vale-refeição no valor de R$ 31,00 por dia (cartão VR). Saúde: Plano de saúde Unimed com coparticipação (disponível após período de experiência). Jornada: Segunda a sexta-feira, das 08h às 18h (presencial em Curitiba/PR).",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-09T12:00:00-03:00",
+      "coverage": 90,
+      "observed_fit": 71,
+      "fit_points": 64,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 71,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 14/40 (Observabilidade e logs, Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 71% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 2639
     },
     {
       "id": "",
