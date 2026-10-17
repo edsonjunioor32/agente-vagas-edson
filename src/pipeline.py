@@ -11,7 +11,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 PROFILE_PATH = ROOT / "perfil.json"
 OUT = ROOT / "output"
-DEFAULT_SOURCE = "https://raw.githubusercontent.com/edsonjunioor32/todas-as-vagas/main/docs/data/vagas.json"
+DEFAULT_SOURCE = "https://raw.githubusercontent.com/edsonjunioor32/todas-as-vagas/public-data/data/vagas.json"
 SOURCE_URL = os.getenv("SOURCE_URL", DEFAULT_SOURCE)
 BR_TZ = timezone(timedelta(hours=-3))
 
