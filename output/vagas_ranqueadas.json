@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-23T12:39:09.986522-03:00",
+  "generated_at": "2026-10-24T11:18:24.720242-03:00",
   "count": 100,
   "enrichment": {
     "attempted": 78,
-    "enriched": 64,
-    "failed": 14,
+    "enriched": 66,
+    "failed": 12,
     "methods": {
-      "json-ld": 36,
-      "inhire-api": 13,
-      "html-text": 15
+      "json-ld": 35,
+      "inhire-api": 14,
+      "html-text": 17
     }
   },
   "jobs": [
@@ -346,26 +346,66 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "Node.js Analista de Sustentação Junior | Remote",
+      "company": "Compass UOL",
+      "url": "https://compass.gupy.io/job/eyJqb2JJZCI6MTI3NzM3MzIsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate",
+      "source": "gupy",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T13:47:59+00:00",
+      "description": "Página da Vaga | Node.js Analista de Sustentação Junior | Remote Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Node.js Analista de Sustentação Junior | Remote Copiar link Compartilhar vaga Ir para candidatura Descrição da vaga Responsabilidades e atribuições Realizar a sustentação, manutenção corretiva e oferecer o suporte adequado para aplicações web em ambiente produtivo; Monitorar fila de atendimento através de ferramenta de ITSM; Realizar análise, troubleshooting e desenvolvimento corretivo de incidentes e problemas; Comunicar diretamente com o cliente e parceiros, reportando o andamento das análises; Acompanhar implantações de mudanças das aplicações; Identificar e desenvolver melhorias nas aplicações e/ou ferramentas internas para automatizar tarefas do dia a dia. Elaborar e auxiliar na documentação de problemas conhecidos; Garantir a boa experiência e o funcionamento adequado do negócio assegurando o SLA de cada assunto. Requisitos e qualificações Experiência em sustentação, monitoramento e suporte de aplicações web e mobile; Conhecimento em tecnologias de desenvolvimento, como Java, Node.js , React ou Vue.js Conhecimento em tecnologias de conteinerização e orquestração, como Docker e Kubernetes; Experiência com versionamento de código utilizando Git; Conhecimento em documentação, testes e consumo de APIs REST e SOAP, utilizando ferramentas como Postman, Swagger e SoapUI; Vivência em análise e tratamento de incidentes N2 e N3, incluindo troubleshooting e investigação de problemas; Conhecimento em bancos de dados para consultas, análise e suporte a aplicações; Familiaridade com integrações, serviços e fluxos de aplicações corporativas. Desejáveis: Familiaridade com ambientes em nuvem, especialmente Azure Cloud; Conhecimento em Bot Framework e soluções conversacionais; Familiaridade com desenvolvimento mobile e suporte a aplicações multiplataforma; Experiência com monitoramento, observabilidade e análise de logs em ambientes produtivos. Informações adicionais Benefícios Vale-alimentação e/ou vale-refeição; Plano de saúde e plano odontológico; Plano de saúde para o seu pet; Auxílio home office (para vagas remotas); Kit de boas-vindas no onboarding; Seguro de vida; Zenklub, com acompanhamento psicológico e nutricional; TotalPass; Programa de Certificações e Capacitação Contínua com parceiros (Adobe, Anthropic, AWS, Google, Microsoft, Salesforce); Parcerias e descontos para o seu desenvolvimento; Acesso ao conteúdo UOL; Kit maternidade; Licença maternidade e paternidade estendidas; Programa de indicações. Etapas do processo Etapa 1: Cadastro Cadastro Etapa 2: Mapeamento de Stack Mapeamento de Stack Etapa 3: Fit Cultural Fit Cultural Etapa 4: Entrevista Líder Entrevista Líder Etapa 5: Cadastro de Qualificação Cadastro de Qualificação Etapa 6: Oferta e Negociação Oferta e Negociação Etapa 7: Contratação Contratação Become a Compasser, be part of AI/R. Compass UOL is a global firm and part of the AI Revolution Company, together transforming organizations using Artificial Intelligence, Generative AI, and other of today’s most advanced technologies. We equip our team with proprietary and external AI-driven tools to design and build digital-native platforms, integrating cutting-edge technologies and enabling companies to innovate, transform their businesses, and drive success in their markets. To achieve this, we attract and develop the best talent, creating opportunities that enhance people’s lives and highlight the positive impact of disruptive technologies. We empower borderless talent and promote knowledge and opportunities in the latest market trends, driving significant personal and professional growth. Join us and be part of the AI-driven revolution. Compartilhar vaga Candidatar-se Copiar link Candidatar-se Powered by Gupy 2026. Todos os direitos reservados.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Júnior/Assistente",
+      "published_at_br": "2026-10-23T10:47:59-03:00",
+      "coverage": 100,
+      "observed_fit": 88,
+      "fit_points": 88,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 88,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 32/40 (N2/L2, APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 6/10 (senioridade júnior)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 3859
+    },
+    {
+      "id": "",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/qcT4p42XzXRJQY3FaW9dDr/(fluent-english)-t3-support-engineer-(remote)-in-manaus-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/qcT4p42XzXRJQY3FaW9dDr/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-manaus-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Manaus",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:52+00:00",
+      "published_date": "2026-10-23T15:18:07+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:52-03:00",
+      "published_at_br": "2026-10-23T12:18:07-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -389,26 +429,26 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/u4FMpZG9e2moTTagHxrx4F/(fluent-english)-t3-support-engineer-(remote)-in-belo-horizonte-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/u4FMpZG9e2moTTagHxrx4F/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-belo-horizonte-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Belo Horizonte",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:52+00:00",
+      "published_date": "2026-10-23T15:18:07+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:52-03:00",
+      "published_at_br": "2026-10-23T12:18:07-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -432,26 +472,26 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/bj355F4Q818fhU6oCjcBLh/(fluent-english)-t3-support-engineer-(remote)-in-cear%C3%A1-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/bj355F4Q818fhU6oCjcBLh/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-cear%C3%A1-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Ceará",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:52+00:00",
+      "published_date": "2026-10-23T15:18:07+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:52-03:00",
+      "published_at_br": "2026-10-23T12:18:07-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -475,26 +515,26 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/rYDCU7ZVFFGHzWtEkhh5Ki/(fluent-english)-t3-support-engineer-(remote)-in-bras%C3%ADlia-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/rYDCU7ZVFFGHzWtEkhh5Ki/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-bras%C3%ADlia-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Brasília",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:52+00:00",
+      "published_date": "2026-10-23T15:18:06+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:52-03:00",
+      "published_at_br": "2026-10-23T12:18:06-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -518,26 +558,26 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/9mDiD2kWherqocKWCs7aMu/(fluent-english)-t3-support-engineer-(remote)-in-bahia-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/9mDiD2kWherqocKWCs7aMu/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-bahia-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Bahia",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:51+00:00",
+      "published_date": "2026-10-23T15:18:06+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:51-03:00",
+      "published_at_br": "2026-10-23T12:18:06-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -561,26 +601,26 @@
     },
     {
       "id": "",
-      "title": "(Fluent English) T3 Support Engineer (remote)",
+      "title": "(Fluent English) Technical Support Engineer (PHP/JavaScript, SQL)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/hwM8P7X6DhvkpssQYrnT2h/(fluent-english)-t3-support-engineer-(remote)-in-brazil-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/hwM8P7X6DhvkpssQYrnT2h/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-brazil-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
       "city": "Brasil",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-12T13:01:51+00:00",
+      "published_date": "2026-10-23T15:18:06+00:00",
       "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Engineer today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Investigate and troubleshoot issues escalated from T1 involving backend, databases, and cross-system integrations; Reproduce bugs across web admin consoles, mobile apps, and backend APIs; Analyze logs, error traces, and metrics to identify root causes; Query production databases (read-only) to validate data-related issues; Implement small, low-risk fixes, including configuration changes, data corrections, and targeted code patches; Escalate complex issues to Engineering with clear documentation and findings; Track incidents and outages through resolution, using monitoring and error-tracking tools to verify fixes; Maintain and expand internal runbooks and knowledge bases to reduce recurring escalations; Maintain deep understanding of client solutions and meet KPIs. What you need to succeed in this role: Excellent English skills (at least C1 for both spoken and written); 2+ years of customer-facing experience in L1/L2 (or L3) technical support, with hands-on troubleshooting and code-reading skills; Strong SQL skills and experience with production-scale relational databases; Working knowledge of PHP and/or JavaScript/TypeScript, enough to implement small, low-risk fixes; Familiarity with AWS or another cloud provider, including logs, services, and secrets; Strong customer-focused approach and excellent communication skills; Ability to explain technical concepts in a clear, simple, and customer-friendly manner; Strong written communication skills and ability to document technical findings clearly; Strong analytical thinking and research skills; Ability to identify when an escalation to the Engineering team is required; Positive, proactive and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 45 Mbps–download and 20 Mbps–upload). Will be a great plus: Experience with Sentry or similar error-tracking tools and Grafana or similar monitoring tools; Experience supporting a mobile app (React Native or similar); Exposure to GraphQL and REST API debugging; Experience with analytical/columnar databases (ClickHouse, BigQuery, etc.); Prior experience in a company with a monolith-plus-services architecture, where issues often cross system boundaries. Benefits: Fixed schedule: Monday–Friday, 10:30 PM - 7AM GMT+11; Opportunity to cooperate fully remotely from EU; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal job code:487",
       "skills": [],
       "categories": [
-        "Outros"
+        "Suporte, Atendimento e CS"
       ],
       "contract_types": [
         "Contract"
       ],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-12T10:01:51-03:00",
+      "published_at_br": "2026-10-23T12:18:06-03:00",
       "coverage": 90,
       "observed_fit": 90,
       "fit_points": 81,
@@ -601,6 +641,49 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 4597
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte | Clientes Críticos (Remoto)",
+      "company": "Pontotel",
+      "url": "https://oportunidades.mindsight.com.br/pontotel/188",
+      "source": "pontotel",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-19T00:00:00+00:00",
+      "description": "Portal do Candidato PT Informações da vaga Analista de Suporte | Clientes Críticos (Remoto) Candidatar-se Descrição da vaga 🟡 CONHEÇA A PONTOTEL Somos uma plataforma de ponto que começa com P de Pessoas, porque são elas que nos motivam a criar o futuro do trabalho. Nossa missão é transformar a relação das organizações com o tempo, oferecendo uma gestão de frequência centrada nas pessoas. Aqui, o ponto deixa de ser uma burocracia e se torna uma ferramenta de confiança, planejamento e bem-estar. Por isso, buscamos continuamente novas formas de facilitar a rotina dos times de RH, líderes e profissionais responsáveis pelo controle de jornada, entregando não apenas tecnologia, mas soluções que realmente fazem a diferença. 🟡 NOSSA CULTURA Acreditamos que pessoas satisfeitas, motivadas e produtivas são o ponto de partida para qualquer grande realização. Por isso, valorizamos a flexibilidade, a autonomia e a diversidade, promovendo um ambiente inclusivo, onde todos são bem-vindos e incentivados a serem quem realmente são. Nossos valores se complementam e guiam cada passo da nossa jornada. Com foco no impacto , priorizamos o que realmente importa com objetividade e senso crítico, enquanto incentivamos o protagonismo individual, onde com motivação, resiliência e aprendizado contínuo, você constrói a cadeira que quer sentar . Aqui o compromisso é nosso ponto de encontro , acreditamos na força da colaboração, do apoio mútuo e da liderança pelo exemplo. Movidos pela engenhosidade que transforma , buscamos soluções criativas e simples, mesmo diante dos desafios e colocamos as pessoas no centro , com empatia, leveza e transparência em cada interação, sempre sustentados pela ética e pela responsabilidade que garantem a segurança para construir o futuro do trabalho, ponto a ponto. Esperamos que todos os nossos colaboradores sigam os valores da nossa cultura, assim como a Pontotel os pratica em seu dia a dia, respeitando integralmente a legislação aplicável. Para nós, a segurança da informação e a privacidade de dados são pilares fundamentais na construção do futuro do trabalho. Impacto · Protagonismo · Compromisso · Engenhosidade · Pessoas • Segurança 💼 SOBRE A VAGA: Aqui, você terá a oportunidade de crescer e contribuir para a construção de um ambiente colaborativo, descontraído e desafiador. Valorizamos a troca de ideias e o trabalho em equipe, onde cada voz é ouvida e respeitada. Nosso foco é ir além do óbvio, desafiando constantemente o status quo e incentivando a busca por soluções inovadoras. Se você está em busca de um lugar onde suas ideias realmente importam e você pode impactar o futuro, venha fazer parte do nosso time! 🚀 RESPONSABILIDADES E ATRIBUIÇÕES Buscamos alguém para atuar nos casos de clientes críticos — aqueles com maior complexidade ou impacto na operação, no fechamento de ponto ou na folha de pagamento. Essa pessoa será responsável por investigar problemas técnicos relacionados a sistema, configurações, integrações e dispositivos, reunindo evidências para identificar a causa. Também vai acionar as áreas internas responsáveis, como Suporte, Produto, Engenharia e Implantação, sempre que a solução depender delas, acompanhando cada caso até a resolução e a estabilização da operação do cliente, e mantendo-o informado durante todo o processo. Atuar nos casos críticos encaminhados pela equipe de Relacionamento, conduzindo o diagnóstico e as ações necessárias até a resolução; Investigar problemas técnicos relacionados a sistema, configurações, cálculos, integrações ou dispositivos, reunindo evidências para análise; Acionar Suporte, Produto, Engenharia, Implantação ou outras áreas conforme a natureza do caso; Manter o cliente informado sobre o andamento do caso, com transparência sobre riscos e prazos; Acompanhar a estabilização da operação do cliente após a implementação da solução; Documentar causas, evidências e aprendizados para prevenir recorrências e aprimorar processos e produto; Alinhar-se com o(a) Analista de Relacionamento responsável pela carteira para manter a comunicação coordenada com o cliente. REQUISITOS E QUALIFICAÇÕES Ensino superior completo ou em andamento em Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciência da Computação, Engenharia de Software ou áreas relacionadas; Experiência com sistemas de controle de ponto, gestão de jornadas, folha de pagamento ou soluções de RH; Conhecimento de regras de cálculo, escalas, banco de horas, fechamento de ponto ou obrigações trabalhistas relacionadas; Familiaridade com integrações entre sistemas, APIs, análise de logs ou bancos de dados; Experiência com gestão de incidentes, análise de causa raiz e elaboração de planos de ação; Conhecimento de práticas de Customer Success, gestão de carteira ou recuperação de clientes críticos; Vivência em empresas de tecnologia B2B ou software de gestão. DIFERENCIAIS Experiência em atendimento, suporte ou relacionamento com clientes B2B, especialmente na condução de casos complexos ou escalonados; Experiência com sistemas SaaS ou outras soluções tecnológicas; Boa comunicação para explicar temas técnicos de forma clara ao cliente e às equipes internas; Conhecimento de ferramentas de CRM e gestão de chamados; Conhecimento intermediário de planilhas e análise de informações. BENEFÍCIOS E DIFERENCIAIS Aqui na Pontotel, você tem a liberdade do trabalho remoto e a flexibilidade de horário – dentro do horário comercial, além de uma série de benefícios focados em melhorar sua qualidade de vida. 🍔 Vale Refeição – Cartão Caju; 💻 Auxílio Home Office – Cartão Caju; 👨🏻‍💻 Equipamentos fornecidos pela empresa; 🏥 Plano de Saúde e Odontológico – Unimed Nacional; 🧘‍♀️ Pacote de Saúde Física e Mental – Wellhub, Psicologia Viva e Conexa Saúde; 🚀 Plano de Carreira em formato de Y; 🛡️ Seguro de Vida; 👶 Auxílio Creche ou Babá; 👨‍👩‍👧‍👦 Licença maternidade e paternidade estendida; 🤱Cesta Natalidade para novas mamães e papais; 🐾 Plano de Saúde pro seu pet; 🥳 Dia de folga no mês do seu aniversário; 🎟️ Bilheteria.com - Convênio para garantir descontos em lazer . 🚀 ETAPAS DO PROCESSO SELETIVO: Papo com time de Talentos & Performance; Etapa técnica com Liderança; Etapa Cultural; Etapa com Gestão; Proposta 🎉 Localização Modelo de contratação Modelo de trabalho São Paulo, SP, BR Efetivo CLT Remoto Candidatar-se",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-18T21:00:00-03:00",
+      "coverage": 90,
+      "observed_fit": 90,
+      "fit_points": 81,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 88,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 31/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões, B2B)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 90% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 6306
     },
     {
       "id": "",
@@ -728,57 +811,16 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Pleno (Developer L3)",
-      "company": "Jobgether",
-      "url": "https://jobs.lever.co/jobgether/d95d84f6-25cf-4a0f-a21e-2911b344b184",
-      "source": "jobgether",
+      "title": "3582: Senior Desktop Support Engineer",
+      "company": "mazzatech",
+      "url": "https://mazzatech.inhire.app/vagas/8819ece1-ab83-40b0-ba43-272fee223896/3582-senior-desktop-support-engineer",
+      "source": "inhire",
       "work_model": "remote",
-      "city": "Brazil",
+      "city": "BR",
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-13T04:31:02+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-10-13T01:31:02-03:00",
-      "coverage": 45,
-      "observed_fit": 100,
-      "fit_points": 45,
-      "covered_points": 45,
-      "score_method": "observed_evidence_v3",
-      "score": 86,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 45%"
-      ],
-      "enrichment_attempts": 2,
-      "enrichment_status": "error",
-      "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 404: Not Found",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte em Jornadas Digitais",
-      "company": "South System",
-      "url": "https://vagas.jobii.com.br/vagas/2433",
-      "source": "jobii",
-      "work_model": "remote",
-      "city": "Brasil",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-20",
+      "published_date": "2026-09-17T11:48:21+00:00",
       "description": "",
       "skills": [],
       "categories": [
@@ -786,7 +828,7 @@
       ],
       "contract_types": [],
       "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-10-20T12:00:00-03:00",
+      "published_at_br": "2026-09-17T08:48:21-03:00",
       "coverage": 45,
       "observed_fit": 98,
       "fit_points": 44,
@@ -803,50 +845,9 @@
         "cobertura da análise: 45%"
       ],
       "enrichment_attempts": 2,
-      "enrichment_status": "not_available",
-      "enrichment_method": "",
-      "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "CONSULTOR(A) SAP SD SÊNIOR – SUPORTE L2 (COM INGLÊS)",
-      "company": "InfoVagas",
-      "url": "https://jobs.quickin.io/infovagas/jobs/6a92f4ff1f004600129779d9",
-      "source": "infovagas",
-      "work_model": "remote",
-      "city": "Atuação Remota",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-29T15:04:31+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-08-29T12:04:31-03:00",
-      "coverage": 53,
-      "observed_fit": 92,
-      "fit_points": 49,
-      "covered_points": 53,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 27/30",
-        "competências observadas: 8/8 (N2/L2)",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 92% com ajuste de incerteza",
-        "cobertura da análise: 53%"
-      ],
-      "enrichment_attempts": 2,
       "enrichment_status": "error",
-      "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 400: No foi possvel carregar esta pgina",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
       "description_length": 0
     },
     {
@@ -860,7 +861,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "",
       "skills": [],
       "categories": [
@@ -868,7 +869,7 @@
       ],
       "contract_types": [],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 35,
       "observed_fit": 100,
       "fit_points": 35,
@@ -888,6 +889,49 @@
       "enrichment_status": "not_available",
       "enrichment_method": "",
       "enrichment_error": "descrição útil não encontrada",
+      "description_length": 0
+    },
+    {
+      "id": "",
+      "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
+      "company": "SupportYourApp",
+      "url": "https://jobs.workable.com/view/bSMMcQLAqkn1jD1WhRbsRD/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-bras%C3%ADlia-at-supportyourapp",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasília",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-22T16:06:34+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Contract"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-22T13:06:34-03:00",
+      "coverage": 35,
+      "observed_fit": 100,
+      "fit_points": 35,
+      "covered_points": 35,
+      "score_method": "observed_evidence_v3",
+      "score": 84,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 100% com ajuste de incerteza",
+        "cobertura da análise: 35%"
+      ],
+      "enrichment_attempts": 2,
+      "enrichment_status": "error",
+      "enrichment_method": "",
+      "enrichment_error": "HTTPError: HTTP Error 410: Gone",
       "description_length": 0
     },
     {
@@ -931,49 +975,6 @@
       "enrichment_status": "error",
       "enrichment_method": "",
       "enrichment_error": "HTTPError: HTTP Error 410: Gone",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "Technical Support - Spanish (Remote)",
-      "company": "Involves",
-      "url": "https://involves.inhire.app/vagas/d2752b10-e426-4fc6-9fff-5cf9b5e8364c/technical-support-spanish-remote",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-05T22:24:14+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-05T19:24:14-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "error",
-      "enrichment_method": "inhire-api",
-      "enrichment_error": "HTTPError: HTTP Error 404: Not Found; fallback: descrição útil não encontrada",
       "description_length": 0
     },
     {
@@ -1102,7 +1103,7 @@
     },
     {
       "id": "",
-      "title": "Analista de Suporte Médias Contas (Remoto)",
+      "title": "Analista de Suporte | Médias Contas (Remoto)",
       "company": "Pontotel",
       "url": "https://oportunidades.mindsight.com.br/pontotel/187",
       "source": "pontotel",
@@ -1112,7 +1113,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-10-19T00:00:00+00:00",
-      "description": "Portal do Candidato PT Informações da vaga Analista de Suporte Médias Contas (Remoto) Candidatar-se Descrição da vaga 🟡 CONHEÇA A PONTOTEL Somos uma plataforma de ponto que começa com P de Pessoas, porque são elas que nos motivam a criar o futuro do trabalho. Nossa missão é transformar a relação das organizações com o tempo, oferecendo uma gestão de frequência centrada nas pessoas. Aqui, o ponto deixa de ser uma burocracia e se torna uma ferramenta de confiança, planejamento e bem-estar. Por isso, buscamos continuamente novas formas de facilitar a rotina dos times de RH, líderes e profissionais responsáveis pelo controle de jornada, entregando não apenas tecnologia, mas soluções que realmente fazem a diferença. 🟡 NOSSA CULTURA Acreditamos que pessoas satisfeitas, motivadas e produtivas são o ponto de partida para qualquer grande realização. Por isso, valorizamos a flexibilidade, a autonomia e a diversidade, promovendo um ambiente inclusivo, onde todos são bem-vindos e incentivados a serem quem realmente são. Nossos valores se complementam e guiam cada passo da nossa jornada. Com foco no impacto , priorizamos o que realmente importa com objetividade e senso crítico, enquanto incentivamos o protagonismo individual, onde com motivação, resiliência e aprendizado contínuo, você constrói a cadeira que quer sentar . Aqui o compromisso é nosso ponto de encontro , acreditamos na força da colaboração, do apoio mútuo e da liderança pelo exemplo. Movidos pela engenhosidade que transforma , buscamos soluções criativas e simples, mesmo diante dos desafios e colocamos as pessoas no centro , com empatia, leveza e transparência em cada interação, sempre sustentados pela ética e pela responsabilidade que garantem a segurança para construir o futuro do trabalho, ponto a ponto. Esperamos que todos os nossos colaboradores sigam os valores da nossa cultura, assim como a Pontotel os pratica em seu dia a dia, respeitando integralmente a legislação aplicável. Para nós, a segurança da informação e a privacidade de dados são pilares fundamentais na construção do futuro do trabalho. Impacto · Protagonismo · Compromisso · Engenhosidade · Pessoas • Segurança 💼 SOBRE A VAGA: Aqui, você terá a oportunidade de crescer e contribuir para a construção de um ambiente colaborativo, descontraído e desafiador. Valorizamos a troca de ideias e o trabalho em equipe, onde cada voz é ouvida e respeitada. Nosso foco é ir além do óbvio, desafiando constantemente o status quo e incentivando a busca por soluções inovadoras. Se você está em busca de um lugar onde suas ideias realmente importam e você pode impactar o futuro, venha fazer parte do nosso time! 🚀 RESPONSABILIDADES E ATRIBUIÇÕES Buscamos alguém para prestar suporte técnico diário aos clientes do segmento de Médias Contas, conduzindo cada solicitação desde o recebimento até a resolução ou o encaminhamento conclusivo. O escopo inclui compreender e classificar as demandas, investigar dúvidas e problemas, realizar parametrizações dentro dos procedimentos definidos e abrir e acompanhar cards técnicos junto às áreas responsáveis, mantendo o cliente informado durante todo o processo e validando se a solução atendeu à solicitação. Atender solicitações de suporte por e-mail e mensageria, participando de reuniões quando necessário para compreender ou tratar uma demanda; Identificar a necessidade do cliente, reunir o contexto necessário e classificar e priorizar as solicitações conforme impacto e urgência; Investigar dúvidas e problemas relacionados ao sistema, analisando informações e evidências fornecidas pelo cliente e diferenciando dúvidas de uso, necessidades de parametrização e possíveis falhas técnicas; Reproduzir cenários e realizar testes quando necessário, orientando o cliente com clareza sobre o procedimento ou a solução; Realizar parametrizações autorizadas dentro do escopo de atendimento, solicitando as validações necessárias antes de aplicar mudanças e conferindo o resultado após a execução; Abrir cards técnicos com descrição clara da demanda, evidências e passos para reprodução, acompanhando sua evolução junto às áreas responsáveis até obter uma solução; Validar a solução disponibilizada antes de retornar ao cliente e confirmar se a solicitação foi atendida; Manter o cliente informado sobre o andamento, os próximos passos e eventuais prazos ou dependências, com transparência; Acionar Suporte, Produto, Engenharia, Implantação ou outras áreas conforme a natureza da demanda, encaminhando informações completas para evitar retrabalho; Registrar solicitações, análises, orientações, parametrizações e resultados no CRM ou na ferramenta de suporte utilizada pela equipe; Identificar dúvidas e problemas recorrentes no atendimento e compartilhar os padrões observados para apoiar melhorias nos processos, no produto e nos materiais de orientação. REQUISITOS E QUALIFICAÇÕES Ensino superior completo ou em andamento em Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciência da Computação, Engenharia de Software, Gestão de Tecnologia da Informação ou áreas correlatas (também são consideradas outras áreas, desde que acompanhadas de experiência relevante em suporte a sistemas ou atendimento técnico); Experiência em atendimento ou suporte ao cliente, preferencialmente relacionado a sistemas ou softwares; Capacidade de investigar dúvidas e problemas e organizar as informações necessárias para análise; Boa comunicação oral e escrita; Organização para acompanhar solicitações, prazos e retornos; Conhecimento de ferramentas de atendimento, CRM ou gestão de chamados; Conhecimento básico ou intermediário de planilhas; Facilidade para aprender sistemas, processos e configurações; Perfil colaborativo, atenção aos detalhes e orientação à resolução de demandas. DIFERENCIAIS Experiência em suporte a clientes B2B ou em empresas SaaS; Conhecimento de sistemas de controle de ponto, gestão de jornadas, folha de pagamento ou soluções de RH; Familiaridade com parametrizações de regras de cálculo, escalas, banco de horas ou fechamento de ponto; Conhecimento de integrações entre sistemas, APIs, logs ou consultas básicas a bancos de dados; Vivência com abertura e acompanhamento de cards técnicos; Conhecimento da Portaria 671 e de processos relacionados ao controle de jornada. BENEFÍCIOS E DIFERENCIAIS Aqui na Pontotel, você tem a liberdade do trabalho remoto e a flexibilidade de horário – dentro do horário comercial, além de uma série de benefícios focados em melhorar sua qualidade de vida. 🍔 Vale Refeição – Cartão Caju; 💻 Auxílio Home Office – Cartão Caju; 👨🏻‍💻 Equipamentos fornecidos pela empresa; 🏥 Plano de Saúde e Odontológico – Unimed Nacional; 🧘‍♀️ Pacote de Saúde Física e Mental – Wellhub, Psicologia Viva e Conexa Saúde; 🚀 Plano de Carreira em formato de Y; 🛡️ Seguro de Vida; 👶 Auxílio Creche ou Babá; 👨‍👩‍👧‍👦 Licença maternidade e paternidade estendida; 🤱Cesta Natalidade para novas mamães e papais; 🐾 Plano de Saúde pro seu pet; 🥳 Dia de folga no mês do seu aniversário; 🎟️ Bilheteria.com - Convênio para garantir descontos em lazer . 🚀 ETAPAS DO PROCESSO SELETIVO: Papo com time de Talentos & Performance; Etapa técnica com Liderança; Etapa Cultural; Etapa com Gestão; Proposta 🎉 Localização Modelo de contratação Modelo de trabalho São Paulo, SP, BR Efetivo CLT Remoto Candidatar-se",
+      "description": "Portal do Candidato PT Informações da vaga Analista de Suporte | Médias Contas (Remoto) Candidatar-se Descrição da vaga 🟡 CONHEÇA A PONTOTEL Somos uma plataforma de ponto que começa com P de Pessoas, porque são elas que nos motivam a criar o futuro do trabalho. Nossa missão é transformar a relação das organizações com o tempo, oferecendo uma gestão de frequência centrada nas pessoas. Aqui, o ponto deixa de ser uma burocracia e se torna uma ferramenta de confiança, planejamento e bem-estar. Por isso, buscamos continuamente novas formas de facilitar a rotina dos times de RH, líderes e profissionais responsáveis pelo controle de jornada, entregando não apenas tecnologia, mas soluções que realmente fazem a diferença. 🟡 NOSSA CULTURA Acreditamos que pessoas satisfeitas, motivadas e produtivas são o ponto de partida para qualquer grande realização. Por isso, valorizamos a flexibilidade, a autonomia e a diversidade, promovendo um ambiente inclusivo, onde todos são bem-vindos e incentivados a serem quem realmente são. Nossos valores se complementam e guiam cada passo da nossa jornada. Com foco no impacto , priorizamos o que realmente importa com objetividade e senso crítico, enquanto incentivamos o protagonismo individual, onde com motivação, resiliência e aprendizado contínuo, você constrói a cadeira que quer sentar . Aqui o compromisso é nosso ponto de encontro , acreditamos na força da colaboração, do apoio mútuo e da liderança pelo exemplo. Movidos pela engenhosidade que transforma , buscamos soluções criativas e simples, mesmo diante dos desafios e colocamos as pessoas no centro , com empatia, leveza e transparência em cada interação, sempre sustentados pela ética e pela responsabilidade que garantem a segurança para construir o futuro do trabalho, ponto a ponto. Esperamos que todos os nossos colaboradores sigam os valores da nossa cultura, assim como a Pontotel os pratica em seu dia a dia, respeitando integralmente a legislação aplicável. Para nós, a segurança da informação e a privacidade de dados são pilares fundamentais na construção do futuro do trabalho. Impacto · Protagonismo · Compromisso · Engenhosidade · Pessoas • Segurança 💼 SOBRE A VAGA: Aqui, você terá a oportunidade de crescer e contribuir para a construção de um ambiente colaborativo, descontraído e desafiador. Valorizamos a troca de ideias e o trabalho em equipe, onde cada voz é ouvida e respeitada. Nosso foco é ir além do óbvio, desafiando constantemente o status quo e incentivando a busca por soluções inovadoras. Se você está em busca de um lugar onde suas ideias realmente importam e você pode impactar o futuro, venha fazer parte do nosso time! 🚀 RESPONSABILIDADES E ATRIBUIÇÕES Buscamos alguém para prestar suporte técnico diário aos clientes do segmento de Médias Contas, conduzindo cada solicitação desde o recebimento até a resolução ou o encaminhamento conclusivo. O escopo inclui compreender e classificar as demandas, investigar dúvidas e problemas, realizar parametrizações dentro dos procedimentos definidos e abrir e acompanhar cards técnicos junto às áreas responsáveis, mantendo o cliente informado durante todo o processo e validando se a solução atendeu à solicitação. Atender solicitações de suporte por e-mail e mensageria, participando de reuniões quando necessário para compreender ou tratar uma demanda; Identificar a necessidade do cliente, reunir o contexto necessário e classificar e priorizar as solicitações conforme impacto e urgência; Investigar dúvidas e problemas relacionados ao sistema, analisando informações e evidências fornecidas pelo cliente e diferenciando dúvidas de uso, necessidades de parametrização e possíveis falhas técnicas; Reproduzir cenários e realizar testes quando necessário, orientando o cliente com clareza sobre o procedimento ou a solução; Realizar parametrizações autorizadas dentro do escopo de atendimento, solicitando as validações necessárias antes de aplicar mudanças e conferindo o resultado após a execução; Abrir cards técnicos com descrição clara da demanda, evidências e passos para reprodução, acompanhando sua evolução junto às áreas responsáveis até obter uma solução; Validar a solução disponibilizada antes de retornar ao cliente e confirmar se a solicitação foi atendida; Manter o cliente informado sobre o andamento, os próximos passos e eventuais prazos ou dependências, com transparência; Acionar Suporte, Produto, Engenharia, Implantação ou outras áreas conforme a natureza da demanda, encaminhando informações completas para evitar retrabalho; Registrar solicitações, análises, orientações, parametrizações e resultados no CRM ou na ferramenta de suporte utilizada pela equipe; Identificar dúvidas e problemas recorrentes no atendimento e compartilhar os padrões observados para apoiar melhorias nos processos, no produto e nos materiais de orientação. REQUISITOS E QUALIFICAÇÕES Ensino superior completo ou em andamento em Análise e Desenvolvimento de Sistemas, Sistemas de Informação, Ciência da Computação, Engenharia de Software, Gestão de Tecnologia da Informação ou áreas correlatas (também são consideradas outras áreas, desde que acompanhadas de experiência relevante em suporte a sistemas ou atendimento técnico); Experiência em atendimento ou suporte ao cliente, preferencialmente relacionado a sistemas ou softwares; Capacidade de investigar dúvidas e problemas e organizar as informações necessárias para análise; Boa comunicação oral e escrita; Organização para acompanhar solicitações, prazos e retornos; Conhecimento de ferramentas de atendimento, CRM ou gestão de chamados; Conhecimento básico ou intermediário de planilhas; Facilidade para aprender sistemas, processos e configurações; Perfil colaborativo, atenção aos detalhes e orientação à resolução de demandas. DIFERENCIAIS Experiência em suporte a clientes B2B ou em empresas SaaS; Conhecimento de sistemas de controle de ponto, gestão de jornadas, folha de pagamento ou soluções de RH; Familiaridade com parametrizações de regras de cálculo, escalas, banco de horas ou fechamento de ponto; Conhecimento de integrações entre sistemas, APIs, logs ou consultas básicas a bancos de dados; Vivência com abertura e acompanhamento de cards técnicos; Conhecimento da Portaria 671 e de processos relacionados ao controle de jornada. BENEFÍCIOS E DIFERENCIAIS Aqui na Pontotel, você tem a liberdade do trabalho remoto e a flexibilidade de horário – dentro do horário comercial, além de uma série de benefícios focados em melhorar sua qualidade de vida. 🍔 Vale Refeição – Cartão Caju; 💻 Auxílio Home Office – Cartão Caju; 👨🏻‍💻 Equipamentos fornecidos pela empresa; 🏥 Plano de Saúde e Odontológico – Unimed Nacional; 🧘‍♀️ Pacote de Saúde Física e Mental – Wellhub, Psicologia Viva e Conexa Saúde; 🚀 Plano de Carreira em formato de Y; 🛡️ Seguro de Vida; 👶 Auxílio Creche ou Babá; 👨‍👩‍👧‍👦 Licença maternidade e paternidade estendida; 🤱Cesta Natalidade para novas mamães e papais; 🐾 Plano de Saúde pro seu pet; 🥳 Dia de folga no mês do seu aniversário; 🎟️ Bilheteria.com - Convênio para garantir descontos em lazer . 🚀 ETAPAS DO PROCESSO SELETIVO: Papo com time de Talentos & Performance; Etapa técnica com Liderança; Etapa Cultural; Etapa com Gestão; Proposta 🎉 Localização Modelo de contratação Modelo de trabalho São Paulo, SP, BR Efetivo CLT Remoto Candidatar-se",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1141,7 +1142,7 @@
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
-      "description_length": 7311
+      "description_length": 7313
     },
     {
       "id": "",
@@ -1224,7 +1225,7 @@
       "enrichment_attempts": 1,
       "enrichment_status": "error",
       "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 410: Gone",
+      "enrichment_error": "HTTPError: HTTP Error 404: Not Found",
       "description_length": 0
     },
     {
@@ -1527,7 +1528,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "[Suporte] Analista de Suporte Técnico Júnior - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto) - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Júnior - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto) [Suporte] Analista de Suporte Técnico Júnior - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto) TOTVS | São Paulo - SP | Remoto Vaga afirmativa PcD Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS. Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte; Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço; Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço; Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros; Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação; Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes; Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas; Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área; Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias; Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área; Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Apontar diariamente as ordens de serviço nos projetos em que atuou; Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento. Área: Tecnologia da Informação / Sistema Protheus Foco: Backoffice (Materiais, Custos, Faturamento) e Desenvolvimento ADVPL Conhecimentos específicos: Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais Conhecimento intermediário ou avançado em Controladoria. Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. Domínio das regras de negócio de acordo com a área de atuação; Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas. Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h) Certificação Desejável: Nos módulos/produtos de atuação e em Metodologia ITIL, Scrum, Kanban etc. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Júnior - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto) TOTVS | São Paulo - SP | Remoto Vaga afirmativa PcD Descrição da vaga Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS. Responsabilidades e atribuições Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte; Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço; Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço; Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros; Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação; Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes; Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas; Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área; Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias; Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área; Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Apontar diariamente as ordens de serviço nos projetos em que atuou; Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento. Requisitos e qualificações Área: Tecnologia da Informação / Sistema Protheus Foco: Backoffice (Materiais, Custos, Faturamento) e Desenvolvimento ADVPL Conhecimentos específicos: Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais Conhecimento intermediário ou avançado em Controladoria. Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. Domínio das regras de negócio de acordo com a área de atuação; Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas. Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h) Requisitos desejáveis Certificação Desejável: Nos módulos/produtos de atuação e em Metodologia ITIL, Scrum, Kanban etc. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -1537,7 +1538,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 77,
       "fit_points": 77,
@@ -1639,6 +1640,120 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 3456
+    },
+    {
+      "id": "",
+      "title": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)",
+      "company": "Wise",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000156538110-customer-support-specialist-spanish-speaker-nightime-1-am-shift",
+      "source": "smartrecruiters_brazil",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-20T12:06:39+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Full-time"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-10-20T09:06:39-03:00",
+      "coverage": 45,
+      "observed_fit": 80,
+      "fit_points": 36,
+      "covered_points": 45,
+      "score_method": "observed_evidence_v3",
+      "score": 77,
+      "reasons": [
+        "função: 22/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 80% com ajuste de incerteza",
+        "cobertura da análise: 45%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Customer Support Specialist (Portuguese speaking)",
+      "company": "Best Service Team",
+      "url": "https://jobs.workable.com/view/tPQKf77jiUMimDThKA6ZBm/remote-customer-support-specialist-(portuguese-speaking)-in-brazil-at-best-service-team",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasil",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-09T10:00:10+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Full-time"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-10-09T07:00:10-03:00",
+      "coverage": 45,
+      "observed_fit": 80,
+      "fit_points": 36,
+      "covered_points": 45,
+      "score_method": "observed_evidence_v3",
+      "score": 77,
+      "reasons": [
+        "função: 22/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 80% com ajuste de incerteza",
+        "cobertura da análise: 45%"
+      ]
+    },
+    {
+      "id": "",
+      "title": "Customer Support Specialist - Driver Communications",
+      "company": "Scalesource",
+      "url": "https://jobs.workable.com/view/ooHGumtkbVgiz6n4ga6Wiz/remote-customer-support-specialist---driver-communications-in-brazil-at-scalesource",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasil",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-08-31T18:34:12+00:00",
+      "description": "",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Full-time"
+      ],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-08-31T15:34:12-03:00",
+      "coverage": 45,
+      "observed_fit": 80,
+      "fit_points": 36,
+      "covered_points": 45,
+      "score_method": "observed_evidence_v3",
+      "score": 77,
+      "reasons": [
+        "função: 22/30",
+        "competências técnicas sem dados suficientes — não penalizadas",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 80% com ajuste de incerteza",
+        "cobertura da análise: 45%"
+      ]
     },
     {
       "id": "",
@@ -1999,44 +2114,6 @@
     },
     {
       "id": "",
-      "title": "(English C1) Customer Support Consultant (LATAM, remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/kfhxZWjMSRz4Z3z8TZ8zqT/(english-c1)-customer-support-consultant-(latam%2C-remote)-in-s%C3%A3o-paulo-at-supportyourapp",
-      "source": "workable_brazil",
-      "work_model": "remote",
-      "city": "São Paulo",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-20T18:58:23+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "Contract"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-20T15:58:23-03:00",
-      "coverage": 35,
-      "observed_fit": 77,
-      "fit_points": 27,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 76,
-      "reasons": [
-        "função: 22/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 77% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ]
-    },
-    {
-      "id": "",
       "title": "E-commerce Customer Support Agent (Shopify/DTC)",
       "company": "KittySpout",
       "url": "https://jobs.workable.com/view/xcYpjGRuxnA2F6pXbXBV6Q/remote-e-commerce-customer-support-agent-(shopify%2Fdtc)-in-rio-at-kittyspout",
@@ -2113,6 +2190,47 @@
     },
     {
       "id": "",
+      "title": "Analista de Suporte Cloud N2 – Sênior",
+      "company": "act digital",
+      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-cloud-n2-senior-100029.php",
+      "source": "nerdin",
+      "work_model": "remote",
+      "city": "Home Office",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T13:10:09-04:00",
+      "description": "🌍 Inglês avançado/fluente (obrigatório) 💼 Nível: Sênior ☁️ Cloud: Azure 🔎 O que esperamos desse profissional? • Experiência com suporte N2 em ambientes Cloud • Conhecimento em Azure e administração de ambientes • Capacidade de realizar troubleshooting inicial de aplicações • Experiência com monitoramento além do Azure Monitor • Conhecimento para diferenciar e analisar métricas de infraestrutura e aplicação • Experiência com ambientes Windows e/ou Linux • Vivência com gestão de incidentes, problemas e tickets • Conhecimento em vulnerabilidades, patches e compliance • Algum contato com DevOps e processos de CI/CD • Capacidade de análise de logs, métricas e alertas • Boa comunicação para interação com times técnicos e stakeholders • Disponibilidade para atuação em sobreaviso/on-call, quando necessário ⭐ Diferenciais: • Experiência com ferramentas como Grafana, Datadog, New Relic, App Insights ou similares • Conhecimento em automação e práticas DevOps • Vivência com ambientes de alta criticidade",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-10-23T14:10:09-03:00",
+      "coverage": 85,
+      "observed_fit": 75,
+      "fit_points": 64,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 75,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 20/40 (N2/L2, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "fit observado: 75% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 1006
+    },
+    {
+      "id": "",
       "title": "Solutions Support Engineer, São Paulo (SP), Brazil",
       "company": "Wiz, Inc.",
       "url": "https://www.wiz.io/careers/job/4710117006/:title?gh_jid=4710117006",
@@ -2163,7 +2281,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "[Suporte] Analista de Suporte Técnico Jr- Protheus (NOTURNA REMOTA) - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Jr- Protheus (NOTURNA REMOTA) [Suporte] Analista de Suporte Técnico Jr- Protheus (NOTURNA REMOTA) TOTVS | Remoto Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS. Faixa salarial A combinar Regime de contratação CLT Benefícios Saúde & Bem-Estar: Plano médico e odontológico; Atendimento médico online 24/7; 1 dia off por ano (Reset Day); Parceria com academias e apps de saúde (Wellhub); Programa de apoio psicológico, financeiro e jurídico. Alimentação e Mobilidade: Vale-refeição e alimentação; Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda); Bicicletário e vestiário no escritório de SP. Desenvolvimento e capacitação contínua: Programas e trilhas internas de aprendizagem; Universidade Corporativa; Ciclos de avaliação de desenvolvimento e performance. Família: Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub); Parceria com plano de saúde pet; Licença parental expandida; Auxílio creche mensal; Programa interno de orientação e grupos de apoio; Seguro de vida e apoio à família. Finanças: Participação nos Lucros e Resultados (PLR); Previdência privada TOTVS; Taxas diferenciadas em empréstimo e financiamento (Itaú); Descontos exclusivos em empresas parceiras. Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade. O QUE VOCÊ VAI FAZER: Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte; Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço; Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço; Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros; Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação; Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes; Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas; Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área; Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias; Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área; Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Apontar diariamente as ordens de serviço nos projetos em que atuou; Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento. O QUE ESPERAMOS DE VOCÊ: Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais Conhecimento intermediário ou avançado em Controladoria. Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. Domínio das regras de negócio de acordo com a área de atuação; Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas. Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h) SERIA LEGAL SE TIVESSE: Certificação Desejável: Nos módulos/produtos de atuação e em Metodologia ITIL, Scrum, Kanban etc. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Jr- Protheus (NOTURNA REMOTA) TOTVS | Remoto Descrição da vaga Prestar serviços de sustentação aos nossos clientes, provendo soluções com empatia e pro atividade segundo nossa metodologia de processos. Garantir a satisfação dos clientes com os produtos e serviços TOTVS. Responsabilidades e atribuições O QUE VOCÊ VAI FAZER: Realizar atividades de alta complexidade em quaisquer etapas da prestação do serviço de Suporte; Conduzir tecnicamente os serviços de sustentação. Garantir a viabilidade técnica da solução e identificar os riscos durante a execução do serviço; Conduzir tecnicamente os atendimentos em que atua, garantindo a viabilidade técnica da solução e identificando os riscos durante a execução do serviço; Multiplicar o conhecimento técnico necessário para os demais Assistentes/Técnicos e Analistas da equipe em reuniões, treinamentos, capacitações e outros; Analisar e identificar problemas (tickets, projeto, produto, processo, capacitação etc.) de maior complexidade e direcionar plano de ação para as áreas responsáveis e/ou para sua Coordenação; Realizar o atendimento aos clientes por meio dos canais TOTVS, esclarecendo dúvidas sobre assuntos de alta complexidade referentes ao sistema. Registrar sugestões e incidentes; Prestar o atendimento por meio de canais de abertura de tickets, de acordo com o processo definido procurando sanar questões e cumprir metas estabelecidas; Registrar a solicitação do cliente no sistema, com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros), quanto para o resultado e as metas da área; Diagnosticar as necessidades da área para identificar e sugerir melhorias e/ou inovações nos processos/metodologias; Analisar as necessidades do cliente para identificar oportunidades e oferecer novos serviços da área; Participar de comunidades, fóruns técnicos e canais de comunicação do segmento. Acompanhar as documentações e apoiar nos retornos e soluções para clientes internos e externos; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Apontar diariamente as ordens de serviço nos projetos em que atuou; Registrar todas as interações realizadas durante o atendimento das demandas em sistemas de chamado, e-mails, documentações específicas e demais canais utilizados no atendimento. Requisitos e qualificações O QUE ESPERAMOS DE VOCÊ: Prestar suporte técnico de nível avançado aos usuários dos módulos de Backoffice, Materiais Conhecimento intermediário ou avançado em Controladoria. Conhecimento intermediário ou avançado em lógica de programação, ADVPL e instruções de SQL. Domínio das regras de negócio de acordo com a área de atuação; Mapear processos de negócio e propor melhorias tecnológicas para redução de chamados e automação de tarefas. Documentar processos técnicos e apoiar na mentoria de analistas de níveis inferiores Disponibilidade para atuar em horário NOTURNO, de segunda a sexta (20h até as 06h) Requisitos desejáveis SERIA LEGAL SE TIVESSE: Certificação Desejável: Nos módulos/produtos de atuação e em Metodologia ITIL, Scrum, Kanban etc. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Saúde & Bem-Estar: Plano médico e odontológico; Atendimento médico online 24/7; 1 dia off por ano (Reset Day); Parceria com academias e apps de saúde (Wellhub); Programa de apoio psicológico, financeiro e jurídico. Alimentação e Mobilidade: Vale-refeição e alimentação; Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda); Bicicletário e vestiário no escritório de SP. Desenvolvimento e capacitação contínua: Programas e trilhas internas de aprendizagem; Universidade Corporativa; Ciclos de avaliação de desenvolvimento e performance. Família: Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub); Parceria com plano de saúde pet; Licença parental expandida; Auxílio creche mensal; Programa interno de orientação e grupos de apoio; Seguro de vida e apoio à família. Finanças: Participação nos Lucros e Resultados (PLR); Previdência privada TOTVS; Taxas diferenciadas em empréstimo e financiamento (Itaú); Descontos exclusivos em empresas parceiras. Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -2173,7 +2291,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 73,
       "fit_points": 73,
@@ -2196,6 +2314,49 @@
     },
     {
       "id": "",
+      "title": "(Fluent English) L2 Technical Support Consultant (LATAM, Global)",
+      "company": "SupportYourApp",
+      "url": "https://jobs.workable.com/view/oXxGKBvX6kJvSSefwXTQke/remote-(fluent-english)-l2-technical-support-consultant-(latam%2C-global)-in-bras%C3%ADlia-at-supportyourapp",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasília",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T15:14:45+00:00",
+      "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a L2 Technical Support Consultant today and thrive in a multicultural and multilingual environment while enjoying your home office. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes. What you will do: Deliver outstanding technical support via emails, phone calls and chats; Take ownership of technical issues reported by customers and triage them as needed; Analyze and resolve customer inquiries containing technical issues or feedback; Follow procedures for proper escalation to relevant internal teams and key stakeholders; Maintain accurate records of failures, maintenance activities, and bugs; Contribute to and maintain the company’s support knowledge base and related documentation; Ensure compliance with the company’s Service Level Agreements (SLAs); What you need to succeed in this role: Excellent English communication skills (C1 for both spoken and written); At least 1–2 years of proven experience in a Technical Support Engineer, Systems Administrator, or Advanced Support Specialist role; Hands-on experience with Windows and Linux operating systems, with a strict emphasis on command-line interface (CLI) and terminal-based management; Hands-on experience in diagnosing, troubleshooting, and resolving hardware-related issues in technical environments; Solid understanding of hardware and software interactions, including how system components work together to ensure functionality and performance; Experience navigating and analyzing system logs, extracting relevant information, and interpreting data to identify and diagnose technical issues; Strong troubleshooting and analytical skills, with the ability to investigate complex technical issues, adapt to changing situations, and identify effective solutions; Customer-oriented and responsible attitude; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload); Will be a great plus: Experience with UAV/UAS systems, flight controllers, or embedded hardware; Hands-on experience with network-related architecture and cloud-based systems; Experience with and understanding of firewalls and port configuration; Experience with remote hardware debugging and low-level system diagnostic tools. Benefits: Flexible schedule; Opportunity to cooperate fully remotely; Inclusive international environment; Compensation in USD; Rewards for referring friends; Balance between project workload and personal time, but also – internal health policy; Responsive leadership interested in your development and long-lasting cooperation; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements; *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Support Specialist who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1300+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice. Internal code: 4E3",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Contract"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-23T12:14:45-03:00",
+      "coverage": 90,
+      "observed_fit": 73,
+      "fit_points": 66,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 73,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 20/40 (N2/L2, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 73% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 4352
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte Financeiro Júnior - FinOps | RD Station (Remoto)",
       "company": "TOTVS",
       "url": "https://atracaodetalentos.totvs.app/vempratotvs/12279/analista-de-suporte-financeiro-junior-finops-rd-station-remoto",
@@ -2205,7 +2366,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "Analista de Suporte Financeiro Júnior - FinOps | RD Station (Remoto) - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas Analista de Suporte Financeiro Júnior - FinOps | RD Station (Remoto) Analista de Suporte Financeiro Júnior - FinOps | RD Station (Remoto) TOTVS | Remoto Fornecer suporte ao time interno e aos nossos clientes com um atendimento rápido, eficiente e empático sobre pedidos que envolvam o ciclo financeiro da vida do cliente, Além de atuar como agente ativo na resolução de problemas, identificação de melhorias operacionais, garantindo crescimento escalável à empresa. Faixa salarial A combinar Regime de contratação CLT Benefícios 🧘🏾‍♀️ Buscamos o bem-estar integral de cada pessoa colaboradora, por meio de ações e benefícios que viabilizam recursos de autocuidado por meio de 5 pilares: 🧠 Emocional 📊 Financeiro 🏋🏻‍♂️ Físico 💻 Ocupacional 🎉 Social Descubra neste link como os nossos benefícios apoiam sua jornada de crescimento e bem-estar. Atendimento: Gerenciar e resolver chamados de escopo financeiro (via ticket/e-mail, chat online e eventualmente telefone), mantendo o padrão de excelência e alinhamento com a cultura da RD e TOTVS; Eficiência: Como tempo de Primeira Resposta > 4 horas úteis, Tempo Total de Resolução > 20 horas úteis. Produtividade média diária de acordo com a volumetria da área; Qualidade e Satisfação: CSAT > 97%; Execução operacional: Acompanhar rotinas de faturamento, conciliação, dúvidas contábeis e gestão do sistema de Billing; Evolução de Processos: Proatividade no levantamento de causas-raiz de chamados e contribuição em iniciativas do time para redução de atrito no ciclo financeiro do cliente; Visão crítica e feedback contínuo: Identificar bugs, falhas operacionais e padrões de dúvidas para conectar com os times técnicos, de produto e de operações financeiras com feedbacks estruturados que gerem melhorias contínuas; Integração cross-functional: Colaborar ativamente com áreas parceiras (Vendas, Customer Success, etc). Experiência com atendimento ao cliente. Experiência com rotinas financeiras (emissão de faturas, gestão dos serviços contratados,faturamnto, etc). Conhecimento Técnico: - Conhecimento intermediário em Google Sheets e Google Docs; - Conhecimento em Salesforce é um diferencial; - Excelência em redação. Conhecimento em inglês e espanhol; Desejável graduação (ou em formação) em administração, ciências econômicas, ciências contábeis e áreas afins; Conhecimento em ERP Protheus é um diferencial. Quer fazer parte de um time que cria oportunidades e potencializa a evolução?Como alcançamos tudo isso?Através de um time de mais de 12 mil pessoas que, juntas, oferecem soluções, produtos e educam o mercado. Formamos um ecossistema que se estende por todo o país e que ultrapassa fronteiras, integrando e conectando negócios. Sabemos que o crescimento acontece de gente para gente, e é isso que nos move.Nosso jeito de ser:💡 Potencializamos a evolução: Transformamos ideias em realidade em uma empresa dinâmica e inovadora. Fazer parte deste time, significa aprender, criar e evoluir. 🧘🏼‍♀️ Bem-Estar Integral : Buscamos o bem-estar integral de cada pessoa colaboradora, por meio de ações e benefícios que viabilizam recursos de autocuidado através de 5 pilares: Emocional, Financeiro, Físico, Ocupacional e Social. Pluralidade : A diversidade faz parte de quem a gente é. Reconhecidos entre as Melhores Empresas para Trabalhar no Brasil, promovemos a inclusão e o pertencimento de forma ativa. Nossa expertise é humana e viva, e através dela, acolhemos e empoderamos pessoas dentro e fora da empresa. Ver página da empresa Enviar candidatura Analista de Suporte Financeiro Júnior - FinOps | RD Station (Remoto) TOTVS | Remoto Descrição da vaga Fornecer suporte ao time interno e aos nossos clientes com um atendimento rápido, eficiente e empático sobre pedidos que envolvam o ciclo financeiro da vida do cliente, Além de atuar como agente ativo na resolução de problemas, identificação de melhorias operacionais, garantindo crescimento escalável à empresa. Responsabilidades e atribuições Atendimento: Gerenciar e resolver chamados de escopo financeiro (via ticket/e-mail, chat online e eventualmente telefone), mantendo o padrão de excelência e alinhamento com a cultura da RD e TOTVS; Eficiência: Como tempo de Primeira Resposta > 4 horas úteis, Tempo Total de Resolução > 20 horas úteis. Produtividade média diária de acordo com a volumetria da área; Qualidade e Satisfação: CSAT > 97%; Execução operacional: Acompanhar rotinas de faturamento, conciliação, dúvidas contábeis e gestão do sistema de Billing; Evolução de Processos: Proatividade no levantamento de causas-raiz de chamados e contribuição em iniciativas do time para redução de atrito no ciclo financeiro do cliente; Visão crítica e feedback contínuo: Identificar bugs, falhas operacionais e padrões de dúvidas para conectar com os times técnicos, de produto e de operações financeiras com feedbacks estruturados que gerem melhorias contínuas; Integração cross-functional: Colaborar ativamente com áreas parceiras (Vendas, Customer Success, etc). Requisitos e qualificações Experiência com atendimento ao cliente. Experiência com rotinas financeiras (emissão de faturas, gestão dos serviços contratados,faturamnto, etc). Conhecimento Técnico: - Conhecimento intermediário em Google Sheets e Google Docs; - Conhecimento em Salesforce é um diferencial; - Excelência em redação. Requisitos desejáveis Conhecimento em inglês e espanhol; Desejável graduação (ou em formação) em administração, ciências econômicas, ciências contábeis e áreas afins; Conhecimento em ERP Protheus é um diferencial. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios 🧘🏾‍♀️ Buscamos o bem-estar integral de cada pessoa colaboradora, por meio de ações e benefícios que viabilizam recursos de autocuidado por meio de 5 pilares: 🧠 Emocional 📊 Financeiro 🏋🏻‍♂️ Físico 💻 Ocupacional 🎉 Social Descubra neste link como os nossos benefícios apoiam sua jornada de crescimento e bem-estar. Sobre a empresa Quer fazer parte de um time que cria oportunidades e potencializa a evolução?Como alcançamos tudo isso?Através de um time de mais de 12 mil pessoas que, juntas, oferecem soluções, produtos e educam o mercado. Formamos um ecossistema que se estende por todo o país e que ultrapassa fronteiras, integrando e conectando negócios. Sabemos que o crescimento acontece de gente para gente, e é isso que nos move.Nosso jeito de ser:💡 Potencializamos a evolução: Transformamos ideias em realidade em uma empresa dinâmica e inovadora. Fazer parte deste time, significa aprender, criar e evoluir. 🧘🏼‍♀️ Bem-Estar Integral : Buscamos o bem-estar integral de cada pessoa colaboradora, por meio de ações e benefícios que viabilizam recursos de autocuidado através de 5 pilares: Emocional, Financeiro, Físico, Ocupacional e Social. Pluralidade : A diversidade faz parte de quem a gente é. Reconhecidos entre as Melhores Empresas para Trabalhar no Brasil, promovemos a inclusão e o pertencimento de forma ativa. Nossa expertise é humana e viva, e através dela, acolhemos e empoderamos pessoas dentro e fora da empresa. Ver página da empresa",
       "skills": [],
       "categories": [
@@ -2215,7 +2376,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 72,
       "fit_points": 72,
@@ -2235,6 +2396,48 @@
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 7257
+    },
+    {
+      "id": "",
+      "title": "Analista de Service Desk Pleno",
+      "company": "Remessa Online",
+      "url": "https://remessaonline.inhire.app/vagas/9e070144-dc62-4c2b-af48-429a06feccf1/analista-de-service-desk-pleno",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T12:54:07+00:00",
+      "description": "Sua carreira com liberdade e propósito 🌏 Na Remessa Online, não se trata apenas de transferências internacionais, criamos conexões que rompem fronteiras e transformam realidades. Somos movidos pela ousadia, respeito, colaboração, encantamento e responsabilidade. Nosso segredo? Trabalhar juntos com transparência, comprometimento e autonomia, sempre buscando a melhor solução. Estamos revolucionando o cenário financeiro global, e você pode fazer parte dessa jornada conosco! Como vai ser o seu dia a dia Atender e resolver chamados internos (Windows, macOS e Linux), com foco em SLA, resolução no primeiro contato e causa raiz; Diagnosticar e manter notebooks e desktops, incluindo upgrades, garantias, preparação de equipamentos para novos colaboradores e descarte seguro de dados nos desligamentos; Administrar identidades e acessos: Google Workspace, Slack, AWS IAM, RoboForm e Claude, incluindo onboarding, offboarding e auditorias periódicas de permissões; Administrar endpoints e segurança com ManageEngine Endpoint Central e CrowdStrike Falcon (patches, políticas, detecções e contenção de hosts); Manter o inventário e o ciclo de vida dos ativos no GLPI; Automatizar processos do Service Desk com Zapier e n8n (APIs e webhooks), explorando IA e agentes autônomos; Criar e manter documentação (base de conhecimento, FAQs, procedimentos) e contribuir com o planejamento e a priorização das demandas. O que você precisa saber para se juntar ao nosso time Experiência em Service Desk ou suporte de TI, resolvendo demandas de média e alta complexidade com autonomia; Domínio de Windows, macOS e Linux (Ubuntu/Debian), com linha de comando e scripts em Bash e PowerShell; Conhecimento sólido de hardware de notebooks e desktops; Administração do Google Workspace (Admin Console, Gmail, dispositivos e Vault); Administração de Slack, AWS IAM e gerenciador de senhas corporativo, aplicando o princípio do menor privilégio; Experiência com ManageEngine Endpoint Central, CrowdStrike Falcon e GLPI; Automação com Zapier e n8n, incluindo APIs e webhooks; Noções de redes (TCP/IP, DNS, DHCP, Wi-Fi e VPN) e segurança da informação (MFA, gestão de acessos e LGPD); Familiaridade com Microsoft Office, Miro, Kanbanize e Approveit (ou similares) e vivência com Kanban e metodologias ágeis; Comunicação clara, autonomia, senso de priorização e mentalidade de melhoria contínua. Diferenciais Agentes autônomos de IA (n8n, Claude Code, MCP); Python ou JavaScript para automações e integrações; SSO (SAML/OIDC) e provisionamento com SCIM; IAM no Google Cloud (GCP); pfSense, monitoramento e gestão de links e redes privadas; Certificações como ITIL 4, CompTIA A+, Google Workspace Administrator ou AWS Cloud Practitioner. O que oferecemos Contrato CLT – Todos os direitos garantidos. Bônus por metas – Recebimento de bônus atrelado ao cumprimento de objetivos organizacionais. Plano de Saúde Cobertura para você e seus dependentes via SulAmérica. Plano Odontológico Cobertura nacional sem coparticipação via Odontoprev VR e VA flexíveis – Créditos no Caju para usar como quiser. Auxílio Home Office – Suporte para despesas e equipamentos. Seguro de Vida Proteção e segurança para você. Auxílio Creche – Apoio para mães e pais. Auxílio a dependentes com necessidades especiais – Apoio financeiro dedicado. Licenças Estendidas – Maternidade e paternidade ampliadas para você aproveitar esse momento especial. Descontos na Remessa Online – Para viver sem fronteiras! Bem-estar e saúde – Consultas online com psicólogos e nutricionistas via Conexa Saúde e Psicologia Viva. Wellhub – Acesso a academias e serviços como mindfulness, nutrição e terapia. Apoio ao Empregado (EAP) – Suporte especializado sempre que precisar. Day Off no Aniversário – Seu dia especial merece folga! Ciclo de Desenvolvimento e Treinamentos – Desafios, capacitações e avaliação 360° para impulsionar sua carreira! Atuação Remoto : Trabalhe de onde quiser! Se preferir um escritório, temos espaço em São Paulo. Flexibilidade é o nosso lema. Diversidade e Inclusão: Construindo o Futuro! Acreditamos que a diversidade nos fortalece e nos impulsiona a ir além. Aqui, todas as pessoas são bem-vindas! Queremos um ambiente onde cada voz seja ouvida, cada experiência valorizada e cada contribuição faça a diferença. Mais do que um compromisso, essa é a nossa realidade: um lugar acolhedor, respeitoso e representativo, onde juntos construímos um futuro mais justo, inclusivo e inspirador. Descubra mais sobre a Remessa Online Saiba mais sobre nós no nosso site e acompanhe nosso time no LinkedIn . Confira também o que nossos colaboradores dizem sobre a empresa no Glassdoor Vem ser #SouRemessa e fazer parte da equipe que transforma o mundo com ousadia, colaboração e responsabilidade! 💙",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Pleno",
+      "published_at_br": "2026-10-23T09:54:07-03:00",
+      "coverage": 100,
+      "observed_fit": 72,
+      "fit_points": 72,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 72,
+      "reasons": [
+        "função: 22/30",
+        "competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade: 10/10 (senioridade pleno)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 4745
     },
     {
       "id": "",
@@ -2427,6 +2630,46 @@
     },
     {
       "id": "",
+      "title": "Senior Technical Support Engineer - Cybersecurity SaaS",
+      "company": "Intuition Machines, Inc.",
+      "url": "https://jobs.workable.com/view/6KmmwYWGk19XgJq6xzstob/remote-senior-technical-support-engineer---cybersecurity-saas-in-brazil-at-intuition-machines%2C-inc.",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasil",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T20:07:47+00:00",
+      "description": "Intuition Machines uses AI/ML to build enterprise security products. We apply our research to systems that serve hundreds of millions of people, with a team distributed around the world. You are probably familiar with our best-known product, the hCaptcha security suite. Our approach is simple: low overhead, small teams, and rapid iteration. As a Senior Technical Support Engineer, you’ll work directly with customers and engineering teams to solve complex technical problems, improve product reliability, and ensure a smooth customer experience. Your software development experience will let you dig into issues and contribute directly to product improvements. Using AI: Coding agents are indisputably useful tools. We provide access to the top 3 models, and were early adopters of evals-first development flows. Familiarity with coding using agents is part of all interviews. However, reliability and correctness are critical for us. You will need to read and understand every line of code with your name on it, and it will be reviewed by both people and machines. What you will do: Troubleshoot complex backend and frontend issues for enterprise customers. Work with Engineering, Product, and Security teams to find root causes and implement solutions. Help improve the product by debugging, prototyping, or building small automation tools. Apply web security, bot mitigation, and fraud prevention knowledge to support customers. Mentor other support engineers and enhance team processes and documentation. Build strong customer relationships through clear, proactive communication. What we are looking for: 5+ years in software engineering or technical support with strong coding experience. Proficiency in Python, JavaScript, HTML, and CSS. Experience with distributed systems, web security, and large-scale applications. Strong problem-solving skills and attention to detail. Excellent communication and collaboration skills. Familiarity with support systems, ticketing tools, or automation/scripting is a plus. Nice to have: Experience with Grafana, SQL, ClickHouse, Redash, or supporting enterprise clients. What we offer: Fully remote position with flexible working hours. An inspiring team of colleagues spread all over the world. Pleasant, modern development and deployment workflows: ship early, ship often. High impact: lots of users, happy customers, high growth, and cutting edge R&D. Flat organization, direct interaction with customer teams. We celebrate equality of opportunity and are committed to creating an inclusive environment for all team members. Join us as we transform cybersecurity, user privacy, and machine learning online! Please note that all positions require pre-employment screening, including third-party verification of work history, education, and identity, as well as a final in-person interview and identity verification step, which will be conducted in your country of residence.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [],
+      "seniority": "Sênior/Especialista",
+      "published_at_br": "2026-10-23T17:07:47-03:00",
+      "coverage": 100,
+      "observed_fit": 71,
+      "fit_points": 71,
+      "covered_points": 100,
+      "score_method": "observed_evidence_v3",
+      "score": 71,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 16/40 (SQL e banco de dados, Observabilidade e logs, B2B)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade: 9/10 (senioridade sênior/especialista)",
+        "remoto: 5/5",
+        "cobertura da análise: 100%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 2922
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte (Especialização em Redes) — Sênior",
       "company": "Valorei",
       "url": "https://vagas.valorei.tech/jobs/cmv6q1evt001pfiq5lksc78lw",
@@ -2466,86 +2709,6 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 1297
-    },
-    {
-      "id": "",
-      "title": "Manager, Solutions Support Engineering - São Paulo",
-      "company": "Wiz, Inc.",
-      "url": "https://www.wiz.io/careers/job/4709330006/:title?gh_jid=4709330006",
-      "source": "greenhouse",
-      "work_model": "remote",
-      "city": "Remote - Brazil",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-08T15:31:47-04:00",
-      "description": "Manager, Solutions Support Engineering - São Paulo | Wiz Careers Wiz Platform Solutions Pricing Resources Customers Company Sign in Under attack? Careers Manager, Solutions Support Engineering - São Paulo Remote - Brazil | Support Come join the organization that is redefining security for the AI era. As one of the fastest-growing startups ever, we enable teams to secure cloud and AI applications by connecting code, cloud, and runtime into a single shared context. Trusted by security teams all over the world, we have a proven track record of success and a culture that values world-class talent. Not to mention, we're now powered by Google , meaning we offer our customers an AI-powered platform that harnesses Google’s Threat Intelligence and Security Operations to better detect, prevent, and respond to threats across all environments, allowing for further innovation. Our Wizards from all over the globe work together to protect the infrastructure of our customers, including over 65% of the Fortune 100, who trust us to scan and secure over 230 billion files daily. We’re honored to be a leading player in a massive and growing market, and we continue to look for exceptional Wizards who are eager to make a significant impact on our team. At Wiz, you’ll have the freedom to think creatively, dream big, and use your full range of skills to contribute to our momentous growth. Come join our team and help us create secure cloud environments that allow even the best companies to move faster, all while having some fun! Location: Must be located in São Paulo, Brazil. Minimum qualifications Native Brazilian speaker with excellent command of English, both spoken and written. Must be comfortable working 10am to 7pm BRT. 1+ years of experience managing external technical support teams in a SaaS environment while serving as the hands-on, ultimate escalation anchor. 5+ years of hands-on experience deploying and maintaining AWS, Azure, or GCP infrastructure. Direct experience configuring and troubleshooting Kubernetes clusters and virtualized environments. Preferred qualifications Track record of writing scripts or building tools using AI APIs to automate operational workflows. Practical experience managing hybrid-cloud identity, security protocols, and monitoring/logging pipelines. About the job As a Solutions Support Engineer Manager, you will be a part of a global team responsible for providing an outstanding technical support experience. In this role, you will manage a technical team of highly skilled engineers and help enable them solve technical problems for customers with a mix of debugging, networking, system administration, and updating documentation. You are expected to be an AI-first leader, not only familiar with AI but actively using and building with it to scale our support offering. You will lead by example, using tools like Claude Code to build out advanced support models and internal tools. Responsibilities Manage, develop, coach and mentor a team of Technical Support Engineers, who are responsible for technical customer support experience within the Wiz product. Act as the owner for your team’s accountability and performance - partnering closely with upper management to facilitate performance reviews, performance plans, and any employee relations issues for your direct reports. Ensure successful training and onboarding of new hires. Guide the team through technical-training and additional learning and development needs. Drive projects or initiatives to improve team productivity, process or procedure. Collaborate with internal teams and customers on high-priority escalations and act as a resource to resolve escalations from team members as necessary. Identify cases that require escalation (either technically or strategically). Create, maintain, and coordinate incident management requests to product or engineering. Design and implement solutions that scale the support offering through automations. Coordinate with Customer Success Managers to address any technical issues impacting a customer's success. Create technical articles or knowledge base (e.g., edit or create news/ knowledge-based articles) that is internal or customer-facing for a better customer support experience. Be a customer advocate for timely resolution of the problems reported, understand the environment/network and impact on business. Please submit your resume in English - we can only consider applications submitted in this language. Applicants must have the legal right to work in the country where the position is based, without the need for visa sponsorship. This role does not offer visa sponsorship Wiz is an equal opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. By submitting your application, you acknowledge that Wiz will process your personal data in accordance with Wiz's Privacy Policy. Apply Now Apply Now Footer Platform Cloud & AI Security Wiz Code Wiz Cloud Wiz Defend Integrations Environments Documentation Learn Customer Stories Cloud Security Courses Blog CloudSec Academy Resources Center Cloud Threat Landscape Cloud Security Assessment Vulnerability Database Company About Wiz Join the Team Newsroom Events Contact Us Trust Center Wiz Partner Alliance LinkedIn Bluesky RSS 2026 Wiz, Inc. Status Privacy Policy Terms of Use Modern Slavery Statement Cookie Settings English (US)",
-      "skills": [],
-      "categories": [
-        "Outros"
-      ],
-      "contract_types": [],
-      "seniority": "Liderança",
-      "published_at_br": "2026-09-08T16:31:47-03:00",
-      "coverage": 100,
-      "observed_fit": 71,
-      "fit_points": 71,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 71,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 4/10 (liderança/gestão)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "html-text",
-      "enrichment_error": "",
-      "description_length": 5729
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Jr – Área Tributária",
-      "company": "Governançabrasil",
-      "url": "https://governancabrasil.gupy.io/job/eyJqb2JJZCI6MTI0MjAwMDgsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate",
-      "source": "gupy",
-      "work_model": "remote",
-      "city": "",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-03T19:37:36+00:00",
-      "description": "Descrição da vaga Quer saber mais sobre como estamos evoluindo com a gestão púbica e construindo o futuro? #vemserGovernancabrasil Responsabilidades e atribuições Analista de Suporte será responsável por realizar o suporte técnico, de forma ágil, cortês, assertivo, preventivo e inovador, garantindo a evolução do conhecimento e a satisfação dos clientes externos nos produtos do portfólio da empresa, contribuindo no relacionamento de confiança. Possui conhecimentos para solução de problemas mais simples da área. Trabalha sob supervisão direta. Efetuar registro de todos os atendimentos realizados, conforme processo da empresa, permitindo a evolução e o acompanhamento do cliente; Identificar necessidades dos clientes e repassar para a área comercial ou de relacionamento; Manter-se atualizado nas questões ligadas ao produto (negócio, legislação, tecnologia). Requisitos e qualificações Cursando superior em sistemas de informação, ciências da computação, administração, ciências contábeis e áreas afins; Conhecimento com sistemas operacionais; Conhecimento em banco de dados e redes; Conhecimento em gestão de implantação; Conhecimento na área Tributária; Conhecimento em ISS e Simples nacional; Conhecimento em Arrecadações de Tributos; Suporte ao cliente. Diferencial: Conhecimento na área Pública; Conhecimento em política de comercialização. Informações adicionais Benefícios de #SerGovernançabrasil 🍱 Cartão iFood , válido para alimentação e refeição, facilitando todas as suas refeições; Oportunidade de Carreira , pois queremos que você cresça conosco; Auxílio Educação , para impulsionar o seu desenvolvimento pessoal; 🏷️ Convênios Nacionais , para você aproveitar o Clube de Vantagens Governançabrasil; Plano de Saúde Unimed , extensivo aos dependentes, para garantir o bem-estar; Fleury , que facilita suas consultas médicas de forma online; Plano Odontológico , para garantir um sorriso saudável e cuidados contínuos; 👨‍👩‍👧‍👦 Seguro de Vida , para a sua segurança e a de sua família; 👨‍👩‍👧‍👦 Cesta natalidade , para preparar a chegada e o cuidado com você e do seu recém-nascido. Premiação por Indicação de futuros colaboradores, porque valorizamos quem nos ajuda a crescer; Bônus Anual , como reconhecimento pelo seu empenho e dedicação; 🎁 Bônus de aniversário , para você comemorar o seu grande dia; 🏋️‍♂️ Weelhub , para você cuidar da sua saúde com acesso a academias; ✈️ OnHappy , plataforma de benefícios e descontos para suas viagens; Dia do Perrengue , sua folga anual para aproveitar o dia da maneira que preferir; 🛍️ Colmeia Shop, plataforma exclusiva com descontos especiais em produtos. Auxiliamos no crescimento e desenvolvimento de nossos profissionais através do PDI e Avaliação de desempenho anual.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-09-03T16:37:36-03:00",
-      "coverage": 100,
-      "observed_fit": 71,
-      "fit_points": 71,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 71,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 15/40 (SQL e banco de dados, Pagamentos e cartões)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 2731
     },
     {
       "id": "",
@@ -2630,6 +2793,49 @@
     },
     {
       "id": "",
+      "title": "Support Engineering Coordinator (Remote/BR)",
+      "company": "Segura®",
+      "url": "https://segura.inhire.app/vagas/349ee068-3d37-4d87-84f2-a699a4bea392/support-engineering-coordinator-remote-br",
+      "source": "inhire",
+      "work_model": "remote",
+      "city": "BR",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T13:33:00+00:00",
+      "description": "We are looking for a Support Engineering Coordinator to lead our international technical support team. This role combines strong technical background in cybersecurity and infrastructure with leadership skills to manage a remote support team across multiple time zones (APAC/MENA/NA) . The ideal candidate has experience in technical leadership roles, thrives in a fast-paced SaaS support environment, and is comfortable acting as a bridge between customers, product, engineering, and operations. Responsibilities: - Lead and manage a global team of Technical Support Engineers (L2/L3), ensuring performance, operational health and career development - Organize team routines: 1:1 meetings, feedback cycles, performance tracking, coaching sessions - Monitor and manage ticket queues, ensuring prioritization, load balance and SLA compliance across time zones - Act as the coordinator for critical escalations, engaging directly with enterprise customers when needed, especially in high-impact regions (North America and Western Europe) - Collaborate with Support Operations to track key KPIs (FRT, TTR, backlog volume, escalation rate, CSAT) and generate improvement opportunities - Work with the Enablement team to guarantee efficient onboarding and accelerated technical ramp-up for new joiners - Ensure process alignment and operational excellence (escalation workflows, bug triage, documentation standards, resolution quality) Qualifications: - Bachelor’s degree in Computer Science, Information Systems, Engineering, or related technical fields - 5+ years of experience in Technical Support, SRE/NOC/Systems Engineering, including coordination or leadership duties - Strong knowledge of incident/problem management, client communication, and service operations reporting - Previous experience supervising or leading remote and multicultural technical teams - Excellent communication and interpersonal skills to manage stakeholders and distributed engineers - Fluent English (written and spoken) required - Familiarity with support platforms and tools (Service Now, Jira) Working hours: - Work schedule: nighttime, 22pm to 6am. Nice to Have: - Experience with cybersecurity, network security or identity platforms (IAM, PAM, MFA, SSO) - Experience working in fast-paced B2B and vendors environments",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-23T10:33:00-03:00",
+      "coverage": 90,
+      "observed_fit": 70,
+      "fit_points": 63,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 70,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 17/40 (N2/L2, Incidentes/RCA/ITIL, B2B)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 70% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "inhire-api",
+      "enrichment_error": "",
+      "description_length": 2301
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte RPA",
       "company": "3CON | IT & Digital",
       "url": "https://trescon.gupy.io/job/eyJqb2JJZCI6MTI3MzM4MDIsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate",
@@ -2680,7 +2886,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "[Suporte] Analista de Suporte Técnico Júnior - Framework Protheus - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Júnior - Framework Protheus [Suporte] Analista de Suporte Técnico Júnior - Framework Protheus TOTVS | São Paulo - SP | Remoto Prestar o suporte técnico aos nossos clientes provendo soluções com empatia, proatividade, garantindo a satisfação dos clientes com os produtos e serviços TOTVS. Faixa salarial A combinar Regime de contratação CLT Benefícios Saúde & Bem-Estar: Plano médico e odontológico; Atendimento médico online 24/7; 1 dia off por ano (Reset Day); Parceria com academias e apps de saúde (Wellhub); Programa de apoio psicológico, financeiro e jurídico. Alimentação e Mobilidade: Vale-refeição e alimentação; Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda); Bicicletário e vestiário no escritório de SP. Desenvolvimento e capacitação contínua: Programas e trilhas internas de aprendizagem; Universidade Corporativa; Ciclos de avaliação de desenvolvimento e performance. Família: Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub); Parceria com plano de saúde pet; Licença parental expandida; Auxílio creche mensal; Programa interno de orientação e grupos de apoio; Seguro de vida e apoio à família. Finanças: Participação nos Lucros e Resultados (PLR); Previdência privada TOTVS; Taxas diferenciadas em empréstimo e financiamento (Itaú); Descontos exclusivos em empresas parceiras. Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade. Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suas dúvidas referente ao sistema, registrando sugestões e incidentes; Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com o processo definido e visando ao atendimento e às metas estabelecidas; Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quando necessário, pelo tipo de ticket ou status do atendimento; Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meio de canais de atendimento (telefônico, por e-mail, sistema); Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos, após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros) quanto para o resultado/metas da área; Alertar a coordenação e atuar em potenciais riscos ou crises em clientes; Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes; Buscar a evolução e a disseminação do conhecimento para prestar o atendimento com qualidade; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Ser referência na negociação com o cliente em situações críticas. Cursando ensino superior em Tecnologia da Informação ou afins; Conhecimento em arquitetura Totvs Protheus Lógica de programação e noções de banco de dados; Experiência em atendimento ao cliente; Vivência na área de Suporte. Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Júnior - Framework Protheus TOTVS | São Paulo - SP | Remoto Descrição da vaga Prestar o suporte técnico aos nossos clientes provendo soluções com empatia, proatividade, garantindo a satisfação dos clientes com os produtos e serviços TOTVS. Responsabilidades e atribuições Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suas dúvidas referente ao sistema, registrando sugestões e incidentes; Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com o processo definido e visando ao atendimento e às metas estabelecidas; Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos) de detalhamento necessárias para todos os impactados; Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quando necessário, pelo tipo de ticket ou status do atendimento; Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meio de canais de atendimento (telefônico, por e-mail, sistema); Posicionar a liderança sobre as solicitações ou incidentes que não forem evoluídos, após o esgotamento das possibilidades de solução dentro do tempo estimado pela Coordenação da área; Contribuir tanto para o cumprimento dos indicadores individuais (produtividade, pesquisa de satisfação e outros) quanto para o resultado/metas da área; Alertar a coordenação e atuar em potenciais riscos ou crises em clientes; Manter atualizados FAQs/banco de conhecimento com as soluções definidas e repassadas aos clientes; Buscar a evolução e a disseminação do conhecimento para prestar o atendimento com qualidade; Contribuir de forma efetiva para a melhoria dos processos, sendo referência para o time; Ser referência na negociação com o cliente em situações críticas. Requisitos e qualificações Cursando ensino superior em Tecnologia da Informação ou afins; Conhecimento em arquitetura Totvs Protheus Lógica de programação e noções de banco de dados; Experiência em atendimento ao cliente; Vivência na área de Suporte. Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Saúde & Bem-Estar: Plano médico e odontológico; Atendimento médico online 24/7; 1 dia off por ano (Reset Day); Parceria com academias e apps de saúde (Wellhub); Programa de apoio psicológico, financeiro e jurídico. Alimentação e Mobilidade: Vale-refeição e alimentação; Vale-transporte e fretado em estações do metrô de SP (Santana e Barra Funda); Bicicletário e vestiário no escritório de SP. Desenvolvimento e capacitação contínua: Programas e trilhas internas de aprendizagem; Universidade Corporativa; Ciclos de avaliação de desenvolvimento e performance. Família: Extensão de parte dos benefícios para dependentes legais (plano médico, plano odontológico e Wellhub); Parceria com plano de saúde pet; Licença parental expandida; Auxílio creche mensal; Programa interno de orientação e grupos de apoio; Seguro de vida e apoio à família. Finanças: Participação nos Lucros e Resultados (PLR); Previdência privada TOTVS; Taxas diferenciadas em empréstimo e financiamento (Itaú); Descontos exclusivos em empresas parceiras. Os benefícios podem variar de acordo com o modelo de trabalho, localidade e elegibilidade. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -2690,7 +2896,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 69,
       "fit_points": 69,
@@ -2710,46 +2916,6 @@
       "enrichment_method": "html-text",
       "enrichment_error": "",
       "description_length": 7885
-    },
-    {
-      "id": "",
-      "title": "3582: Senior Desktop Support Engineer",
-      "company": "mazzatech",
-      "url": "https://mazzatech.inhire.app/vagas/8819ece1-ab83-40b0-ba43-272fee223896/3582-senior-desktop-support-engineer",
-      "source": "inhire",
-      "work_model": "remote",
-      "city": "BR",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-17T11:48:21+00:00",
-      "description": "Será responsável por desenvolver APIs e integrações críticas utilizando IBM API Connect (APIC), atuando em ambientes cloud com AWS e mensageria via IBM MQ (MQSeries). Seu papel será essencial para garantir a confiabilidade, escalabilidade e performance de soluções que suportam operações financeiras de alta complexidade, colaborando com arquitetos e líderes técnicos para traduzir necessidades de negócio em implementações técnicas robustas. Requisitos: Graduação em Sistemas de Informação, Ciência da Computação, Engenharia de Dados ou área relacionada; Inglês Avançado/Fluente (haverá contato com cliente internacional); Experiência em desenvolvimento e integração; Forte experiência com: IBM API Connect (APIC), IBM MQ (MQSeries) e AWS; Vivência em: Arquitetura de microservices, sistemas distribuídos e Integração corporativa; Experiência no desenvolvimento e manutenção de APIs; Conhecimento em cloud e soluções SaaS. Responsabilidades: Desenvolver e manter APIs corporativas utilizando IBM APIC Projetar e implementar soluções de integração escaláveis Integrar sistemas utilizando mensageria com IBM MQ Atuar em ambientes cloud AWS Garantir performance, estabilidade e segurança das soluções Colaborar com times técnicos e stakeholders de negócio Traduzir requisitos de negócio em implementações técnicas Apoiar testes, troubleshooting e melhorias contínuas Participar de code reviews e definição de boas práticas.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-09-17T08:48:21-03:00",
-      "coverage": 100,
-      "observed_fit": 69,
-      "fit_points": 69,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 69,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 14/40 (APIs e integrações, Incidentes/RCA/ITIL)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "inhire-api",
-      "enrichment_error": "",
-      "description_length": 1421
     },
     {
       "id": "",
@@ -2916,7 +3082,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "[Suporte] Analista de Suporte Técnico Pleno | iPaaS (Remoto) - TOTVS Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas disponíveis TOTVS Instagram Glassdoor LinkedIn Vagas [Suporte] Analista de Suporte Técnico Pleno | iPaaS (Remoto) [Suporte] Analista de Suporte Técnico Pleno | iPaaS (Remoto) TOTVS | São Paulo - SP | Remoto Prestar o suporte técnico aos nossos clientes provendo soluções com empatia, próatividade, garantindo a satisfação dos clientes com os produtos e serviços TOTVS. Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. ● Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suasdúvidas sobre assuntos referentes ao sistema, registrando sugestões e incidentes;● Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com oprocesso definido e visando ao atendimento e às metas estabelecidas;● Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos)de detalhamento necessárias para todos os impactados;● Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quandonecessário, pelo tipo de ticket ou status do atendimento;● Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meiode canais de atendimento (telefônico, por e-mail, sistema);● Escalonar, para o próximo nível, as solicitações ou incidentes que não forem evoluídos,após o esgotamento das possibilidades de solução dentro do tempo estimado pelaCoordenação da área;● Contribuir tanto para o cumprimento dos indicadores individuais (produtividade,pesquisa de satisfação e outros) quanto para o resultado/metas da área;● Alertar a coordenação e atuar em potenciais riscos ou crises em clientes;● Manter atualizados FAQs/banco de conhecimento com as soluções definidas erepassadas aos clientes;● Apoiar nos processos de melhorias, detectando novas soluções, identificandoproblemas e questões relevantes;● Realização de consultorias de suporte ou técnicas aos clientes. Ensino superior na área de TecnologiaConhecimento básicos em sistemas operacionais Linux ou Windows;Conhecimento em protocolos http, https.Conhecimento básico em Json e XML. JavaScript é diferencialConhecimento em ERP's TOTVS considerado um diferencial Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa Enviar candidatura [Suporte] Analista de Suporte Técnico Pleno | iPaaS (Remoto) TOTVS | São Paulo - SP | Remoto Descrição da vaga Prestar o suporte técnico aos nossos clientes provendo soluções com empatia, próatividade, garantindo a satisfação dos clientes com os produtos e serviços TOTVS. Responsabilidades e atribuições ● Realizar o atendimento aos clientes, por meio dos canais TOTVS, esclarecendo suasdúvidas sobre assuntos referentes ao sistema, registrando sugestões e incidentes;● Prestar o atendimento, por meio de canais de abertura de tickets, de acordo com oprocesso definido e visando ao atendimento e às metas estabelecidas;● Registrar, em sistema, a solicitação do cliente com todas as evidências (tickets abertos)de detalhamento necessárias para todos os impactados;● Triar os tickets abertos pelo cliente e reclassificá-los ou categorizá-los, quandonecessário, pelo tipo de ticket ou status do atendimento;● Fornecer status das demandas em evolução, quando solicitado pelo cliente, por meiode canais de atendimento (telefônico, por e-mail, sistema);● Escalonar, para o próximo nível, as solicitações ou incidentes que não forem evoluídos,após o esgotamento das possibilidades de solução dentro do tempo estimado pelaCoordenação da área;● Contribuir tanto para o cumprimento dos indicadores individuais (produtividade,pesquisa de satisfação e outros) quanto para o resultado/metas da área;● Alertar a coordenação e atuar em potenciais riscos ou crises em clientes;● Manter atualizados FAQs/banco de conhecimento com as soluções definidas erepassadas aos clientes;● Apoiar nos processos de melhorias, detectando novas soluções, identificandoproblemas e questões relevantes;● Realização de consultorias de suporte ou técnicas aos clientes. Requisitos e qualificações Ensino superior na área de TecnologiaConhecimento básicos em sistemas operacionais Linux ou Windows;Conhecimento em protocolos http, https.Conhecimento básico em Json e XML. JavaScript é diferencialConhecimento em ERP's TOTVS considerado um diferencial Enviar candidatura Enviar candidatura Faixa salarial A combinar Regime de contratação CLT Benefícios Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada pessoa colaboradora; Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais; Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para nossas pessoas colaboradoras; Programa + Cuidado, programa de apoio pessoal para pessoas colaboradoras e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria... Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito; Plano de saúde e odontológico; Vale refeição e / ou alimentação; Vale transporte e fretados em algumas estações do metrô; Licença maternidade e paternidade estendida; Espaço de lactário; Bicicletário; Vestiário; Seguro de vida; Auxílio creche; Previdência privada; Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar; Gympass. Sobre a empresa Como empresa líder em tecnologia somos um universo de pessoas inconformadas, movidas por inovação, autonomia, aprendizado e performance. Juntos e juntas, criamos oportunidades, transformamos futuros e compartilhamos conhecimento. Aqui o seu desenvolvimento profissional acontece em um ambiente inclusivo, respeitoso e energizante. De gente pra gente! Buscamos o crescimento sustentável. E usamos dados e IA para impulsionar resultados mais inteligentes e eficientes para os nossos clientes. Vem com a gente inovar e construir o futuro da tecnologia. #VemPraTOTVS #SomosTOTVS Ver página da empresa",
       "skills": [],
       "categories": [
@@ -2926,7 +3092,7 @@
         "CLT"
       ],
       "seniority": "Pleno",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 66,
       "fit_points": 66,
@@ -2991,6 +3157,47 @@
     },
     {
       "id": "",
+      "title": "Manager, Solutions Support Engineering - São Paulo",
+      "company": "Wiz, Inc.",
+      "url": "https://www.wiz.io/careers/job/4709330006/:title?gh_jid=4709330006",
+      "source": "greenhouse",
+      "work_model": "remote",
+      "city": "Remote - Brazil",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-09-08T15:31:47-04:00",
+      "description": "We couldn't find the role you're looking for at Wiz. Check back often as new positions open up frequently. | Wiz Careers Wiz Platform Solutions Pricing Resources Customers Company Sign in Under attack? Get a demo We couldn't find the role you're looking for... Unfortunately, the role you're searching for is either unavailable or no longer exists. We encourage you to revisit frequently, as we regularly update with new positions. Check out other open positions Footer Platform Cloud & AI Security Wiz Code Wiz Cloud Wiz Defend Integrations Environments Documentation Learn Customer Stories Cloud Security Courses Blog CloudSec Academy Resources Center Cloud Threat Landscape Cloud Security Assessment Vulnerability Database Company About Wiz Join the Team Newsroom Events Contact Us Trust Center Wiz Partner Alliance LinkedIn Bluesky RSS 2026 Wiz, Inc. Status Privacy Policy Terms of Use Modern Slavery Statement Cookie Settings English (US)",
+      "skills": [],
+      "categories": [
+        "Outros"
+      ],
+      "contract_types": [],
+      "seniority": "Liderança",
+      "published_at_br": "2026-09-08T16:31:47-03:00",
+      "coverage": 85,
+      "observed_fit": 64,
+      "fit_points": 54,
+      "covered_points": 85,
+      "score_method": "observed_evidence_v3",
+      "score": 66,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 15/40 (APIs e integrações, SQL e banco de dados)",
+        "segmento sem evidência suficiente — não penalizado",
+        "senioridade: 4/10 (liderança/gestão)",
+        "remoto: 5/5",
+        "fit observado: 64% com ajuste de incerteza",
+        "cobertura da análise: 85%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 943
+    },
+    {
+      "id": "",
       "title": "Analista de Service Desk N1",
       "company": "Hunt IT",
       "url": "https://huntit.com.br/vaga/analista-de-service-desk-n1/",
@@ -3027,6 +3234,49 @@
         "-10: posição N1",
         "cobertura da análise: 35%"
       ]
+    },
+    {
+      "id": "",
+      "title": "Analista de Suporte (Remoto)",
+      "company": "Pontotel",
+      "url": "https://oportunidades.mindsight.com.br/pontotel/191",
+      "source": "pontotel",
+      "work_model": "remote",
+      "city": "São Paulo",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-23T00:00:00+00:00",
+      "description": "Portal do Candidato PT Informações da vaga Analista de Suporte (Remoto) Candidatar-se Descrição da vaga 🟡 CONHEÇA A PONTOTEL Somos uma plataforma de ponto que começa com P de Pessoas, porque são elas que nos motivam a criar o futuro do trabalho. Nossa missão é transformar a relação das organizações com o tempo, oferecendo uma gestão de frequência centrada nas pessoas. Aqui, o ponto deixa de ser uma burocracia e se torna uma ferramenta de confiança, planejamento e bem-estar. Por isso, buscamos continuamente novas formas de facilitar a rotina dos times de RH, líderes e profissionais responsáveis pelo controle de jornada, entregando não apenas tecnologia, mas soluções que realmente fazem a diferença. 🟡 NOSSA CULTURA Acreditamos que pessoas satisfeitas, motivadas e produtivas são o ponto de partida para qualquer grande realização. Por isso, valorizamos a flexibilidade, a autonomia e a diversidade, promovendo um ambiente inclusivo, onde todos são bem-vindos e incentivados a serem quem realmente são. Nossos valores se complementam e guiam cada passo da nossa jornada. Com foco no impacto , priorizamos o que realmente importa com objetividade e senso crítico, enquanto incentivamos o protagonismo individual, onde com motivação, resiliência e aprendizado contínuo, você constrói a cadeira que quer sentar . Aqui o compromisso é nosso ponto de encontro , acreditamos na força da colaboração, do apoio mútuo e da liderança pelo exemplo. Movidos pela engenhosidade que transforma , buscamos soluções criativas e simples, mesmo diante dos desafios e colocamos as pessoas no centro , com empatia, leveza e transparência em cada interação, sempre sustentados pela ética e pela responsabilidade que garantem a segurança para construir o futuro do trabalho, ponto a ponto. Impacto · Protagonismo · Compromisso · Engenhosidade · Pessoas • Segurança 💼 SOBRE A VAGA: Aqui, você terá a oportunidade de crescer e contribuir para a construção de um ambiente colaborativo, descontraído e desafiador. Valorizamos a troca de ideias e o trabalho em equipe, onde cada voz é ouvida e respeitada. Nosso foco é ir além do óbvio, desafiando constantemente o status quo e incentivando a busca por soluções inovadoras. Se você está em busca de um lugar onde suas ideias realmente importam e você pode impactar o futuro, venha fazer parte do nosso time! 🚀 RESPONSABILIDADES E ATRIBUIÇÕES Auxiliar clientes na resolução de dúvidas por meio dos nosso canais de atendimento: chat, e-mail (tickets) e Whatsapp; Conceber soluções simples, inovadoras, viáveis e adequadas para a resolução de problemas/propor soluções diferenciadas a fim de atender nossos clientes; Auxiliar na resolução e controle de chamados em conjunto com a área de desenvolvimento; Participar efetivamente no desenvolvimento da empresa, contribuindo no planejamento de projetos e melhorias. REQUISITOS E QUALIFICAÇÕES Formação superior completa ou em andamento (em áreas correlatas à tecnologia ou comunicação será um diferencial). Experiência em atendimento ao cliente; Resiliência para entender frustrações de clientes e contorná-las de forma positiva; Organização para administrar atendimentos simultâneos e demandas distintas; Ter boa fluência verbal e escrita; Bom relacionamento interpessoal; Conhecimento em Excel/Planilhas Google (desejável); BENEFÍCIOS E DIFERENCIAIS Aqui na Pontotel, você tem a liberdade do trabalho remoto e a flexibilidade de horário – dentro do horário comercial, além de uma série de benefícios focados em melhorar sua qualidade de vida. 🍔 Vale Alimentação Flexível – Cartão Caju; 💻 Auxílio Home Office – Cartão Caju; 👨🏻‍💻 Equipamentos fornecidos pela empresa; 🏥 Plano de Saúde e Odontológico – Unimed Nacional; 🧘‍♀️ Pacote de Saúde Física e Mental – Wellhub, Psicologia Viva e Conexa Saúde; 🚀 Plano de Carreira em formato de Y; 🛡️ Seguro de Vida; 👶 Auxílio Creche ou Babá; 👨‍👩‍👧‍👦 Licença maternidade e paternidade estendida; 🤱Cesta Natalidade para novas mamães e papais; 🐾 Plano de Saúde pro seu pet; 🥳 Dia de folga no mês do seu aniversário; 🎟️ Bilheteria.com - Convênio para garantir descontos em lazer. 🚀 ETAPAS DO PROCESSO SELETIVO: Papo com time de Talentos & Performance; Etapa técnica com Liderança; Etapa Cultural; Etapa com Gestão; Localização Modelo de contratação Modelo de trabalho São Paulo, SP, BR Efetivo CLT Remoto Candidatar-se",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "CLT"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-22T21:00:00-03:00",
+      "coverage": 90,
+      "observed_fit": 64,
+      "fit_points": 58,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 65,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 8/40 (Pagamentos e cartões)",
+        "segmento: 15/15 (financeiro/pagamentos)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 64% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "html-text",
+      "enrichment_error": "",
+      "description_length": 4328
     },
     {
       "id": "",
@@ -3324,7 +3574,7 @@
       "market": "BR",
       "published_date": "2026-10-19T20:20:32+00:00",
       "description": "",
-      "skills": "Benner · SQL · Wooba · Parametrização de ERP · Cytric · Lemontech · ERP · Argo · Reserve · SAP Concur · Amadeus",
+      "skills": "Benner · Wooba · Parametrização de ERP · Cytric · Lemontech · ERP · Argo · Reserve · SAP Concur · Amadeus · SQL",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
@@ -3400,7 +3650,7 @@
       "state": "",
       "country": "BR",
       "market": "BR",
-      "published_date": "2026-10-22",
+      "published_date": "2026-10-23",
       "description": "Analista de Suporte Pleno - Field Service | sal&co. | social architecture lab top of page sobre sal&co. quem somos como atuamos soluções para empresas para organizações sociais cases depoimentos colher de Sal publicações contato < Voltar para vagas Analista de Suporte Pleno - Field Service Cadastre-se Período Seg. à sexta Horário 09:00 às 18:00 Carga Horária 40h Local São Paulo Modelo de trabalho Híbrido Atividade Atender presencialmente as demandas de suporte da área destinadas ao escritório de São Paulo, oriundas dos canais oficiais de atendimento (Chat, Telefone, Service Now), Qualificando, registrando e solucionando os diversos desafios propostos; Instalar, configurar e suportar tanto soluções de mercado (Microsoft Windows/Office 365/Adobe, etc.) quanto soluções próprias;Gestão intensiva de ativos e relatórios periódicos via Service Now. Rollout de microcomputadores;Conhecimento básico em soluções e troubleshooting de redes (MS Azure, Active Directory, TCP/IP, DNS, DHCP) Gestão da manutenção de ativos(notebooks/celulares/impressoras) junto aos fabricantes e fornecedores. Requisitos Suporte remoto a computadores plataforma Windows;Graduação- Ciência da Computação, Gestão de TI e áreas correlatas;Conhecimento de MS Azure, AD, conhecimentos básicos de rede TCP/IP;Conhecimentos de hardware, MSO365, Plataforma ServiceNow, Solução de Problemas, ITIL;Inglês (Será um diferencial) Cadastre-se sobre sal&co. soluções empresas soluções organizações sociais colher de Sal contato De segunda à sexta, das 9h às 19h. BRT +55 11 97405-4537 contato@saleco.com.br sal&co. 2026 | site desenhado por effecinco bottom of page",
       "skills": [],
       "categories": [
@@ -3408,7 +3658,7 @@
       ],
       "contract_types": [],
       "seniority": "Pleno",
-      "published_at_br": "2026-10-22T12:00:00-03:00",
+      "published_at_br": "2026-10-23T12:00:00-03:00",
       "coverage": 85,
       "observed_fit": 60,
       "fit_points": 51,
@@ -3547,49 +3797,6 @@
       "id": "",
       "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/bSMMcQLAqkn1jD1WhRbsRD/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-bras%C3%ADlia-at-supportyourapp",
-      "source": "workable_brazil",
-      "work_model": "remote",
-      "city": "Brasília",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-22T16:06:34+00:00",
-      "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Consultant on a short-term basis, with the potential to continue into a long-term collaboration. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes 💛 What you will do: Provide technical support via email and chat in a professional and efficient manner; Troubleshoot product issues and guide customers through solutions step-by-step; Identify whether an issue is related to the bulb, app, connectivity, setup, or user configuration; Ask the right questions to understand and diagnose the problem; Follow troubleshooting procedures while also using good judgment when the situation isn't covered by a standard process; Document customer interactions and troubleshooting steps clearly; Escalate complex or unresolved technical issues when necessary; Provide a positive, patient, and professional customer experience; Manage multiple conversations efficiently while maintaining accuracy and quality. What you need to succeed in this role: Excellent English communication skills (at least C1 for both spoken and written); At least 1 year of experience in technical customer support role; Previous video support experience would be plus; Tech-savvy mindset; Strong troubleshooting and problem-solving skills, with the ability to investigate issues and find effective solutions; Critical thinking and strong common sense, with a practical and analytical approach to resolving customer issues; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload). Benefits: Flexible schedule; Opportunity to cooperate fully remotely; Inclusive international environment; Compensation in USD; Balance between project workload and personal time; Responsive leadership interested in your development; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Technical Support Consultant who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "Contract"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-22T13:06:34-03:00",
-      "coverage": 90,
-      "observed_fit": 58,
-      "fit_points": 52,
-      "covered_points": 90,
-      "score_method": "observed_evidence_v3",
-      "score": 60,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 58% com ajuste de incerteza",
-        "cobertura da análise: 90%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 3549
-    },
-    {
-      "id": "",
-      "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
-      "company": "SupportYourApp",
       "url": "https://jobs.workable.com/view/9SdHFHFQGau1gxZNi54vPt/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-s%C3%A3o-paulo-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
@@ -3633,53 +3840,10 @@
       "id": "",
       "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/3fFRFzjtg49d2KR68Vc6ry/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-brazil-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/dRApTgX8FHtfQhihGQV2Uu/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-s%C3%A3o-paulo-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
-      "city": "Brasil",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-20T14:01:31+00:00",
-      "description": "SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Consultant on a short-term basis, with the potential to continue into a long-term collaboration. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes 💛 What you will do: Provide technical support via email and chat in a professional and efficient manner; Troubleshoot product issues and guide customers through solutions step-by-step; Identify whether an issue is related to the bulb, app, connectivity, setup, or user configuration; Ask the right questions to understand and diagnose the problem; Follow troubleshooting procedures while also using good judgment when the situation isn't covered by a standard process; Document customer interactions and troubleshooting steps clearly; Escalate complex or unresolved technical issues when necessary; Provide a positive, patient, and professional customer experience; Manage multiple conversations efficiently while maintaining accuracy and quality. What you need to succeed in this role: Excellent English communication skills (at least C1 for both spoken and written); At least 1 year of experience in technical customer support role; Previous video support experience would be plus; Tech-savvy mindset; Strong troubleshooting and problem-solving skills, with the ability to investigate issues and find effective solutions; Critical thinking and strong common sense, with a practical and analytical approach to resolving customer issues; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload). Benefits: Flexible schedule; Opportunity to cooperate fully remotely; Inclusive international environment; Compensation in USD; Balance between project workload and personal time; Responsive leadership interested in your development; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Technical Support Consultant who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "Contract"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-20T11:01:31-03:00",
-      "coverage": 90,
-      "observed_fit": 58,
-      "fit_points": 52,
-      "covered_points": 90,
-      "score_method": "observed_evidence_v3",
-      "score": 60,
-      "reasons": [
-        "função: 30/30",
-        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
-        "segmento: 11/15 (tecnologia/SaaS)",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 58% com ajuste de incerteza",
-        "cobertura da análise: 90%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "json-ld",
-      "enrichment_error": "",
-      "description_length": 3537
-    },
-    {
-      "id": "",
-      "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/eisgZLEByBhBj7vdGSFMcK/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-rio-de-janeiro-at-supportyourapp",
-      "source": "workable_brazil",
-      "work_model": "remote",
-      "city": "Rio de Janeiro",
+      "city": "São Paulo",
       "state": "",
       "country": "BR",
       "market": "BR",
@@ -3719,10 +3883,10 @@
       "id": "",
       "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
       "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/ddYTip6TJ9VbSpcsaDVw5j/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-florian%C3%B3polis-at-supportyourapp",
+      "url": "https://jobs.workable.com/view/eisgZLEByBhBj7vdGSFMcK/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-rio-de-janeiro-at-supportyourapp",
       "source": "workable_brazil",
       "work_model": "remote",
-      "city": "Florianópolis",
+      "city": "Rio de Janeiro",
       "state": "",
       "country": "BR",
       "market": "BR",
@@ -3800,48 +3964,6 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 3549
-    },
-    {
-      "id": "",
-      "title": "Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift)",
-      "company": "Wise",
-      "url": "https://jobs.smartrecruiters.com/Wise/744000156538110-customer-support-specialist-spanish-speaker-nightime-1-am-shift",
-      "source": "smartrecruiters_brazil",
-      "work_model": "remote",
-      "city": "São Paulo",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-20T12:06:39+00:00",
-      "description": "Wise Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift) | SmartRecruiters Google Chrome Microsoft Edge Apple Safari Mozilla Firefox Customer Support Specialist (Spanish Speaker - Nightime - 1 am shift) Full-time Compensation: up to BRL 6680 - monthly Company Description Wise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer Job Description Your mission is to be the first point of contact for our customers, acting as a skilled problem solver and customer advocate. Because our Customer Support team forms a large part of the company’s public profile, all inquiries must be handled with the utmost competence, ownership, and empathy. As a Customer Support Specialist, you will handle complex issues across phone, chat, and email, delivering outstanding experiences while navigating ambiguity and upholding Wise’s mission of money without borders. You will be responsible for end-to-end case resolution, ensuring our customers feel supported every step of the way. Important Note on Location: This is a remote-first role; however, candidates are required to work onsite at our São Paulo office for 45 days to complete the initial training. During this period, the working schedule will be Monday to Friday, from 9:00 AM to 6:00 PM. Once the training is completed, the role will transition to a fully remote working model. Please note that, even though this is a remote position after the training period, candidates must either currently reside in the state of São Paulo or be willing to relocate to São Paulo. Key Responsibilities: Operational Excellence & Support High-Quality Support: Provide world-class assistance via phone, chat, and email with a focus on solving problems thoroughly the first time. Sound Judgment: Resolve customer contacts and queries with empathy and minimal escalation, using advanced product and process knowledge. Performance Excellence: Consistently meet performance targets across KPIs such as resolution rate, quality, and handling time. Clear Communication: Communicate professionally, adjusting your tone and style based on the customer’s specific context and needs. Security & Compliance: Maintain accurate records and strictly follow security and data privacy procedures across all channels. Continuous Improvement & Collaboration Knowledge Sharing: Proactively contribute to team discussions, knowledge sharing, and the continuous improvement of our processes. Ownership of Growth: Take responsibility for your own learning through performance feedback, coaching from Team Leads, and the Wise Career Map. AI Proficiency: Comfortable using prompting for AI tools (e.g., ChatGPT, Google Gemini) to enhance efficiency and problem-solving. Embody Wise Values: Act as a culture carrier, upholding Wise’s values in every daily interaction. Additional Information *Please note, only resumes provided in English will be considered* Schedule: This is a remote position open exclusively to candidates who reside in the Greater São Paulo area. The position requires flexibility, as the work schedule may include weekends and holidays. Candidates must be comfortable working an early-morning shift starting at 1:00 AM. The first 45 days will consist of initial training, which will take place from 9:00 AM to 6:00 PM. After the training period, the position will transition to a fully remote schedule, working from 01:00 AM to 09:00 AM. Base Salary: BRL 6.680 + 20% night additional payment Our Benefits: 🚀 RSU’s in a rapidly growing company 💻 Flexible working model 💪 An annual self-development budget 🩺 Health and dental allowance for you and your dependents 💝 Company-paid: Life Insurance, and an EAP program ☀️ Paid time off: 30 days vacation + 3 “Me” days + 1 volunteer day, annually 🏝️ A paid 6-week sabbatical leave after four years 👶🏼 8-weeks of paid parental leave, after a year with us and child care assistance 🚌 Transportation vouchers 🍕 Food (730 BRL per month) and meal (1,188 BRL per month) vouchers 🏋️ TotalPass access to 3,500 gyms and studios throughout Brazil For everyone, everywhere. We're people building money without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. We're proud to have a truly international team, and we celebrate our differences. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers. If you want to find out more about what it's like to work at Wise visit Wise.Jobs Keep up to date with life at Wise by following us on LinkedIn and Instagram For everyone, everywhere. We're people building money without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. We're proud to have a truly international team, and we celebrate our differences. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers. If you want to find out more about what it's like to work at Wise visit Wise.Jobs Keep up to date with life at Wise by following us on LinkedIn and Instagram For everyone, everywhere. We're people building money without borders — without judgement or prejudice, too. We believe teams are strongest when they are diverse, equitable and inclusive. We're proud to have a truly international team, and we celebrate our differences. Inclusive teams help us live our values and make sure every Wiser feels respected, empowered to contribute towards our mission and able to progress in their careers. If you want to find out more about what it's like to work at Wise visit Wise.Jobs Keep up to date with life at Wise by following us on LinkedIn and Instagram By clicking the link above or any third-party link within this posting, you are leaving this site and going to a third-party website where the third-party website's terms and privacy policy apply Job Location Google Maps requires functional cookies to be enabled I'm interested I'm interested Privacy Notice I'm interested Refer a friend share this job Share to WeChat Copy the link and open WeChat to share. Copy to clipboard Open WeChat Share to WeChat Use Scan QR Code in WeChat and click ··· to share.",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "Full-time"
-      ],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-10-20T09:06:39-03:00",
-      "coverage": 100,
-      "observed_fit": 59,
-      "fit_points": 59,
-      "covered_points": 100,
-      "score_method": "observed_evidence_v3",
-      "score": 59,
-      "reasons": [
-        "função: 22/30",
-        "competências observadas: 8/40 (Pagamentos e cartões)",
-        "segmento: 15/15 (financeiro/pagamentos)",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "cobertura da análise: 100%"
-      ],
-      "enrichment_attempts": 1,
-      "enrichment_status": "enriched",
-      "enrichment_method": "html-text",
-      "enrichment_error": "",
-      "description_length": 6752
     },
     {
       "id": "",
@@ -3948,116 +4070,6 @@
         "senioridade: 10/10 (senioridade pleno)",
         "remoto: 5/5",
         "fit observado: 53% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Bilíngue - Remoto - CLT",
-      "company": "TIVIA TI",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-bilingue-remoto-clt-99616.php",
-      "source": "nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-08T10:27:14-04:00",
-      "description": "",
-      "skills": "sistemas · analista · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Pleno",
-      "published_at_br": "2026-10-08T11:27:14-03:00",
-      "coverage": 85,
-      "observed_fit": 53,
-      "fit_points": 45,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 56,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 53% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte | Help",
-      "company": "Cappta",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-help-99079.php",
-      "source": "nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-23T14:02:36-04:00",
-      "description": "",
-      "skills": "sistemas · analista · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Pleno",
-      "published_at_br": "2026-09-23T15:02:36-03:00",
-      "coverage": 85,
-      "observed_fit": 53,
-      "fit_points": 45,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 56,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 10/10 (senioridade pleno)",
-        "remoto: 5/5",
-        "fit observado: 53% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Técnico Sênior",
-      "company": "Click Sign",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-tecnico-senior-99312.php",
-      "source": "nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-30T09:25:44-04:00",
-      "description": "",
-      "skills": "sistemas · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Sênior/Especialista",
-      "published_at_br": "2026-09-30T10:25:44-03:00",
-      "coverage": 85,
-      "observed_fit": 52,
-      "fit_points": 44,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 55,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 9/10 (senioridade sênior/especialista)",
-        "remoto: 5/5",
-        "fit observado: 52% com ajuste de incerteza",
         "cobertura da análise: 85%"
       ]
     }
