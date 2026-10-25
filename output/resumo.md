@@ -1,8 +1,8 @@
-# Vagas priorizadas — 24/10/2026 11:18 (UTC-3)
+# Vagas priorizadas — 25/10/2026 11:52 (UTC-3)
 
 Total: **100**
-Enriquecimento: **66/78** vagas com descrição ampliada
-Métodos: html-text: 17, inhire-api: 14, json-ld: 35
+Enriquecimento: **66/73** vagas com descrição ampliada
+Métodos: html-text: 16, inhire-api: 13, json-ld: 37
 
 ## 1. Analista de Suporte Pleno - N2 — Vagas Simples Dental (100%)
 - Cobertura: 100% · Fit observado: 100%
@@ -67,25 +67,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vagas.solides.com.br/vaga/935103/analista-de-suporte-n2
 
-## 8. Analista de Suporte N2 (Java e PL/SQL) — Matera (90%)
-- Cobertura: 60% · Fit observado: 100%
-- Enriquecimento: error (inhire-api)
-- Modelo/local: remote · BR
-- Fonte: inhire
-- Publicação: 2026-10-06T17:09:36-03:00
-- Motivos: função: 30/30; competências observadas: 15/15 (N2/L2, SQL e banco de dados); segmento sem evidência suficiente — não penalizado; senioridade: 10/10 (senioridade pleno); remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 60%
-- Link: https://matera.inhire.app/vagas/23bfb5a8-1e1f-405a-996f-c50a46d75109/analista-de-suporte-n2-java-e-pl-sql
-
-## 9. Node.js Analista de Sustentação Junior | Remote — Compass UOL (88%)
-- Cobertura: 100% · Fit observado: 88%
-- Enriquecimento: enriched (html-text)
-- Modelo/local: remote · não informado
-- Fonte: gupy
-- Publicação: 2026-10-23T10:47:59-03:00
-- Motivos: função: 30/30; competências observadas: 32/40 (N2/L2, APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
-- Link: https://compass.gupy.io/job/eyJqb2JJZCI6MTI3NzM3MzIsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
-
-## 10. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 8. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Manaus
@@ -94,7 +76,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/qcT4p42XzXRJQY3FaW9dDr/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-manaus-at-supportyourapp
 
-## 11. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 9. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belo Horizonte
@@ -103,7 +85,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/u4FMpZG9e2moTTagHxrx4F/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-belo-horizonte-at-supportyourapp
 
-## 12. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 10. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Ceará
@@ -112,7 +94,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/bj355F4Q818fhU6oCjcBLh/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-cear%C3%A1-at-supportyourapp
 
-## 13. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 11. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Brasília
@@ -121,7 +103,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/rYDCU7ZVFFGHzWtEkhh5Ki/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-bras%C3%ADlia-at-supportyourapp
 
-## 14. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 12. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Bahia
@@ -130,7 +112,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/9mDiD2kWherqocKWCs7aMu/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-bahia-at-supportyourapp
 
-## 15. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
+## 13. (Fluent English) Technical Support Engineer (PHP/JavaScript, SQL) — SupportYourApp (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Brasil
@@ -139,7 +121,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/hwM8P7X6DhvkpssQYrnT2h/remote-(fluent-english)-technical-support-engineer-(php%2Fjavascript%2C-sql)-in-brazil-at-supportyourapp
 
-## 16. Analista de Suporte | Clientes Críticos (Remoto) — Pontotel (88%)
+## 14. Analista de Suporte | Clientes Críticos (Remoto) — Pontotel (88%)
 - Cobertura: 90% · Fit observado: 90%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · São Paulo
@@ -148,16 +130,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 31/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões, B2B); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 90% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://oportunidades.mindsight.com.br/pontotel/188
 
-## 17. Analista de Suporte N2 Pleno (Java e MySQL) — Matera (88%)
-- Cobertura: 53% · Fit observado: 100%
-- Enriquecimento: error (inhire-api)
-- Modelo/local: remote · BR
-- Fonte: inhire
-- Publicação: 2026-10-09T15:27:53-03:00
-- Motivos: função: 30/30; competências observadas: 8/8 (N2/L2); segmento sem evidência suficiente — não penalizado; senioridade: 10/10 (senioridade pleno); remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 53%
-- Link: https://matera.inhire.app/vagas/6d4fb792-b694-450d-9c6b-959bcb61acba/analista-de-suporte-n2-pleno-java-e-mysql
-
-## 18. Analista de Suporte Técnico — Attus Procuradoria Digital (87%)
+## 15. Analista de Suporte Técnico — Attus Procuradoria Digital (87%)
 - Cobertura: 90% · Fit observado: 88%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -166,7 +139,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 29/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 88% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://attus.gupy.io/job/eyJqb2JJZCI6MTI3MDk3NDIsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
 
-## 19. ANALISTA DE SUPORTE SÊNIOR | MIDDLEWARE | BILÍNGUE ESPANHOL — ADMINISTRADOR DE REDES (86%)
+## 16. ANALISTA DE SUPORTE SÊNIOR | MIDDLEWARE | BILÍNGUE ESPANHOL — ADMINISTRADOR DE REDES (86%)
 - Cobertura: 100% · Fit observado: 86%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · não informado
@@ -175,7 +148,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vagasstefanini.gupy.io/job/eyJqb2JJZCI6MTI3MjY4NDAsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
 
-## 20. 3582: Senior Desktop Support Engineer — mazzatech (85%)
+## 17. 3582: Senior Desktop Support Engineer — mazzatech (85%)
 - Cobertura: 45% · Fit observado: 98%
 - Enriquecimento: error (inhire-api)
 - Modelo/local: remote · BR
@@ -184,16 +157,16 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; fit observado: 98% com ajuste de incerteza; cobertura da análise: 45%
 - Link: https://mazzatech.inhire.app/vagas/8819ece1-ab83-40b0-ba43-272fee223896/3582-senior-desktop-support-engineer
 
-## 21. Analista de Suporte — Saleco (84%)
+## 18. Analista de Suporte — Saleco (84%)
 - Cobertura: 35% · Fit observado: 100%
 - Enriquecimento: not_available
 - Modelo/local: remote · Brasil
 - Fonte: saleco
-- Publicação: 2026-10-23T12:00:00-03:00
+- Publicação: 2026-10-25T11:52:59.952293-03:00
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
 - Link: https://www.saleco.com.br/jobs/analista-de-suporte
 
-## 22. (English C1) Technical Support Consultant (4-Month Cooperation, fully remote) — SupportYourApp (84%)
+## 19. (English C1) Technical Support Consultant (4-Month Cooperation, fully remote) — SupportYourApp (84%)
 - Cobertura: 35% · Fit observado: 100%
 - Enriquecimento: error
 - Modelo/local: remote · Brasília
@@ -202,25 +175,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
 - Link: https://jobs.workable.com/view/bSMMcQLAqkn1jD1WhRbsRD/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-bras%C3%ADlia-at-supportyourapp
 
-## 23. (English C1) Technical Support Consultant (part-time) — SupportYourApp (84%)
-- Cobertura: 35% · Fit observado: 100%
-- Enriquecimento: error
-- Modelo/local: remote · Brasília
-- Fonte: workable_brazil
-- Publicação: 2026-10-22T07:41:24-03:00
-- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
-- Link: https://jobs.workable.com/view/8KwjMtnudyPHe1y8S4JRs1/remote-(english-c1)-technical-support-consultant-(part-time)-in-bras%C3%ADlia-at-supportyourapp
-
-## 24. ANALISTA DE SUPORTE OPERACIONAL I — TIVIT (84%)
-- Cobertura: 35% · Fit observado: 100%
-- Enriquecimento: not_available
-- Modelo/local: remote · Brasil
-- Fonte: tivit
-- Publicação: 2026-10-02T12:00:00-03:00
-- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
-- Link: https://web.tivit.com/talent/job-detail?jobid=5131
-
-## 25. [Job - 32040] Analista de Suporte Pleno (Developer L3) — CI&T (83%)
+## 20. [Job - 32040] Analista de Suporte Pleno (Developer L3) — CI&T (83%)
 - Cobertura: 100% · Fit observado: 83%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Brazil
@@ -229,7 +184,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 23/40 (N2/L2, APIs e integrações, SQL e banco de dados); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://jobs.lever.co/ciandt/ff33f4ce-5822-4b09-a334-5ea5401a91e6
 
-## 26. (Fluent English) Technical Support Consultant (remote) — SupportYourApp (83%)
+## 21. (Fluent English) Technical Support Consultant (remote) — SupportYourApp (83%)
 - Cobertura: 90% · Fit observado: 84%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Curitiba
@@ -238,7 +193,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 30/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, B2B); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 84% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/efiBiKFojfT6RkEHgi9THU/(fluent-english)-technical-support-consultant-(remote)-in-curitiba-at-supportyourapp
 
-## 27. Analista de Suporte | Médias Contas (Remoto) — Pontotel (82%)
+## 22. Analista de Suporte | Médias Contas (Remoto) — Pontotel (82%)
 - Cobertura: 90% · Fit observado: 83%
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · São Paulo
@@ -247,25 +202,7 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Motivos: função: 30/30; competências observadas: 25/40 (APIs e integrações, Observabilidade e logs, Pagamentos e cartões, B2B); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 83% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://oportunidades.mindsight.com.br/pontotel/187
 
-## 28. Analista de Suporte Jr (exclusiva PCD) - remoto — Superlógica Tecnologias (82%)
-- Cobertura: 60% · Fit observado: 87%
-- Enriquecimento: error (inhire-api)
-- Modelo/local: remote · BR
-- Fonte: inhire
-- Publicação: 2026-10-01T17:46:25-03:00
-- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento: 11/15 (tecnologia/SaaS); senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 87% com ajuste de incerteza; cobertura da análise: 60%
-- Link: https://superlogica.inhire.app/vagas/a3f8c2b6-83f0-404a-84d9-2151032348c7/analista-de-suporte-jr-exclusiva-pcd-remoto
-
-## 29. Analista de Suporte Jr (inglês avançado) B6D4U7 — Insi (82%)
-- Cobertura: 45% · Fit observado: 91%
-- Enriquecimento: error
-- Modelo/local: remote · Brasil
-- Fonte: insi
-- Publicação: 2026-10-21T12:00:00-03:00
-- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
-- Link: https://insi.jobs.recrut.ai/job/B6D4U7
-
-## 30. Jr. Support Analyst — SMART ONLINE (82%)
+## 23. Jr. Support Analyst — SMART ONLINE (82%)
 - Cobertura: 45% · Fit observado: 91%
 - Enriquecimento: error
 - Modelo/local: remote · Campinas, SP
@@ -273,3 +210,66 @@ Métodos: html-text: 17, inhire-api: 14, json-ld: 35
 - Publicação: 2026-10-19T12:00:00-03:00
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
 - Link: https://vagas.solides.com.br/vaga/fOnAIpPlGD/jr-support-analyst
+
+## 24. ANALISTA DE SUPORTE DE SISTEMAS JR — TIVIT (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: not_available
+- Modelo/local: remote · Brasil
+- Fonte: tivit
+- Publicação: 2026-10-19T12:00:00-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://web.tivit.com/talent/job-detail?jobid=4673
+
+## 25. Analista de Suporte Pleno — Carreiras SoftExpert (81%)
+- Cobertura: 100% · Fit observado: 81%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · não informado
+- Fonte: gupy
+- Publicação: 2026-10-01T18:09:43-03:00
+- Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
+- Link: https://softexpert.gupy.io/job/eyJqb2JJZCI6MTI2NjQ4NjAsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
+
+## 26. Analista de Suporte Junior (Remoto) — Franquias (79%)
+- Cobertura: 100% · Fit observado: 79%
+- Enriquecimento: enriched (html-text)
+- Modelo/local: remote · não informado
+- Fonte: gupy
+- Publicação: 2026-10-08T09:56:40-03:00
+- Motivos: função: 30/30; competências observadas: 23/40 (N2/L2, APIs e integrações, SQL e banco de dados); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://zenvia-franquias.gupy.io/job/eyJqb2JJZCI6MTI2OTE3NDEsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
+
+## 27. Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD — Grupo QuintoAndar (79%)
+- Cobertura: 90% · Fit observado: 79%
+- Enriquecimento: enriched (html-text)
+- Modelo/local: remote · Brasil
+- Fonte: greenhouse
+- Publicação: 2026-10-19T09:44:56-03:00
+- Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, Incidentes/RCA/ITIL, Sustentação, B2B); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 79% com ajuste de incerteza; cobertura da análise: 90%
+- Link: https://job-boards.greenhouse.io/quintoandar/jobs/4430623009
+
+## 28. Assistente de Suporte Técnico — Inlog (79%)
+- Cobertura: 45% · Fit observado: 84%
+- Enriquecimento: error
+- Modelo/local: remote · Brasil
+- Fonte: inlog
+- Publicação: 2026-09-09T18:05:30-03:00
+- Motivos: função: 27/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 84% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://rs.tagguirh.com.br/visualizar-vaga/grupoinlog/2163
+
+## 29. Analista de Suporte ao Cliente - Júnior — Mereo (78%)
+- Cobertura: 85% · Fit observado: 78%
+- Enriquecimento: enriched (inhire-api)
+- Modelo/local: remote · BR
+- Fonte: inhire
+- Publicação: 2026-09-23T11:27:13-03:00
+- Motivos: função: 30/30; competências observadas: 25/40 (APIs e integrações, Incidentes/RCA/ITIL, Pagamentos e cartões, B2B); segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 85%
+- Link: https://mereo.inhire.app/vagas/ca2e7c9d-03f2-4bcd-9a30-ae566560c3f2/analista-de-suporte-ao-cliente-junior
+
+## 30. [Suporte] Analista de Suporte Técnico Júnior  - Protheus - Vaga Afirmativa para pessoas com Deficiência (Remoto) — TOTVS (77%)
+- Cobertura: 100% · Fit observado: 77%
+- Enriquecimento: enriched (html-text)
+- Modelo/local: remote · São Paulo
+- Fonte: totvs
+- Publicação: 2026-10-25T11:52:59.952293-03:00
+- Motivos: função: 30/30; competências observadas: 25/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://atracaodetalentos.totvs.app/vempratotvs/8694/suporte-analista-de-suporte-tecnico-junior-protheus-vaga-afirmativa-para-pessoas-com-deficiencia-remoto
