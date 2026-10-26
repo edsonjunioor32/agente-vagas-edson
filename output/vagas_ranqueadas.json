@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-25T11:52:59.952293-03:00",
+  "generated_at": "2026-10-26T14:08:49.871655-03:00",
   "count": 100,
   "enrichment": {
-    "attempted": 73,
-    "enriched": 66,
-    "failed": 7,
+    "attempted": 74,
+    "enriched": 68,
+    "failed": 6,
     "methods": {
-      "json-ld": 37,
+      "json-ld": 39,
       "inhire-api": 13,
       "html-text": 16
     }
@@ -743,7 +743,7 @@
       ],
       "contract_types": [],
       "seniority": "Não informado",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 35,
       "observed_fit": 100,
       "fit_points": 35,
@@ -763,49 +763,6 @@
       "enrichment_status": "not_available",
       "enrichment_method": "",
       "enrichment_error": "descrição útil não encontrada",
-      "description_length": 0
-    },
-    {
-      "id": "",
-      "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/bSMMcQLAqkn1jD1WhRbsRD/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-bras%C3%ADlia-at-supportyourapp",
-      "source": "workable_brazil",
-      "work_model": "remote",
-      "city": "Brasília",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-10-22T16:06:34+00:00",
-      "description": "",
-      "skills": [],
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "Contract"
-      ],
-      "seniority": "Não informado",
-      "published_at_br": "2026-10-22T13:06:34-03:00",
-      "coverage": 35,
-      "observed_fit": 100,
-      "fit_points": 35,
-      "covered_points": 35,
-      "score_method": "observed_evidence_v3",
-      "score": 84,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas sem dados suficientes — não penalizadas",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade não informada — não penalizada",
-        "remoto: 5/5",
-        "fit observado: 100% com ajuste de incerteza",
-        "cobertura da análise: 35%"
-      ],
-      "enrichment_attempts": 2,
-      "enrichment_status": "error",
-      "enrichment_method": "",
-      "enrichment_error": "HTTPError: HTTP Error 410: Gone",
       "description_length": 0
     },
     {
@@ -1108,7 +1065,7 @@
       "country": "BR",
       "market": "BR",
       "published_date": "2026-10-19T08:44:56-04:00",
-      "description": "Candidatura à vaga para Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD na Grupo QuintoAndar Novo Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD Brasil Apply Sobre o Grupo QuintoAndar Somos o Grupo QuintoAndar, o maior ecossistema imobiliário da América Latina. Guiados por um propósito compartilhado de ajudar pessoas a amar o lugar onde moram, contamos com um portfólio diversificado de marcas e soluções, em diferentes países da América Latina, que contemplam todas as fases da jornada do morar e ainda um Hub de Tecnologia em Portugal. Desenvolvemos tecnologias e inovação para transformar e impulsionar a experiência de moradia como um todo. Com o apoio de uma equipe de classe mundial de investidores e consultores, como Kaszek, Qualcomm, General Atlantic e SoftBank, o Grupo QuintoAndar está atualmente avaliado em mais de US$ 5,1 bilhões e continua a crescer ano após ano. Aqui você trabalhará com os melhores profissionais do mercado, em um ambiente que respira inovação, colaboração e alto desempenho. Para saber mais sobre a nossa história, acesse https://grupoquintoandar.com/pt/ Por que essa vaga é afirmativa para pessoas com deficiência? O Grupo QuintoAndar está comprometido com a promoção da Inclusão Social e um dos pilares é a representatividade em nossos times. Acreditamos que através da geração de mais oportunidades e de ações intencionais, avançaremos na construção e fortalecimento da inclusão social em nosso ambiente. Vale ressaltar que para essa vaga o nosso processo seletivo não sofreu alterações de etapas ou formas de avaliação. Entendemos que o recrutamento é uma porta de entrada para a diversidade, sempre atentos ao que nos torna plurais. Localização & Trabalho Remoto Nosso time de Atendimento CX trabalha com o modelo “Remoto”. Etapas do Processo Seletivo As etapas dos nossos processos seletivos têm como objetivo avaliar suas experiências e oferecer a você a oportunidade de conhecer nossos times e oportunidades de carreira, sendo estruturadas da seguinte forma: Triagem; DG (Dinâmica de Grupo); Entrevista com Hiring Manager; Entrevista com Stakeholder; Offer o/ Sobre a Área O time de Operações de CX é o motor que garante a fluidez e a eficiência na ponta final do nosso negócio. Atuamos como o ponto de equilíbrio entre a tecnologia e o sucesso dos nossos parceiros no Marketplace, transformando desafios complexos em soluções ágeis para corretores e imobiliárias. Nossa missão vai além de resolver chamados; somos os guardiões da experiência. Trabalhamos na sustentação da jornada do parceiro, garantindo que nenhum obstáculo técnico ou operacional impeça o crescimento dos seus negócios. O que define o nosso dia a dia: Sustentação Estratégica: Somos responsáveis por manter a engrenagem funcionando, lidando com um alto volume de demandas sem perder a qualidade e o toque humano. Foco no Parceiro: Entregamos um atendimento personalizado para imobiliárias, corretores e administradores, entendendo que cada parceiro possui necessidades únicas que exigem soluções precisas. Colaboração Cross-functional: Transitamos entre diferentes áreas e stakeholders, atuando como a \"ponte\" que leva os feedbacks do campo para dentro de casa, impulsionando melhorias contínuas nos nossos processos e produtos. Autonomia e Priorização: Operamos com um olhar crítico para decidir o que gera mais impacto, garantindo que a energia do time seja aplicada onde o parceiro mais precisa. Responsabilidades Gestão e Resolução de Demandas: Atuar na linha de frente receptiva via WhatsApp, Telefone e Cognito (plataformas internas/tickets), garantindo a resolução ágil de problemas de acesso, erros de sistema e dúvidas operacionais. Atendimento Personalizado e B2B: Oferecer suporte humanizado e consultivo para corretores, administradores e gerentes de imobiliárias parceiras, entregando soluções claras e fugindo de respostas automáticas ou rígidas. Priorização Inteligente: Realizar a autogestão de tarefas, sabendo identificar chamados críticos para o negócio e organizando o fluxo de trabalho para manter altos níveis de produtividade e cumprimento de SLA em cenários de alto volume. Interface com Stakeholders: Atuar como ponte entre os parceiros e as áreas internas (Produto, Tecnologia, Comercial), reportando erros sistêmicos de forma estruturada e sugerindo melhorias no produto e na plataforma. Mentalidade Proativa e \"Fora da Curva\": Analisar padrões de incidentes para propor soluções definitivas, pensando além dos processos mapeados para solucionar exceções e otimizar a experiência do parceiro. Requisitos Formação: Ensino Superior completo ou cursando — diferencial para assegurar excelente nível de comunicação e escrita. Experiência: Experiência prévia comprovada em operações de atendimento online/digital (chat, e-mail, plataformas de tickets e mensagens instantâneas). Ferramentas: Familiaridade com ferramentas de gestão de tickets/CRM, além de conhecimentos em ferramentas de produtividade do Google Workspace / Excel para organização de dados da rotina. Competências Comportamentais: Comunicação Assertiva e Gramática: Excelente desenvoltura escrita, clareza e adaptabilidade de linguagem para diálogo com parceiros de negócios. Autonomia e Pensamento \"Fora da Curva\": Capacidade de tomar decisões e propor alternativas diante de cenários sem processos totalmente mapeados. Resiliência e Agilidade: Foco, produtividade e capacidade de manter a qualidade em rotinas de alto volume (High Volume) e ritmo acelerado. Importante O nosso processo seletivo começa na candidatura! Se você está realmente a fim de fazer parte do nosso time, foque nessa etapa do processo. Nós analisamos todos os candidatos individualmente e damos retorno para todas as pessoas que investiram tempo em se candidatar Toda comunicação é feita por e-mail, então fique atento às nossas mensagens e libere o domínio @quintoandar.com.br para nossos e-mails não irem parar no spam. Benefícios Salário competitivo PLR - Participação nos Lucros e Resultados Remuneração variável (Somente para vagas comerciais) Vale Refeição e Alimentação Plano de saúde Plano odontológico Seguro de vida Auxílio creche e Auxílio parentalidade atípica Wellhub Auxílio home office QuintoCare: Nosso programa de apoio (saúde mental, assistência social, apoio jurídico e financeiro) Licença parental estendida Dia livre de aniversário, Dia das Mães e Dia dos Pais Clube de Benefícios (descontos em serviços do dia a dia) Descontos em instituições de ensino Kit leiturinha para crianças - Playkids Diversidade & Inclusão no Grupo QuintoAndar Valorizamos a diversidade e queremos que todas as pessoas se sintam bem-vindas por aqui — independentemente da sua idade, identidade de gênero, orientação sexual, raça, cor, etnia, origem, deficiência, religião ou qualquer outra característica. Todas as nossas vagas são abertas para todas as pessoas! Você verificará que existem algumas perguntas sobre diversidade no formulário de inscrição. Em vagas afirmativas, as informações poderão ser utilizadas para verificar o seu alinhamento com o público-alvo da oportunidade, podendo, nesses casos, ter caráter eliminatório. Para vagas não afirmativas, esses dados serão utilizados de forma anonimizada, exclusivamente para acompanhar e aprimorar nossas práticas de inclusão nos processos seletivos e sem impacto na sua candidatura. Privacidade e Proteção a Dados O Grupo QuintoAndar atua em conformidade com as leis de privacidade e proteção de dados, incluindo, mas não se limitando à Lei Geral de Proteção de Dados Pessoais - LGPD (Lei nº 13.709/2018), e garante a segurança de seus dados pessoais. Para saber mais, acesse o nosso Aviso de Privacidade para Pessoas Candidatas . Se tiver dúvidas ou quiser exercer seus direitos como titular de dados, entre em contato com a gente pelo Canal de Atendimento Candidatar a esta vaga indica um campo obrigatório Nome Sobrenome E-mail Telefone País Telefone Localização (Cidade) Localize-me Currículo/CV Anexar Anexar Dropbox Google Drive Informe manualmente Informe manualmente Tipos de arquivos aceitos: pdf, doc, docx, txt, rtf Formação Escola Selecionar... Adicionar outro Por favor, compartilhe quais pronomes você utiliza. Selecionar... Você possui alguma deficiência/neurodiversidade? Selecionar... Qual seu tipo de deficiência? Selecionar... Se você respondeu \"sim\" à pergunta sobre PcD, por favor, anexe seu laudo médico atualizado aqui. Anexar Anexar Dropbox Google Drive Tipos de arquivos aceitos: pdf, doc, docx, txt, rtf Para garantirmos um processo seletivo justo e acessível, você gostaria de sinalizar alguma necessidade de acessibilidade? Selecionar... Qual é a sua nacionalidade? Selecionar... Você está legalmente autorizado(a) a trabalhar no país onde a vaga está localizada? Selecionar... Se sim, qual a validade? (Se você não for estrangeiro(a), coloque N/A) CPF LinkedIn Compartilha com a gente, qual é a sua pretensão salarial para esta posição? Você já teve ou possui atualmente algum vínculo profissional como colaborador interno (CLT, Terceiro/BPO ou Estágio) no Grupo QuintoAndar? Selecionar... Qual é o seu nível de escolaridade atual? Selecionar... Conte como você organiza sua rotina quando precisa lidar com um grande volume diário de mensagens/chamados simultâneos mantendo os prazos e a qualidade da comunicação. Qual é o número máximo de canais/telas ou chats em simultâneo que você já gerenciou com qualidade em experiências anteriores de atendimento digital? Selecionar... Por se tratar de uma vaga afirmativa para Pessoas com Deficiência (PcD), você possui laudo médico atualizado comprovando a deficiência conforme a legislação vigente? Selecionar... [BR] Questionário Demográfico Por que pedimos alguns dados a você? No Grupo QuintoAndar, acreditamos que a diversidade é a chave para construir um ambiente de trabalho inovador e inclusivo. Para isso, pedimos que você compartilhe algumas informações sobre si. É importante que você saiba que seus dados são totalmente anônimos para os recrutadores e para quem está analisando o seu currículo. Usamos essas informações de forma agregada — ou seja, sem identificá-lo — para entender melhor quem está participando dos nossos processos seletivos e, assim, garantir que estamos sendo mais equitativos e inclusivos para todas as pessoas, desde o primeiro contato. Ao preencher este formulário, você nos ajuda a criar um Grupo QuintoAndar onde todas as pessoas se sintam em casa, acolhidas e valorizadas. Se você não se sentir à vontade para responder a alguma pergunta, basta selecionar a opção “Não quero responder”. Contamos com a sua ajuda para continuar aprimorando nossos processos. Para saber sobre como tratamos os seus dados pessoais, acesse nosso Aviso de Privacidade para Pessoas Candidatas . Em caso de dúvidas, entre em contato com a gente pelo Canal de Atendimento Por favor, selecione as opções que melhor descrevem você. Qual é a sua raça/etnia? Selecionar... Qual é a sua identidade de gênero? Selecionar... Qual é a sua orientação sexual? Selecionar... Você se considera uma pessoa com deficiência? Selecionar... Se você se identificou como pessoa com deficiência, qual tipo(s) se aplica a você? (Você pode selecionar mais de uma opção) Selecionar... Você se identifica como uma pessoa neurodivergente ou neurodiversa? Selecionar... Você tem alguma necessidade de acessibilidade que gostaria de compartilhar para que possamos oferecer o suporte necessário em seu processo de integração e no ambiente de trabalho? Selecionar... Enviar inscrição Powered by",
+      "description": "Candidatura à vaga para Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD na Grupo QuintoAndar Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD Brasil Apply Sobre o Grupo QuintoAndar Somos o Grupo QuintoAndar, o maior ecossistema imobiliário da América Latina. Guiados por um propósito compartilhado de ajudar pessoas a amar o lugar onde moram, contamos com um portfólio diversificado de marcas e soluções, em diferentes países da América Latina, que contemplam todas as fases da jornada do morar e ainda um Hub de Tecnologia em Portugal. Desenvolvemos tecnologias e inovação para transformar e impulsionar a experiência de moradia como um todo. Com o apoio de uma equipe de classe mundial de investidores e consultores, como Kaszek, Qualcomm, General Atlantic e SoftBank, o Grupo QuintoAndar está atualmente avaliado em mais de US$ 5,1 bilhões e continua a crescer ano após ano. Aqui você trabalhará com os melhores profissionais do mercado, em um ambiente que respira inovação, colaboração e alto desempenho. Para saber mais sobre a nossa história, acesse https://grupoquintoandar.com/pt/ Por que essa vaga é afirmativa para pessoas com deficiência? O Grupo QuintoAndar está comprometido com a promoção da Inclusão Social e um dos pilares é a representatividade em nossos times. Acreditamos que através da geração de mais oportunidades e de ações intencionais, avançaremos na construção e fortalecimento da inclusão social em nosso ambiente. Vale ressaltar que para essa vaga o nosso processo seletivo não sofreu alterações de etapas ou formas de avaliação. Entendemos que o recrutamento é uma porta de entrada para a diversidade, sempre atentos ao que nos torna plurais. Localização & Trabalho Remoto Nosso time de Atendimento CX trabalha com o modelo “Remoto”. Etapas do Processo Seletivo As etapas dos nossos processos seletivos têm como objetivo avaliar suas experiências e oferecer a você a oportunidade de conhecer nossos times e oportunidades de carreira, sendo estruturadas da seguinte forma: Triagem; DG (Dinâmica de Grupo); Entrevista com Hiring Manager; Entrevista com Stakeholder; Offer o/ Sobre a Área O time de Operações de CX é o motor que garante a fluidez e a eficiência na ponta final do nosso negócio. Atuamos como o ponto de equilíbrio entre a tecnologia e o sucesso dos nossos parceiros no Marketplace, transformando desafios complexos em soluções ágeis para corretores e imobiliárias. Nossa missão vai além de resolver chamados; somos os guardiões da experiência. Trabalhamos na sustentação da jornada do parceiro, garantindo que nenhum obstáculo técnico ou operacional impeça o crescimento dos seus negócios. O que define o nosso dia a dia: Sustentação Estratégica: Somos responsáveis por manter a engrenagem funcionando, lidando com um alto volume de demandas sem perder a qualidade e o toque humano. Foco no Parceiro: Entregamos um atendimento personalizado para imobiliárias, corretores e administradores, entendendo que cada parceiro possui necessidades únicas que exigem soluções precisas. Colaboração Cross-functional: Transitamos entre diferentes áreas e stakeholders, atuando como a \"ponte\" que leva os feedbacks do campo para dentro de casa, impulsionando melhorias contínuas nos nossos processos e produtos. Autonomia e Priorização: Operamos com um olhar crítico para decidir o que gera mais impacto, garantindo que a energia do time seja aplicada onde o parceiro mais precisa. Responsabilidades Gestão e Resolução de Demandas: Atuar na linha de frente receptiva via WhatsApp, Telefone e Cognito (plataformas internas/tickets), garantindo a resolução ágil de problemas de acesso, erros de sistema e dúvidas operacionais. Atendimento Personalizado e B2B: Oferecer suporte humanizado e consultivo para corretores, administradores e gerentes de imobiliárias parceiras, entregando soluções claras e fugindo de respostas automáticas ou rígidas. Priorização Inteligente: Realizar a autogestão de tarefas, sabendo identificar chamados críticos para o negócio e organizando o fluxo de trabalho para manter altos níveis de produtividade e cumprimento de SLA em cenários de alto volume. Interface com Stakeholders: Atuar como ponte entre os parceiros e as áreas internas (Produto, Tecnologia, Comercial), reportando erros sistêmicos de forma estruturada e sugerindo melhorias no produto e na plataforma. Mentalidade Proativa e \"Fora da Curva\": Analisar padrões de incidentes para propor soluções definitivas, pensando além dos processos mapeados para solucionar exceções e otimizar a experiência do parceiro. Requisitos Formação: Ensino Superior completo ou cursando — diferencial para assegurar excelente nível de comunicação e escrita. Experiência: Experiência prévia comprovada em operações de atendimento online/digital (chat, e-mail, plataformas de tickets e mensagens instantâneas). Ferramentas: Familiaridade com ferramentas de gestão de tickets/CRM, além de conhecimentos em ferramentas de produtividade do Google Workspace / Excel para organização de dados da rotina. Competências Comportamentais: Comunicação Assertiva e Gramática: Excelente desenvoltura escrita, clareza e adaptabilidade de linguagem para diálogo com parceiros de negócios. Autonomia e Pensamento \"Fora da Curva\": Capacidade de tomar decisões e propor alternativas diante de cenários sem processos totalmente mapeados. Resiliência e Agilidade: Foco, produtividade e capacidade de manter a qualidade em rotinas de alto volume (High Volume) e ritmo acelerado. Importante O nosso processo seletivo começa na candidatura! Se você está realmente a fim de fazer parte do nosso time, foque nessa etapa do processo. Nós analisamos todos os candidatos individualmente e damos retorno para todas as pessoas que investiram tempo em se candidatar Toda comunicação é feita por e-mail, então fique atento às nossas mensagens e libere o domínio @quintoandar.com.br para nossos e-mails não irem parar no spam. Benefícios Salário competitivo PLR - Participação nos Lucros e Resultados Remuneração variável (Somente para vagas comerciais) Vale Refeição e Alimentação Plano de saúde Plano odontológico Seguro de vida Auxílio creche e Auxílio parentalidade atípica Wellhub Auxílio home office QuintoCare: Nosso programa de apoio (saúde mental, assistência social, apoio jurídico e financeiro) Licença parental estendida Dia livre de aniversário, Dia das Mães e Dia dos Pais Clube de Benefícios (descontos em serviços do dia a dia) Descontos em instituições de ensino Kit leiturinha para crianças - Playkids Diversidade & Inclusão no Grupo QuintoAndar Valorizamos a diversidade e queremos que todas as pessoas se sintam bem-vindas por aqui — independentemente da sua idade, identidade de gênero, orientação sexual, raça, cor, etnia, origem, deficiência, religião ou qualquer outra característica. Todas as nossas vagas são abertas para todas as pessoas! Você verificará que existem algumas perguntas sobre diversidade no formulário de inscrição. Em vagas afirmativas, as informações poderão ser utilizadas para verificar o seu alinhamento com o público-alvo da oportunidade, podendo, nesses casos, ter caráter eliminatório. Para vagas não afirmativas, esses dados serão utilizados de forma anonimizada, exclusivamente para acompanhar e aprimorar nossas práticas de inclusão nos processos seletivos e sem impacto na sua candidatura. Privacidade e Proteção a Dados O Grupo QuintoAndar atua em conformidade com as leis de privacidade e proteção de dados, incluindo, mas não se limitando à Lei Geral de Proteção de Dados Pessoais - LGPD (Lei nº 13.709/2018), e garante a segurança de seus dados pessoais. Para saber mais, acesse o nosso Aviso de Privacidade para Pessoas Candidatas . Se tiver dúvidas ou quiser exercer seus direitos como titular de dados, entre em contato com a gente pelo Canal de Atendimento Candidatar a esta vaga indica um campo obrigatório Nome Sobrenome E-mail Telefone País Telefone Localização (Cidade) Localize-me Currículo/CV Anexar Anexar Dropbox Google Drive Informe manualmente Informe manualmente Tipos de arquivos aceitos: pdf, doc, docx, txt, rtf Formação Escola Selecionar... Adicionar outro Por favor, compartilhe quais pronomes você utiliza. Selecionar... Você possui alguma deficiência/neurodiversidade? Selecionar... Qual seu tipo de deficiência? Selecionar... Se você respondeu \"sim\" à pergunta sobre PcD, por favor, anexe seu laudo médico atualizado aqui. Anexar Anexar Dropbox Google Drive Tipos de arquivos aceitos: pdf, doc, docx, txt, rtf Para garantirmos um processo seletivo justo e acessível, você gostaria de sinalizar alguma necessidade de acessibilidade? Selecionar... Qual é a sua nacionalidade? Selecionar... Você está legalmente autorizado(a) a trabalhar no país onde a vaga está localizada? Selecionar... Se sim, qual a validade? (Se você não for estrangeiro(a), coloque N/A) CPF LinkedIn Compartilha com a gente, qual é a sua pretensão salarial para esta posição? Você já teve ou possui atualmente algum vínculo profissional como colaborador interno (CLT, Terceiro/BPO ou Estágio) no Grupo QuintoAndar? Selecionar... Qual é o seu nível de escolaridade atual? Selecionar... Conte como você organiza sua rotina quando precisa lidar com um grande volume diário de mensagens/chamados simultâneos mantendo os prazos e a qualidade da comunicação. Qual é o número máximo de canais/telas ou chats em simultâneo que você já gerenciou com qualidade em experiências anteriores de atendimento digital? Selecionar... Por se tratar de uma vaga afirmativa para Pessoas com Deficiência (PcD), você possui laudo médico atualizado comprovando a deficiência conforme a legislação vigente? Selecionar... [BR] Questionário Demográfico Por que pedimos alguns dados a você? No Grupo QuintoAndar, acreditamos que a diversidade é a chave para construir um ambiente de trabalho inovador e inclusivo. Para isso, pedimos que você compartilhe algumas informações sobre si. É importante que você saiba que seus dados são totalmente anônimos para os recrutadores e para quem está analisando o seu currículo. Usamos essas informações de forma agregada — ou seja, sem identificá-lo — para entender melhor quem está participando dos nossos processos seletivos e, assim, garantir que estamos sendo mais equitativos e inclusivos para todas as pessoas, desde o primeiro contato. Ao preencher este formulário, você nos ajuda a criar um Grupo QuintoAndar onde todas as pessoas se sintam em casa, acolhidas e valorizadas. Se você não se sentir à vontade para responder a alguma pergunta, basta selecionar a opção “Não quero responder”. Contamos com a sua ajuda para continuar aprimorando nossos processos. Para saber sobre como tratamos os seus dados pessoais, acesse nosso Aviso de Privacidade para Pessoas Candidatas . Em caso de dúvidas, entre em contato com a gente pelo Canal de Atendimento Por favor, selecione as opções que melhor descrevem você. Qual é a sua raça/etnia? Selecionar... Qual é a sua identidade de gênero? Selecionar... Qual é a sua orientação sexual? Selecionar... Você se considera uma pessoa com deficiência? Selecionar... Se você se identificou como pessoa com deficiência, qual tipo(s) se aplica a você? (Você pode selecionar mais de uma opção) Selecionar... Você se identifica como uma pessoa neurodivergente ou neurodiversa? Selecionar... Você tem alguma necessidade de acessibilidade que gostaria de compartilhar para que possamos oferecer o suporte necessário em seu processo de integração e no ambiente de trabalho? Selecionar... Enviar inscrição Powered by",
       "skills": [],
       "categories": [
         "Suporte, Atendimento e CS"
@@ -1135,7 +1092,7 @@
       "enrichment_status": "enriched",
       "enrichment_method": "html-text",
       "enrichment_error": "",
-      "description_length": 11572
+      "description_length": 11567
     },
     {
       "id": "",
@@ -1244,7 +1201,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 77,
       "fit_points": 77,
@@ -1580,7 +1537,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 73,
       "fit_points": 73,
@@ -1665,7 +1622,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 72,
       "fit_points": 72,
@@ -2185,7 +2142,7 @@
         "CLT"
       ],
       "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 69,
       "fit_points": 69,
@@ -2381,7 +2338,7 @@
         "CLT"
       ],
       "seniority": "Pleno",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 100,
       "observed_fit": 66,
       "fit_points": 66,
@@ -2863,7 +2820,7 @@
       "market": "BR",
       "published_date": "2026-10-19T20:20:32+00:00",
       "description": "",
-      "skills": "Benner · Lemontech · ERP · Argo · Reserve · SAP Concur · Amadeus · SQL · Wooba · Parametrização de ERP · Cytric",
+      "skills": "Benner · Reserve · SAP Concur · Amadeus · SQL · Wooba · Parametrização de ERP · Cytric · Lemontech · ERP · Argo",
       "categories": [
         "Suporte, Atendimento e CS"
       ],
@@ -2930,6 +2887,49 @@
     },
     {
       "id": "",
+      "title": "(English C1) Part-time Technical Support Consultant (remotely)",
+      "company": "SupportYourApp",
+      "url": "https://jobs.workable.com/view/8KwjMtnudyPHe1y8S4JRs1/(english-c1)-part-time-technical-support-consultant-(remotely)-in-bras%C3%ADlia-at-supportyourapp",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasília",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-25T19:58:06+00:00",
+      "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Consultant on a short-term basis, with the potential to continue into a long-term collaboration. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes 💛 What you will do: Provide technical support via email, calls and chats in a professional and efficient manner; Provide technical and customer support. D2C and B2B inquiries, password resets; Troubleshoot issues with home app and escalations; Troubleshoot product issues and guide customers through solutions step-by-step; Ask the right questions to understand and diagnose the problem; Follow troubleshooting procedures while also using good judgment when the situation isn't covered by a standard process; Document customer interactions and troubleshooting steps clearly; Escalate complex or unresolved technical issues when necessary; Provide a positive, patient, and professional customer experience; Manage multiple conversations efficiently while maintaining accuracy and quality. What you need to succeed in this role: Excellent English communication skills (at least C1 for both spoken and written); At least 1 year of experience in technical customer support role; Tech-savvy mindset; Strong troubleshooting and problem-solving skills, with the ability to investigate issues and find effective solutions; Critical thinking and strong common sense, with a practical and analytical approach to resolving customer issues; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload). Benefits: Fixed schedule: Sunday, Saturday: 1:00-4:30 PM, Wednesday - Friday: 1:00 PM -4:00 PM (UTC) Opportunity to cooperate fully remotely; Inclusive international environment; Compensation in USD; Balance between project workload and personal time; Responsive leadership interested in your development; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Technical Support Consultant who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Contract"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-25T16:58:06-03:00",
+      "coverage": 90,
+      "observed_fit": 61,
+      "fit_points": 55,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 62,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 9/40 (Incidentes/RCA/ITIL, B2B)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 61% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 3612
+    },
+    {
+      "id": "",
       "title": "Analista de Suporte Pleno - Field Service",
       "company": "Saleco",
       "url": "https://www.saleco.com.br/jobs/analista-de-suporte-pleno-field-service",
@@ -2947,7 +2947,7 @@
       ],
       "contract_types": [],
       "seniority": "Pleno",
-      "published_at_br": "2026-10-25T11:52:59.952293-03:00",
+      "published_at_br": "2026-10-25T12:00:00-03:00",
       "coverage": 85,
       "observed_fit": 60,
       "fit_points": 51,
@@ -3045,6 +3045,49 @@
         "fit observado: 59% com ajuste de incerteza",
         "cobertura da análise: 85%"
       ]
+    },
+    {
+      "id": "",
+      "title": "(English C1) Technical Support Consultant (4-Month Cooperation, fully remote)",
+      "company": "SupportYourApp",
+      "url": "https://jobs.workable.com/view/bSMMcQLAqkn1jD1WhRbsRD/(english-c1)-technical-support-consultant-(4-month-cooperation%2C-fully-remote)-in-bras%C3%ADlia-at-supportyourapp",
+      "source": "workable_brazil",
+      "work_model": "remote",
+      "city": "Brasília",
+      "state": "",
+      "country": "BR",
+      "market": "BR",
+      "published_date": "2026-10-22T16:06:34+00:00",
+      "description": "Who are we? SupportYourApp is a global Intelligent Support-as-a-Service leader, partnering with tech companies and industry leaders like MasterCard, Calm and MacPaw in 30+ countries since 2010 to deliver secure customer and technical support. We operate globally, supporting clients in 60 languages across diverse industries. So what if you had a chance to be a part of the world’s leading SaaS, software, or hardware solutions? Join our community as a Technical Support Consultant on a short-term basis, with the potential to continue into a long-term collaboration. Unlock your potential by mastering new skills and achieving challenging goals in cooperation with our People First management approach. Excited? Let’s see what it takes 💛 What you will do: Provide technical support via email and chat in a professional and efficient manner; Troubleshoot product issues and guide customers through solutions step-by-step; Identify whether an issue is related to the bulb, app, connectivity, setup, or user configuration; Ask the right questions to understand and diagnose the problem; Follow troubleshooting procedures while also using good judgment when the situation isn't covered by a standard process; Document customer interactions and troubleshooting steps clearly; Escalate complex or unresolved technical issues when necessary; Provide a positive, patient, and professional customer experience; Manage multiple conversations efficiently while maintaining accuracy and quality. What you need to succeed in this role: Excellent English communication skills (at least C1 for both spoken and written); At least 1 year of experience in technical customer support role; Previous video support experience would be plus; Tech-savvy mindset; Strong troubleshooting and problem-solving skills, with the ability to investigate issues and find effective solutions; Critical thinking and strong common sense, with a practical and analytical approach to resolving customer issues; Personal computer (at least 8Gb of RAM) with a stable internet connection (minimum 50 Mbps–download and 40 Mbps–upload). Benefits: Flexible schedule; Opportunity to cooperate fully remotely; Inclusive international environment; Compensation in USD; Balance between project workload and personal time; Responsive leadership interested in your development; Greenhouse conditions for self-development; A culture built on trust, with no time-tracking requirements. *The items listed in this section may vary depending on the terms of your engagement. Certain benefits and conditions typically apply to employees; independent contractors may not be eligible for all of these. The specific terms, including compensation, benefits, and work conditions, will be clearly defined in your agreement if selected. You can learn more about the company and its culture by visiting our official website and social pages on Facebook, Instagram, and LinkedIn. So if you're a proactive Technical Support Consultant who thrives on solving problems, ensuring customer satisfaction, and delivering outstanding service, don't miss this opportunity and send us your CV in English to collaborate with us! Over 1500+ specialists who already deliver exceptional customer experiences collaborating with SupportYourApp. Know someone perfect for the role? Refer them and get rewarded! We adhere to the principles of equal treatment of candidates and prohibit discrimination on any grounds protected by law. Your personal data will be processed as described in the SupportYourApp Candidate Privacy Notice.",
+      "skills": [],
+      "categories": [
+        "Suporte, Atendimento e CS"
+      ],
+      "contract_types": [
+        "Contract"
+      ],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-22T13:06:34-03:00",
+      "coverage": 90,
+      "observed_fit": 58,
+      "fit_points": 52,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 60,
+      "reasons": [
+        "função: 30/30",
+        "competências observadas: 6/40 (Incidentes/RCA/ITIL)",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 58% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ],
+      "enrichment_attempts": 1,
+      "enrichment_status": "enriched",
+      "enrichment_method": "json-ld",
+      "enrichment_error": "",
+      "description_length": 3549
     },
     {
       "id": "",
@@ -3435,6 +3478,42 @@
       "enrichment_method": "json-ld",
       "enrichment_error": "",
       "description_length": 2611
+    },
+    {
+      "id": "",
+      "title": "Support Engineer",
+      "company": "HumanSignal",
+      "url": "https://himalayas.app/companies/humansignal/jobs/support-engineer?utm_source=api",
+      "source": "himalayas",
+      "work_model": "remote",
+      "city": "",
+      "state": "",
+      "country": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+      "market": "Global remote",
+      "published_date": "2026-10-25T16:19:25+00:00",
+      "description": "",
+      "skills": "Support-Engineer · Technical-Support-Engineer · SaaS-Support-Engineer · Software-Support-Engineer · Customer-Support-Engineer · Service-Support-Engineer · Product-Support-Engineer · IT-Support-Engineer",
+      "categories": [
+        "Outros"
+      ],
+      "contract_types": [],
+      "seniority": "Não informado",
+      "published_at_br": "2026-10-25T13:19:25-03:00",
+      "coverage": 90,
+      "observed_fit": 51,
+      "fit_points": 46,
+      "covered_points": 90,
+      "score_method": "observed_evidence_v3",
+      "score": 53,
+      "reasons": [
+        "função: 30/30",
+        "competências técnicas: 0/40",
+        "segmento: 11/15 (tecnologia/SaaS)",
+        "senioridade não informada — não penalizada",
+        "remoto: 5/5",
+        "fit observado: 51% com ajuste de incerteza",
+        "cobertura da análise: 90%"
+      ]
     },
     {
       "id": "",
@@ -3945,80 +4024,6 @@
       "contract_types": [],
       "seniority": "Júnior/Assistente",
       "published_at_br": "2026-09-30T09:41:42-03:00",
-      "coverage": 85,
-      "observed_fit": 48,
-      "fit_points": 41,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Júnior",
-      "company": "SoftExpert",
-      "url": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-junior-99213.php",
-      "source": "nerdin",
-      "work_model": "remote",
-      "city": "Home Office",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-09-26T10:33:20-04:00",
-      "description": "",
-      "skills": "sistemas · analista · office · suporte",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-09-26T11:33:20-03:00",
-      "coverage": 85,
-      "observed_fit": 48,
-      "fit_points": 41,
-      "covered_points": 85,
-      "score_method": "observed_evidence_v3",
-      "score": 52,
-      "reasons": [
-        "função: 30/30",
-        "competências técnicas: 0/40",
-        "segmento sem evidência suficiente — não penalizado",
-        "senioridade: 6/10 (senioridade júnior)",
-        "remoto: 5/5",
-        "fit observado: 48% com ajuste de incerteza",
-        "cobertura da análise: 85%"
-      ]
-    },
-    {
-      "id": "",
-      "title": "Analista de Suporte Ao Cliente",
-      "company": "Hope Solution",
-      "url": "https://www.geekhunter.com/pt/hope-solution/jobs/analista-de-suporte-ao-cliente-1",
-      "source": "geekhunter",
-      "work_model": "remote",
-      "city": "Remoto",
-      "state": "",
-      "country": "BR",
-      "market": "BR",
-      "published_date": "2026-08-28T15:46:55+00:00",
-      "description": "",
-      "skills": "Comunicação Verbal · Comunicação Escrita · Suporte Técnico · Atendimento ao Cliente",
-      "categories": [
-        "Suporte, Atendimento e CS"
-      ],
-      "contract_types": [
-        "CLT"
-      ],
-      "seniority": "Júnior/Assistente",
-      "published_at_br": "2026-08-28T12:46:55-03:00",
       "coverage": 85,
       "observed_fit": 48,
       "fit_points": 41,
