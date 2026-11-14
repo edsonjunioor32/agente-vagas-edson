@@ -1,8 +1,8 @@
-# Vagas priorizadas — 13/11/2026 15:24 (UTC-3)
+# Vagas priorizadas — 14/11/2026 13:51 (UTC-3)
 
 Total: **100**
-Enriquecimento: **64/72** vagas com descrição ampliada
-Métodos: html-text: 14, inhire-api: 14, json-ld: 36
+Enriquecimento: **63/71** vagas com descrição ampliada
+Métodos: html-text: 11, inhire-api: 14, json-ld: 38
 
 ## 1. Analista de Suporte Pleno - N2 — Vagas Simples Dental (100%)
 - Cobertura: 100% · Fit observado: 100%
@@ -54,7 +54,7 @@ Métodos: html-text: 14, inhire-api: 14, json-ld: 36
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
 - Fonte: inhire
-- Publicação: 2026-11-04T11:42:27-03:00
+- Publicação: 2026-11-13T15:09:37-03:00
 - Motivos: função: 30/30; competências observadas: 30/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, B2B); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://matera.inhire.app/vagas/31a384a9-e458-4a22-ad82-cca8a3c235fd/analista-de-suporte-pleno-sistemas-de-credito-sql
 
@@ -171,7 +171,7 @@ Métodos: html-text: 14, inhire-api: 14, json-ld: 36
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · Joinville
 - Fonte: totvs
-- Publicação: 2026-11-13T12:00:00-03:00
+- Publicação: 2026-11-14T12:00:00-03:00
 - Motivos: função: 30/30; competências observadas: 21/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://atracaodetalentos.totvs.app/vempratotvs/13029/suporte-analista-de-suporte-tecnico-pleno-prime-datasul-remoto
 
@@ -196,22 +196,13 @@ Métodos: html-text: 14, inhire-api: 14, json-ld: 36
 ## 22. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · Campinas
-- Fonte: workable_brazil
-- Publicação: 2026-10-27T10:05:06-03:00
-- Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://jobs.workable.com/view/khWfKkc2wyfjq27AqwB1wu/remote-application-support-engineer-manhattan-active-in-campinas-at-fulfillment-iq
-
-## 23. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
-- Cobertura: 90% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · São Paulo
 - Fonte: workable_brazil
 - Publicação: 2026-10-27T10:05:06-03:00
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/1CAqyZyjCrefs14EaAovFM/remote-application-support-engineer-manhattan-active-in-s%C3%A3o-paulo-at-fulfillment-iq
 
-## 24. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+## 23. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Curitiba
@@ -219,6 +210,15 @@ Métodos: html-text: 14, inhire-api: 14, json-ld: 36
 - Publicação: 2026-10-27T10:05:06-03:00
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/cBpgibyzRPzmMEeE15Qc4n/remote-application-support-engineer-manhattan-active-in-curitiba-at-fulfillment-iq
+
+## 24. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+- Cobertura: 90% · Fit observado: 78%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · Campinas
+- Fonte: workable_brazil
+- Publicação: 2026-10-27T10:05:06-03:00
+- Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
+- Link: https://jobs.workable.com/view/khWfKkc2wyfjq27AqwB1wu/remote-application-support-engineer-manhattan-active-in-campinas-at-fulfillment-iq
 
 ## 25. Analista de Suporte ao Cliente - Júnior — Mereo (78%)
 - Cobertura: 85% · Fit observado: 78%
@@ -234,7 +234,7 @@ Métodos: html-text: 14, inhire-api: 14, json-ld: 36
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · São Paulo
 - Fonte: totvs
-- Publicação: 2026-11-13T12:00:00-03:00
+- Publicação: 2026-11-14T12:00:00-03:00
 - Motivos: função: 30/30; competências observadas: 25/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://atracaodetalentos.totvs.app/vempratotvs/8694/suporte-analista-de-suporte-tecnico-junior-protheus-afirmativa-para-pessoas-com-deficiencia
 
