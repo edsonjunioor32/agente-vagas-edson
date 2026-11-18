@@ -1,8 +1,8 @@
-# Vagas priorizadas — 17/11/2026 16:39 (UTC-3)
+# Vagas priorizadas — 18/11/2026 16:15 (UTC-3)
 
 Total: **100**
-Enriquecimento: **70/77** vagas com descrição ampliada
-Métodos: html-text: 14, inhire-api: 13, json-ld: 43
+Enriquecimento: **71/78** vagas com descrição ampliada
+Métodos: html-text: 12, inhire-api: 13, json-ld: 46
 
 ## 1. Analista de Suporte Pleno - N2 — Vagas Simples Dental (100%)
 - Cobertura: 100% · Fit observado: 100%
@@ -49,7 +49,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 35/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vempranexdom.gupy.io/job/eyJqb2JJZCI6MTI4Nzk5ODYsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
 
-## 6. Analista de Sustentação - PJ — HMZ SOLUCOES LTDA (91%)
+## 6. Analista de Sustentação - PJ — HMZ SUPPLY CHAIN LTDA (91%)
 - Cobertura: 100% · Fit observado: 91%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · São José dos Campos, SP
@@ -81,7 +81,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
 - Fonte: inhire
-- Publicação: 2026-11-04T16:41:05-03:00
+- Publicação: 2026-11-18T09:23:39-03:00
 - Motivos: função: 30/30; competências observadas: 28/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://ecore.inhire.app/vagas/26ff1194-9106-45ec-8fdd-6af62ddb935c/senior-developer-support-engineer
 
@@ -198,7 +198,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · Joinville
 - Fonte: totvs
-- Publicação: 2026-11-17T12:00:00-03:00
+- Publicação: 2026-11-18T12:00:00-03:00
 - Motivos: função: 30/30; competências observadas: 21/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://atracaodetalentos.totvs.app/vempratotvs/13029/suporte-analista-de-suporte-tecnico-pleno-prime-datasul-remoto
 
@@ -220,16 +220,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 81% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/6jTA2SgL2iWjsY8R1iQipB/remote-technical-support-engineer-(typescript%2Freact)-(pcs942)-in-s%C3%A3o-paulo-at-hire-overseas
 
-## 25. Grupo QuintoAndar | Analista de Suporte (CX) ao Parceiro B2B (Marketplace) - Afirmativa PCD — Grupo QuintoAndar (79%)
-- Cobertura: 90% · Fit observado: 79%
-- Enriquecimento: enriched (html-text)
-- Modelo/local: remote · Brasil
-- Fonte: greenhouse
-- Publicação: 2026-10-19T09:44:56-03:00
-- Motivos: função: 30/30; competências observadas: 21/40 (APIs e integrações, Incidentes/RCA/ITIL, Sustentação, B2B); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 79% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://job-boards.greenhouse.io/quintoandar/jobs/4430623009
-
-## 26. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+## 25. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belo Horizonte
@@ -238,7 +229,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/3ciXSFaCi6RseZ5pKjhVTM/remote-application-support-engineer-manhattan-active-in-belo-horizonte-at-fulfillment-iq
 
-## 27. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+## 26. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Curitiba
@@ -247,7 +238,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/cBpgibyzRPzmMEeE15Qc4n/remote-application-support-engineer-manhattan-active-in-curitiba-at-fulfillment-iq
 
-## 28. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+## 27. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Campinas
@@ -256,7 +247,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/khWfKkc2wyfjq27AqwB1wu/remote-application-support-engineer-manhattan-active-in-campinas-at-fulfillment-iq
 
-## 29. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
+## 28. Application Support Engineer-Manhattan Active — Fulfillment IQ (78%)
 - Cobertura: 90% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · São Paulo
@@ -265,7 +256,7 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Motivos: função: 30/30; competências observadas: 20/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/1CAqyZyjCrefs14EaAovFM/remote-application-support-engineer-manhattan-active-in-s%C3%A3o-paulo-at-fulfillment-iq
 
-## 30. Analista de Suporte ao Cliente - Júnior — Mereo (78%)
+## 29. Analista de Suporte ao Cliente - Júnior — Mereo (78%)
 - Cobertura: 85% · Fit observado: 78%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -273,3 +264,12 @@ Métodos: html-text: 14, inhire-api: 13, json-ld: 43
 - Publicação: 2026-10-30T17:21:56-03:00
 - Motivos: função: 30/30; competências observadas: 25/40 (APIs e integrações, Incidentes/RCA/ITIL, Pagamentos e cartões, B2B); segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 78% com ajuste de incerteza; cobertura da análise: 85%
 - Link: https://mereo.inhire.app/vagas/ca2e7c9d-03f2-4bcd-9a30-ae566560c3f2/analista-de-suporte-ao-cliente-junior
+
+## 30. [Suporte] Analista de Suporte Técnico Júnior | Protheus (afirmativa para pessoas com deficiência) — TOTVS (77%)
+- Cobertura: 100% · Fit observado: 77%
+- Enriquecimento: enriched (html-text)
+- Modelo/local: remote · São Paulo
+- Fonte: totvs
+- Publicação: 2026-11-18T12:00:00-03:00
+- Motivos: função: 30/30; competências observadas: 25/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões, Sustentação); segmento: 11/15 (tecnologia/SaaS); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
+- Link: https://atracaodetalentos.totvs.app/vempratotvs/8694/suporte-analista-de-suporte-tecnico-junior-protheus-afirmativa-para-pessoas-com-deficiencia
