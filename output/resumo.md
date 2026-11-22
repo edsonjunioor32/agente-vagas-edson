@@ -1,4 +1,4 @@
-# Vagas priorizadas — 21/11/2026 14:53 (UTC-3)
+# Vagas priorizadas — 22/11/2026 15:17 (UTC-3)
 
 Total: **100**
 Enriquecimento: **87/89** vagas com descrição ampliada
@@ -171,7 +171,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Enriquecimento: enriched (html-text)
 - Modelo/local: remote · Joinville
 - Fonte: totvs
-- Publicação: 2026-11-21T12:00:00-03:00
+- Publicação: 2026-11-22T12:00:00-03:00
 - Motivos: função: 30/30; competências observadas: 21/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://atracaodetalentos.totvs.app/vempratotvs/13029/suporte-analista-de-suporte-tecnico-pleno-prime-datasul-remoto
 
@@ -211,16 +211,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 22/30; competências observadas: 8/8 (APIs e integrações); segmento sem evidência suficiente — não penalizado; senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; fit observado: 83% com ajuste de incerteza; cobertura da análise: 53%
 - Link: https://involves.inhire.app/vagas/cfde583a-ffd2-439b-a101-bc192a21e4e4/customer-support-specialist-ia-automacao-e-integracao-remote
 
-## 24. Assistente De Suporte Técnico — Empresa confidencial (79%)
-- Cobertura: 45% · Fit observado: 84%
-- Enriquecimento: não tentado
-- Modelo/local: remote · Pernambuco
-- Fonte: infojobs
-- Publicação: 2026-11-19T12:00:00-03:00
-- Motivos: função: 27/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 84% com ajuste de incerteza; cobertura da análise: 45%
-- Link: https://www.infojobs.com.br/vaga-de-assistente-suporte-tecnico-em-pernambuco__12235092.aspx
-
-## 25. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 24. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -229,7 +220,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166483-analista-de-suporte-computacional-pleno
 
-## 26. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 25. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -238,7 +229,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166479-analista-de-suporte-computacional-pleno
 
-## 27. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 26. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -247,7 +238,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166470-analista-de-suporte-computacional-pleno
 
-## 28. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 27. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -256,7 +247,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166464-analista-de-suporte-computacional-pleno
 
-## 29. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 28. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -265,7 +256,7 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166463-analista-de-suporte-computacional-pleno
 
-## 30. Analista de Suporte Computacional Pleno — Digisystem (78%)
+## 29. Analista de Suporte Computacional Pleno — Digisystem (78%)
 - Cobertura: 100% · Fit observado: 78%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
@@ -273,3 +264,12 @@ Métodos: html-text: 9, inhire-api: 18, json-ld: 60
 - Publicação: 2026-11-19T12:25:58-03:00
 - Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://empregos.recrutei.com.br/vaga/digisystem/166456-analista-de-suporte-computacional-pleno
+
+## 30. Analista de Suporte Computacional Pleno — Digisystem (78%)
+- Cobertura: 100% · Fit observado: 78%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · Belém
+- Fonte: digisystem
+- Publicação: 2026-11-19T12:12:53-03:00
+- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
+- Link: https://empregos.recrutei.com.br/vaga/digisystem/166453-analista-de-suporte-computacional-pleno
