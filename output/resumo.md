@@ -1,8 +1,8 @@
-# Vagas priorizadas — 23/11/2026 19:28 (UTC-3)
+# Vagas priorizadas — 25/11/2026 17:23 (UTC-3)
 
 Total: **100**
-Enriquecimento: **86/89** vagas com descrição ampliada
-Métodos: html-text: 10, inhire-api: 17, json-ld: 59
+Enriquecimento: **79/87** vagas com descrição ampliada
+Métodos: html-text: 11, inhire-api: 14, json-ld: 54
 
 ## 1. Analista de Suporte Pleno - N2 — Vagas Simples Dental (100%)
 - Cobertura: 100% · Fit observado: 100%
@@ -22,25 +22,16 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 39/40 (N2/L2, APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://ntconsult.compleo.com.br/Visualizar/222594
 
-## 3. Analista de Suporte Cloud N2 – Sênior — act digital (94%)
-- Cobertura: 100% · Fit observado: 94%
+## 3. Analista de Suporte Swift It2 Pleno — Jobbol (93%)
+- Cobertura: 100% · Fit observado: 93%
 - Enriquecimento: enriched (html-text)
-- Modelo/local: remote · Home Office
-- Fonte: nerdin
-- Publicação: 2026-10-23T14:10:09-03:00
-- Motivos: função: 30/30; competências observadas: 35/40 (N2/L2, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
-- Link: https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-suporte-cloud-n2-senior-100029.php
+- Modelo/local: remote · Manaus, Amazonas, Brazil
+- Fonte: linkedin
+- Publicação: 2026-11-22T21:00:00-03:00
+- Motivos: função: 30/30; competências observadas: 33/40 (N2/L2, APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
+- Link: https://www.linkedin.com/jobs/view/4493934041
 
-## 4. Analista de Suporte Sistemas Junior — Nexdom Healthtech (91%)
-- Cobertura: 100% · Fit observado: 91%
-- Enriquecimento: enriched (html-text)
-- Modelo/local: remote · não informado
-- Fonte: gupy
-- Publicação: 2026-11-13T10:47:27-03:00
-- Motivos: função: 30/30; competências observadas: 35/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
-- Link: https://vempranexdom.gupy.io/job/eyJqb2JJZCI6MTI4Nzk5ODYsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
-
-## 5. Analista de Sustentação - PJ — HMZ SUPPLY CHAIN LTDA (91%)
+## 4. Analista de Sustentação - PJ — HMZ SUPPLY CHAIN LTDA (91%)
 - Cobertura: 100% · Fit observado: 91%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · São José dos Campos, SP
@@ -49,14 +40,23 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 31/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vagas.solides.com.br/vaga/948851/analista-de-sustentacao-pj
 
-## 6. Analista de Suporte | Junior - LATAM (14005) — Sensedia (88%)
-- Cobertura: 100% · Fit observado: 88%
+## 5. ServiceNow (ITSM) Support Analyst — EY (90%)
+- Cobertura: 90% · Fit observado: 92%
 - Enriquecimento: enriched (html-text)
-- Modelo/local: remote · Brasil
-- Fonte: sensedia
-- Publicação: 2026-11-18T15:30:00-03:00
-- Motivos: função: 30/30; competências observadas: 32/40 (APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL, Pagamentos e cartões, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
-- Link: https://sensedia.hire.trakstar.com/jobs/fk0zamd
+- Modelo/local: remote · São Paulo JK
+- Fonte: ey
+- Publicação: 2026-11-23T12:00:00-03:00
+- Motivos: função: 30/30; competências observadas: 33/40 (N2/L2, APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 92% com ajuste de incerteza; cobertura da análise: 90%
+- Link: https://careers.ey.com/ey/job/S%C3%A3o-Paulo-JK-ServiceNow-%28ITSM%29-Support-Analyst-SP-04543-011/1459903833/
+
+## 6. [Job-32834] Mid-level Support Analyst (L1/L2) - Azure & Microsoft 365 — CI&T (88%)
+- Cobertura: 100% · Fit observado: 88%
+- Enriquecimento: enriched (json-ld)
+- Modelo/local: remote · Brazil
+- Fonte: lever
+- Publicação: 2026-11-25T09:15:04-03:00
+- Motivos: função: 30/30; competências observadas: 28/40 (N2/L2, APIs e integrações, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
+- Link: https://jobs.lever.co/ciandt/f1d24ba1-d56d-4881-8eb0-dffb1736a7e9
 
 ## 7. Analista de Suporte Pleno (Sistemas de Crédito / SQL) — Matera (88%)
 - Cobertura: 52% · Fit observado: 100%
@@ -103,7 +103,16 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vagasstefanini.gupy.io/job/eyJqb2JJZCI6MTI3MjY4NDAsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
 
-## 12. Analista de Sustentação de Aplicações Pleno | Remoto — Solutis (85%)
+## 12. ANALISTA DE SUPORTE TÉCNICO PL — Jobgether (86%)
+- Cobertura: 45% · Fit observado: 100%
+- Enriquecimento: error
+- Modelo/local: remote · Brazil
+- Fonte: jobgether
+- Publicação: 2026-11-17T10:36:42-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 10/10 (senioridade pleno); remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://jobs.lever.co/jobgether/068fde37-b553-42b6-bbc9-d6b6349c70ff
+
+## 13. Analista de Sustentação de Aplicações Pleno | Remoto — Solutis (85%)
 - Cobertura: 100% · Fit observado: 85%
 - Enriquecimento: enriched (inhire-api)
 - Modelo/local: remote · BR
@@ -111,15 +120,6 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Publicação: 2026-11-19T18:21:05-03:00
 - Motivos: função: 30/30; competências observadas: 25/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://solutis.inhire.app/vagas/0a8b6930-7dc1-47bc-bf16-e313064b3baa/analista-de-sustentacao-de-aplicacoes-pleno-remoto
-
-## 13. Analista de Suporte Técnico Jr. — MK Solutions (85%)
-- Cobertura: 100% · Fit observado: 85%
-- Enriquecimento: enriched (inhire-api)
-- Modelo/local: remote · BR
-- Fonte: inhire
-- Publicação: 2026-11-06T10:20:40-03:00
-- Motivos: função: 30/30; competências observadas: 29/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
-- Link: https://mksolutions.inhire.app/vagas/1a5b7711-4d05-45c0-8246-8adc016d8f8d/analista-de-suporte-tecnico-jr
 
 ## 14. Analista de Suporte a Aplicações e Integrações (Logística Marítima) — Pantheon (85%)
 - Cobertura: 90% · Fit observado: 86%
@@ -139,7 +139,34 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; fit observado: 98% com ajuste de incerteza; cobertura da análise: 45%
 - Link: https://www.portaldetalentos.senior.com.br/vacancy/67864740-e40b-4fb3-84ea-370c34955adb
 
-## 16. Analista de Suporte Técnico I — TIVIT (84%)
+## 16. 3752: Analista de Suporte — mazzatech (84%)
+- Cobertura: 35% · Fit observado: 100%
+- Enriquecimento: error (inhire-api)
+- Modelo/local: remote · Não informada
+- Fonte: inhire
+- Publicação: 2026-11-25T10:14:16-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
+- Link: https://mazzatech.inhire.app/vagas/d1c802ba-527f-4f73-9cd3-6bbe5c997f41/3752-analista-de-suporte
+
+## 17. Analista de Suporte HCM — GRUPO KOMVOS (84%)
+- Cobertura: 35% · Fit observado: 100%
+- Enriquecimento: not_available
+- Modelo/local: remote · Ribeirão Preto
+- Fonte: senior
+- Publicação: 2026-11-24T12:00:00-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
+- Link: https://www.portaldetalentos.senior.com.br/vacancy/c434347f-3eb5-46ab-9233-231c29706bc3
+
+## 18. ANALISTA DE SUPORTE TÉCNICO BILINGUE — Jobgether (84%)
+- Cobertura: 35% · Fit observado: 100%
+- Enriquecimento: error
+- Modelo/local: remote · Brazil
+- Fonte: jobgether
+- Publicação: 2026-11-17T10:39:27-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
+- Link: https://jobs.lever.co/jobgether/9440329e-cb10-46ff-bd3b-3c06c4037ede
+
+## 19. Analista de Suporte Técnico I — TIVIT (84%)
 - Cobertura: 35% · Fit observado: 100%
 - Enriquecimento: not_available
 - Modelo/local: remote · Brasil
@@ -148,7 +175,7 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade não informada — não penalizada; remoto: 5/5; fit observado: 100% com ajuste de incerteza; cobertura da análise: 35%
 - Link: https://web.tivit.com/talent/job-detail?jobid=5363
 
-## 17. Analista de Suporte Técnico (SaaS) — GRUPO H&W PUBLISHING (83%)
+## 20. Analista de Suporte Técnico (SaaS) — GRUPO H&W PUBLISHING (83%)
 - Cobertura: 100% · Fit observado: 83%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Barueri, SP
@@ -157,7 +184,7 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 15/15 (financeiro/pagamentos); senioridade: 6/10 (senioridade júnior); remoto: 5/5; cobertura da análise: 100%
 - Link: https://vagas.solides.com.br/vaga/943818/analista-de-suporte-tecnico-saas
 
-## 18. ANALISTA DE SUPORTE TÉCNICO PL — IT Universe (82%)
+## 21. ANALISTA DE SUPORTE TÉCNICO PL — IT Universe (82%)
 - Cobertura: 100% · Fit observado: 82%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · não informado
@@ -166,7 +193,7 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 22/40 (APIs e integrações, Observabilidade e logs, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
 - Link: https://ituniverse.gupy.io/job/eyJqb2JJZCI6MTI4NTU2MjksInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
 
-## 19. FBS Production Support Engineer — Capgemini (82%)
+## 22. FBS Production Support Engineer — Capgemini (82%)
 - Cobertura: 90% · Fit observado: 83%
 - Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Brasil
@@ -175,101 +202,74 @@ Métodos: html-text: 10, inhire-api: 17, json-ld: 59
 - Motivos: função: 30/30; competências observadas: 25/40 (APIs e integrações, SQL e banco de dados, Incidentes/RCA/ITIL, Sustentação); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 83% com ajuste de incerteza; cobertura da análise: 90%
 - Link: https://jobs.workable.com/view/f5VaHRW5wHCTGfmZm6WjM8/remote-fbs-production-support-engineer-in-brazil-at-capgemini
 
-## 20. [Suporte] Analista de Suporte Técnico Pleno - Prime | Datasul (Remoto) — TOTVS (81%)
-- Cobertura: 100% · Fit observado: 81%
-- Enriquecimento: enriched (html-text)
-- Modelo/local: remote · Joinville
-- Fonte: totvs
-- Publicação: 2026-11-23T12:00:00-03:00
-- Motivos: função: 30/30; competências observadas: 21/40 (SQL e banco de dados, Incidentes/RCA/ITIL, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://atracaodetalentos.totvs.app/vempratotvs/13029/suporte-analista-de-suporte-tecnico-pleno-prime-datasul-remoto
-
-## 21. Analista de Suporte Técnico | Escala 12x36 — Jobgether (80%)
-- Cobertura: 90% · Fit observado: 81%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · Brazil
-- Fonte: jobgether
-- Publicação: 2026-11-18T23:50:40-03:00
-- Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 81% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://jobs.lever.co/jobgether/43279df1-be5a-4156-9cac-d5cea7f4c406
-
-## 22. ANALISTA DE SUPORTE TÉCNICO BILINGUE — IT Universe (80%)
-- Cobertura: 90% · Fit observado: 80%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · não informado
-- Fonte: gupy
-- Publicação: 2026-11-16T17:39:32-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (APIs e integrações, Observabilidade e logs, Pagamentos e cartões); segmento: 15/15 (financeiro/pagamentos); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 80% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://ituniverse.gupy.io/job/eyJqb2JJZCI6MTI4NzYxMjIsInNvdXJjZSI6Im1jcF9jYW5kaWRhdGUifQ==?jobBoardSource=mcp_candidate
-
-## 23. Technical Support Engineer (TypeScript/React) (PCS942) — Hire Overseas (80%)
-- Cobertura: 90% · Fit observado: 81%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · São Paulo
-- Fonte: workable_brazil
-- Publicação: 2026-11-09T14:19:41-03:00
-- Motivos: função: 30/30; competências observadas: 27/40 (APIs e integrações, SQL e banco de dados, Observabilidade e logs, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade não informada — não penalizada; remoto: 5/5; fit observado: 81% com ajuste de incerteza; cobertura da análise: 90%
-- Link: https://jobs.workable.com/view/6jTA2SgL2iWjsY8R1iQipB/remote-technical-support-engineer-(typescript%2Freact)-(pcs942)-in-s%C3%A3o-paulo-at-hire-overseas
-
-## 24. Customer Support Specialist | IA, automação e integração (Remote) — Involves (79%)
-- Cobertura: 53% · Fit observado: 83%
-- Enriquecimento: não tentado
+## 23. Analista de Suporte Jr- Conta digital — Superlógica Tecnologias (82%)
+- Cobertura: 60% · Fit observado: 87%
+- Enriquecimento: error (inhire-api)
 - Modelo/local: remote · BR
 - Fonte: inhire
-- Publicação: 2026-11-18T14:48:54-03:00
-- Motivos: função: 22/30; competências observadas: 8/8 (APIs e integrações); segmento sem evidência suficiente — não penalizado; senioridade: 9/10 (senioridade sênior/especialista); remoto: 5/5; fit observado: 83% com ajuste de incerteza; cobertura da análise: 53%
-- Link: https://involves.inhire.app/vagas/cfde583a-ffd2-439b-a101-bc192a21e4e4/customer-support-specialist-ia-automacao-e-integracao-remote
+- Publicação: 2026-11-19T09:22:30-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento: 11/15 (tecnologia/SaaS); senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 87% com ajuste de incerteza; cobertura da análise: 60%
+- Link: https://superlogica.inhire.app/vagas/2f58bce6-ca03-4e6f-9bc2-437fae071747/analista-de-suporte-jr-conta-digital
 
-## 25. Assistente De Suporte Técnico Remoto — VEOTEX (79%)
-- Cobertura: 45% · Fit observado: 84%
+## 24. Analista de Suporte Computacional Júnior — Digisystem (82%)
+- Cobertura: 45% · Fit observado: 91%
 - Enriquecimento: não tentado
-- Modelo/local: remote · São Paulo
-- Fonte: infojobs
-- Publicação: 2026-11-23T12:00:00-03:00
-- Motivos: função: 27/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 84% com ajuste de incerteza; cobertura da análise: 45%
-- Link: https://www.infojobs.com.br/vaga-de-assistente-suporte-tecnico-remoto-em-sao-paulo__12240099.aspx
-
-## 26. Analista de Suporte Computacional Pleno — Digisystem (78%)
-- Cobertura: 100% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
 - Modelo/local: remote · Belém
 - Fonte: digisystem
-- Publicação: 2026-11-19T15:02:04-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://empregos.recrutei.com.br/vaga/digisystem/166483-analista-de-suporte-computacional-pleno
+- Publicação: 2026-11-19T11:45:07-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://empregos.recrutei.com.br/vaga/digisystem/166434-analista-de-suporte-computacional-junior
 
-## 27. Analista de Suporte Computacional Pleno — Digisystem (78%)
-- Cobertura: 100% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
+## 25. Analista de Suporte Computacional Júnior — Digisystem (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
 - Modelo/local: remote · Belém
 - Fonte: digisystem
-- Publicação: 2026-11-19T14:47:17-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://empregos.recrutei.com.br/vaga/digisystem/166479-analista-de-suporte-computacional-pleno
+- Publicação: 2026-11-19T11:34:04-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://empregos.recrutei.com.br/vaga/digisystem/166429-analista-de-suporte-computacional-junior
 
-## 28. Analista de Suporte Computacional Pleno — Digisystem (78%)
-- Cobertura: 100% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
+## 26. Analista de Suporte Computacional Júnior — Digisystem (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
 - Modelo/local: remote · Belém
 - Fonte: digisystem
-- Publicação: 2026-11-19T13:46:46-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://empregos.recrutei.com.br/vaga/digisystem/166470-analista-de-suporte-computacional-pleno
+- Publicação: 2026-11-19T10:58:05-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://empregos.recrutei.com.br/vaga/digisystem/166406-analista-de-suporte-computacional-junior
 
-## 29. Analista de Suporte Computacional Pleno — Digisystem (78%)
-- Cobertura: 100% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
+## 27. Analista de Suporte | Junior - LATAM (14005) — Sensedia (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
+- Modelo/local: remote · Brasil
+- Fonte: sensedia
+- Publicação: 2026-11-18T15:30:00-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://sensedia.hire.trakstar.com/jobs/fk0zamd
+
+## 28. Analista de Suporte Técnico | Junior (PEOP-13904) [Afirmativa PCD] — Sensedia (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
+- Modelo/local: remote · Brasil
+- Fonte: sensedia
+- Publicação: 2026-11-18T15:30:00-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://sensedia.hire.trakstar.com/jobs/fk0zamr
+
+## 29. Analista de Suporte — MAXIFROTA SERVICOS DE MANUTENCAO DE FROTA LTDA (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
+- Modelo/local: remote · Salvador, BA
+- Fonte: solides
+- Publicação: 2026-11-18T12:00:00-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://vagas.solides.com.br/vaga/955253/analista-de-suporte
+
+## 30. Analista de Suporte Computacional Júnior — Digisystem (82%)
+- Cobertura: 45% · Fit observado: 91%
+- Enriquecimento: não tentado
 - Modelo/local: remote · Belém
 - Fonte: digisystem
-- Publicação: 2026-11-19T13:10:33-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://empregos.recrutei.com.br/vaga/digisystem/166464-analista-de-suporte-computacional-pleno
-
-## 30. Analista de Suporte Computacional Pleno — Digisystem (78%)
-- Cobertura: 100% · Fit observado: 78%
-- Enriquecimento: enriched (json-ld)
-- Modelo/local: remote · Belém
-- Fonte: digisystem
-- Publicação: 2026-11-19T13:03:48-03:00
-- Motivos: função: 30/30; competências observadas: 22/40 (N2/L2, APIs e integrações, Incidentes/RCA/ITIL); segmento: 11/15 (tecnologia/SaaS); senioridade: 10/10 (senioridade pleno); remoto: 5/5; cobertura da análise: 100%
-- Link: https://empregos.recrutei.com.br/vaga/digisystem/166463-analista-de-suporte-computacional-pleno
+- Publicação: 2026-11-17T15:00:03-03:00
+- Motivos: função: 30/30; competências técnicas sem dados suficientes — não penalizadas; segmento sem evidência suficiente — não penalizado; senioridade: 6/10 (senioridade júnior); remoto: 5/5; fit observado: 91% com ajuste de incerteza; cobertura da análise: 45%
+- Link: https://empregos.recrutei.com.br/vaga/digisystem/166117-analista-de-suporte-computacional-junior
